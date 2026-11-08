@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-04",
+  "headline": "Foggy mornings and mild afternoons continue through midweek; a weakening Friday front brings rain mostly to higher elevations, with uncertain timing.",
+  "summary": "As of Sunday night, the ridge of high pressure that brought warm, dry days and foggy mornings is moving east, and light winds off the ocean are returning. That brings a familiar pattern of low clouds and fog in the morning, then afternoon sun, with dry weather through Tuesday night and likely at least through midweek. Fog and low clouds are expected over the Puget Sound area Monday morning, and the aviation forecast calls for some very low visibility in the interior lowlands, clearing around 11 AM to 2 PM Monday. The ocean air layer may be a bit deeper than recently, so clouds could linger and Monday's highs could come in slightly cooler. Ocean air trims a few degrees off highs, bringing them back to typical early-October levels. Temperatures nudge up Wednesday and Thursday as a weak ridge builds off the California coast. A front is expected Friday, but forecasters say it should weaken as it moves through, so higher elevations have the best chance of getting precipitation and the lowlands a lower chance. Friday and the weekend turn cooler whether or not it rains. Timing is uncertain: one major model (the GFS) is later, Friday evening or night, while another (the ECMWF) and most ensemble members favor Friday afternoon and evening, and forecasters note other changes could still emerge. There are no watches, warnings, or advisories for land areas, and a Small Craft Advisory for the central and eastern Strait of Juan de Fuca runs until 5 AM Monday.",
+  "changes": "Over the day, the Friday front went from a possible rain-maker with uncertain amounts to one models agree will weaken, with rain mostly in the mountains and a lower chance in the lowlands. Forecasters also went back and forth on fog: the morning dense fog advisory cleared, the afternoon discussion expected widespread fog to be held back, and the evening update called for fog and stratus over Puget Sound Monday morning.",
+  "signature": "5220fb2804d84aaf",
+  "discussions": [
+    "AFDSEW_202610040941",
+    "AFDSEW_202610041601",
+    "AFDSEW_202610042131",
+    "AFDSEW_202610050354"
+  ]
+}

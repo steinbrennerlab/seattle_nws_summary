@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610151547",
+  "issued": "2026-10-15T15:47:00+00:00",
+  "headline": "Fog clears this morning, then warm and dry through Friday before cooler, wetter weather arrives Saturday.",
+  "summary": "A dense fog advisory for much of the Puget Sound lowlands was extended until 10 AM this morning, because visibility is still a quarter mile or less in many spots. Afternoon sun is expected, with highs around 70 (lower 70s) and 60s near the water. A ridge of high pressure is keeping things dry and mild through Friday, when interior highs should reach the mid 70s. Overnight, winds blowing from the east will pick up along the Cascade crest and through the mountain gaps, with gusts of 20 to 30 mph.\n\nOn Saturday the ridge shifts east and a front moves in from the west, bringing cooler, wetter weather. Rain should fall mostly in the morning, and the coast and the north part of the region are most likely to get measurable rain. Seattle and areas south may see only a trace to a few hundredths of an inch. In the afternoon, winds will blow in from the ocean and bring showers, with a convergence zone over Snohomish County.\n\nSunday falls between weather systems, but the air stays cool. Morning lows will be in the 30s to mid 40s, near freezing in the south Sound, and highs will be around 60. A low-pressure system spinning offshore keeps Monday cool and unsettled. It moves south on Tuesday, which should be generally dry. Rain chances rise again Wednesday as a weak front comes down from British Columbia.",
+  "timeline": [
+    {
+      "when": "Today and tonight (Thursday)",
+      "what": "Dense fog until 10 AM, then afternoon sun with highs around 70 (lower 70s) and 60s near the water. Gusty east winds (20 to 30 mph) develop overnight along the Cascade crest and in the gaps."
+    },
+    {
+      "when": "Friday",
+      "what": "Dry and slightly warmer, with interior highs in the mid 70s. Some fog may form in the south Sound in the morning, but forecasters are unsure."
+    },
+    {
+      "when": "Saturday",
+      "what": "Cooler and wetter as a front arrives. Rain falls mostly in the morning, mainly along the coast and in the north; Seattle and south may see only a trace to a few hundredths. Showers and a convergence zone over Snohomish County in the afternoon."
+    },
+    {
+      "when": "Sunday",
+      "what": "Between systems but cool. Morning lows are in the 30s to mid 40s, near freezing in the south Sound. Highs are around 60."
+    },
+    {
+      "when": "Monday through Tuesday",
+      "what": "Cool and unsettled on Monday with more wet weather as a low spins offshore. The low shifts south on Tuesday, which should be generally dry."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Rain chances increase as a weak front moves down from British Columbia."
+    }
+  ],
+  "confidence": "The forecast through Saturday is fairly consistent, though rain amounts south of Seattle are expected to be very light. Fog on Friday morning is uncertain: some computer forecasts show little fog because high clouds should limit it, while others show some forming, so forecasters kept fog in the forecast for the south Sound. Later Wednesday rain is described only as increasing chances from a weak front, and the synopsis says a front only \"may\" arrive, so that part carries more uncertainty.",
+  "hazards": [
+    "Dense Fog Advisory until 10 AM this morning for the lowlands of Seattle, Everett/Marysville, Shoreline/Lynnwood, eastern Kitsap County, Pierce and southern King Counties, Lewis and southern Thurston Counties, Olympia and the southern Sound, western Skagit and northwestern Snohomish Counties, and western Whatcom County. Visibility is a quarter mile or less in places.",
+    "Dense Fog Advisory until 10 AM this morning for Puget Sound, Hood Canal, and the northern inland waters including the San Juan Islands."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure in the upper atmosphere that usually brings dry, stable, and often warmer weather."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two different air masses. Fronts passing through usually bring clouds, rain, and cooler air."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, which for western Washington means winds from the east. It tends to bring drier air and can cause gusty winds through the Cascade gaps."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the Pacific toward land. It brings cooler, moister air and often clouds and showers."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A band where winds flowing around the Olympic Mountains come back together over Puget Sound, forcing air upward. It can produce a narrow area of heavier showers, often over Snohomish and northern King Counties."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A pocket of cold, low pressure high in the atmosphere. When it sits offshore, it can bring cool, showery, unsettled weather."
+    },
+    {
+      "term": "Wetting rain",
+      "definition": "Enough rain to leave the ground visibly wet, rather than just a few sprinkles or a trace."
+    }
+  ]
+}

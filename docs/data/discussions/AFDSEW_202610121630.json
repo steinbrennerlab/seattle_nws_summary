@@ -1,0 +1,60 @@
+{
+  "id": "AFDSEW_202610121630",
+  "issued": "2026-10-12T16:30:00+00:00",
+  "headline": "Mostly dry, warming week: highs reach the mid 70s by Friday, with rain chances returning over the weekend.",
+  "summary": "Today (Monday) starts with patchy fog in a few spots, including the Snohomish and Lower Chehalis River valleys, Lake Washington and parts of the south Sound. The fog should clear over the next few hours, leaving sunny skies and near-normal highs in the upper 50s to mid 60s. High clouds move in tonight and Tuesday, which keeps Tuesday morning a little milder, with lows in the mid 30s to mid 40s.\n\nA plume of moisture called an atmospheric river will move into British Columbia on Tuesday. Western Washington is only on its far southern edge. Rain is likely along the north coast Tuesday night and possible in the Northwest Interior. Wednesday has a chance of morning rain on the coast and north of Seattle, then a mostly cloudy to cloudy day with highs in the lower to mid 60s.\n\nA strong area of high pressure aloft builds over the region Wednesday and Thursday. Winds near the ground turn offshore Thursday, bringing the warmest days of the week. Friday looks warmest, with highs in the mid 60s to mid 70s. That is more than 10 degrees above normal (Seattle's normal high is 60), but forecasters don't expect records. A weakening system brings rain chances Friday night and Saturday, mainly to the north coast and North Cascades. A stronger system approaches the coast Sunday, with highs in the mid 50s to lower 60s.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "Patchy morning fog in river valleys, Lake Washington and parts of the south Sound clears. Then sunny, with highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tonight and Tuesday",
+      "what": "High clouds spread over the area. Lows Tuesday morning are in the mid 30s to mid 40s. Highs Tuesday are in the mid 50s to mid 60s, with the cooler highs to the north under thicker cloud."
+    },
+    {
+      "when": "Tuesday night and Wednesday",
+      "what": "Rain is likely on the north coast Tuesday night, with a chance in the Northwest Interior. Lows are in the 40s. Wednesday has a chance of morning rain on the coast and north of Seattle, then a mostly cloudy to cloudy day with highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "Winds near the ground turn offshore and warm things up, with highs in the mid 60s to lower 70s."
+    },
+    {
+      "when": "Friday",
+      "what": "Likely the warmest day of the week, with highs in the mid 60s to mid 70s. No records are expected. Offshore flow continues at least through the morning."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "A weakening system brings the best rain chances to the north coast and North Cascades Friday night and Saturday, with highs in the lower to mid 60s. A stronger system approaches the coast Sunday, with highs in the mid 50s to lower 60s. Lows are mostly in the 40s, and the Seattle metro area could see lower 50s."
+    }
+  ],
+  "confidence": "Forecasters say the computer models agree well that high pressure will build Wednesday night and Thursday, which supports the warm Thursday and Friday. The weekend is less settled: one section calls Sunday's system \"possible\" Sunday night, while another has it approaching the coast Sunday. Tuesday night's rain depends on how far south the moisture plume sags, and only the north coast and Northwest Interior are expected to be affected.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere. It usually brings calmer, drier and often warmer weather."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow plume of moist air that can bring heavy rain or snow. Here, Western Washington is only on its southern edge."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, from east to west here. It brings drier air and often warmer temperatures to western Washington."
+    },
+    {
+      "term": "500 mb heights (dms)",
+      "definition": "A measure of how high the 500-millibar pressure level sits in the atmosphere, in decameters (dm). Higher numbers mean a stronger ridge and warmer air, and 580 to 585 dm is fairly high."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation. Forecasters use \"chance\" for moderate odds and \"likely\" for higher odds."
+    },
+    {
+      "term": "Northwest Interior",
+      "definition": "The National Weather Service's name for its forecast zone covering the inland lowlands of northwest Washington."
+    }
+  ]
+}

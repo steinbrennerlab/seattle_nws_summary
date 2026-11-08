@@ -1,16 +1,19 @@
 {
   "date": "2026-10-17",
-  "headline": "Western Washington stays dry through Wednesday with morning fog and frost; light rain chances return Thursday into late next week.",
-  "summary": "As of Saturday evening, forecasters expect clouds to clear tonight and winds to ease, so Sunday morning should start with fog, especially in the usual fog-prone spots and river valleys. A weather system approaches the coast late Sunday and Monday, but most of its energy heads south toward California and stays well offshore. Western Washington stays dry, though clouds spread in, and highs Sunday and Monday should be in the mid 50s to low 60s. On Tuesday and Wednesday, high pressure aloft builds over British Columbia while a separate low sits far to the south, off central California. That keeps the region dry, with light winds and clearer skies bringing fog again each morning plus areas of frost, mainly away from the water. A weak trough (a dip in the jet stream) returns Thursday into late next week and brings chances for precipitation. Forecasters say amounts will not be heavy because any front will be weakening as it arrives. Temperatures should stay near normal, with the warmest days around midweek. Confidence is fairly good in the dry stretch through Wednesday and in the pattern change, since computer model ensembles (groups of forecast runs) consistently show the trough returning, but exact timing and amounts were not detailed. No watches, warnings, or advisories were listed.",
-  "changes": "The forecast was essentially unchanged between the afternoon and evening discussions. The evening update dropped the small Puget Sound convergence zone and the expired marine advisories, and described the Thursday precipitation chance as continuing into late next week rather than only light rain Thursday.",
+  "headline": "Dry weather with morning fog and frost lasts through Wednesday; light rain chances return Thursday into late next week.",
+  "summary": "As of Saturday evening, western Washington is expected to stay dry through Wednesday. Clouds clear tonight and winds ease, so Sunday morning should start with fog, especially in the usual fog-prone spots and river valleys. A weather system approaches the coast late Sunday and Monday, but most of its energy heads south toward California and stays well offshore. Clouds spread in, but it stays dry, with highs Sunday and Monday in the mid 50s to low 60s. On Tuesday and Wednesday, high pressure aloft builds over British Columbia while a separate low sits far to the south, off central California. Light winds and clearer skies should bring fog again each morning, plus areas of frost, mainly away from the water. A weak trough (a dip in the jet stream) returns Thursday into late next week and brings chances for precipitation. Forecasters say amounts are not heavy because any front will be weakening as it arrives. Temperatures should stay near normal, with the warmest days around midweek. No watches, warnings, or advisories are in effect.",
+  "changes": "Earlier discussions had a morning convergence zone of showers over King County and a Thursday system splitting apart offshore; those details dropped out by evening. Fog and frost for Tuesday and Wednesday mornings became firmer, and the chance of precipitation Thursday was extended into late next week.",
   "glossary": {
-    "trough": "A dip in the jet stream that often brings cooler, wetter weather.",
-    "convergence zone": "An area where air flows together and can form clouds and showers.",
+    "convergence zone": "A band where air flows together and rises, forming clouds and showers, here over parts of Puget Sound.",
+    "trough": "A dip in the jet stream that can bring clouds and a chance of rain.",
+    "high pressure aloft": "A region of higher air pressure high in the atmosphere that usually brings dry, calm weather.",
     "ensembles": "Groups of computer forecast runs used to see how much they agree.",
-    "high pressure aloft": "A region of sinking air high in the atmosphere that usually brings dry, calm weather."
+    "frost advisory": "A National Weather Service alert that frost may form and harm sensitive plants."
   },
-  "signature": "6cf7f0c011fecafc",
+  "signature": "bf96e16d95b3ed15",
   "discussions": [
+    "AFDSEW_202610171035",
+    "AFDSEW_202610171634",
     "AFDSEW_202610172056",
     "AFDSEW_202610180333"
   ]

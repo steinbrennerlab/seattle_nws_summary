@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610171035",
+  "issued": "2026-10-17T10:35:00+00:00",
+  "headline": "A weakening front brings morning rain mainly north of Seattle, then mostly dry, cool weather until showers return Thursday.",
+  "summary": "A weak front is moving through western Washington early this morning. Most of its rain falls from Snohomish County northward, with only a chance of showers from King County southward. A band of showers, called a convergence zone, is expected over Snohomish and northern King counties late morning, then should fade and move into the Cascades by midday. Behind the front there is not much cool air, so few showers are expected. Skies should clear this afternoon, with partly to mostly sunny weather and highs from the upper 50s to mid 60s, near or slightly above normal.\n\nHigh pressure builds in tonight and stays through Sunday. With light winds, some fog could form early Sunday, especially in fog-prone spots like the Southwest Interior. A storm system then passes well to the west on Monday. Forecasters expect rain to stay over the coastal waters, so the main effect on land is more high and middle clouds. Highs Sunday and Monday are mid 50s to lower 60s, and lows are mid 30s to mid 40s.\n\nTuesday and Wednesday look dry, with cool mornings. The coldest spots could get near freezing, and more frost advisories may be needed. A system approaching Wednesday should fall apart as it nears the coast, leaving a chance of showers Thursday and Thursday night. Showers should then be limited to the Cascades on Friday. For context, Seattle hit 77 degrees on Friday, the second warmest day on record this late in the year. The normal high is about 60.",
+  "timeline": [
+    {
+      "when": "This morning",
+      "what": "A weak front brings rain mostly from Snohomish County northward, with just a chance of showers from King County southward. A convergence zone of showers forms over Snohomish and northern King counties, then weakens and moves into the Cascades late morning to midday."
+    },
+    {
+      "when": "This afternoon",
+      "what": "Skies clear to partly or mostly sunny. Highs are in the upper 50s to mid 60s, near or slightly above normal."
+    },
+    {
+      "when": "Tonight",
+      "what": "Quiet weather under building high pressure. Fog may form early Sunday morning, especially in fog-prone areas like the Southwest Interior. Lows are mid 30s to mid 40s."
+    },
+    {
+      "when": "Sunday and Monday",
+      "what": "Dry on land. High clouds spread in Sunday, and more middle and high clouds arrive Monday as a system passes to the west. Rain is expected to stay over the coastal waters. Highs are mid 50s to lower 60s, and lows are mid 30s to mid 40s."
+    },
+    {
+      "when": "Tuesday and Wednesday",
+      "what": "Dry. Tuesday has highs in the mid 50s to lower 60s, and Wednesday is mostly sunny with highs in the upper 50s to mid 60s. Both mornings are cool, with the coldest spots near freezing."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "A weakened system brings a chance of showers Thursday, with highs in the mid to upper 50s. Another convergence zone is possible Thursday night. Showers become confined to the Cascades Friday, with temperatures changing little."
+    }
+  ],
+  "confidence": "Forecasters say the models agree well that the offshore trough will drop down the California coast through Tuesday, so the dry lull early next week looks fairly reliable. Later details are less certain. Frost advisories \"may be needed,\" the Thursday night convergence zone is only \"possible,\" and the Wednesday-night system is expected to split and weaken, which makes its showers harder to pin down.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Small Craft Advisories are in effect for the coastal waters and the central and eastern Strait of Juan de Fuca. They run from 6 AM to 6 PM today for the Strait, and 6 AM to 8 PM for the coast. The reasons are seas of 8 to 10 feet on the coast and winds in the Strait.",
+    "Frost advisories have not been issued, but forecasters say another round may be needed for the cool mornings Tuesday and Wednesday."
+  ],
+  "glossary": [
+    {
+      "term": "Post-frontal convergence zone",
+      "definition": "A narrow band where winds come together after a front passes, forcing air upward and producing showers. Here it is expected over Snohomish and northern King counties this morning."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the jet stream, high above the ground, that usually brings cooler air and a better chance of unsettled weather. This one is digging south well offshore."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge in the jet stream that usually brings calmer, drier weather. Forecasters expect a temporary one Tuesday, moving east Wednesday."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big dips or bulges. It usually means quiet weather."
+    },
+    {
+      "term": "Surface high pressure",
+      "definition": "An area of higher air pressure at ground level. It usually brings light winds and clearer skies, and can allow fog and chilly nights."
+    },
+    {
+      "term": "Gradient",
+      "definition": "The change in air pressure from one place to another. Larger differences mean stronger winds, and \"light gradients\" mean light winds."
+    },
+    {
+      "term": "Splitting system",
+      "definition": "A storm system that breaks apart as it nears the coast, so only a weaker part reaches land. That usually means less rain than the original system suggested."
+    },
+    {
+      "term": "Frost advisory",
+      "definition": "A National Weather Service notice that temperatures are expected to be cold enough for frost, which can harm sensitive plants."
+    }
+  ]
+}

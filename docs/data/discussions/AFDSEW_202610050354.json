@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610050354",
+  "issued": "2026-10-05T03:54:00+00:00",
+  "headline": "Morning clouds and fog, then milder afternoon sun through midweek; a weakening front may bring Friday rain, mainly to higher elevations.",
+  "summary": "The ridge of high pressure that brought recent dry, foggy mornings is moving east, and winds are turning light and coming in from the ocean. That brings back a familiar pattern: low clouds and fog in the morning, then afternoon sunshine. Forecasters expect this to continue at least through midweek, with dry weather through Tuesday night. Ocean air will cool daytime highs a few degrees from recent days, to more typical early-October levels.\n\nFor Monday morning, the evening update says stratus (a low, flat cloud layer) and fog should form over the Puget Sound area. The ocean air layer may be slightly deeper than recently, so clouds could take longer to clear and Monday's highs could come in a little cooler. Earlier in the day, forecasters thought the clouds might keep fog from becoming widespread, because the clouds should not sink all the way to the ground. The aviation section still expects low clouds and fog across the interior lowlands overnight, with some very low visibility, clearing around 11 AM to 2 PM Monday.\n\nTemperatures nudge up Wednesday and Thursday as a weak ridge builds off the California coast. A front is expected Friday, but forecasters say it should weaken as it moves through. Higher elevations have the best chance of getting something, and the lowlands have a lower chance. Whether or not it rains, Friday and the weekend turn cooler.",
+  "timeline": [
+    {
+      "when": "Tonight into Monday morning",
+      "what": "Stratus and fog form over the Puget Sound area, and stratus is already moving into the Lower Chehalis Valley. Dry. Light onshore winds."
+    },
+    {
+      "when": "Monday and Tuesday",
+      "what": "Dry, with morning clouds and fog giving way to afternoon sun. Highs range from the low to upper 60s, with a few isolated spots in the southwest interior near 70. Monday's clearing may come a bit later and highs a bit cooler because of a slightly deeper ocean air layer."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Highs rise by a degree or two, ranging from the mid 60s to the lower 70s. The morning cloud and afternoon sun pattern continues."
+    },
+    {
+      "when": "Thursday",
+      "what": "The warmest day of the period. Highs of 70 or more are more widespread. Interior lowlands range from the upper 60s to the mid 70s, with the southwest interior on the warmer end. Coastal areas may not change much."
+    },
+    {
+      "when": "Friday",
+      "what": "A weakening front moves through. Forecasters favor Friday afternoon and evening, though timing is uncertain. Higher elevations have a 60 to 70 percent chance of precipitation and the lowlands mostly 20 to 40 percent. Highs range from the mid 50s to the lower 60s, with some mid 60s possible."
+    },
+    {
+      "when": "Weekend",
+      "what": "Cooler than midweek, with highs from the mid 50s to the lower 60s. The discussion gives no details on rain for the weekend."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, mild pattern with morning clouds through midweek, and the models agree a front will arrive Friday and weaken. They are less sure about Friday's timing: one major model (the GFS) is later, Friday evening or night, while another (the ECMWF) and most of the ensemble members, which are many runs of the same model with slightly different starting conditions, favor Friday afternoon and evening. They also note that the front is still several days away and other changes could still emerge.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory (strong winds and rough water for small boats) until 5 AM Monday for the central and eastern Strait of Juan de Fuca."
+  ],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A low, flat, gray layer of cloud. When it reaches the ground it is fog."
+    },
+    {
+      "term": "Marine layer",
+      "definition": "A cool, moist layer of air that comes in from the ocean. When it is deeper, clouds usually take longer to clear in the morning and afternoon highs are cooler."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the Pacific toward the land. It usually brings cooler, moister air to western Washington."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings dry, stable weather."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big bends. This tends to give quiet, ordinary weather."
+    },
+    {
+      "term": "PoP (probability of precipitation)",
+      "definition": "The chance that measurable rain or snow will fall at a given location during a given period."
+    },
+    {
+      "term": "Ensemble members",
+      "definition": "Many runs of the same weather model, each with slightly different starting conditions. When most agree, forecasters have more confidence in the outcome."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two different air masses. Its passage often brings clouds, rain, and cooler temperatures."
+    }
+  ]
+}

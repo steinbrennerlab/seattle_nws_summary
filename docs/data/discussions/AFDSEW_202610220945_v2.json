@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610220945_v2",
+  "issued": "2026-10-22T09:45:00+00:00",
+  "headline": "Dry weather continues through Friday; an uncertain chance of rain arrives Saturday evening through Monday, then dry again midweek.",
+  "summary": "A weak front will fall apart as it reaches the coast today. It should bring only some clouds and cooler temperatures. Friday looks a bit sunnier as high pressure briefly returns, with temperatures that forecasters describe as just more seasonal. Forecasters note that the last time Seattle was this dry three weeks into October was 1987, and they expect that streak to hold for at least a few more days.\n\nThe forecast gets less certain from late Saturday on. A pocket of cold, spinning air high in the atmosphere (an upper low) is expected to slide south along the British Columbia coast. The computer models disagree about its path, so it is unclear how much rain it brings. Forecasters give most of western Washington at least a chance of rain Sunday into Monday, before the system moves east.\n\nAfter Monday, forecasters expect a quiet, dry stretch to return by the middle of next week. Several model groups agree on a large high-pressure pattern over the Gulf of Alaska, with a broad dip in the jet stream off California. They say that setup favors quiet weather for western Washington.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "A weak front falls apart. Expect a few clouds and cooler temperatures. Patchy morning fog is possible, mainly in the north and south Sound, and should clear by late morning. The discussion names Bellingham and Olympia as the places already seeing fog, and the fog threat is greatest between about 8 and 11 AM."
+    },
+    {
+      "when": "Thursday night",
+      "what": "Low clouds are likely to return as stronger onshore flow develops. Seas build to 10-15 feet on the coastal waters."
+    },
+    {
+      "when": "Friday",
+      "what": "High pressure briefly rebuilds, bringing a little more sunshine. Temperatures stay cooler, but forecasters say that is closer to seasonal."
+    },
+    {
+      "when": "Saturday into Saturday evening",
+      "what": "Uncertainty grows. By Saturday evening there is at least a chance of rain across the northwest half of the forecast area."
+    },
+    {
+      "when": "Sunday into Monday",
+      "what": "Most of western Washington keeps at least a chance of rain while an upper-level trough lingers overhead. It is expected to move eastward eventually."
+    },
+    {
+      "when": "Middle of next week",
+      "what": "Dry, quiet conditions return across the area."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry weather through Friday and in the quiet pattern returning after Monday. They are much less sure about the weekend. The models disagree on the path of the upper low: the European ensembles bring more rain to the area, the GFS brings less, and the official blend falls in between.",
+  "hazards": [
+    "Small Craft Advisory for the Pacific coastal waters from Cape Flattery to Cape Shoalwater, out to 10 nautical miles: 2 PM today to 11 AM Friday.",
+    "Small Craft Advisory for the same coastal waters from 10 to 60 nautical miles offshore: 8 AM today to 5 PM Friday. Seas are expected to build to 10-15 feet Thursday night.",
+    "No watches, warnings, or advisories for land areas of western Washington."
+  ],
+  "glossary": [
+    {
+      "term": "Upper low",
+      "definition": "A pocket of cold, spinning air high in the atmosphere. When it is \"cut off,\" it separates from the main jet stream and can drift unpredictably, which makes its weather hard to forecast."
+    },
+    {
+      "term": "Upper ridge / upper trough",
+      "definition": "A ridge is a high-altitude bulge in the jet stream that usually brings calm, dry weather. A trough is a dip that usually brings cooler, unsettled weather."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of forecast model runs started with slightly different conditions. When the runs disagree, forecast confidence is lower."
+    },
+    {
+      "term": "ECMWF (Euro) and GFS",
+      "definition": "Two major weather computer models, the European model and the American Global Forecast System. Forecasters compare them to judge how certain a forecast is."
+    },
+    {
+      "term": "NBM (National Blend of Models)",
+      "definition": "A forecast product that blends many models into one compromise forecast."
+    },
+    {
+      "term": "PoPs",
+      "definition": "Probability of precipitation, meaning the chance that measurable rain or snow falls at a given place. \"Chance PoPs\" means a moderate, not high, likelihood."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the Pacific toward land. It brings cooler, moister air and often low clouds to western Washington."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    }
+  ]
+}

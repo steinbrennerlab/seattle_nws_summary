@@ -1,0 +1,69 @@
+{
+  "id": "AFDSEW_202610090318",
+  "issued": "2026-10-09T03:18:00+00:00",
+  "headline": "A fast rain band and gusty winds arrive tonight into Friday, then a cooler weekend with possible first frost.",
+  "summary": "After a warm, mostly sunny Thursday afternoon, clouds thicken this evening. A cold front moves through overnight, bringing a quick band of rain. Behind it, showers linger in the mountains and in a convergence zone over the central Puget Sound for much of Friday. Rain totals should be light, mostly under about a quarter to a half inch. Some south Sound spots may stay mostly dry.\n\nWinds pick up early Friday morning and peak from late morning into early afternoon. They start out from the southwest, then shift to the west after the front passes. Most areas should see gusts of 20 to 30 mph. Forecasters give the Strait of Juan de Fuca area, the Whidbey Island and Port Townsend area, and Point Roberts about a 50-70% chance of gusts above 45 mph. Winds ease Friday evening and overnight.\n\nAir turns noticeably cooler after the front. A weak disturbance brings a few light showers Saturday, ending Saturday night. Sheltered spots are getting close to frost, and Cascade valleys could touch freezing Sunday morning. That would be the first freeze or frost concern of the season. Drier, cool weather follows early next week. Another system is expected Tuesday into Wednesday, with more rain and breezy winds.",
+  "timeline": [
+    {
+      "when": "Thursday afternoon (before this forecast)",
+      "what": "Warm and mostly sunny as patchy low clouds clear. Highs ranged from the low 60s on the coast to the low 70s where clearing came first. Seattle was expected to reach the upper 60s."
+    },
+    {
+      "when": "Tonight into early Friday",
+      "what": "Clouds increase this evening. A quick band of rain crosses the area overnight with the front. Winds start rising early Friday morning."
+    },
+    {
+      "when": "Friday",
+      "what": "Showers continue in the mountains and in a convergence zone over the central Puget Sound. Gusts are mostly 20 to 30 mph, peaking late morning to early afternoon. Gusts above 45 mph are possible near the Strait, Whidbey Island and Port Townsend, and Point Roberts. Highs are in the upper 50s on the coast and the low to mid 60s inland. Lows stay in the low 50s."
+    },
+    {
+      "when": "Saturday and Saturday night",
+      "what": "A few light showers early, fading by Saturday night. Highs are in the mid 50s to near 60. Lows range from the mid 30s to mid 40s, depending on clearing and fog."
+    },
+    {
+      "when": "Sunday through Monday",
+      "what": "Drier and cool. Sunday morning lows are mostly upper 30s to lower 40s, with Cascade valleys near freezing. Frost is more likely in sheltered areas Sunday night into Monday morning. Highs stay in the upper 50s to low 60s, and lows warm into the 40s early in the week."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Another system arrives with more rain chances, breezy winds, and unsettled weather."
+    }
+  ],
+  "confidence": "Forecasters say the forecast is on track and expect the front and Friday winds as described. The Friday wind estimate for the Strait area is a probability (50-70%), so strong gusts are likely there but not certain. Frost is the least certain piece. It depends on how much the skies clear and whether fog forms, and the Cascade valleys have only about a 30% chance of reaching 32°F or lower Sunday morning.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Gale Warning from 3 AM to 11 PM Friday for the Strait of Juan de Fuca (central and east entrance) and the coastal waters from Cape Flattery down to Point Grenville.",
+    "Small Craft Advisories on Friday for the west entrance of the Strait of Juan de Fuca, Grays Harbor Bar, the northern inland waters including the San Juan Islands, Admiralty Inlet, and the coastal waters from Point Grenville to Cape Shoalwater.",
+    "A Small Craft Advisory also runs until 3 AM Friday for the central and east entrance of the Strait of Juan de Fuca."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses, here cooler air replacing warmer air, that typically brings a band of clouds, rain, and a wind shift as it passes."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow area over the Puget Sound where winds flowing around the Olympic Mountains meet and push air upward. This can produce showers while nearby areas stay drier."
+    },
+    {
+      "term": "Shadowed (rain shadow)",
+      "definition": "An area that stays drier because nearby hills or mountains block or weaken the rain moving toward it."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, forecasters have more confidence."
+    },
+    {
+      "term": "Troughing",
+      "definition": "A dip in the high-altitude air flow that tends to bring cooler, more unsettled weather to the region."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for sustained winds of roughly 34 to 47 knots (about 39 to 54 mph)."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine advisory for winds or seas that are hazardous to small boats."
+    }
+  ]
+}
