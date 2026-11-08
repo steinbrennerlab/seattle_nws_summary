@@ -1,0 +1,70 @@
+{
+  "id": "AFDSEW_202611051020",
+  "issued": "2026-11-05T10:20:00+00:00",
+  "headline": "Windy storms arrive Friday and again Saturday night, with a wet, active pattern continuing into next week.",
+  "summary": "A strong storm system brings gusty south winds to western Washington tonight and Friday. The strongest winds are expected along the coast and in the north interior (north of Everett), where Wind Advisories are in effect. Gusts of 40 to 50 mph are expected overnight, easing late Friday afternoon. Most of the rain tonight through Friday stays over the Olympic Peninsula and near the Canadian border. The Seattle area should stay dry until a cold front brings rain late Friday afternoon or evening, continuing Friday night.\n\nSaturday starts dry and warmer, with highs in the 60s, because the region sits in warm air ahead of the next storm. As that storm approaches, another round of wind is expected across much of western Washington. The windiest period is Saturday evening through early Sunday morning. Forecasters give a 50 percent chance of gusts of 50 mph or more along the coast and in the north interior. Rain returns with it.\n\nThe active pattern continues through next week, with a series of storms. Each one could bring gusty winds, more rain in the lowlands, and snow at high elevations. A larger set of ocean swells may reach the coast Saturday night or Sunday, with the potential for 20 ft seas. River flooding is not expected in the next seven days. Repeated rain will soak the ground, though, which could raise concerns with later storms.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "A weather disturbance crosses early with isolated showers, mainly in the Cascades. The afternoon is dry, with temperatures in the 50s."
+    },
+    {
+      "when": "Tonight through Friday",
+      "what": "Southerly winds increase, strongest along the coast and in the north interior. Gusts of 40 to 50 mph are expected overnight and ease late Friday afternoon. Rain mostly stays over the Olympic Peninsula and near the Canadian border."
+    },
+    {
+      "when": "Friday afternoon and night",
+      "what": "A cold front moves southeast through the area. Rain reaches the Seattle area late Friday afternoon or evening and continues Friday night."
+    },
+    {
+      "when": "Saturday",
+      "what": "The day starts dry and warmer, with highs in the 60s. Winds pick up again as another storm approaches."
+    },
+    {
+      "when": "Saturday evening through early Sunday morning",
+      "what": "This is the peak of the next windy spell across much of western Washington, with rain returning. There is a 50 percent chance of gusts of 50 mph or more along the coast and in the north interior. A larger swell may reach the coast Saturday night or Sunday, with potential for 20 ft seas."
+    },
+    {
+      "when": "Next week (through Wednesday)",
+      "what": "More storms are expected with little break, each with potential for gusty winds, lowland rain and high-elevation snow. The marine part of the discussion says high pressure may briefly return Sunday night into early Monday before another front arrives."
+    }
+  ],
+  "confidence": "Forecasters are confident about the windy, wet pattern and about the timing of Friday's winds, with advisories already in effect. The Saturday night wind is described only as a 50 percent chance of 50 mph gusts on the coast and in the north interior. The 20 ft seas depend on computer models keeping their current trends. The discussion gives no details for individual storms next week.",
+  "hazards": [
+    "Wind Advisory, Friday 4 AM to 4 PM: Island County, western Skagit and northwestern Snohomish lowlands, western Whatcom County lowlands, and San Juan County.",
+    "Wind Advisory, Friday 1 AM to 1 PM: Northern Washington Coast.",
+    "Wind Advisory, Friday 7 AM to 4 PM: Grays Harbor County Coast.",
+    "Gale Warnings for the Strait of Juan de Fuca, the northern inland waters including the San Juan Islands, and the coastal waters, from this afternoon or evening into Friday afternoon.",
+    "Small Craft Advisories for Admiralty Inlet, the Grays Harbor Bar, and the coastal waters (the coastal-waters advisory ends this evening)."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the high-altitude air flow that often brings cooler air and showers as it passes."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and a cold front, where the air is milder. Weather there is often dry or lightly rainy until the cold front arrives."
+    },
+    {
+      "term": "North interior",
+      "definition": "The inland lowlands of northwest Washington around the northern Puget Sound, here meaning the area north of Everett."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast that combines many computer models. Forecasters use it to estimate chances, such as the 50 percent chance of 50 mph gusts."
+    },
+    {
+      "term": "Swell train",
+      "definition": "A series of long ocean waves generated by distant storms that arrive at the coast one after another."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal level of water in rivers between rain events. Wet soils push this level higher, so later storms can raise rivers more quickly."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for sustained winds of about 34 to 47 knots, which is dangerous for boats."
+    }
+  ]
+}
