@@ -14,7 +14,6 @@ from __future__ import annotations
 import hashlib
 import json
 import os
-import re
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
@@ -98,7 +97,14 @@ class AnthropicLLM:
             model=self.model, max_tokens=max_tokens, system=system,
             messages=[{"role": "user", "content": user}],
         )
-        return "".join(b.text for b in msg.content if b.type == "text")
+        text = "".join(b.text for b in msg.content if b.type == "text")
+        if msg.stop_reason == "max_tokens":
+            raise CutOff(text)
+        return text
+
+
+class CutOff(Exception):
+    """The reply hit max_tokens, so its JSON is incomplete."""
 
 
 def available() -> bool:
@@ -106,19 +112,31 @@ def available() -> bool:
 
 
 def ask_json(llm: LLM, user: str, max_tokens: int = 2000) -> dict:
-    """Ask for JSON; strip any fences; retry once with a reminder if parsing fails."""
-    prompt = user
+    """Ask for JSON and parse it, tolerating fences or stray text around the object.
+
+    Retries once: with twice the token budget if the reply was cut off, otherwise with a
+    reminder to reply with only the JSON object.
+    """
+    prompt, raw = user, ""
     for attempt in range(2):
-        raw = llm.complete(SYSTEM, prompt, max_tokens)
-        cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw.strip())
         try:
-            data = json.loads(cleaned)
-            if isinstance(data, dict):
-                return data
-        except json.JSONDecodeError:
-            pass
+            raw = llm.complete(SYSTEM, prompt, max_tokens)
+        except CutOff as e:
+            raw = str(e)
+            max_tokens *= 2
+            continue
+        start, end = raw.find("{"), raw.rfind("}")
+        if start != -1 and end > start:
+            try:
+                data = json.loads(raw[start:end + 1])
+                if isinstance(data, dict):
+                    return data
+            except json.JSONDecodeError:
+                pass
         prompt = user + "\n\nYour previous reply was not a single valid JSON object. Reply with only the JSON object."
-    raise ValueError("model did not return valid JSON")
+    snippet = " ".join(raw.split())
+    raise ValueError(f"model did not return valid JSON (reply began: {snippet[:150]!r}, "
+                     f"ended: {snippet[-150:]!r})")
 
 
 # ---------- helpers ----------
@@ -166,7 +184,7 @@ def discussion_body(text: str) -> str:
 
 def summarize_discussion(llm: LLM, item: Stored) -> dict:
     data = ask_json(llm, DISCUSSION_TASK.format(issued=local_label(item.issued),
-                                                body=discussion_body(item.text())), 2500)
+                                                body=discussion_body(item.text())), 4000)
     return {"id": item.id, "issued": item.issued.isoformat(), **data}
 
 
@@ -199,25 +217,35 @@ class Progress:
     done: int = 0          # discussions in the window that have a summary
     total: int = 0         # discussions in the window
     deferred: int = 0      # left for a later batch because of the limit
+    failing: int = 0       # failed recently; held back until RETRY_FAILED_AFTER has passed
 
     @property
     def finished(self) -> bool:
         return self.deferred == 0
 
 
+# A discussion that fails is not retried until this much time has passed, so one bad
+# discussion cannot use up every batch, and the next daily run tries it again.
+RETRY_FAILED_AFTER = timedelta(hours=12)
+
+
 def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print,
         limit: int | None = None) -> Progress:
     """Fill in missing or outdated summaries.
 
-    With `limit`, at most that many discussions are summarized; the rest are deferred to the
-    next call. Days with deferred discussions, and the week and month, wait until nothing is
-    deferred, so they are not written and then rewritten batch after batch.
+    With `limit`, at most that many discussions are attempted (successes and failures both
+    count); the rest are deferred to the next call. Days with deferred discussions, and the week
+    and month, wait until nothing is deferred, so they are not written and then rewritten batch
+    after batch. Failures are recorded in docs/data/failures.json with the error.
     """
     now = now or datetime.now(timezone.utc)
     today = local_day(now)
     p = Progress()
     errors = p.errors
     window_start = now - timedelta(days=SUMMARY_WINDOW_DAYS)
+    failures_path = paths.data / "failures.json"
+    failures: dict[str, dict] = _read(failures_path) or {}
+    attempted = 0
 
     # 1. Discussions
     by_day: dict[date, list[dict]] = defaultdict(list)
@@ -229,20 +257,32 @@ def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print,
         out = paths.discussion_summaries / f"{item.id}.json"
         summary = _read(out)
         if summary is None:
-            if limit is not None and p.made >= limit:
+            failed = failures.get(item.id)
+            if failed and now - datetime.fromisoformat(failed["at"]) < RETRY_FAILED_AFTER:
+                p.failing += 1
+                continue
+            if limit is not None and attempted >= limit:
                 p.deferred += 1
                 waiting.add(local_day(item.issued))
                 continue
+            attempted += 1
             try:
                 summary = summarize_discussion(llm, item)
                 _write(out, summary)
+                failures.pop(item.id, None)
                 p.made += 1
-                log(f"summarized {item.id} ({p.made}{f'/{limit}' if limit else ''} this batch)")
-            except Exception as e:  # keep going; this one is retried next run
+                log(f"summarized {item.id} ({attempted}{f'/{limit}' if limit else ''} this batch)")
+            except Exception as e:  # keep going; this one is retried after RETRY_FAILED_AFTER
                 errors.append(f"{item.id}: {e}")
+                failures[item.id] = {"at": now.isoformat(timespec="seconds"),
+                                     "error": f"{type(e).__name__}: {e}"[:500]}
+                p.failing += 1
                 continue
         p.done += 1
         by_day[local_day(item.issued)].append(summary)
+
+    if failures or failures_path.exists():
+        _write(failures_path, failures)
 
     # 2. Days
     day_summaries: dict[date, dict] = {}

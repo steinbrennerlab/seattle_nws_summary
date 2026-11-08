@@ -105,6 +105,56 @@ def test_batches_defer_the_rest_and_hold_back_week_and_month(paths):
     assert (paths.data / "week.json").exists()
 
 
+class FailingLLM(FakeLLM):
+    """Fails on the first discussion of the fixture (the Oct 31 one)."""
+
+    def complete(self, system, user, max_tokens):
+        if user.startswith("Explain this discussion") and "Oct 31" in user:
+            self.calls += 1
+            return "not json"
+        return super().complete(system, user, max_tokens)
+
+
+def test_failures_count_toward_the_batch_and_wait_before_retry(paths):
+    save_all(paths, [FIXTURE])
+    now = datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc)
+    llm = FailingLLM()
+    p = summarize.run(paths, llm, now=now, log=lambda *_: None, limit=1)
+    assert (p.made, p.failing, p.deferred) == (0, 1, 1) and len(p.errors) == 1
+    assert "AFDSEW_202610312145" in json.loads((paths.data / "failures.json").read_text(encoding="utf-8"))
+
+    # The next batch skips the recent failure and moves on.
+    p = summarize.run(paths, llm, now=now, log=lambda *_: None, limit=1)
+    assert (p.made, p.failing, p.deferred, p.errors) == (1, 1, 0, [])
+
+    # Twelve hours later it is tried again; on success it leaves the failure list.
+    later = now + summarize.RETRY_FAILED_AFTER
+    p = summarize.run(paths, FakeLLM(), now=later, log=lambda *_: None, limit=1)
+    assert (p.made, p.failing, p.done) == (1, 0, 2)
+    assert json.loads((paths.data / "failures.json").read_text(encoding="utf-8")) == {}
+
+
+def test_json_with_stray_text_and_a_cut_off_reply():
+    class Chatty:
+        def complete(self, system, user, max_tokens):
+            return 'Here is the explanation:\n{"headline": "Rain."}\nHope this helps.'
+
+    assert summarize.ask_json(Chatty(), "x") == {"headline": "Rain."}
+
+    class CutOffOnce:
+        budgets = []
+
+        def complete(self, system, user, max_tokens):
+            self.budgets.append(max_tokens)
+            if len(self.budgets) == 1:
+                raise summarize.CutOff('{"headline": "Ra')
+            return '{"headline": "Rain."}'
+
+    llm = CutOffOnce()
+    assert summarize.ask_json(llm, "x", 1000) == {"headline": "Rain."}
+    assert llm.budgets == [1000, 2000]
+
+
 def test_progress_is_shown_while_incomplete(paths):
     save_all(paths, [FIXTURE])
     render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True,

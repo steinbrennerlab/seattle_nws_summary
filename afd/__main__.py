@@ -57,10 +57,11 @@ def run_summaries(paths: Paths, status: dict, limit: int | None) -> int:
     p = summarize.run(paths, summarize.AnthropicLLM(), limit=limit)
     for e in p.errors:
         print(f"summary error: {e}", file=sys.stderr)
-    status.update(summaries_enabled=True, summary_errors=len(p.errors),
+    status.update(summaries_enabled=True, summary_errors=p.failing,
                   summaries_done=p.done, summaries_total=p.total)
     line = (f"Explained {p.made} discussions in this batch; {p.done} of {p.total} done, "
-            f"{p.deferred} waiting, {len(p.errors)} errors.")
+            f"{p.deferred} waiting, {len(p.errors)} failed in this batch, "
+            f"{p.failing} failing in total (see docs/data/failures.json).")
     print(line)
     if summary_file := os.environ.get("GITHUB_STEP_SUMMARY"):  # shows on the Actions run page
         with open(summary_file, "a") as f:
