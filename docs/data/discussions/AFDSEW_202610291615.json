@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610291615",
+  "issued": "2026-10-29T16:15:00+00:00",
+  "headline": "Showers continue through Friday, then fade to the coast by Saturday as a dry, mostly cloudy pattern builds Sunday into midweek.",
+  "summary": "A cool, slightly unstable low-pressure system sits off the coast and will slowly drift south, ending up west of Hoquiam by late Friday afternoon. Showers will rotate around it at times through Friday, and some afternoon or early evening showers could pop up from daytime heating. Forecasters noted a chance of lightning through early this afternoon, mainly where heavier showers are along the Olympic coast. Mountain snow levels stay around 3000 to 3500 feet, but precipitation will be light, so only small new snow accumulations are expected.\n\nFriday night and Saturday the low stretches out and weakens, and the winds aloft turn southerly. That keeps showers closer to the low's center, so they should be limited mainly to the coast. Highs Thursday and Friday are in the lower to mid 50s, with Saturday highs in the mid 50s. Lows tonight and Friday night are in the mid 30s to lower 40s.\n\nThe leftover low moves across Western Washington as a weak trough Saturday night with little moisture. A ridge of high pressure then builds Sunday and stays in place into the middle of the week. A weak warm front early next week and another weak system on Wednesday are both expected to bring mostly clouds. Highs stay in the 50s and lows in the 30s. Wednesday was Seattle-Tacoma airport's 4th straight day with measurable rain (0.15 inches), the longest streak since a 5-day one from May 12 to 16.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "Showers at times, with some heavier ones along the Olympic coast and a lightning chance through early afternoon. More showers are possible late afternoon into early evening. Highs in the lower to mid 50s."
+    },
+    {
+      "when": "Tonight",
+      "what": "Showers continue at times. Lows in the mid 30s to lower 40s. Mountain snow levels around 3000 to 3500 feet, with only small new accumulations."
+    },
+    {
+      "when": "Friday",
+      "what": "Showers rotate around the low at times as it moves to west of Hoquiam by late afternoon. Highs in the lower to mid 50s."
+    },
+    {
+      "when": "Friday night and Saturday",
+      "what": "The low weakens and stretches out. Showers pull back to the coast. Lows in the mid 30s to lower 40s Friday night and highs in the mid 50s Saturday."
+    },
+    {
+      "when": "Saturday night",
+      "what": "A weak trough moves through Western Washington with little moisture."
+    },
+    {
+      "when": "Sunday through Wednesday",
+      "what": "A ridge builds Sunday and holds into midweek. Early in the week a weak warm front may brush the coast, and a weak system may arrive Wednesday, both likely bringing only clouds. Highs in the 50s, lows in the 30s."
+    }
+  ],
+  "confidence": "Forecasters say the computer models agree well on the weak trough moving through Saturday night. They say the odds are high that the early-week warm front and the Wednesday system will produce only cloud cover, though both are described as systems that will \"try\" to get through the ridge.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, spinning air high in the atmosphere that can set off showers around it. This one is off the coast and will drift south."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude airflow, often bringing cooler, unsettled weather. Here it is the weakened, stretched-out remnant of the low."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge of high pressure in the high-altitude airflow that usually brings calmer, drier weather. One builds over Western Washington Sunday."
+    },
+    {
+      "term": "Unstable air mass",
+      "definition": "Air that rises easily, which can create showers and sometimes lightning, especially when the sun warms the ground."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. Here it is around 3000 to 3500 feet."
+    },
+    {
+      "term": "Jet streak",
+      "definition": "A faster-moving section of the high-altitude jet stream. Here it helps stretch and weaken the low."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass, often bringing clouds and sometimes light rain. This one is expected to bring mainly clouds."
+    }
+  ]
+}

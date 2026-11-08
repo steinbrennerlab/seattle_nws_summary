@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610271604",
+  "issued": "2026-10-27T16:04:00+00:00",
+  "headline": "A slow-moving upper-level low brings showers and mountain snow through Saturday, then drier, milder weather returns early next week.",
+  "summary": "A pool of cold air high in the atmosphere (an upper-level low) is moving south from British Columbia and will settle off the Washington coast by Thursday night. It will stay there through Friday, then weaken and move inland Saturday. Forecasters say there is no significant change from the earlier forecast. Showers are expected to continue across western Washington, and the northern part of the area gets more of them this afternoon.\n\nThe cooling air matters most in the mountains. Snow levels are 4500 to 5000 feet this afternoon, drop to 3500 to 4000 feet tonight, and reach 3000 to 3500 feet Wednesday. Up to 4 inches of new snow is expected in the Cascades tonight, and up to another 4 inches Wednesday, with somewhat higher amounts possible from around Mount Rainier southward. The Olympics should get less than 2 inches tonight. A Winter Weather Advisory covers the Cascades from 5 PM today to 5 PM Wednesday. Wind direction aloft shifts to southwesterly Wednesday night into Thursday, which weakens the lifting of air over the mountains and cuts precipitation amounts. Most passes still see light snow, with about another couple of inches. Lowland highs stay in the lower to mid 50s through Saturday.\n\nBy Sunday, a ridge of high pressure builds offshore and moves over western Washington Monday, bringing a warmer and drier pattern. Highs reach the mid and upper 50s Monday, and Monday's lows drop to the upper 20s and 30s. A warm front may brush the coast Monday night.",
+  "timeline": [
+    {
+      "when": "Today (Tuesday)",
+      "what": "Showers, with the highest chances over the southern half of the area this morning and more showers in the north this afternoon. Snow is limited to higher elevations, with snow levels of 4500 to 5000 feet. Highs in the lower to mid 50s."
+    },
+    {
+      "when": "Tonight",
+      "what": "Showers continue as the air cools and snow levels fall to 3500 to 4000 feet. Up to 4 inches of new Cascade snow, with higher amounts possible from around Mount Rainier southward, and less than 2 inches in the Olympics. Lows in the upper 30s to mid 40s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "The low barely moves, so showers keep rotating through. Snow levels drop to 3000 to 3500 feet, with up to another 4 inches in the Cascades, again possibly more from Mount Rainier southward. Highs in the lower to mid 50s. The advisory ends at 5 PM."
+    },
+    {
+      "when": "Wednesday night and Thursday",
+      "what": "The low drifts south toward the coast. Precipitation lessens, but most passes still get light snow, about another couple of inches, with snow levels of 2500 to 3500 feet. Lows in the mid 30s to lower 40s, highs in the lower to mid 50s."
+    },
+    {
+      "when": "Friday through Saturday",
+      "what": "The low sits off the coast through Friday night, then weakens and moves inland Saturday. Rain and snow chances slowly decrease, down to a chance to slight chance by Saturday. Snow levels stay at 2500 to 3500 feet, with only about another couple of inches of snow."
+    },
+    {
+      "when": "Sunday and Monday",
+      "what": "A ridge of high pressure builds offshore Sunday and moves inland Monday. Highs warm into the mid and upper 50s Monday, with lows in the upper 20s and 30s. A warm front may nick the coast Monday night."
+    }
+  ],
+  "confidence": "Forecasters made no significant changes to the earlier forecast, which suggests fairly steady confidence in the pattern through Thursday. They hedge on snow totals near Mount Rainier and southward, saying higher amounts are possible. They also say the warm front early next week only \"may\" reach the coast.",
+  "hazards": [
+    "Winter Weather Advisory for the Cascades (Whatcom, Skagit, Snohomish, King, Pierce and Lewis County mountains) from 5 PM today until 5 PM Wednesday, for new snow.",
+    "Small Craft Advisory for the Strait of Juan de Fuca, Puget Sound and Hood Canal from 5 PM today to 11 PM this evening, for gusty winds.",
+    "Small Craft Advisory for the outer coastal waters until 5 AM Wednesday, for wind and building seas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold air and low pressure high in the atmosphere. It can linger for days and keep showers going beneath it."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude air flow, often bringing cooler air and showers. An upper-level low can open up into a trough as it weakens."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge of high pressure in the high-altitude air flow. It usually brings drier and warmer weather."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. Lower snow levels put snow on more mountain passes."
+    },
+    {
+      "term": "Orographics",
+      "definition": "Extra rain or snow caused when air is forced upward by mountains. A shift in wind direction can weaken this effect."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation, meaning the chance that rain or snow will fall."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of moist air that can bring heavy rain or mountain snow. This one is aimed at the central British Columbia coast, not Washington."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that can be hazardous to small boats."
+    }
+  ]
+}

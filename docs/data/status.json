@@ -1,7 +1,9 @@
 {
-  "last_check": "2026-11-08T02:55:06+00:00",
+  "last_check": "2026-11-08T03:56:25+00:00",
   "ok": true,
   "new_discussions": 0,
-  "summaries_enabled": false,
-  "summary_errors": 0
+  "summaries_enabled": true,
+  "summary_errors": 28,
+  "summaries_done": 80,
+  "summaries_total": 142
 }

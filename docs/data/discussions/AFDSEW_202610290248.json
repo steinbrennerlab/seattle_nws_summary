@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610290248",
+  "issued": "2026-10-29T02:48:00+00:00",
+  "headline": "A lingering low keeps showers and cool weather through Friday, then a mostly dry, chilly weekend follows.",
+  "summary": "An area of low pressure high in the atmosphere is sitting just offshore and won't move much through Friday. It keeps the air unsettled, so western Washington gets scattered showers in the lowlands and light snow in the Cascades. Wednesday afternoon highs were in the low 50s after a front passed. Thursday and Friday highs are expected in the low to mid 50s. Rain totals should trend down, and most of the area may stay somewhat dry between showers, though stray showers can't be ruled out.\n\nWednesday also had a small chance (15 to 20%) of a thunderstorm or two in the unsettled air. That chance was expected to drop sharply after sunset. Cascade snow showers had already faded a lot since the morning, and most of the snow fell in and around Mount Rainier. Forecasters say little changes overnight.\n\nOver the weekend the low weakens and conditions turn drier. Highs stay around the mid 50s, but nights get colder, with lows in the low to mid 30s. A few spots, especially in the Southwest Interior, could drop to the mid to upper 20s. A weak upper-level ridge should keep things likely dry into the middle of next week.",
+  "timeline": [
+    {
+      "when": "Tonight (Wednesday night)",
+      "what": "Little change. Showers continue, thunderstorm chances fade after sunset, and the forecast is on track."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "The low stays nearly in place. Expect scattered lowland showers and light snow in the Cascades, with overall precipitation decreasing. Highs are in the low to mid 50s."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "Mostly dry across the lowlands, with perhaps a shower or two in the Cascades. Highs are around the mid 50s. Lows are in the low to mid 30s, and some places, especially the Southwest Interior, may reach the mid to upper 20s."
+    },
+    {
+      "when": "Early to midweek next week",
+      "what": "Weak ridging keeps conditions likely dry through midweek."
+    }
+  ],
+  "confidence": "Forecasters say the computer model ensembles agree that the low weakens into the weekend and conditions turn drier. They are less specific about Thursday and Friday showers, noting that stray showers can't be ruled out. The mid to upper 20s overnight lows are expected only in some locations, mainly the Southwest Interior.",
+  "hazards": [
+    "No land-based watches, warnings, or advisories are in effect for western Washington. The Cascades Winter Weather Advisory ran until 5 PM Wednesday and has ended.",
+    "Small Craft Advisory for the Grays Harbor Bar until 9 PM Wednesday, because of steepening seas.",
+    "Small Craft Advisory for the Pacific coastal waters from Cape Flattery to Cape Shoalwater until 11 PM Wednesday, because of steep seas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere. When it stalls nearby, it can keep showery, unsettled weather around for days."
+    },
+    {
+      "term": "Post-frontal air mass",
+      "definition": "The cooler air that moves in behind a weather front."
+    },
+    {
+      "term": "Unstable air",
+      "definition": "Air that rises easily, which can produce showers and sometimes thunderstorms."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, forecasters have more confidence."
+    },
+    {
+      "term": "Ridging",
+      "definition": "A pattern of high pressure in the upper atmosphere that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Southwest Interior",
+      "definition": "The inland lowlands of southwestern Washington, away from the coast."
+    },
+    {
+      "term": "Winter Weather Advisory",
+      "definition": "A National Weather Service alert for winter conditions, such as snow, that may be hazardous but not severe enough for a warning."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be dangerous for small boats."
+    }
+  ]
+}

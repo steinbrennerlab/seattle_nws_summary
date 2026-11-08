@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610282224",
+  "issued": "2026-10-28T22:24:00+00:00",
+  "headline": "A lingering offshore low keeps showers around through Friday, then drier but chilly weather arrives for the weekend and into midweek.",
+  "summary": "A low-pressure system high in the atmosphere is parked just off the coast and is not expected to move much through Friday. It is keeping showers going across western Washington's lowlands, with light snow in the Cascades and cool afternoon highs in the low to mid 50s. There was a 15-20% chance of a thunderstorm or two this afternoon because the air is unstable, but that chance drops off sharply after sunset.\n\nSnow showers in the Cascades have shrunk a lot since this morning. A Winter Weather Advisory for the Cascades runs until 5 PM today, and most of the snow accumulation has been in and around Mount Rainier. Thursday and Friday should bring scattered showers in the lowlands and light snow in the Cascades, but rain should gradually taper off and much of the area will stay somewhat dry, though a stray shower is possible at times.\n\nFrom Saturday on, the low is expected to weaken and conditions should turn drier. A shower or two is possible in the Cascades, but most of the interior should be dry with highs in the mid 50s. Nights get colder, with lows in the low to mid 30s and some spots, especially the Southwest Interior, dropping to the mid to upper 20s. Weak high pressure aloft should keep things dry into midweek. Forecasters also noted that stratus (low cloud) is increasingly likely Thursday morning across much of the interior, and that the coast will see large seas, though the discussion treats those as lower priority.",
+  "timeline": [
+    {
+      "when": "This afternoon and evening (Wednesday)",
+      "what": "Showers continue in the lowlands, with a 15-20% chance of a thunderstorm or two this afternoon that fades after sunset. Cascade snow showers are much reduced, and the Winter Weather Advisory ends at 5 PM."
+    },
+    {
+      "when": "Tonight",
+      "what": "Showers gradually decrease. Low cloud becomes increasingly likely across much of the interior by Thursday morning."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "The low barely moves, so scattered lowland showers and light Cascade snow continue. Overall precipitation trends down and much of the area stays somewhat dry, with afternoon highs in the low to mid 50s."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "The low weakens and conditions turn drier. A shower or two is possible in the Cascades. Highs are in the mid 50s, and overnight lows fall to the low to mid 30s, with mid to upper 20s in some places, especially the Southwest Interior."
+    },
+    {
+      "when": "Early next week through Wednesday",
+      "what": "Weak high pressure aloft should let conditions likely stay dry heading into midweek."
+    }
+  ],
+  "confidence": "Forecasters sound fairly confident in the overall pattern: the low lingers through Friday, then weakens and brings drier weather. They note that computer model ensembles agree on the weakening low. Details are less certain: a stray shower can't be ruled out at times Thursday and Friday, and the thunderstorm chance today was low (15-20%).",
+  "hazards": [
+    "Winter Weather Advisory for the Cascades (Pierce and Lewis; Snohomish and northern King; southern King; Whatcom and Skagit counties) until 5 PM PDT today, with the most snow around Mount Rainier.",
+    "Small craft advisory for the coastal waters through this evening, and a new advisory for the Grays Harbor bar this evening because of steep, building seas (marine, mainly relevant to boaters)."
+  ],
+  "glossary": [
+    {
+      "term": "Upper low",
+      "definition": "An area of low pressure high in the atmosphere. It can keep skies unsettled and showery for days when it stalls nearby."
+    },
+    {
+      "term": "Post-frontal airmass",
+      "definition": "The cooler air that moves in behind a weather front after it passes."
+    },
+    {
+      "term": "Unstable environment",
+      "definition": "Air conditions in which warm air near the ground can rise quickly, helping build strong showers and occasionally thunderstorms."
+    },
+    {
+      "term": "Winter Weather Advisory",
+      "definition": "A National Weather Service notice that snow or other wintry weather is expected to cause inconvenience, mainly on roads and passes, but is not severe enough for a warning."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "A group of computer model runs started with slightly different conditions. When they agree, forecasters have more confidence in the outcome."
+    },
+    {
+      "term": "Ridging",
+      "definition": "A zone of higher pressure aloft that usually brings more stable, drier weather."
+    },
+    {
+      "term": "Southwest Interior",
+      "definition": "The forecast zone covering the interior lowlands of southwest Washington, which can get colder on clear nights."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud that can cover the sky and sometimes reduce visibility."
+    }
+  ]
+}

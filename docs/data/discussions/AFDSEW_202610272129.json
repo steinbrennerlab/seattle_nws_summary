@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610272129",
+  "issued": "2026-10-27T21:29:00+00:00",
+  "headline": "A front brings steady rain tonight into Wednesday and the season's first widespread Cascade snow, then showery, cooler weather lingers before drying out over the weekend.",
+  "summary": "Showers will continue across western Washington this afternoon and evening ahead of an approaching front. Afternoon highs are in the mid to upper 50s inland and the low 50s along the water. Tonight the showers turn into steadier rain that lasts into Wednesday morning. Southwest winds pick up later this evening into Wednesday, peaking around 20 to 30 mph, mainly in the Southwest Interior through Shelton.\n\nThis system brings the first widespread mountain snow of the season. A Winter Weather Advisory covers all the Cascade zones. Snow levels start at 4000 to 4500 feet and drop to 3000 to 3500 feet by Wednesday morning. Forecasters expect about 4 to 8 inches at Stevens Pass, 1 to 3 inches at Snoqualmie Pass, and likely 6 to 12 inches in the southern Cascades, such as White Pass and Paradise. Travelers should check with WSDOT for road conditions.\n\nAn upper-level low pressure area then lingers over western Washington into late week, bringing spotty showers and cooler weather. Highs on Wednesday and Thursday are in the low to mid 50s for most areas. Showers continue on Friday, with light snow still possible in the Cascades. The system slowly moves out over the weekend, bringing drier weather into early next week. Overnight lows near the low to mid 30s mean forecasters are watching for possible frost or freezing conditions.",
+  "timeline": [
+    {
+      "when": "This afternoon and evening",
+      "what": "Showers continue across most of the area ahead of the front. Highs are in the mid to upper 50s inland and the low 50s along the water. Southwest winds begin to increase later in the evening."
+    },
+    {
+      "when": "Tonight into Wednesday morning",
+      "what": "Showers become steadier rain. Southwest winds peak around 20 to 30 mph, mainly in the Southwest Interior through Shelton. Cascade snow begins, with snow levels of 4000 to 4500 feet falling to 3000 to 3500 feet by Wednesday morning."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Cascade snow continues until the Winter Weather Advisory ends at 5 PM. Expected totals are about 4 to 8 inches at Stevens Pass, 1 to 3 inches at Snoqualmie Pass, and 6 to 12 inches in the southern Cascades. Rain eases into spotty showers with cooler temperatures."
+    },
+    {
+      "when": "Wednesday into Thursday night",
+      "what": "An upper-level low lingers, bringing spotty showers. Highs are in the low to mid 50s for most areas."
+    },
+    {
+      "when": "Friday",
+      "what": "Scattered showers continue. Snow levels hover around 2500 to 4000 feet, so light snow accumulations are possible in the Cascades."
+    },
+    {
+      "when": "Weekend into early next week",
+      "what": "The trough slowly moves out and conditions dry. Highs stay in the mid 50s over the weekend, with overnight lows approaching the low to mid 30s. Forecasters are still watching for frost or freeze conditions."
+    }
+  ],
+  "confidence": "Forecasters sound fairly confident about the timing of tonight's steady rain and the Cascade snow, and the advisory and snow amounts are stated specifically. Later in the period they lean on ensemble guidance (a group of model runs) showing the trough lingering through Friday and leaving over the weekend. They have not settled whether frost or freezing temperatures will occur, and say they will keep monitoring that threat.",
+  "hazards": [
+    "Winter Weather Advisory for all the Cascade zones from 5 PM today until 5 PM Wednesday, for the first widespread mountain snow of the season. Travel in the passes may be affected.",
+    "Small Craft Advisory for the Strait of Juan de Fuca, Puget Sound and Hood Canal from 5 PM today to 11 PM this evening, because of gusty winds on the water.",
+    "Small Craft Advisory for the coastal waters until 5 AM Wednesday, because of gusty winds and rough seas."
+  ],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure in the upper atmosphere. It usually brings cooler, unsettled weather with clouds and showers."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A pocket of low pressure high in the atmosphere that can sit over an area for days, keeping showers and cool temperatures around."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses, usually bringing a period of steadier rain and shifting winds as it passes."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. A lower snow level means snow reaches more of the mountains."
+    },
+    {
+      "term": "Winter Weather Advisory",
+      "definition": "A National Weather Service alert that winter weather such as snow is expected and may make travel difficult, though it is less severe than a warning."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer model runs started with slightly different conditions. When the runs agree, forecasters have more confidence."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    },
+    {
+      "term": "WSDOT",
+      "definition": "The Washington State Department of Transportation, a source for road and mountain pass conditions."
+    }
+  ]
+}

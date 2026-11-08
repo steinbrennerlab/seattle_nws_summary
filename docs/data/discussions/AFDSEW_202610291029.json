@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610291029",
+  "issued": "2026-10-29T10:29:00+00:00",
+  "headline": "Showers continue through Friday as a cool low drifts south, then drier weather with mostly cloud arrives Sunday into next week.",
+  "summary": "A pocket of cool, unstable air high above the ocean, off Vancouver Island, is slowly drifting south. As it moves, showers wrap around it and pass over western Washington at times through Friday. Some daytime warming could add a few extra showers in the late afternoon or early evening. Rain amounts should be light. In the mountains, snow levels stay around 3000 to 3500 feet, so new snow should be small.\n\nFriday night the low stretches out and weakens, and the winds aloft turn southerly. That pulls the showers toward the low's center, so by late Friday night and Saturday they should be mostly limited to the coast. The weakened low moves inland Saturday night, but it carries little moisture.\n\nA ridge of high pressure then builds over western Washington Sunday and stays into the middle of the week. Two weak systems may brush the area, one early next week and one around Wednesday. Forecasters say both will most likely bring only clouds. Highs stay in the 50s and lows in the 30s.",
+  "timeline": [
+    {
+      "when": "Today (Thursday) and tonight",
+      "what": "Showers move through western Washington at times, with a few more possible late afternoon into early evening. Highs in the lower to mid 50s. Lows tonight in the mid 30s to lower 40s. Mountain snow levels stay around 3000 to 3500 feet, with small new snow amounts."
+    },
+    {
+      "when": "Friday",
+      "what": "Similar showery weather, with highs in the lower to mid 50s."
+    },
+    {
+      "when": "Friday night",
+      "what": "The low weakens and stretches out, so showers pull back toward the coast. Lows in the mid 30s to lower 40s."
+    },
+    {
+      "when": "Saturday",
+      "what": "Showers stay mostly at the coast. Highs in the mid 50s."
+    },
+    {
+      "when": "Saturday night through Sunday night",
+      "what": "A weak trough with little moisture moves through Saturday night. A ridge of high pressure builds over the region Sunday into Sunday night."
+    },
+    {
+      "when": "Early next week through Wednesday",
+      "what": "The ridge stays in place. A weak warm front may brush the coast early in the week, and another weak system may arrive Wednesday. Both will most likely bring only clouds. Highs in the 50s, lows in the 30s."
+    }
+  ],
+  "confidence": "Forecasters say the computer models agree well on the weak trough moving through Saturday night, and they call it low on moisture. They say the odds are high that the two weak systems early next week and Wednesday will produce only clouds, though that leaves a small chance of something more.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper level low",
+      "definition": "A pocket of cold air high in the atmosphere that spins like a storm. It can bring showers even without a large storm at the surface."
+    },
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the winds high above the ground, often linked to cooler, unsettled weather. The low here turns into a stretched-out trough as it weakens and moves inland."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A bulge in the high-altitude winds that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Unstable air mass",
+      "definition": "Air that rises easily, which helps showers form. Daytime warming can add to this."
+    },
+    {
+      "term": "Jet streak",
+      "definition": "A faster-moving stretch of the high-altitude winds. Here, one on the back side of the low helps stretch it out and weaken it."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation where precipitation changes from rain to snow. Here it is around 3000 to 3500 feet."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation, the chance that rain or showers will occur. Forecasters use it here to say where showers are likely."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass. This one is weak, so forecasters expect mostly clouds."
+    }
+  ]
+}

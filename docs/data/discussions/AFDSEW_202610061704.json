@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610061704",
+  "issued": "2026-10-06T17:04:00+00:00",
+  "headline": "Mild, mostly dry week with morning fog, a low-70s bump Thursday, then light rain Friday into Saturday.",
+  "summary": "Western Washington stays under a mild, fairly quiet pattern this week. Forecasters expect seasonably warm weather, with clouds and patchy fog in the mornings giving way to sunny afternoons. This morning, fog was already thick along the coast and through the Strait of Juan de Fuca, with visibility as low as a quarter mile. It is also expected to form around Puget Sound, and forecasters think it will burn off by early afternoon.\n\nFog should be less widespread from Wednesday on, because winds turn more northerly this afternoon and into Wednesday. Patchy fog is still possible. Temperatures should be in the upper 60s through midweek. Thursday should bump up to the low 70s because of weak offshore wind.\n\nA weak system should arrive Friday and bring light rain into Saturday. Forecasters say it doesn't look particularly strong. Sunday looks drier. Overnight lows should drop over the weekend, to the low to mid 40s around Puget Sound and the upper 30s in the Cascades and nearby foothills.",
+  "timeline": [
+    {
+      "when": "This morning (Tuesday)",
+      "what": "Stratus clouds and fog, with visibility as low as a quarter mile along the coast and the Strait of Juan de Fuca. Fog also forms around Puget Sound and likely burns off by early afternoon."
+    },
+    {
+      "when": "This afternoon into Wednesday",
+      "what": "Winds turn more northerly, which should reduce widespread low cloud and fog. Patchy fog is still possible. Temperatures stay in the upper 60s through midweek."
+    },
+    {
+      "when": "Late tonight into Wednesday morning",
+      "what": "Another round of low clouds and fog is expected, most likely west of Puget Sound."
+    },
+    {
+      "when": "Thursday",
+      "what": "Weak offshore wind pushes temperatures up to the low 70s."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A weak system brings light rain to western Washington, and temperatures cool a bit."
+    },
+    {
+      "when": "Sunday",
+      "what": "Looks drier. Lows are in the low to mid 40s around Puget Sound and the upper 30s in the Cascades and nearby foothills over the weekend."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the mild, mostly dry pattern through Thursday and in the repeating morning fog. They are less sure about the weekend. Computer model runs (ensembles) mostly keep high pressure in place through Thursday, then lean toward a trough by Friday and the weekend. They agree more on broad troughing over the weekend, but not on exactly where the center of low pressure will sit.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big north-south bends. It usually means a quiet, mild pattern."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud. When it sits at ground level it is fog."
+    },
+    {
+      "term": "Dewpoint",
+      "definition": "The temperature at which air becomes saturated and water vapor condenses. When the air temperature and dewpoint are close, fog forms more easily."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land. It tends to bring cooler, moister air and low clouds."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean. In western Washington it tends to bring drier and warmer air."
+    },
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure aloft that usually brings fair, warmer weather. Forecasters say the ridge 'amplifies' when it strengthens and bulges."
+    },
+    {
+      "term": "Trough",
+      "definition": "An area of lower pressure aloft that often brings clouds, cooler air, and rain."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many computer forecasts run with slightly different starting conditions. When they agree, confidence is higher. When they differ, the forecast is less certain."
+    }
+  ]
+}
