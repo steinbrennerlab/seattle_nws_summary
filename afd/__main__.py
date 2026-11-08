@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import fetch, parse, render, store, summarize
-from .config import DEFAULT_ROOT, LOCAL_TZ, Paths
+from .config import DEFAULT_ROOT, DISCUSSION_MODEL, LOCAL_TZ, MODEL, Paths
 
 
 def save_all(paths: Paths, raw_texts: list[str]) -> list[str]:
@@ -54,7 +54,8 @@ def run_summaries(paths: Paths, status: dict, limit: int | None) -> int:
         print("ANTHROPIC_API_KEY is not set; skipping summaries")
         status.update(summaries_enabled=False, summary_errors=0)
         return 0
-    p = summarize.run(paths, summarize.AnthropicLLM(), limit=limit)
+    p = summarize.run(paths, summarize.AnthropicLLM(DISCUSSION_MODEL), limit=limit,
+                      period_llm=summarize.AnthropicLLM(MODEL))
     for e in p.errors:
         print(f"summary error: {e}", file=sys.stderr)
     status.update(summaries_enabled=True, summary_errors=p.failing,

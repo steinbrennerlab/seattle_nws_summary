@@ -21,7 +21,7 @@ from pathlib import Path
 from typing import Protocol
 
 from . import parse
-from .config import LOCAL_TZ, MODEL, MONTH_DAYS, SUMMARY_WINDOW_DAYS, WEEK_DAYS, Paths
+from .config import LOCAL_TZ, MODEL, PERIODS, SUMMARY_WINDOW_DAYS, Paths, Period
 from .store import Stored, list_all
 
 SYSTEM = """You explain Area Forecast Discussions from the National Weather Service office in Seattle, \
@@ -198,15 +198,15 @@ def summarize_day(llm: LLM, d: date, discs: list[dict]) -> dict:
     return {"date": d.isoformat(), **data}
 
 
-def summarize_period(llm: LLM, days: list[dict], *, paragraphs: str, max_points: int) -> dict:
+def summarize_period(llm: LLM, days: list[dict], per: Period) -> dict:
     first, last = date.fromisoformat(days[0]["date"]), date.fromisoformat(days[-1]["date"])
     span = f"{day_label(first)} to {day_label(last)}, {last.year}"
     items = "\n\n".join(
         f"[{day_label(date.fromisoformat(x['date']))}]\n{x.get('headline', '')}\n{x.get('summary', '')}"
         + (f"\nChanges during the day: {x['changes']}" if x.get("changes") else "")
         for x in days)
-    data = ask_json(llm, PERIOD_TASK.format(span=span, paragraphs=paragraphs,
-                                            max_points=max_points, items=items), 2500)
+    data = ask_json(llm, PERIOD_TASK.format(span=span, paragraphs=per.paragraphs,
+                                            max_points=per.max_points, items=items), per.max_tokens)
     return {"start": first.isoformat(), "end": last.isoformat(), **data}
 
 
@@ -230,8 +230,11 @@ RETRY_FAILED_AFTER = timedelta(hours=12)
 
 
 def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print,
-        limit: int | None = None) -> Progress:
+        limit: int | None = None, period_llm: LLM | None = None) -> Progress:
     """Fill in missing or outdated summaries.
+
+    `llm` writes the discussion and day summaries; `period_llm` (default: `llm`) writes the
+    week and month.
 
     With `limit`, at most that many discussions are attempted (successes and failures both
     count); the rest are deferred to the next call. Days with deferred discussions, and the week
@@ -306,25 +309,29 @@ def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print,
             if cached:
                 day_summaries[d] = cached
 
-    # 3. Week and month
+    # 3. Week and month, each rewritten at most every `refresh_days` days
     if not p.finished:
         log(f"{p.deferred} discussions left for the next batch; week and month wait until then")
         return p
-    for name, n_days, paragraphs, max_points in (("week", WEEK_DAYS, "two or three", 5),
-                                                  ("month", MONTH_DAYS, "three or four", 8)):
-        first = today - timedelta(days=n_days - 1)
+    period_llm = period_llm or llm
+    for per in PERIODS:
+        first = today - timedelta(days=per.days - 1)
         days = [day_summaries[d] for d in sorted(day_summaries) if first <= d <= today]
         if not days:
             continue
         sig = _signature([f"{x['date']}:{x['signature']}" for x in days])
-        out = paths.data / f"{name}.json"
+        out = paths.data / f"{per.name}.json"
         cached = _read(out)
         if cached and cached.get("signature") == sig:
             continue
+        if cached and (age := (today - date.fromisoformat(cached.get("written", cached["end"]))).days) \
+                < per.refresh_days:
+            log(f"{per.name} is {age} day(s) old; rewritten every {per.refresh_days} days")
+            continue
         try:
-            _write(out, {**summarize_period(llm, days, paragraphs=paragraphs, max_points=max_points),
-                         "signature": sig})
-            log(f"summarized {name}")
+            _write(out, {**summarize_period(period_llm, days, per), "signature": sig,
+                         "written": today.isoformat()})
+            log(f"summarized {per.name}")
         except Exception as e:
-            errors.append(f"{name}: {e}")
+            errors.append(f"{per.name}: {e}")
     return p

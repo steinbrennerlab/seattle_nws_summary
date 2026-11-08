@@ -155,6 +155,31 @@ def test_json_with_stray_text_and_a_cut_off_reply():
     assert llm.budgets == [1000, 2000]
 
 
+def test_period_model_and_refresh_intervals(paths):
+    from datetime import timedelta
+    save_all(paths, [FIXTURE])
+    now = datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc)
+    cheap, big = FakeLLM(), FakeLLM()
+    summarize.run(paths, cheap, now=now, log=lambda *_: None, period_llm=big)
+    assert (cheap.calls, big.calls) == (4, 2)  # 2 discussions + 2 days; week + month
+    week = json.loads((paths.data / "week.json").read_text(encoding="utf-8"))
+    assert week["written"] == "2026-11-02"
+
+    def new_day_then_run(days_later):
+        # A new day arrives: same fixture text, shifted forward, so the week and month are out of date.
+        text = parse.split_products(FIXTURE)[1].replace("Nov 2 2026", f"Nov {2 + days_later} 2026") \
+                                               .replace("Mon Nov", "XXX Nov")
+        save_all(paths, [text])
+        before = big.calls
+        summarize.run(paths, cheap, now=now + timedelta(days=days_later), log=lambda *_: None,
+                      period_llm=big)
+        return big.calls - before
+
+    assert new_day_then_run(1) == 0   # week 1 day old, month 1 day old: both wait
+    assert new_day_then_run(2) == 1   # week is 2 days old: rewritten; month waits
+    assert new_day_then_run(7) == 2   # both due
+
+
 def test_progress_is_shown_while_incomplete(paths):
     save_all(paths, [FIXTURE])
     render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True,

@@ -20,10 +20,30 @@ NWS_PRODUCT_PAGE = (
 # api.weather.gov rejects requests without a User-Agent that identifies the caller.
 USER_AGENT = f"seattle_nws_summary ({REPO_URL})"
 
+# Each discussion and each day gets a short, structured explanation: the most numerous calls
+# with the most input, so they use the cheaper model. The week and month take more judgment.
+DISCUSSION_MODEL = os.environ.get("AFD_DISCUSSION_MODEL", "claude-haiku-5-5")
 MODEL = os.environ.get("AFD_MODEL", "claude-sonnet-5-5")
 
 WEEK_DAYS = 7
 MONTH_DAYS = 30
+
+
+@dataclass(frozen=True)
+class Period:
+    name: str
+    days: int            # how far back it looks
+    refresh_days: int    # rewritten at most this often, even when a new day arrives
+    paragraphs: str
+    max_points: int      # turning points listed
+    max_tokens: int
+
+
+# One new day barely changes a 7- or 30-day story, so these are not rewritten every day.
+PERIODS = (
+    Period("week", WEEK_DAYS, refresh_days=2, paragraphs="two", max_points=4, max_tokens=1500),
+    Period("month", MONTH_DAYS, refresh_days=7, paragraphs="three", max_points=6, max_tokens=2000),
+)
 # Discussions older than this are archived but never sent for summarizing, which caps cost
 # if the API key is missing for a long stretch and then added.
 SUMMARY_WINDOW_DAYS = 35

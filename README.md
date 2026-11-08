@@ -64,7 +64,16 @@ all are done. If a run hits its time limit, only the batch in progress is lost, 
 continues from there. Day summaries wait until all of that day's discussions are explained,
 and the week and month summaries wait until everything is.
 
-To use a different model, set `AFD_MODEL` in the workflow's `env`.
+Models and frequencies, chosen to keep API costs down (all in `afd/config.py`):
+
+| Summary | Model | Rewritten |
+|---|---|---|
+| Each discussion, each day | `AFD_DISCUSSION_MODEL`, default `claude-haiku-5-5` | once (a day: when it gains a discussion) |
+| Past week | `AFD_MODEL`, default `claude-sonnet-5-5` | at most every 2 days |
+| Past month | `AFD_MODEL` | at most every 7 days |
+
+To use different models, set those variables in the workflow's `env`. The page shows the
+dates each week and month summary covers.
 
 ## Local use
 

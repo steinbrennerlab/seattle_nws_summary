@@ -29,6 +29,7 @@ def build(paths: Paths, status: dict) -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html", "j2"]),
                       trim_blocks=True, lstrip_blocks=True)
     env.filters["paragraphs"] = _paragraphs
+    env.filters["daylabel"] = lambda iso: day_label(date.fromisoformat(iso))
 
     items = list_all(paths)
     discussions = []

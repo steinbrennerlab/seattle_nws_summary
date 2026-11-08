@@ -51,6 +51,7 @@
   <div class="body">
     {% if data %}
     <h2 class="headline small">{{ data.headline }}</h2>
+    {% if data.start %}<p class="issued">Covers {{ data.start | daylabel }} to {{ data.end | daylabel }}.</p>{% endif %}
     {% for p in data.summary | paragraphs %}<p>{{ p }}</p>{% endfor %}
     {% if data.turning_points %}
     <h3>When the forecast changed</h3>
