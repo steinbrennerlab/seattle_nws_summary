@@ -1,0 +1,58 @@
+{
+  "id": "AFDSEW_202610300317",
+  "issued": "2026-10-30T03:17:00+00:00",
+  "headline": "Showers fade by Saturday, with a freeze possible in parts of southwest Washington Friday night, then a quiet, mild, cloudy stretch.",
+  "summary": "A low-pressure center spinning off the coast has been bringing showers to western Washington. It is moving away to the west and southwest. Showers should taper off tonight, though forecasters expect another batch of showers to move in Friday morning before they decrease again late Friday afternoon or early evening. The low then weakens and moves inland south of our area on Saturday, and conditions dry out.\n\nThe main hazard is cold. A Freeze Watch is in effect late Friday night through Saturday morning for the lowlands of Lewis and southern Thurston counties. It was expanded this evening to include the Middle Chehalis River Valley. Lows in the Lewis and southern Thurston lowlands are forecast in the upper 20s to around 32 degrees, and forecasters noted that the Middle Chehalis valley was approaching the upper 20s. Temperatures that low can kill crops and sensitive plants, so protect them if needed.\n\nSaturday looks partly sunny and dry, with highs in the mid 50s and no rain expected for festivities around the region. From Sunday through the middle or end of next week, a weak upper-level ridge builds in. A few weak weather systems may pass through, but forecasters say they are unlikely to bring more than extra clouds. Highs stay in the mid 50s. There is a hint that wetter weather could return around Nov 6 through 12.",
+  "timeline": [
+    {
+      "when": "Tonight (Thursday night)",
+      "what": "Showers taper off as the offshore low shifts farther west and southwest."
+    },
+    {
+      "when": "Friday",
+      "what": "Another round of showers is expected in the morning, per the aviation section of the discussion, then showers decrease late in the afternoon or early evening."
+    },
+    {
+      "when": "Late Friday night through Saturday morning",
+      "what": "Freeze Watch for the lowlands of Lewis and southern Thurston counties and the Middle Chehalis River Valley. Lows are forecast in the upper 20s to around 32 degrees."
+    },
+    {
+      "when": "Saturday",
+      "what": "Partly sunny and drier as the low weakens and moves inland south of the area. No precipitation is expected for festivities, and highs are in the mid 50s."
+    },
+    {
+      "when": "Sunday through Wednesday/Thursday",
+      "what": "Weak ridging builds in. Weak systems may bring periods of clouds, but they are unlikely to produce much more than that. Any precipitation is not expected to be significant, and highs are in the mid 50s."
+    },
+    {
+      "when": "Nov 6 through 12",
+      "what": "A return to wetter conditions is possible. Forecasters will keep evaluating this as it gets closer."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the drying trend Saturday and the quiet, cloudy but mostly dry pattern next week. The freeze is less certain for the Middle Chehalis valley, where lows were only approaching the upper 20s and the watch was added late. The wetter weather possible for Nov 6 through 12 is a low-confidence signal that forecasters said they will keep evaluating.",
+  "hazards": [
+    "Freeze Watch from late Friday night through Saturday morning for the lowlands of Lewis and southern Thurston counties and the Middle Chehalis River Valley."
+  ],
+  "glossary": [
+    {
+      "term": "Freeze Watch",
+      "definition": "An alert that freezing temperatures, which can harm crops and sensitive plants, are possible but not yet certain. It may be upgraded to a Freeze Warning if the forecast firms up."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, low-pressure air high in the atmosphere that can spin in place for days. It often keeps showers going in the area beneath and around it."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge of high pressure high in the atmosphere that usually brings calmer, drier weather. Weak ridges, like the one expected next week, still allow some clouds."
+    },
+    {
+      "term": "Unstable",
+      "definition": "Describes air that tends to rise easily, which can produce heavier showers and sometimes thunderstorms. Forecasters said there was a slight chance of thunderstorms earlier in the day on Thursday."
+    },
+    {
+      "term": "Lowlands",
+      "definition": "The low-elevation parts of western Washington, such as valleys and areas near Puget Sound, as opposed to the mountains and passes."
+    }
+  ]
+}

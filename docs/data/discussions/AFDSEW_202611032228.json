@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202611032228",
+  "issued": "2026-11-03T22:28:00+00:00",
+  "headline": "Dry weather ends Wednesday evening as a stormier, windier pattern starts Friday and likely continues into next week.",
+  "summary": "Today is mostly dry with a mix of clouds and sunshine. A few showers near Mount Rainier should fade this evening, and dry weather holds into Wednesday morning. A weak front brings rain to the lowlands Wednesday evening into Thursday, with locally breezy winds from around Whidbey Island northward. Thursday afternoon should be mostly dry in the lowlands, with some lingering rain or drizzle in the mountains. Highs stay in the mid to upper 50s through Thursday.\n\nA more active pattern starts Friday, when a stronger front brings lowland rain and gusty south winds. The strongest winds are expected along the immediate coast and from Admiralty Inlet northward. Saturday brings a warm front with rain at times for the Olympic Peninsula and near the Canadian border, and a brief drier spell for some of Puget Sound. A cold front then crosses Saturday night into Sunday with more rain and breezy winds. Because many trees still have leaves, localized power outages are possible during this stretch. Snow levels stay high, mainly 5000 to 8000 feet from Friday into Sunday, so snow is limited to high elevations.\n\nForecasters expect a possible short break in the heavier precipitation from Sunday night into Monday, followed by another front late Monday. More lowland rain, mountain snow, gusty winds, and large waves are expected next week. River flooding is not expected in the next seven days, but repeated rain will start to saturate soils and raise river flows, which could become a concern with later storms. Large waves are also expected on the coast, with seas building toward 15 to 20 feet starting Friday and forecasters watching for high surf.",
+  "timeline": [
+    {
+      "when": "Tonight into Wednesday morning",
+      "what": "Dry. A few showers near Mount Rainier fade this evening. Fog is possible in some places overnight into Wednesday morning, especially in sheltered areas."
+    },
+    {
+      "when": "Wednesday evening into Thursday",
+      "what": "A weak front brings lowland rain and locally breezy winds from around Whidbey Island northward. Thursday afternoon turns mostly dry in the lowlands, with lingering rain or drizzle in the mountains. Highs are in the mid to upper 50s."
+    },
+    {
+      "when": "Friday",
+      "what": "A stronger front brings lowland rain and gusty south winds, strongest on the immediate coast and from Admiralty Inlet northward. Gusts over 40 mph have a 40 to 80% chance in those areas, and wind headlines may be needed. Coastal seas rise toward 15 to 20 feet."
+    },
+    {
+      "when": "Saturday",
+      "what": "A warm front brings rain at times to the Olympic Peninsula and near the Canadian border. Some of Puget Sound gets a brief drier period."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A cold front brings more rain and breezy winds. Localized power outages are possible because trees still have leaves. Snow levels stay at 5000 to 8000 feet."
+    },
+    {
+      "when": "Sunday night into next week",
+      "what": "A possible short break in heavier precipitation Sunday night into Monday. Another front arrives late Monday, and the active pattern continues with lowland rain, mountain snow, gusty winds, and large waves."
+    }
+  ],
+  "confidence": "Forecasters are confident about the dry weather through Wednesday morning and the general shift to a wetter, windier pattern from Friday onward. Details are less certain. Wind headlines for Friday are still being considered, the Sunday-night-to-Monday break is only a suggestion from ensemble forecasts, and details for next week will likely change.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Small Craft Advisories (for small boats) are in effect for the Washington coastal waters. One ends at 4 PM today, and others run on Wednesday from 8 AM to 10 PM for waters 10 to 60 nautical miles offshore and from 1 PM to 10 PM within 10 nautical miles of the coast.",
+    "Possible wind headlines for Friday along the coast and from Admiralty Inlet northward, which forecasters are still monitoring.",
+    "Possible high surf along the coast starting Friday, which forecasters are still monitoring."
+  ],
+  "glossary": [
+    {
+      "term": "Front (frontal system)",
+      "definition": "The boundary between air masses of different temperature. Fronts usually bring clouds, rain, and wind shifts as they pass."
+    },
+    {
+      "term": "Warm front",
+      "definition": "A front where warmer air moves in and replaces cooler air. It often brings steady rain and milder conditions."
+    },
+    {
+      "term": "Cold front",
+      "definition": "A front where cooler air pushes in behind it. It often brings a band of rain and gusty winds as it passes."
+    },
+    {
+      "term": "Upper low",
+      "definition": "An area of low pressure high in the atmosphere. This one is far south, over California, and is only causing a few showers near Mount Rainier."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast tool that combines many computer models. Here it gives a 40 to 80% chance of gusts above 40 mph on Friday in the windiest areas."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of forecast model runs started from slightly different conditions. When they agree, confidence is higher. When they differ, the forecast is less certain."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow. A high snow level means rain falls at most elevations and snow is limited to the highest mountains."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    }
+  ]
+}

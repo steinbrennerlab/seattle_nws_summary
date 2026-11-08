@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202611041756",
+  "issued": "2026-11-04T17:56:00+00:00",
+  "headline": "Today is the last dry day; a wetter, windier, more fall-like pattern starts tonight and stays active into next week.",
+  "summary": "Western Washington gets one more dry day today, Wednesday, with patchy morning fog and increasing clouds. Highs will be in the 50s. A cold front moves inland this evening and tonight, bringing wetting rain to the coast and mountains. Inland areas, including the Seattle area, should see only light rain, generally less than a tenth of an inch.\n\nA stronger system arrives late Thursday and Friday as a deep low pressure center moves east into British Columbia. It should bring windy conditions to the coast and the north interior (Everett northward) from Thursday night through Friday morning. Forecasters say the chance of strong winds is low, but minor wind impacts are still possible. Rain totals through Friday night are expected to be 1 to 2 inches on the coast and Olympics, up to an inch in the Cascades, and 0.50 to 1.00 inch in the interior. Seas will build and high surf is possible along the coast.\n\nFrom Friday night through Tuesday, a series of weather systems will keep the pattern active, with more rain, snow at high elevations, and windy conditions. Forecasters do not expect river flooding in the next seven days. But repeated rain will start to saturate soils and raise river flows, which could become a concern if later storms are heavier.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Last dry day. Patchy morning fog, then increasing clouds. Highs in the 50s."
+    },
+    {
+      "when": "This evening and tonight",
+      "what": "A cold front moves inland. Wetting rain at the coast and in the mountains. Light rain inland, generally under a tenth of an inch."
+    },
+    {
+      "when": "Late Thursday through Friday",
+      "what": "A stronger, wetter system arrives. Windy conditions at the coast and north interior (Everett northward) Thursday night through Friday morning. Strong winds are unlikely, but minor impacts are possible."
+    },
+    {
+      "when": "Through Friday night",
+      "what": "Rain totals of 1-2 inches on the coast and Olympics, up to 1 inch in the Cascades, and 0.50-1.00 inch in the interior. High surf is possible along the coast."
+    },
+    {
+      "when": "Friday night through Tuesday",
+      "what": "A series of systems keeps the weather active, with more rain, high-elevation snow, and windy conditions."
+    }
+  ],
+  "confidence": "Forecasters are confident the pattern turns wetter and more active, and that it stays that way into next week. Details are less certain for the Thursday night to Friday wind: they say the probability of strong winds is low, though minor impacts are possible. Rain amounts are given as ranges, and flooding is not expected in the next seven days.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for western Washington on land.",
+    "Small Craft Advisories (for boaters) are in effect today for the coastal waters and the Strait of Juan de Fuca entrances, ending between this evening and early Thursday morning.",
+    "High surf is possible along the coast Thursday night into Friday, but no advisory has been issued."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. Its passage usually brings a band of rain and a shift in wind."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure. It often brings clouds, rain, and cooler weather."
+    },
+    {
+      "term": "Interior",
+      "definition": "The lowlands of western Washington away from the coast, including the Puget Sound area."
+    },
+    {
+      "term": "Wetting rain",
+      "definition": "Enough rain to wet the ground thoroughly, rather than just a sprinkle."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful breaking waves along the coast that can be dangerous near the shore."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that are hazardous to small boats."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal level of water in rivers and streams between rain events. Wet soils push these higher."
+    },
+    {
+      "term": "Saturated soils",
+      "definition": "Ground that is so full of water it can't absorb much more, so additional rain runs off into streams and rivers."
+    }
+  ]
+}

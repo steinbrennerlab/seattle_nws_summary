@@ -1,0 +1,76 @@
+{
+  "id": "AFDSEW_202611070026",
+  "issued": "2026-11-07T00:26:00+00:00",
+  "headline": "A brief warm, dry break Saturday gives way to a strong cold front with damaging winds Saturday night, then more rain next week.",
+  "summary": "A front is moving east into the Cascades tonight, leaving steady rain only in southern western Washington for now. Gusts of 40 to 60 MPH have hit the coast and areas from Admiralty Inlet northward, and south winds are slowly easing. Most of the region should be dry into Saturday afternoon as a warm front lifts north, though rain may linger at times on the western Olympic Peninsula. Highs on Saturday should reach the 60s.\n\nA strong cold front arrives Saturday evening and moves through Saturday night. It brings a burst of steadier rain, with rates briefly reaching 0.15 to 0.25 inches per hour along the front. The bigger concern is wind. Forecasters give a 50 to 75% chance of gusts over 58 MPH later Saturday (the High Wind Warning threshold), and a High Wind Watch is in effect for the coast. Most other areas could see gusts of 30 to 45 MPH from Saturday afternoon into early Sunday. Trees still have many leaves, so localized power outages are possible. Gusty winds and heavy rain at the same time could also clog storm drains, so allow extra time if traveling Saturday evening.\n\nSunday brings periodic showers, with most of the rain falling on the North Cascades and Olympics. Snow levels drop from around 7500 feet to near 4500 feet, so snow is limited to high mountain elevations. The main concern shifts to high surf: seas build to 20 to 28 feet, with large breaking waves on the coast. Be careful near the water, including when razor clam digging. Highs cool into the 50s. After a short dry spell Sunday night into Monday, another warm front brings rain and breezy conditions from late Monday. Tuesday looks wet and warmer, with the heaviest rain over the Olympics and North Cascades, and more widespread rain returns Thursday into late week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "The front moves east of the Cascades. Steadier rain lingers in the south, then conditions turn drier with lighter winds."
+    },
+    {
+      "when": "Saturday",
+      "what": "Mostly dry into the afternoon as a warm front moves north, with highs in the 60s. Rain may continue at times on the western Olympic Peninsula."
+    },
+    {
+      "when": "Saturday evening into Saturday night",
+      "what": "A strong cold front brings steadier rain and strong south winds. The coast has a 50 to 75% chance of gusts over 58 MPH, and most other areas could see gusts of 30 to 45 MPH. Power outages and clogged storm drains are possible."
+    },
+    {
+      "when": "Sunday",
+      "what": "Periodic showers, mostly over the North Cascades and Olympics. Snow levels fall to near 4500 feet. Seas of 20 to 28 feet bring high surf to the coast. Highs in the 50s."
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A brief ridge of high pressure brings drier weather. A warm front approaches Monday afternoon, with rain and locally breezy conditions late Monday through Monday night."
+    },
+    {
+      "when": "Tuesday through late next week",
+      "what": "Tuesday is wetter, warmer and breezy, with the heaviest rain over the Olympics and North Cascades. Wednesday is warm, with rain most likely over the Olympics. More widespread rain returns Thursday into late week."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the Saturday night wind event but not certain about its strength: the chance of gusts over 58 MPH is 50 to 75%. They are also watching whether the High Surf Advisory needs to become a High Surf Warning. Confidence drops from Wednesday on, when the pattern becomes less certain.",
+  "hazards": [
+    "Wind Advisory until 4 PM this afternoon for the Grays Harbor County coast, Island County, western Skagit and northwestern Snohomish lowlands, western Whatcom lowlands, the Port Townsend area, and San Juan County.",
+    "High Wind Watch from Saturday afternoon through late Saturday night for the Grays Harbor County coast and the northern Washington coast.",
+    "High Surf Advisory from 4 AM to 10 PM Sunday for the Grays Harbor County coast and the northern Washington coast.",
+    "Storm Warning for the coastal waters from 10 AM Saturday to 10 AM Sunday.",
+    "Gale Warning until 6 PM this evening for Admiralty Inlet, the Strait of Juan de Fuca, the northern inland waters including the San Juan Islands, and the coastal waters.",
+    "Gale Watches for the Strait of Juan de Fuca (Saturday morning through Sunday morning), Admiralty Inlet and the northern inland waters including the San Juan Islands (Saturday afternoon through Sunday afternoon), and Puget Sound and Hood Canal (Saturday afternoon through Sunday morning).",
+    "Small Craft Advisories for the Grays Harbor Bar (until 4 AM Sunday), the central Strait of Juan de Fuca (until midnight tonight), Puget Sound and Hood Canal (until 11 PM this evening), and the coastal waters and west Strait (6 PM this evening to 10 AM Saturday)."
+  ],
+  "glossary": [
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass. Its passage usually brings milder temperatures and often some rain."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. It often brings a burst of rain and gusty winds as it passes, followed by cooler weather."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and the cold front behind it, where temperatures are typically mildest."
+    },
+    {
+      "term": "REFS",
+      "definition": "A set of high-resolution computer forecast runs, each with slightly different starting conditions. Forecasters use the share of runs that show something, such as strong gusts, to estimate its chance."
+    },
+    {
+      "term": "High Wind Warning threshold",
+      "definition": "The wind level at which the Weather Service issues a High Wind Warning. Here it is gusts over 58 MPH."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the forecast amount of rain or melted snow."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Shortwave ridge",
+      "definition": "A small, short-lived area of high pressure aloft that usually brings a brief break in the weather."
+    }
+  ]
+}

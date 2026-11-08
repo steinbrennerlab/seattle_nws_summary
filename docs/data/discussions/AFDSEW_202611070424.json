@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202611070424",
+  "issued": "2026-11-07T04:24:00+00:00",
+  "headline": "A warm, mostly dry Saturday gives way to a strong windstorm and heavy rain Saturday night, with high surf on the coast Sunday.",
+  "summary": "The front that brought rain and gusty winds earlier has moved east of the Cascades. Showers are fading tonight, and lows will fall into the 40s. Saturday should be mostly dry across western Washington into the afternoon, with highs in the 60s. Rain may continue at times on the western Olympic Peninsula.\n\nA stronger cold front arrives Saturday evening and Saturday night. It brings a burst of steadier rain, with rates briefly reaching 0.15 to 0.25 inch per hour along the front. The bigger concern is strong south wind. Forecasters give a 50 to 75% chance of gusts above 58 mph, the High Wind Warning threshold, and a High Wind Watch is in effect for the coast. Most other areas can expect gusts of 30 to 45 mph from Saturday evening into early Sunday. Because many trees still have leaves, localized power outages are possible. Clogged storm drains are also possible where gusty wind and steady rain overlap Saturday evening, so allow extra travel time.\n\nOn Sunday the rain turns to showers, mostly over the North Cascades and Olympics. Snow levels drop from about 7,500 feet to near 4,500 feet, so high mountain areas get snow. Highs cool into the 50s. The main concern shifts to the coast, where very large seas of 20 to 28 feet will produce big breaking waves. A High Surf Advisory is in effect, and forecasters will watch whether it needs an upgrade to a warning. Anyone digging razor clams should be especially careful. More rain, milder temperatures, and breezy conditions follow from Monday afternoon through midweek, with more widespread rain returning late in the week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Lingering showers dry out as the night goes on. Lows fall into the 40s."
+    },
+    {
+      "when": "Saturday",
+      "what": "Mostly dry across western Washington into the afternoon, with highs in the 60s. Rain may continue at times on the western Olympic Peninsula. The High Wind Watch for the coast starts in the afternoon."
+    },
+    {
+      "when": "Saturday evening into Saturday night",
+      "what": "A strong cold front brings steadier rain and strong south winds. Gusts are 30 to 45 mph for most areas and possibly above 58 mph on the coast. Power outages and clogged storm drains are possible."
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain eases to showers, mostly over the North Cascades and Olympics. Snow levels fall to near 4,500 feet and highs cool into the 50s. Seas reach 20 to 28 feet, with high surf on the coast from 4 AM to 10 PM."
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A brief break with drier weather. The next warm front brings rain and local breezes from late Monday afternoon through Monday night."
+    },
+    {
+      "when": "Tuesday through late next week",
+      "what": "A steady stream of moisture brings more rain, warmer temperatures, and breezy conditions Tuesday, heaviest over the Olympics and North Cascades. Wednesday is more uncertain, with rain most likely over the Olympics. More widespread rain returns Thursday into late week."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in a strong, windy system Saturday night, but the strongest gusts are not certain. They put the chance of gusts above 58 mph at 50 to 75%, and said more wind alerts may be needed elsewhere. Uncertainty grows on Wednesday because of the shifting upper-level pattern, and the details of the later-week rain are less certain.",
+  "hazards": [
+    "High Wind Watch for the Grays Harbor County coast and the northern Washington coast, from Saturday afternoon through late Saturday night.",
+    "High Surf Advisory for the same coastal areas, from 4 AM to 10 PM Sunday. It could be upgraded to a warning.",
+    "Storm Warning for the coastal waters from Cape Flattery to Cape Shoalwater, from 10 AM Saturday to 10 AM Sunday.",
+    "Gale Watches for the Strait of Juan de Fuca, Admiralty Inlet and the northern inland waters including the San Juan Islands, and Puget Sound and Hood Canal. They begin Saturday morning or afternoon and run into Sunday.",
+    "Small Craft Advisories remain in effect for several waters, including the Grays Harbor Bar, the coastal waters and the western Strait of Juan de Fuca. Most expire tonight or Saturday morning."
+  ],
+  "glossary": [
+    {
+      "term": "High Wind Watch",
+      "definition": "An alert that conditions could reach high wind levels, here gusts above 58 mph, but it is not certain yet. A warning would be issued if confidence rises."
+    },
+    {
+      "term": "Post-frontal",
+      "definition": "The period after a weather front has passed. It usually brings drier, calmer weather, though showers can linger."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and the cold front behind it. It is typically milder, as in Saturday's highs in the 60s."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. It often brings a band of rain and a shift in wind."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the predicted amount of rain or melted snow. Forecasters use it to show where the most precipitation is expected."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. Here it drops from about 7,500 feet to near 4,500 feet on Sunday."
+    },
+    {
+      "term": "Ridging / ridge",
+      "definition": "A zone of high pressure in the upper atmosphere that usually brings calmer, drier weather. Ridges in this forecast are brief, so the breaks are short."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer model runs started from slightly different conditions. When they agree, forecasters are more confident, and when they disagree, uncertainty is higher."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610141506",
+  "issued": "2026-10-14T15:06:00+00:00",
+  "headline": "Showers end today, then warm, dry weather Thursday and Friday before a cooler, showery weekend arrives.",
+  "summary": "Showers from a weak front are moving out this morning. Clouds may hang around until early afternoon, then skies clear. A ridge of high pressure builds through the end of the week, bringing drier, warmer weather Thursday and Friday. Highs are in the lower 70s Thursday, with 60s near the water, and the mid 70s inland on Friday.\n\nThe pattern turns unsettled from Friday night. A cold front and a trough (a dip in the upper atmosphere) bring cooler, wetter weather Friday night and Saturday. Showers are likely Saturday afternoon and evening near the King/Snohomish county line, where winds can come together and focus rain. Saturday highs only reach the 50s and 60s, and Sunday morning lows drop into the 30s around the south Sound.\n\nA second system had been expected Sunday and Monday. Forecasters now think it will track south over the ocean and miss Washington, so gusty winds are less likely. The air stays cool and showery with the trough overhead. A chance of showers continues into Tuesday before the trough moves out.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Showers end this morning. Clouds linger until early afternoon, then skies clear."
+    },
+    {
+      "when": "Tonight into early Thursday morning",
+      "what": "Clear skies and light winds could allow low clouds and fog to form. At Sea-Tac there is a 25-35% chance of very low visibility and ceilings."
+    },
+    {
+      "when": "Thursday",
+      "what": "Dry and warmer, with highs in the lower 70s and 60s near the water."
+    },
+    {
+      "when": "Thursday night",
+      "what": "Offshore (easterly) winds strengthen, with gusty winds of 20-30 MPH through the east Cascade gaps."
+    },
+    {
+      "when": "Friday",
+      "what": "Dry and slightly warmer inland, with highs in the mid 70s."
+    },
+    {
+      "when": "Friday night through Saturday",
+      "what": "A cold front and trough bring cooler, wetter weather. Showers are likely Saturday afternoon and evening near the King/Snohomish line. Highs are in the 50s and 60s, and Sunday morning lows are in the 30s around the south Sound."
+    },
+    {
+      "when": "Sunday through Tuesday",
+      "what": "Cool and showery with a trough overhead. The Sunday-Monday system is now expected to pass south over the ocean, so gusty winds are less likely. Showers are possible into Tuesday before the trough exits."
+    }
+  ],
+  "confidence": "Forecasters sound fairly confident in the dry, warmer Thursday and Friday and in showers arriving Saturday. The Sunday-Monday system is less certain. It has shifted south since earlier forecasts, and the marine section notes significant differences in the exact path of the low. Fog tonight is a possibility, not a sure thing, with only a 25-35% chance of the worst conditions at Sea-Tac.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure that stretches up into the upper atmosphere. It usually brings sinking air, clearer skies and drier, warmer weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the upper atmosphere that usually brings cooler air, clouds and showers. It is the opposite of a ridge."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, which in western Washington means from the east. It brings drier air and often warmer weather than the usual wind off the Pacific."
+    },
+    {
+      "term": "East Cascade gap winds",
+      "definition": "Winds funneled westward through low spots in the Cascade Mountains when high pressure sits east of the range. They can be strong and gusty in and near the gaps."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band where air flowing around the Olympic Mountains comes back together over Puget Sound. It can produce a stripe of heavier showers, here near the King/Snohomish county line."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. Its passage usually brings a change to cooler, showery weather."
+    }
+  ]
+}

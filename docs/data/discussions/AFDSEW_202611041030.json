@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202611041030",
+  "issued": "2026-11-04T10:30:00+00:00",
+  "headline": "One last dry day today, then a wetter, windier, more fall-like pattern starts tonight and looks to continue into next week.",
+  "summary": "Today (Wednesday) is the last dry day for western Washington. Expect patchy morning fog, especially around the south Sound, with cool morning temperatures in the 30s and 40s. Clouds increase through the day, and highs reach the 50s. A cold front arrives tonight, bringing steady rain to the coast and mountains. Inland areas, including the Seattle area, get only light rain, generally less than a tenth of an inch.\n\nA stronger system follows late Thursday and Friday as a deep low pressure area moves east into British Columbia. It will bring wind to the coast and the north interior (Everett northward) from Thursday night through Friday morning. Forecasters say the chance of strong winds is low, but minor wind impacts are still possible. Rain totals through Friday night are 1 to 2 inches on the coast and Olympics, up to an inch in the Cascades, and 0.50 to 1.00 inch in the interior. Seas will build, and high surf is possible along the coast.\n\nFrom Friday night through Tuesday, a steady string of weather systems is expected, with more rain, snow at high elevations, and windy conditions. River flooding is not expected in the next seven days. However, repeated rounds of rain will start to soak the ground and raise river flows, which could become a concern if later storms are heavier than currently forecast.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Last dry day. Patchy morning fog, especially in the south Sound, with temperatures in the 30s and 40s. Clouds thicken through the day and highs reach the 50s."
+    },
+    {
+      "when": "Tonight",
+      "what": "A cold front moves inland. Steady rain falls on the coast and in the mountains. Inland areas get light rain, mostly under a tenth of an inch."
+    },
+    {
+      "when": "Late Thursday through Friday",
+      "what": "A stronger, wetter system arrives. Rain totals through Friday night are 1-2 inches on the coast and Olympics, up to an inch in the Cascades, and 0.50-1.00 inch inland."
+    },
+    {
+      "when": "Thursday night through Friday morning",
+      "what": "Windy on the coast and in the north interior (Everett northward). Strong winds are unlikely, but minor wind impacts are possible. Building seas and possible high surf on the coast."
+    },
+    {
+      "when": "Friday night through Tuesday",
+      "what": "A steady series of systems brings more rain, high-elevation snow, and windy conditions, with little break in the pattern."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident that the weather turns wetter and more active, and that there will be little break through next week. They are less sure about wind: they say the chance of strong winds Thursday night into Friday is low, though minor impacts are possible. They also say current forecasts do not call for river flooding, but that soaking soils could raise concerns if later storms are stronger.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for western Washington land areas.",
+    "Small Craft Advisories (for boaters) are in effect today into early Thursday for the coastal waters and the Strait of Juan de Fuca entrances. Forecasters also expect gale-force wind gusts on the coastal waters and the east Strait of Juan de Fuca Thursday night into Friday, and large seas continuing into next week.",
+    "High surf is possible along the coast with the Thursday night to Friday system."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass moving in. It usually brings a band of rain and a shift in wind."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of lower air pressure that often brings clouds and rain as it passes."
+    },
+    {
+      "term": "Interior",
+      "definition": "The lowland areas of western Washington away from the coast, including the Puget Sound region."
+    },
+    {
+      "term": "South Sound",
+      "definition": "The southern part of Puget Sound, around the Olympia and Tacoma area."
+    },
+    {
+      "term": "Wetting rains",
+      "definition": "Enough rain to thoroughly wet the ground, rather than just a sprinkle."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful waves breaking on the coast, which can be dangerous near the water."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that are hazardous to small boats."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal level of water in rivers and streams between storms. Wet soils push these higher."
+    }
+  ]
+}

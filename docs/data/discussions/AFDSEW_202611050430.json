@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202611050430",
+  "issued": "2026-11-05T04:30:00+00:00",
+  "headline": "A string of Pacific storms brings rain and gusty south winds Friday and Saturday night, with more wet weather likely next week.",
+  "summary": "A weak front is crossing western Washington tonight with light rain. Steadier rain should break into showers overnight, and Thursday morning turns drier. Rain totals are small: under 0.25 inch for the interior lowlands and 0.25 to 0.50 inch on the coast. Overnight lows will be in the 40s.\n\nA stronger system arrives early Friday with steadier rain and increasing south winds. The heaviest rain is expected in the Cascades and on the Olympic Peninsula. Winds should be strongest along the northern coast and from Whidbey Island northward, where forecasters see a 50 to 90% chance of gusts over 40 MPH. Elsewhere gusts of 20 to 30 MPH are expected, especially near the water. Forecasters are watching whether a Wind Advisory will be needed there on Friday. A warm front then lifts north, bringing rain at times Friday night, and Saturday turns warmer, with highs in the 60s for most areas.\n\nA cold front brings more steady rain and gusty winds Saturday night into Sunday. Winds may be somewhat stronger across more of the region than on Friday, with gusts of 20 to 35 MPH possible. Snow levels fall from around 8000 feet Saturday to 4000-5000 feet by later Sunday, so the Cascades and Olympics get snow at higher elevations. Sunday night into Monday is briefly drier. Next week could bring a longer stretch of rain, but the details are uncertain. No river flooding is expected in the next seven days, but repeated rain will soak the ground and raise river flows, which could become a concern with later storms.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "A front brings light rain across western Washington, with a few hours of steadier rain before it turns to showers overnight. South winds peak at 15 to 30 MPH on the immediate coast and around Whidbey Island this evening. Lows are in the 40s."
+    },
+    {
+      "when": "Thursday",
+      "what": "A break in the rain with a mix of clouds and sunshine. Rain begins increasing Thursday night ahead of the next system."
+    },
+    {
+      "when": "Friday",
+      "what": "Steadier rain for most areas, heaviest in the Cascades and Olympic Peninsula. South winds increase early. Gusts over 40 MPH are likely from the northern coast and Whidbey Island northward, and 20 to 30 MPH elsewhere. Highs are in the 50s."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "The front weakens, but a warm front brings rain at times overnight. By Saturday afternoon most areas are drier, though the Olympic Peninsula and areas near the BC border may see lingering rain. Highs reach the 60s for most areas."
+    },
+    {
+      "when": "Saturday night through Sunday",
+      "what": "A cold front brings steadier rain, mostly Saturday night, and gusty south winds. Gusts of 20 to 35 MPH may be more widespread. Rain is mostly limited to the Cascades by Sunday afternoon, with a few lingering showers. Snow levels fall to 4000-5000 feet by later Sunday. Ocean seas build to near 20 feet on the coast, and high surf is being monitored."
+    },
+    {
+      "when": "Sunday night through Wednesday",
+      "what": "A brief dry spell from Sunday night into early Monday. Additional systems arrive from later Monday into midweek, with possible longer-lasting rain, more wind, and rough seas at times. Details are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are confident in tonight's light rain and the wetter, windier pattern Friday through Sunday. Wind strength on Friday is still being watched, and they are not yet sure a Wind Advisory will be needed. Confidence drops from later Monday into midweek because forecast models disagree on whether the main band of moisture aims at western Washington or farther north into British Columbia.",
+  "hazards": [
+    "No land-based watches, warnings, or advisories are in effect for western Washington.",
+    "Small Craft Advisories are in effect tonight for parts of the Strait of Juan de Fuca, Admiralty Inlet, and the coastal waters (boaters only).",
+    "Gale Watches are in effect for Thursday night through Friday afternoon for the east Strait of Juan de Fuca, Northern Inland Waters including the San Juan Islands, and the coastal waters.",
+    "A Wind Advisory is possible Friday from the northern coast and Whidbey Island northward; forecasters are monitoring this.",
+    "High surf is possible on the coast Sunday and is being monitored."
+  ],
+  "glossary": [
+    {
+      "term": "Front",
+      "definition": "The boundary between two air masses. Cold fronts and warm fronts usually bring clouds, rain, and a shift in wind and temperature as they pass."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and the following cold front. Air there is milder and the weather is often drier."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the predicted amount of rain or melted snow."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast that combines many computer models. Forecasters use it to estimate the chance of events such as strong gusts."
+    },
+    {
+      "term": "REFS",
+      "definition": "The Rapid Refresh Forecast System, a group of computer forecasts run together. Higher probabilities there mean it also points toward strong gusts."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they disagree, confidence is lower."
+    },
+    {
+      "term": "Moisture plume",
+      "definition": "A narrow stream of very moist air that can bring heavy or prolonged rain where it lands."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    }
+  ]
+}
