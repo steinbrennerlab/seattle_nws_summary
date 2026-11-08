@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610310344",
+  "issued": "2026-10-31T03:44:00+00:00",
+  "headline": "Showers end tonight, then a cold, dry weekend with freezing lowland temperatures early Saturday and dry weather into early next week.",
+  "summary": "Leftover showers fade this evening as a low-pressure system high in the atmosphere weakens and moves south. Afternoons through the weekend stay dry and cool, with highs in the low 50s. Trick-or-treaters should have dry weather, but it will be cold.\n\nThe main concern is early Saturday morning. Skies clear and winds go light, so temperatures drop. A Freeze Warning covers parts of the Southwest Interior, where lows are expected in the upper 20s to low 30s. A Frost Advisory covers the northern Olympic Peninsula and areas north of Seattle, where temperatures of 32 to 36 are expected. Forecasters advise protecting sensitive plants. Lows Sunday morning will again be near freezing, in the low 30s.\n\nA ridge of high pressure aloft keeps things mostly dry into the first half of next week. A few weak disturbances could bring light rain chances west of Puget Sound early and around midweek. Later in the week a stronger front looks more likely to bring a pattern change, but forecasters say the details are quite uncertain.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Last few showers taper off this evening. Skies clear and temperatures fall. The Freeze Warning and Frost Advisory take effect at midnight."
+    },
+    {
+      "when": "Early Saturday (midnight to 9 AM)",
+      "what": "Coldest morning of the period. Upper 20s to low 30s in the Southwest Interior, and 32 to 36 in the frost advisory areas. Patchy dense low clouds or fog are possible early, expected to lift and clear for most areas by around midday."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "Dry and cool, with afternoon highs in the low 50s. Sunday morning lows are in the low 30s."
+    },
+    {
+      "when": "Monday",
+      "what": "Upper-level high pressure stays over the region and keeps it mostly dry. A minority of computer model runs bring a weak disturbance and a 20-30% chance of light precipitation west of Puget Sound."
+    },
+    {
+      "when": "Midweek",
+      "what": "Another weak disturbance could bring similar small (20-30%) chances of light precipitation."
+    },
+    {
+      "when": "Late next week",
+      "what": "A stronger front is more likely to approach western Washington and change the pattern, but the timing and details are very uncertain."
+    }
+  ],
+  "confidence": "Confidence is high for the dry, cool weekend and the cold start Saturday morning. It is reasonably good for mostly dry weather early next week, though small rain chances remain. Confidence drops late next week because computer model runs increasingly disagree on how the pattern will evolve.",
+  "hazards": [
+    "Freeze Warning from midnight tonight to 9 AM Saturday for the lowlands of Lewis and southern Thurston Counties and the Middle Chehalis River Valley: temperatures at or below freezing can damage plants.",
+    "Frost Advisory from midnight tonight to 9 AM Saturday for the northern Olympic Peninsula and areas north of Seattle, including the Eastside, central King County foothills and valleys, Everett, Marysville, Shoreline, Lynnwood, eastern Kitsap County, the Strait of Juan de Fuca, Lake Crescent, western Skagit and Whatcom lowlands, and North Cascades foothills: temperatures of 32 to 36 may produce frost that can harm sensitive plants."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level low",
+      "definition": "A pocket of cold, low-pressure air high in the atmosphere that often brings showery weather. This one is weakening and moving south, away from western Washington."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A zone of high pressure high in the atmosphere that usually steers storms away and brings dry, stable weather."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs started with slightly different conditions. When they agree, confidence is higher. When they differ, the forecast is more uncertain."
+    },
+    {
+      "term": "Ensemble spread",
+      "definition": "How much the different computer forecast runs disagree. A large spread means the forecast for that time is uncertain."
+    },
+    {
+      "term": "Weak disturbance",
+      "definition": "A small ripple in the atmosphere's flow that can bring clouds or light rain but is not a major storm."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between air masses. A stronger front usually brings a period of steadier rain and wind."
+    },
+    {
+      "term": "Southwest Interior",
+      "definition": "The forecast office's name for the inland lowlands of southwest western Washington, such as Lewis and southern Thurston Counties."
+    }
+  ]
+}

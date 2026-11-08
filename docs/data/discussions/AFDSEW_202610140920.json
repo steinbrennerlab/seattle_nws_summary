@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610140920",
+  "issued": "2026-10-14T09:20:00+00:00",
+  "headline": "Weak front brings a few showers today, then warm and dry through Friday before wetter, cooler weather arrives Saturday.",
+  "summary": "A weakening cold front moves into western Washington today. Forecasters expect isolated to scattered showers this morning, mainly over the coast and mountains. After that, high pressure builds in and winds blow from the east (offshore), which means drier and warmer weather Thursday and Friday.\n\nThe pattern changes Friday night and Saturday, when another cold front and a trough (a dip in the jet stream) move in. That brings cooler, wetter weather, with showers likely Saturday afternoon and evening near the King/Snohomish county line, where a convergence zone is expected. Sunday morning should be chilly, with lows in the 30s around the south Sound.\n\nA second system was expected Sunday and Monday, but forecasters now think it will track south over the offshore waters and miss Washington. That lowers the chance of gusty winds. The air will still be cool and showery with the trough overhead, and a chance of showers continues into Tuesday before the trough moves out.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "A weakening cold front brings isolated to scattered showers this morning, mainly over the coast and mountains. Skies clear tonight, and low clouds and fog may form early Thursday morning."
+    },
+    {
+      "when": "Thursday and Thursday night",
+      "what": "Drier and warmer, with highs in the lower 70s and 60s near the water. Offshore winds strengthen Thursday night, with gusty east winds of 20-30 MPH through the gaps in the east Cascades."
+    },
+    {
+      "when": "Friday",
+      "what": "Slightly warmer in the interior, with highs in the mid 70s."
+    },
+    {
+      "when": "Friday night and Saturday",
+      "what": "Cooler and wetter as a cold front and trough move in. Showers with a convergence zone are likely Saturday afternoon and evening near the King/Snohomish line. Saturday highs are in the 50s and 60s."
+    },
+    {
+      "when": "Sunday and Monday",
+      "what": "Lows Sunday morning reach the 30s around the south Sound. The second system now looks likely to pass south of Washington over the offshore waters, so gusty winds are less likely. It stays cool and showery with the trough overhead."
+    },
+    {
+      "when": "Tuesday",
+      "what": "A chance of showers continues before the trough exits."
+    }
+  ],
+  "confidence": "Forecasters sound fairly confident about the warm, dry stretch Thursday and Friday and the cooler, wetter change Saturday. The Sunday-Monday system is less certain. Its track has shifted south, so it now looks like it will miss Washington, but forecasters also note significant differences in where the low will go.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of cooler air moving in. It often brings showers and a drop in temperature as it passes."
+    },
+    {
+      "term": "Ridge / high pressure",
+      "definition": "An area where air sinks and the atmosphere is stable, which usually means calmer, drier, and often warmer weather."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, which here means from the east. It tends to bring drier air and warmer temperatures to western Washington."
+    },
+    {
+      "term": "Gap winds",
+      "definition": "Winds that speed up as they squeeze through openings in a mountain range. Here they refer to gusty east winds through passes and gaps in the Cascades."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "The Puget Sound convergence zone forms when air flowing around the Olympic Mountains meets over the Sound. It can produce a narrow band of heavier showers, here near the King/Snohomish county line."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream that brings cooler air and often clouds and showers."
+    },
+    {
+      "term": "South Sound",
+      "definition": "The southern part of Puget Sound and the surrounding lowlands, including areas around Olympia and Tacoma."
+    }
+  ]
+}

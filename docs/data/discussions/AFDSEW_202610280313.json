@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610280313",
+  "issued": "2026-10-28T03:13:00+00:00",
+  "headline": "Steadier rain and the season's first widespread Cascade snow arrive tonight into Wednesday, then cool, showery weather lingers before drying out this weekend.",
+  "summary": "A weather system is moving in tonight. Showers will turn into steadier rain tonight and continue into Wednesday morning. Southwest winds will pick up this evening and into Wednesday, peaking at 20 to 30 mph, mainly in the Southwest Interior through Shelton. In the lowlands, this afternoon's highs were in the mid to upper 50s across the interior and low 50s along the water.\n\nThe rain comes with the first widespread mountain snow of the season. A Winter Weather Advisory is in effect for all the Cascade zones. Snow levels (the elevation where rain turns to snow) start around 4000 to 4500 feet and drop to 3000 to 3500 feet by Wednesday morning. Forecasters expect around 4 to 8 inches at Stevens Pass and 1 to 3 inches at Snoqualmie Pass. The southern Cascades, including White Pass and Paradise, will likely see more, around 6 to 12 inches. Travelers should check with WSDOT for road updates.\n\nAfter the front passes, an area of low pressure high in the atmosphere (an upper low) will linger over Western Washington into late week. That means spotty showers and cooler weather, with highs in the low to mid 50s for most areas Wednesday into Thursday. Scattered showers continue Friday, with light snow still possible in the Cascades. The system should slowly move out over the weekend, bringing drier weather into early next week. Weekend highs should stay in the mid 50s, but overnight lows may approach the low to mid 30s, so forecasters are watching for possible frost or freezing conditions.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Showers become steadier rain. Southwest winds increase this evening. Snow begins in the Cascades, with snow levels around 4000 to 4500 feet."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Steady rain continues into the morning, and southwest winds peak at 20 to 30 mph in the Southwest Interior through Shelton. Cascade snow levels drop to 3000 to 3500 feet. The Winter Weather Advisory runs until 5 PM."
+    },
+    {
+      "when": "Wednesday into Thursday night",
+      "what": "Spotty showers and cooler weather, with highs in the low to mid 50s for most areas."
+    },
+    {
+      "when": "Friday",
+      "what": "Scattered showers continue. Snow levels hover around 2500 to 4000 feet, so light snow could still accumulate in the Cascades."
+    },
+    {
+      "when": "Weekend",
+      "what": "The trough (area of low pressure aloft) slowly moves out and conditions dry. Highs stay in the mid 50s, with overnight lows approaching the low to mid 30s."
+    },
+    {
+      "when": "Early next week",
+      "what": "The drying trend continues. Forecasters will keep watching for frost or freeze conditions."
+    }
+  ],
+  "confidence": "The forecast for tonight through Wednesday looks solid, and forecasters made no changes to it tonight. Details later in the period are less certain: forecasters say they will keep monitoring the threat of frost or freeze conditions this weekend, and the exact timing of the drying trend depends on how quickly the trough moves out.",
+  "hazards": [
+    "Winter Weather Advisory until 5 PM Wednesday for the Cascades of Pierce and Lewis, Snohomish and northern King, southern King, and Whatcom and Skagit Counties, for the first widespread mountain snow of the season.",
+    "Small Craft Advisory (hazardous for small boats) for Puget Sound and Hood Canal and the Strait of Juan de Fuca until 11 PM this evening.",
+    "Small Craft Advisory for the outer coastal waters until 5 AM Wednesday."
+  ],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure in the upper atmosphere. It usually brings cloudy, cooler, unsettled weather."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A closed center of low pressure high in the atmosphere. It can linger over a region and keep showers going for days."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "The boundary between air masses, typically bringing a band of steadier rain and a shift in wind and temperature."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Winter Weather Advisory",
+      "definition": "A National Weather Service alert that winter weather such as snow is expected and could make travel difficult, but is not severe enough for a warning."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs, each with slightly different starting conditions. When the runs agree, forecasters have more confidence."
+    },
+    {
+      "term": "Southwest Interior",
+      "definition": "The National Weather Service's name for the inland part of southwest Washington, south of the Puget Sound area."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "AFDSEW_202610291919",
+  "issued": "2026-10-29T19:19:00+00:00",
+  "headline": "Showers and a slight thunderstorm chance today, then a freeze Friday night in parts of southwest Washington, and a dry, mild weekend.",
+  "summary": "A low-pressure system sitting off the coast near Vancouver Island is drifting slowly south. It is bringing showers inland this afternoon, and some may produce moderate rain. The air is still somewhat unstable, so forecasters give a slight chance of thunderstorms through this afternoon. The low should weaken and move inland south of the area on Saturday, and conditions will start to dry out.\n\nTemperatures will fall through Saturday morning. A Freeze Watch is in effect for the lowlands of Lewis and southern Thurston counties, where overnight lows are forecast to be in the upper 20s to around 32 degrees. Forecasters say the middle Chehalis River valley may also need a freeze alert, since lows there are approaching the upper 20s. Crops and sensitive plants could be killed, so protect them if needed.\n\nSaturday should be partly sunny and dry, with highs in the mid 50s and no rain expected for festivities around the region. High pressure aloft builds from Sunday into the middle of the week. A few weak systems may pass through, but they are unlikely to bring more than extra clouds, and any rain would not be significant. Highs stay in the mid 50s. Forecasters say Nov 6 through 12 could turn wetter, but they will keep evaluating that.",
+  "timeline": [
+    {
+      "when": "This afternoon",
+      "what": "Showers move inland, some with moderate rain, and there is a slight chance of thunderstorms."
+    },
+    {
+      "when": "Late Friday night through Saturday morning",
+      "what": "Freeze Watch for lowlands of Lewis and southern Thurston counties, with lows in the upper 20s to around 32. The middle Chehalis River valley may also need a freeze alert."
+    },
+    {
+      "when": "Saturday",
+      "what": "Partly sunny and drier as the low moves inland south of the area, with highs in the mid 50s and no precipitation expected for festivities."
+    },
+    {
+      "when": "Sunday through the middle of next week",
+      "what": "A weak ridge of high pressure builds, bringing periods of clouds and highs in the mid 50s."
+    },
+    {
+      "when": "Wednesday through the end of next week",
+      "what": "Weak systems may arrive, but they are unlikely to bring more than extra clouds, and any precipitation should be light."
+    },
+    {
+      "when": "Nov 6 through 12",
+      "what": "A return to wetter weather is possible, but forecasters will keep evaluating it as the date gets closer."
+    }
+  ],
+  "confidence": "Forecasters sound fairly confident in the dry, mild pattern from Saturday through the middle of next week. The freeze is less certain for the middle Chehalis River valley, where lows are only approaching the upper 20s and a freeze alert may or may not be needed. The wetter period Nov 6 through 12 is only a possibility at this range.",
+  "hazards": [
+    "Freeze Watch from late Friday night through Saturday morning for the lowlands of Lewis and southern Thurston counties; lows are forecast in the upper 20s to around 32 degrees, which could kill crops and sensitive plants.",
+    "A freeze alert may also be needed for the middle Chehalis River valley."
+  ],
+  "glossary": [
+    {
+      "term": "Freeze Watch",
+      "definition": "An alert that freezing temperatures that could harm crops and sensitive plants are possible, issued ahead of time so people can prepare."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Unstable (atmosphere)",
+      "definition": "Air that rises easily, which can fuel showers and occasional thunderstorms."
+    },
+    {
+      "term": "Offshore low",
+      "definition": "A low-pressure system centered over the ocean off the coast, which can send showers inland."
+    },
+    {
+      "term": "Lowlands",
+      "definition": "The lower-elevation areas of the region, as opposed to the mountains and passes."
+    },
+    {
+      "term": "Chehalis River valley",
+      "definition": "A river valley in southwest Washington where cold air can settle on clear nights, making it colder than surrounding areas."
+    }
+  ]
+}

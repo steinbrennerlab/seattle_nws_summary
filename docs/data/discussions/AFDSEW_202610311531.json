@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202610311531",
+  "issued": "2026-10-31T15:31:00+00:00",
+  "headline": "Frost, freezing temperatures and fog this morning give way to a dry, seasonable weekend; wetter weather returns midweek to late week.",
+  "summary": "Cold, clear skies overnight led to frost and areas of dense fog this morning. A Freeze Warning covers the Chehalis River Valley and lowlands of Lewis and southern Thurston Counties, where lows approached freezing. Areas north of Seattle and the Cascade foothills were expected to dip into the mid 30s, with frost possible. Fog is expected to thin out by late morning, though a Dense Fog Advisory for the Lewis and southern Thurston County lowlands, Olympia and the southern Puget Sound continues until 11 AM. Out over the coastal waters, a few short-lived thunderstorms have shown signs of rotation, so Special Marine Warnings were issued for possible brief waterspouts well offshore. Those storms should fade by mid afternoon as the low-pressure system weakens and moves inland to the south.\n\nToday and Sunday look dry, with highs in the low to mid 50s. Sunday morning should bring more frost in the 30s and likely another round of fog. High pressure moves in Sunday and stays through Monday, keeping most of western Washington dry. Some forecast models hint that a weak weather system could brush the coast on Monday, giving a roughly 20 to 30% chance of light precipitation there. Monday's lows will be in the 30s and highs in the low to mid 50s.\n\nTuesday could bring some light rain to parts of the area from a system that splits apart as it approaches. A weak system is expected Wednesday, and a stronger one Friday looks to bring more notable chances of rain. Lows will be in the mid 30s to mid 40s and highs in the mid to upper 50s through the period.",
+  "timeline": [
+    {
+      "when": "This morning (Saturday)",
+      "what": "Frost, a Freeze Warning and dense fog in parts of the lowlands. Frost and freeze alerts end at 9 AM and the Dense Fog Advisory at 11 AM. Offshore thunderstorms may produce brief waterspouts."
+    },
+    {
+      "when": "This afternoon and tonight",
+      "what": "Offshore storms taper off by mid afternoon. Dry, with highs in the low to mid 50s. Fog is likely to redevelop in the lowlands overnight."
+    },
+    {
+      "when": "Sunday",
+      "what": "Dry with highs in the low to mid 50s. Lows in the 30s bring more frost in the morning, and another round of fog is likely."
+    },
+    {
+      "when": "Monday",
+      "what": "Mostly dry, with lows in the 30s and highs in the low to mid 50s. A weak system might bring light precipitation to the coast (roughly 20 to 30% chance)."
+    },
+    {
+      "when": "Tuesday and Wednesday",
+      "what": "Tuesday may bring some light rain to parts of the area from a splitting system. A weak system moves through Wednesday."
+    },
+    {
+      "when": "Friday",
+      "what": "A stronger system looks to bring more notable chances of precipitation, though details are still uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, seasonable weather through Monday, though the small coastal chance of light precipitation Monday is uncertain because only a few model runs show it. Confidence is lower for the second half of next week because computer model runs still differ quite a bit on how the incoming systems will unfold.",
+  "hazards": [
+    "Frost Advisory until 9 AM this morning for areas north of Seattle, the Cascade foothills, Eastside, eastern Kitsap County and the Strait of Juan de Fuca area, among others",
+    "Freeze Warning until 9 AM this morning for the Lewis and southern Thurston County lowlands and the Middle Chehalis River Valley",
+    "Dense Fog Advisory until 11 AM this morning for the Lewis and southern Thurston County lowlands, Olympia and the southern Puget Sound",
+    "Special Marine Warnings for possible brief waterspouts over the outer coastal waters this morning"
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, rotating air high in the atmosphere that can trigger showers and thunderstorms. Here, one offshore is weakening and moving inland well to the south."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large bulge of high pressure high in the atmosphere that usually brings dry, calm weather. One moves in Sunday and holds through Monday."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A group of computer forecasts run with slightly different starting conditions. When the members agree, confidence is higher. When they differ, as they do for late next week, the forecast is less certain."
+    },
+    {
+      "term": "Special Marine Warning",
+      "definition": "A short-term warning for hazardous weather over coastal waters. Here it is for possible waterspouts, which are tornado-like funnels over water."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between different air masses that often brings clouds and rain. A weak one might brush the coast Monday."
+    },
+    {
+      "term": "Splitting system",
+      "definition": "A weather system that breaks into parts as it nears the region, which usually weakens its rain. One may bring some light rain Tuesday."
+    },
+    {
+      "term": "Frost Advisory",
+      "definition": "An alert that temperatures will be cold enough, typically in the mid 30s with clear, calm skies, for frost to form and possibly harm tender plants."
+    },
+    {
+      "term": "Freeze Warning",
+      "definition": "An alert that temperatures are expected to reach freezing or below, which can damage sensitive plants."
+    }
+  ]
+}

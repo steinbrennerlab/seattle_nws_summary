@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610091949",
+  "issued": "2026-10-09T19:49:00+00:00",
+  "headline": "Showers and breezy winds ease tonight, then dry, cool weather brings frost risk Saturday night, with light rain returning Tuesday into Wednesday.",
+  "summary": "Rain has mostly ended across western Washington, except for a band of showers centered over Seattle and stretching east into the Cascades. That band should drift south and east and weaken this evening. Winds are at their strongest now, with gusts of 20 to 35 mph, and should slowly ease tonight. Another weak low pressure system brings scattered showers on Saturday, with highs in the mid to upper 50s. Skies should clear Saturday evening.\n\nClear skies and light winds Saturday night will let the ground cool off quickly. Lows should range from the mid 40s in the Seattle metro area to the mid 30s in sheltered valleys. The first Frost Advisory of the season is in effect for the foothills and valleys of Pierce, southern King, Thurston and Lewis counties, and the middle Chehalis River Valley. Farther north in King and Snohomish counties, wind may keep frost from forming, but forecasters may expand the advisory if conditions change. Sunday looks drier and sunnier, with highs in the upper 50s to low 60s and breezy north to northeast winds, mainly over the water. Sunday night could bring more frost.\n\nMonday should be mostly dry with highs in the low 60s and morning lows in the mid to upper 30s for most areas, so another round of frost or freezing is possible. A weak system is expected to bring light rain Tuesday into Wednesday. After midweek the pattern is less certain, but forecasters favor a return to high pressure and mild weather.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "The leftover band of showers over Seattle weakens and shifts south and east. Winds, now gusting 20 to 35 mph, slowly ease. Temperatures fall into the upper 30s to mid 40s."
+    },
+    {
+      "when": "Saturday",
+      "what": "A weak low brings scattered showers through the afternoon, with highs in the mid to upper 50s. Skies clear in the evening, and breezy northeast winds (gusts up to about 25 mph) develop from western Whatcom County through the San Juans."
+    },
+    {
+      "when": "Saturday night",
+      "what": "Clear, mostly calm skies allow lows from the mid 40s in the metro area to the mid 30s in sheltered valleys. A Frost Advisory runs from midnight to 8 AM Sunday for parts of the southwest Washington Cascade foothills and the middle Chehalis River Valley."
+    },
+    {
+      "when": "Sunday and Sunday night",
+      "what": "Drier and sunnier, with highs in the upper 50s to low 60s. Breezy north to northeast winds gust up to 20 mph, especially over the water. Sunday night is cool again, with potential for more frost."
+    },
+    {
+      "when": "Monday",
+      "what": "Mostly dry with highs in the low 60s. Morning lows in the mid to upper 30s could bring another round of frost or freezing, especially in Cascade valleys and the southwest interior."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "A weak system crosses the area with light rain and breezy winds. The pattern after midweek is uncertain, but a return to high pressure and mild weather is favored."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the cool, mostly dry stretch from Sunday through Monday. Frost details are less certain: fog could form near Olympia and Chehalis, and wind may keep frost from forming farther north in King and Snohomish counties. The pattern after midweek is also uncertain, and the marine section notes some uncertainty in the timing of the Tuesday-Wednesday system.",
+  "hazards": [
+    "Frost Advisory from midnight Saturday night to 8 AM Sunday for the foothills and valleys of Pierce and southern King counties, the foothills and valleys of Thurston and Lewis counties, and the middle Chehalis River Valley.",
+    "Gale Warning until 11 PM this evening for the Strait of Juan de Fuca and the Washington coastal waters (mainly of interest to boaters).",
+    "Small Craft Advisories for the Northern Inland Waters including the San Juan Islands (until 11 PM this evening), Admiralty Inlet and the west entrance of the Strait of Juan de Fuca (until 8 PM this evening), the Grays Harbor Bar (until 5 AM Saturday), and the outer coastal waters (11 PM this evening to 6 PM Saturday)."
+  ],
+  "glossary": [
+    {
+      "term": "Convergence zone",
+      "definition": "A band where winds coming from different directions meet and push air upward, often producing a narrow area of showers. Here it is centered over Seattle and reaches east into the Cascades."
+    },
+    {
+      "term": "Post-frontal",
+      "definition": "Describes conditions after a weather front has passed. Showers and gusty winds often linger behind a front."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, in this case from the northeast. It tends to bring drier, cooler air and clearer skies to western Washington."
+    },
+    {
+      "term": "Frost Advisory",
+      "definition": "An alert that temperatures are expected to drop low enough for frost to form, which can damage sensitive plants."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, confidence is higher."
+    },
+    {
+      "term": "Guidance",
+      "definition": "Computer model forecasts that forecasters use as a starting point for their own predictions."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for sustained winds of 34 to 47 knots (about 39 to 54 mph), strong enough to be dangerous for most vessels."
+    }
+  ]
+}

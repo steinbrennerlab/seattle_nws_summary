@@ -1,0 +1,70 @@
+{
+  "id": "AFDSEW_202610301014",
+  "issued": "2026-10-30T10:14:00+00:00",
+  "headline": "Showery, chilly Friday afternoon, a cold night with freeze risk in parts of the southwest, then a sunny, dry Sunday.",
+  "summary": "A weakening area of low pressure high in the atmosphere is sitting just off the north coast. It is drifting southwest today and will fade over the weekend. Showers are rotating around it, and this afternoon they should become more widespread, especially over the interior, helped by a little daytime heating. The forecast high of 51 degrees in Seattle would make it the coldest day since another 51-degree day on May 15th. Lower 50s are common across the area.\n\nShowers should dry up quickly this evening and then stay mostly near the coast after midnight. By Saturday morning they should be limited to the coastal waters. Lows tonight are in the 30s and lower 40s. If skies clear enough, the Lower Chehalis Valley and the Southwest Interior could drop to the upper 20s, so a Freeze Watch is in effect for those areas. Saturday highs are in the lower to mid 50s.\n\nBy Sunday a ridge of high pressure builds in. Expect areas of morning low clouds and fog, then a sunny afternoon with highs in the lower to mid 50s. Early next week stays mostly quiet, with a front that may only brush the north coast Monday. Another ridge builds Tuesday and Wednesday, and a weakening front brings a chance of rain Thursday.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "Showers become more widespread this afternoon, especially over the interior. Highs are in the lower 50s, with Seattle forecast at 51, its coldest day since May 15th."
+    },
+    {
+      "when": "Tonight",
+      "what": "Showers dry up quickly this evening and become limited to the coast after midnight. Lows are in the 30s and lower 40s, with upper 20s possible in the Lower Chehalis Valley and Southwest Interior if skies clear. A Freeze Watch is in effect."
+    },
+    {
+      "when": "Saturday",
+      "what": "Showers are confined to the coastal waters in the morning. Varying amounts of middle and high clouds move through. Highs are in the lower to mid 50s."
+    },
+    {
+      "when": "Saturday night through Sunday",
+      "what": "Light winds allow patchy fog to develop early Sunday, especially in the Southwest Interior. Morning low clouds and fog give way to a sunny afternoon. Lows are in the 30s and lower 40s, and Sunday highs are in the lower to mid 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "A warm front is expected to just brush the north coast later Monday into Monday night."
+    },
+    {
+      "when": "Tuesday through Thursday",
+      "what": "Another ridge builds Tuesday and stays over Western Washington on Wednesday, with highs in the mid 50s and some upper 50s on Wednesday. A front reaches the area Thursday with a chance of rain. Lows are in the 30s and lower 40s."
+    }
+  ],
+  "confidence": "Forecasters say the computer models are in pretty good agreement on the pattern from Sunday night through Thursday. The main uncertainty is how much skies clear tonight, which decides whether the Lower Chehalis Valley and Southwest Interior reach the upper 20s.",
+  "hazards": [
+    "Freeze Watch from late tonight through Saturday morning for the lowlands of Lewis and southern Thurston Counties and the Middle Chehalis River Valley."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level low",
+      "definition": "An area of low pressure high in the atmosphere, often with cold air aloft, that can set off showers as it passes."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Difluent flow aloft",
+      "definition": "Winds high in the atmosphere that spread apart, which can help air rise and showers form."
+    },
+    {
+      "term": "Instability",
+      "definition": "A state of the atmosphere in which air rises easily, making showers more likely."
+    },
+    {
+      "term": "Freeze Watch",
+      "definition": "An alert that freezing temperatures that could harm crops and sensitive plants are possible but not certain."
+    },
+    {
+      "term": "Onshore gradients",
+      "definition": "Differences in air pressure that push air from the ocean toward land. When light, they let low clouds and fog form in the morning."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass, often bringing clouds and light rain."
+    },
+    {
+      "term": "Splitting front",
+      "definition": "A front that weakens and breaks apart as it moves in, so rain is possible but usually not heavy."
+    }
+  ]
+}

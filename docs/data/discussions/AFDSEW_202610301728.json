@@ -1,0 +1,70 @@
+{
+  "id": "AFDSEW_202610301728",
+  "issued": "2026-10-30T17:28:00+00:00",
+  "headline": "Showers peak this afternoon with a chilly 51 in Seattle, then dry, calmer weather returns with a freeze early Saturday in parts of southwest Washington.",
+  "summary": "A weakening area of low pressure high in the atmosphere is spinning off the north coast and drifting southwest. Today, a bit of daytime heating and air spreading apart aloft will make showers more widespread this afternoon, especially inland. The extra clouds and showers will hold highs to the lower 50s across the area. Seattle's forecast high of 51 would be its coldest day since another 51-degree day on May 15th.\n\nShowers should dry up quickly this evening and become limited to the coast after midnight. By Saturday morning only the coastal waters should still see showers. Clouds will vary overnight. Lows will mostly be in the 30s and lower 40s. If skies clear enough, the Lower Chehalis Valley and Southwest Interior could drop to the upper 20s, so a Freeze Warning is in effect there. Saturday highs should be in the lower to mid 50s.\n\nThe leftover low moves inland Saturday night with nothing much left of it. Light winds could bring patchy fog early Sunday in fog-prone spots like the Southwest Interior, along with morning low clouds. A ridge of high pressure builds in Sunday for a sunny afternoon with highs in the lower to mid 50s. Next week looks mostly quiet. A warm front may clip the north coast late Monday into Monday night, another ridge builds Tuesday and Wednesday, and a front arrives Thursday with a chance of rain.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "More widespread showers this afternoon, especially inland. Highs in the lower 50s, with Seattle forecast at 51."
+    },
+    {
+      "when": "Tonight",
+      "what": "Showers dry up quickly this evening and are confined to the coast after midnight. Lows in the 30s and lower 40s, with upper 20s possible in the Lower Chehalis Valley and Southwest Interior if skies clear. Freeze Warning from midnight to 9 AM Saturday."
+    },
+    {
+      "when": "Saturday",
+      "what": "Showers limited to the coastal waters in the morning. Varying mid and high clouds. Highs in the lower to mid 50s."
+    },
+    {
+      "when": "Saturday night to Sunday morning",
+      "what": "The remnants of the low move inland. Patchy fog possible in fog-prone areas like the Southwest Interior, with morning low clouds. Lows in the 30s and lower 40s."
+    },
+    {
+      "when": "Sunday",
+      "what": "Morning clouds and fog give way to a sunny afternoon. Highs in the lower to mid 50s."
+    },
+    {
+      "when": "Monday through Thursday",
+      "what": "Warm front may clip the north coast late Monday into Monday night. Ridge builds Tuesday and stays over the area Wednesday, with highs in the mid 50s and some upper 50s Wednesday. A front brings a chance of rain Thursday. Lows in the 30s and lower 40s."
+    }
+  ],
+  "confidence": "Forecasters say the computer models are in pretty good agreement on the pattern from Sunday night through Thursday. The Saturday-morning frost depends on how much the skies clear overnight, which is why the discussion words the upper 20s as a possibility rather than a certainty.",
+  "hazards": [
+    "Freeze Warning from midnight tonight to 9 AM PDT Saturday for the lowlands of Lewis and Southern Thurston Counties and the Middle Chehalis River Valley."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level low",
+      "definition": "An area of low pressure high in the atmosphere. It can bring clouds and showers, especially when it is cold aloft."
+    },
+    {
+      "term": "Difluent flow",
+      "definition": "Winds high in the atmosphere that spread apart. This can help air rise, which supports shower development."
+    },
+    {
+      "term": "Instability",
+      "definition": "A condition where air rises easily, which favors showers. Daytime heating can add to it."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "An area of high pressure high in the atmosphere. It usually brings drier, calmer, and often sunnier weather."
+    },
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the upper-level winds, often linked to cooler or unsettled weather."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air moving in. It often brings clouds and some rain."
+    },
+    {
+      "term": "Splitting front",
+      "definition": "A front that weakens or divides as it approaches, so rain may be lighter or patchier in some areas."
+    },
+    {
+      "term": "Onshore gradients",
+      "definition": "Differences in air pressure that push air from the ocean toward land. Light ones in the morning often allow low clouds and fog."
+    }
+  ]
+}

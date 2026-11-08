@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610070333",
+  "issued": "2026-10-07T03:33:00+00:00",
+  "headline": "Mild, sunny afternoons follow foggy mornings through Thursday, then a front brings wind and light rain Friday into Saturday, with cooler air after.",
+  "summary": "Through Thursday, western Washington stays mild. Each night and morning brings low cloud and fog, with the densest fog expected in the north and south interior and around the Olympics. Fog was already thickening Tuesday evening, with visibility down to a quarter mile in spots, particularly around Mukilteo. Forecasters are watching overnight conditions and may issue a fog headline. Fog should clear by early afternoon Wednesday, leaving sunny afternoons. Thursday morning fog is much less likely, though a few valleys could still see some. Highs slowly warm through Thursday, with a few spots reaching the low 70s. Overnight lows run from the upper 40s to the low 50s, with light northwest winds around 5 to 10 mph.\n\nA weather system arrives later Friday and continues through Saturday. Winds pick up across the area ahead of it on Friday, and rain continues into Saturday. Rainfall totals aren't expected to be impressive: about a tenth to a quarter of an inch through late Saturday.\n\nColder air settles in this weekend and into early next week. Any additional showers could leave light snow on the mountains above roughly 4,500 feet. In the foothills and outlying areas, overnight lows could dip into the 30s, so people with crops or gardens should watch for possible frost headlines early next week. Forecasters also note that Friday brings stronger winds and rough seas to the coast and the Strait of Juan de Fuca.",
+  "timeline": [
+    {
+      "when": "Tonight into Wednesday morning",
+      "what": "Fog and low cloud form again, with the lowest visibility in the north and south interior and near the Olympics. Forecasters may issue a fog headline if it gets dense enough."
+    },
+    {
+      "when": "Wednesday afternoon",
+      "what": "Fog and low cloud clear by early afternoon, leaving sunny, mild weather with light northwest winds."
+    },
+    {
+      "when": "Thursday",
+      "what": "Warmest day of the stretch, with a few spots reaching the low 70s. Morning fog is much less likely, though a few valleys could still see some."
+    },
+    {
+      "when": "Later Friday",
+      "what": "A front approaches. Winds increase ahead of it and rain begins. Coastal areas and the Strait of Juan de Fuca are likely to see stronger winds."
+    },
+    {
+      "when": "Saturday",
+      "what": "Rain continues, totaling about a tenth to a quarter of an inch through late Saturday. Colder air starts to settle in."
+    },
+    {
+      "when": "Sunday through early next week",
+      "what": "Cooler weather, with possible showers. Mountains above about 4,500 feet could get light snow, and foothill lows could fall into the 30s, with a possible frost risk early next week."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the mild, foggy-morning pattern through Thursday, though they are still watching how dense the fog gets tonight. For the Friday system, the computer model runs still disagree somewhat: about 60 to 70 percent of them show a fairly deep trough (a dip in the jet stream) moving through. Confidence in frost early next week is not high.",
+  "hazards": [
+    "No official watches, warnings, or advisories are in effect for western Washington.",
+    "Dense fog is possible tonight into Wednesday morning, especially around Puget Sound and the eastern Strait of Juan de Fuca. Forecasters are watching it and may issue a fog advisory.",
+    "Possible frost early next week in foothills and outlying areas, but confidence is not high and no frost headline has been issued."
+  ],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big dips or bulges. This usually means a quiet, steady pattern."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Air moving from the ocean toward land. It tends to bring cooler, moister air and low clouds to western Washington."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud. When it sits at ground level, it is fog."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs, each started with slightly different conditions. When most runs agree, confidence is higher. When they differ, there is more uncertainty."
+    },
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the jet stream high above the ground that usually brings cooler air, wind, and rain."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two air masses. In western Washington, a front usually brings a period of wind and rain, often followed by cooler air."
+    },
+    {
+      "term": "Zonal jet streak",
+      "definition": "A faster-moving section of the jet stream. Here, one in southern Canada helps keep air flowing in from the ocean."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202610081256",
+  "issued": "2026-10-08T12:56:00+00:00",
+  "headline": "Sunny and warm today, then a weak front brings rain and cooler air Friday into Saturday, with a chilly Sunday morning.",
+  "summary": "Today starts with patchy fog along the water and the Pacific coast, but less than in recent days. Once it clears later this morning, sunshine returns and afternoon highs climb to the low to mid 70s as high pressure moves in. A Dense Fog Advisory is in effect until 10 AM this morning for the Washington coast.\n\nThe warm weather won't last. A weak front arrives Friday into Saturday, bringing a round of rain to western Washington and breezy southwest winds around Puget Sound. Winds will also be stronger through the Strait of Juan de Fuca. Forecasters expect about a quarter to a half inch of rain in the Cascades and a few hundredths to a tenth of an inch elsewhere. The system is cool enough that snow levels fall to around 4,500 to 5,000 feet Friday night into Saturday, giving an inch of snow or less, mainly in the North Cascades. Saturday morning lows will be in the low 40s for much of the Puget Sound area and the mid to upper 30s in the Cascades and nearby foothills.\n\nDrier but cooler weather follows Saturday night and Sunday. Sunday morning lows will be in the upper 30s and low 40s for much of the area, but cold air settling into Cascade valleys could bring lows near freezing. That matters for gardeners and farmers with frost-sensitive plants. Lows warm up from Monday on, but afternoon highs through midweek stay in the low to mid 60s. Another chance of light rain comes Tuesday.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "Morning fog and low cloud clear later in the morning, then sunny and warm with highs in the low to mid 70s. A Dense Fog Advisory for the Washington coast runs until 10 AM."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A weak front brings rain to western Washington and breezy southwest winds around Puget Sound, with stronger westerly winds through the Strait of Juan de Fuca. Cascades get about a quarter to half inch of rain, and most other areas a few hundredths to a tenth of an inch."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "Snow levels drop to around 4,500 to 5,000 feet, with an inch of snow or less mainly in the North Cascades."
+    },
+    {
+      "when": "Saturday morning",
+      "what": "Lows in the low 40s for much of the Puget Sound area and the mid to upper 30s in the Cascades and adjacent foothills."
+    },
+    {
+      "when": "Saturday night through Sunday",
+      "what": "Drier and cooler. Sunday morning lows are in the upper 30s and low 40s for much of the area, with a roughly 30% chance of freezing temperatures in some Cascade valleys and near Mount Rainier."
+    },
+    {
+      "when": "Monday through Wednesday",
+      "what": "Lows warm up but afternoon highs stay in the low to mid 60s. Another chance of light rain comes Tuesday."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the Friday-Saturday front and the cooler pattern that follows. They describe the front as weak, so rain amounts are modest. The freezing risk Sunday morning is only about 30% and limited to Cascade valleys and the Mount Rainier area. Beyond Wednesday, the models disagree on whether the cool, unsettled pattern lingers or high pressure returns.",
+  "hazards": [
+    "Dense Fog Advisory until 10 AM PDT this morning for the Washington coast (Grays Harbor County coast and the Northern Washington coast).",
+    "Dense Fog Advisory until 10 AM PDT this morning for Puget Sound, Hood Canal, the San Juan Islands and other nearby waters.",
+    "Gale Watch from late tonight through Friday evening for the coastal waters and the Strait of Juan de Fuca, where strong gusts are possible.",
+    "Small Craft Advisory from 2 PM today to 3 AM Friday for the central and eastern Strait of Juan de Fuca."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses, usually bringing clouds, rain, and a shift in wind and temperature. Here it is a weak, cool front."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud, often looking like fog lifted just off the ground."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the expected amount of rain or melted snow."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions to show the range of possible outcomes."
+    },
+    {
+      "term": "Troughing",
+      "definition": "A broad dip in the jet stream that tends to bring cooler, more unsettled weather. Here it sits over the western U.S. through Wednesday."
+    },
+    {
+      "term": "Gale Watch",
+      "definition": "A marine alert that gale-force winds (34 knots or more) are possible but not yet certain."
+    },
+    {
+      "term": "Thermal trough",
+      "definition": "A zone of low pressure along the coast during warm spells that influences wind direction. Its movement inland brings westerly winds, and later in the weekend it brings periods of offshore winds."
+    }
+  ]
+}
