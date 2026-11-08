@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610131736",
+  "issued": "2026-10-13T17:36:00+00:00",
+  "headline": "Light showers on the coast and north through Wednesday, then dry and warm Thursday and Friday before a stronger, wetter system arrives Sunday.",
+  "summary": "A weak weather system is passing north of the region today, and its front is clipping western Washington. It will bring more clouds and scattered showers, mostly along the coast and near the Canadian border. Clouds kept this morning milder, with temperatures in the upper 30s and 40s. Highs today should reach the 50s to lower 60s. A weakening cold front moves south into western Washington on Wednesday. The coast, mountains and northern part of the region get more showers, and the North Coast has the best chance of rain that actually wets the ground.\n\nHigh pressure then builds in. Thursday should be dry and warmer, with highs in the lower 70s and 60s along the water. Friday looks like one more dry, mild day, with inland highs a few degrees warmer, in the lower to mid 70s. The warmth comes partly from winds blowing from the land toward the water, which is called offshore flow.\n\nThe weather turns cooler and wetter Friday night and Saturday as a weak system moves in. A stronger, wetter system follows Sunday and Sunday night into Monday. Forecasters say it could bring stronger winds along the coast and soaking rain to the coast and mountains. Mountain areas above 5000 feet may see a few inches of snow.",
+  "timeline": [
+    {
+      "when": "Today (Tuesday)",
+      "what": "More clouds and scattered showers, mainly along the coast and near the Canadian border. Highs in the 50s to lower 60s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A weakening cold front brings more showers to the coast, mountains and north. The North Coast has the best chance of rain that wets the ground."
+    },
+    {
+      "when": "Thursday",
+      "what": "Dry and warmer, with highs in the lower 70s and 60s along the water."
+    },
+    {
+      "when": "Friday",
+      "what": "One more dry, mild day. Inland highs in the lower to mid 70s, a few degrees warmer than Thursday."
+    },
+    {
+      "when": "Friday night and Saturday",
+      "what": "Cooler and wetter as a trough, a dip in the jet stream, moves in."
+    },
+    {
+      "when": "Sunday into Monday",
+      "what": "A stronger, wetter system arrives. It could bring stronger coastal winds, wetting rain on the coast and in the mountains, and a few inches of snow above 5000 feet."
+    }
+  ],
+  "confidence": "The discussion sounds fairly confident about the dry, warm stretch Thursday and Friday and about the pattern turning wetter over the weekend. For Sunday and Monday, forecasters say the system has the potential for stronger coastal winds and mountain snow, which means those details are not certain. They give no specific wind speeds or rain amounts.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass moving in. It often brings clouds and light rain, and temperatures rise afterward."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass. It often brings showers and a drop in temperature. This one is weakening as it arrives."
+    },
+    {
+      "term": "High pressure (ridge)",
+      "definition": "A zone of sinking air that usually brings dry, calmer weather. In western Washington it can also bring warmer temperatures."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean. It brings drier air and often warmer temperatures to western Washington."
+    },
+    {
+      "term": "Wetting rain",
+      "definition": "Enough rain to wet the ground. It is more than a sprinkle or a few drops."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream, or an area of lower pressure. It usually brings cooler, wetter weather."
+    },
+    {
+      "term": "Pacific system",
+      "definition": "A storm that forms over the Pacific Ocean and moves toward the coast. It usually brings rain, wind and mountain snow."
+    }
+  ]
+}

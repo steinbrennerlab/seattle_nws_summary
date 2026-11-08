@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610161613",
+  "issued": "2026-10-16T16:13:00+00:00",
+  "headline": "One more warm, dry day today, then cooler, wetter weather arrives tonight and Saturday, with more rain chances next week.",
+  "summary": "Today is the last warm, dry day for now. Patchy, shallow fog formed this morning, mainly where the wind was calm, and it should burn off later this morning. High pressure and east winds off the land are keeping things warm, with afternoon highs in the lower to mid 70s and 60s near the water. Winds in the Cascades peaked overnight and will keep easing today.\n\nA front and trough (a dip in the jet stream) move in from the west as the high pressure ridge shifts east. Most of the rain falls tonight into Saturday morning, mainly on the coast and in the mountains. On Saturday afternoon, showers are expected along a convergence zone near the King/Snohomish county line, where air flowing around the Olympics comes together and lifts. Outside that zone, there should be a few sunbreaks, with highs in the 50s to lower 60s.\n\nSunday is cool and dry between weather systems. Morning lows will be in the 30s and 40s, near freezing around the south Sound, and highs mostly in the 50s. An upper-level low spinning offshore Monday should bring showers mainly to the coast. It weakens Tuesday, with light, dry winds from the east. A weak front may bring a chance of light rain Wednesday night and Thursday.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "Morning fog burns off. Warm and dry, with highs in the lower to mid 70s and 60s near the water. East winds in the Cascades keep easing."
+    },
+    {
+      "when": "Tonight into Saturday morning",
+      "what": "A front brings the bulk of the rain, mainly to the coast and mountains."
+    },
+    {
+      "when": "Saturday",
+      "what": "Cooler, with highs in the 50s to lower 60s. Afternoon showers are expected near the King/Snohomish line, with a few sunbreaks elsewhere."
+    },
+    {
+      "when": "Sunday",
+      "what": "Cool and dry. Morning lows in the 30s and 40s, near freezing around the south Sound. Highs mostly in the 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "An upper-level low offshore brings showers that mainly clip the coast."
+    },
+    {
+      "when": "Tuesday through Thursday",
+      "what": "Tuesday is light and dry with winds from the east. A weak front fizzles out Wednesday night and Thursday, with a chance of light rain."
+    }
+  ],
+  "confidence": "The discussion gives no explicit confidence statements, but the near-term pattern is described firmly: warm and dry today, rain tonight into Saturday, dry Sunday. Midweek is less certain. The Wednesday night and Thursday front is weak and described only as a chance of light rain, and the synopsis says another front \"may\" reach the area.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for strong westerly winds on Saturday from 6 AM to 6 PM PDT in the central and eastern Strait of Juan de Fuca, which matters to boaters."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure in the upper atmosphere that usually brings dry, settled, and often warm weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream that tends to bring cooler air and a greater chance of rain."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, which in western Washington means air from the east. It tends to be dry and, in fall, can keep temperatures mild."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band where air flowing around the Olympic Mountains comes back together over Puget Sound and rises, often producing showers. Here it sets up near the King/Snohomish county line."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two air masses. Fronts usually bring a period of clouds and rain, followed by cooler air."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, low-pressure air high in the atmosphere that can spin in place and bring showers."
+    },
+    {
+      "term": "Gaps",
+      "definition": "Low spots or passes in the Cascades where east winds are funneled and become stronger."
+    }
+  ]
+}

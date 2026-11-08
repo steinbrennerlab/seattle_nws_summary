@@ -1,0 +1,56 @@
+{
+  "id": "AFDSEW_202610200309",
+  "issued": "2026-10-20T03:09:00+00:00",
+  "headline": "Dry, mild weather continues through Wednesday, with a weak front Thursday and a possible weekend system that could lower snow levels to 4,000 feet.",
+  "summary": "A large area of low pressure offshore is sliding south toward California and will miss western Washington, and a weak ridge of high pressure to the north is helping keep things quiet. Expect dry weather through Wednesday. Patchy fog is possible in the next couple of mornings, mainly in cooler valleys, and some frost may mix in, especially in the south interior. High clouds should thin out late Tuesday, which should warm afternoons a few degrees into Wednesday. The best chance for a 70 is in the south interior.\n\nThings turn cooler Thursday into Friday as a weak cold front passes through. The best chance for precipitation is east of I-5 and up to the Cascades. Highs should be more in the 50s, with some 30s in the valleys and mountains and perhaps a couple of 20s.\n\nAnother system may arrive next weekend, but computer models disagree on its path. Some send it north into Canada, while others deepen it off the coast of British Columbia. Whether rain or snow reaches the region is described as something of a tossup. Either way, snow levels are expected to fall to 4,000 to 5,000 feet going into the weekend.",
+  "timeline": [
+    {
+      "when": "Tonight through Tuesday morning",
+      "what": "Dry. Patchy fog possible in cooler valleys, with some frost mixing in, particularly in the south interior."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Dry and mild. High clouds dissipate late Tuesday, bumping highs up a few degrees. The best chance for a 70 is in the south interior."
+    },
+    {
+      "when": "Thursday into Friday",
+      "what": "A weak cold front passes. The best chance of precipitation is east of I-5 up to the Cascades. Highs cool to more 50s, with some 30s (and a couple of 20s) in valleys and mountains."
+    },
+    {
+      "when": "Next weekend",
+      "what": "A possible low-pressure system or front. Its track is uncertain, so precipitation is a tossup. Snow levels are expected to drop to 4,000 to 5,000 feet."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, quiet pattern through Wednesday, and said no updates were needed. Confidence drops for next weekend because computer models disagree on where the next low will go, which makes precipitation a tossup. They are more confident that snow levels will drop to 4,000 to 5,000 feet either way.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated area of lower pressure in the atmosphere, often linked to cooler, unsettled weather. Here, one is passing south of the region toward California."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of higher pressure high in the atmosphere that usually brings calmer, drier weather. A weak one is developing in western Canada."
+    },
+    {
+      "term": "Surface low pressure system",
+      "definition": "A center of low air pressure at ground level, which can bring clouds and precipitation. This one is passing south of the region and missing it."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. Its passage usually brings cooler temperatures and sometimes precipitation."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Interior",
+      "definition": "The lowland areas of western Washington away from the coast, such as around Puget Sound. The south interior is the southern part of that area."
+    },
+    {
+      "term": "Models",
+      "definition": "Computer simulations of the atmosphere that forecasters use to predict weather. When models disagree, forecast confidence is lower."
+    }
+  ]
+}

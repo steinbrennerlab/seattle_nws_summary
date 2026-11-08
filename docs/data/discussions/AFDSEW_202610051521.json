@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202610051521",
+  "issued": "2026-10-05T15:21:00+00:00",
+  "headline": "Dense fog clears by midday today, then mild, repetitive weather gives way to a cooler, unsettled weekend with light rain chances.",
+  "summary": "A Dense Fog Advisory is in effect until noon today for much of western Washington's lowlands. Forecasters say fog should start lifting around 10-11 AM, with more clearing soon after and high clouds passing overhead. Fog ceilings are around 100-300 feet, so areas right near sea level may no longer be seeing dense fog.\n\nThrough Wednesday, the pattern barely changes. Cool, moist air pushing in from the ocean brings low clouds to the lowlands each morning, with patchy fog possible on calm nights. Most lowland areas clear by afternoon, though the coast may stay cloudy with little sun. Highs are generally in the 60s to lower 70s and lows in the mid 40s to lower 50s, with Wednesday a degree or two warmer. Thursday looks similar, with morning low clouds, afternoon sun, and highs in the mid 60s to lower 70s.\n\nA change arrives Friday into the weekend as the region turns cooler and more unsettled. Forecasters say models have backed off on rain Friday because an approaching weather front is expected to split apart. A low-pressure center cut off from the main flow is expected overhead by Saturday, bringing cooler weather and a chance of light showers lingering into Sunday. Highs next weekend are expected to peak in the mid 50s to lower 60s.",
+  "timeline": [
+    {
+      "when": "This morning (Monday)",
+      "what": "Dense fog continues in many lowland areas. It should begin lifting around 10-11 AM, with more clearing soon after and high clouds overhead. The advisory runs until noon."
+    },
+    {
+      "when": "Monday afternoon through Wednesday",
+      "what": "Each morning brings low clouds and possible patchy fog, clearing by afternoon in most lowland areas. The coast may stay cloudy. Highs are in the 60s to lower 70s, with Wednesday a degree or two warmer."
+    },
+    {
+      "when": "Thursday",
+      "what": "Another round of low morning clouds is possible, followed by sunny afternoon skies. Highs are in the mid 60s to lower 70s."
+    },
+    {
+      "when": "Friday",
+      "what": "A weather front is expected to split apart as it arrives, so rain looks less likely than earlier thought. Details are uncertain."
+    },
+    {
+      "when": "Saturday",
+      "what": "A cutoff low develops overhead, bringing cooler temperatures. A Puget Sound convergence zone, a band of heavier showers, may develop, though this is only hinted at."
+    },
+    {
+      "when": "Sunday",
+      "what": "Light showers may linger. The weekend overall looks cooler and unsettled, with highs in the mid 50s to lower 60s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the steady pattern through Thursday, since little is changing from day to day. They are confident that cooler, troughy weather arrives Friday into the weekend, but the details, including how much rain falls and whether a convergence zone forms, remain fairly uncertain.",
+  "hazards": [
+    "Dense Fog Advisory until noon PDT today for many lowland areas of western Washington, including the City of Seattle, Everett/Marysville, the Eastside, Olympia and southern Puget Sound, Island and San Juan Counties, the Strait of Juan de Fuca, and parts of the coast and Chehalis River valleys. Visibility may be very low.",
+    "Dense Fog Advisory until 11 AM PDT this morning for Puget Sound, Hood Canal, Admiralty Inlet, the Strait of Juan de Fuca, and the Northern Inland Waters including the San Juan Islands."
+  ],
+  "glossary": [
+    {
+      "term": "Dense Fog Advisory",
+      "definition": "A National Weather Service alert that fog is thick enough to cut visibility sharply and make travel hazardous."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big north-south bends. It tends to bring steady, unremarkable weather."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Air moving from the Pacific Ocean toward land, which brings cooler, moister air and low clouds to western Washington."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "An area of high pressure high in the atmosphere, usually bringing warmer, drier weather."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud. When it sits at ground level, it is fog."
+    },
+    {
+      "term": "Troughing",
+      "definition": "A dip in the high-altitude winds that usually brings cooler air and a higher chance of clouds and rain."
+    },
+    {
+      "term": "Cutoff low",
+      "definition": "A low-pressure system that has separated from the main jet stream flow and moves slowly, often bringing cool, showery weather."
+    },
+    {
+      "term": "Puget Sound convergence zone",
+      "definition": "A band where air flows split around the Olympic Mountains and meet over the Puget Sound area, sometimes producing a narrow strip of heavier showers."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions to show the range of possible outcomes."
+    }
+  ]
+}

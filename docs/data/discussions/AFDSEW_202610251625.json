@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610251625",
+  "issued": "2026-10-25T16:25:00+00:00",
+  "headline": "Showers and breezy winds ease Monday, then a colder, wetter system arrives midweek with light mountain pass snow.",
+  "summary": "A weather system is bringing steady rain and some breezy winds to western Washington today (Sunday). The steadier rain is moving from Puget Sound east into the Cascades, with scattered showers along the coast. Over the last 24 hours, the Olympic Peninsula got roughly half an inch to an inch and a half of rain, and Puget Sound got about a fifth to half an inch, with less in the Cascades. Southeast winds could gust 25 to 35 MPH along the coast, around the San Juan Islands, and near Admiralty Inlet into the afternoon. Highs today are in the low to mid 50s.\n\nThe low pressure center stays offshore today, then moves inland Monday morning near the Oregon/Washington border. Forecasters say this will leave light showers lingering into Monday. A weak disturbance coming down from British Columbia on Tuesday brings another chance of light precipitation.\n\nThe bigger change comes late Tuesday, when another low pressure system slides down from the British Columbia coast. Forecasters expect widespread precipitation through at least Thursday, along with colder air. Highs are expected only in the upper 40s to low 50s, and nights in the 30s, with upper 20s possible in valleys by Thursday. Snow levels should fall below 3,500 feet, bringing light snow to the passes (around 4 inches) and perhaps around 7 inches on higher mountain peaks.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Steady rain moves east from Puget Sound into the Cascades, with scattered showers on the coast. Breezy southeast winds with gusts of 25 to 35 MPH along the coast, San Juan Islands, and Admiralty Inlet into the afternoon. Highs in the low to mid 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "The low moves inland near the Oregon/Washington border in the morning. Light showers linger."
+    },
+    {
+      "when": "Tuesday",
+      "what": "A weak disturbance from British Columbia brings another chance of light precipitation."
+    },
+    {
+      "when": "Late Tuesday through Thursday",
+      "what": "A new low pressure system brings widespread precipitation and colder air. Highs in the upper 40s to low 50s, lows in the 30s, and upper 20s possible in valleys by Thursday. Snow levels drop below 3,500 feet, with about 4 inches possible at the passes and about 7 inches on higher peaks."
+    },
+    {
+      "when": "Saturday",
+      "what": "The pattern is uncertain. Most forecast model runs keep a trough (a dip in the jet stream, usually cool and unsettled) over western Washington, while some build a weak ridge (a bulge of higher pressure, usually calmer) behind the system."
+    }
+  ],
+  "confidence": "Forecasters say computer models now agree better on the path of the current low, and have good agreement on the midweek system arriving late Tuesday. Confidence drops for Saturday, when models struggle with the upper-level pattern and most, but not all, favor continued unsettled weather.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisories (for boaters) on the coastal waters, the Strait of Juan de Fuca, and the northern inland waters including the San Juan Islands, expiring this afternoon or evening.",
+    "Gale Warning for the east entrance of the Strait of Juan de Fuca until 5 PM today."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A moving boundary between air masses that typically brings clouds, rain, and wind as it passes."
+    },
+    {
+      "term": "Shortwave",
+      "definition": "A small, fast-moving disturbance in the upper atmosphere that can trigger clouds and light precipitation."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Models",
+      "definition": "Computer simulations of the atmosphere that forecasters use to predict future weather."
+    },
+    {
+      "term": "Members",
+      "definition": "Individual runs of a forecast model, each starting with slightly different conditions. When members disagree, the forecast is less certain."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude air flow, often linked to cooler, unsettled weather."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge in the high-altitude air flow, often linked to calmer, drier weather."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or waves that could be hazardous to small boats."
+    }
+  ]
+}

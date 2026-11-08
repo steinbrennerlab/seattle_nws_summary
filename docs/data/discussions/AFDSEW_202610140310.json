@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610140310",
+  "issued": "2026-10-14T03:10:00+00:00",
+  "headline": "A weak front brings light rain tonight, then warm dry weather through Friday before wetter, cooler weather arrives this weekend.",
+  "summary": "A weak weather system is moving through tonight into Wednesday morning. Light rain and drizzle are showing up on the coast, the Olympic Peninsula and a few spots inland, and it should become more widespread overnight into early Wednesday. Amounts are expected to be light. Showers should stay mostly in the north, meaning the north Olympics, the Cascades and the northern interior. Overnight lows should be in the mid 40s to lower 50s. Only the Neah Bay to Quillayute area should notice any extra wind, with gusts up to 20 mph tonight and Wednesday morning.\n\nHigh pressure builds in late Wednesday and Thursday, so skies clear gradually and it warms up. Thursday highs should reach the upper 60s to mid 70s, with lows in the upper 40s to low 50s. Some patchy fog is possible in a few low-lying areas Thursday morning if the clouds clear. Friday looks like the warmest and driest day, with more places reaching the mid 70s and an isolated 80 possible in a few Cascade valleys. Breezy east winds, with gusts of 20 to 30 mph, are expected in the Cascades Thursday morning and likely again Friday morning. Forecasters do not expect fire weather to be a concern, since vegetation has largely recovered from recent rains.\n\nThe pattern changes this weekend as the high pressure moves away and a trough digs south from Alaska. A quick system Saturday should bring mostly rain, with up to an inch possible in a few north Cascade spots and some snow only at the highest elevations. A second, cooler and wetter system arrives late Sunday and lasts through Tuesday, spread over about 48 hours. Snow levels should drop to 5,000 ft, so the mountains should see more snow. Winds may be breezy at times with both systems, but the risk of winds strong enough for an advisory is low.",
+  "timeline": [
+    {
+      "when": "Tonight into early Wednesday",
+      "what": "Light rain and drizzle spread across the area, most widely overnight. Showers favor the north Olympics, Cascades and northern interior. Lows in the mid 40s to lower 50s. Gusts up to 20 mph near Neah Bay and Quillayute."
+    },
+    {
+      "when": "Late Wednesday",
+      "what": "High pressure begins building in and the weather starts to dry out."
+    },
+    {
+      "when": "Thursday",
+      "what": "Skies gradually clear and it warms to the upper 60s to mid 70s. Patchy morning fog is possible in a few low-lying areas. Gusty east winds of 20 to 30 mph in the Cascades in the morning."
+    },
+    {
+      "when": "Friday",
+      "what": "Warmest and driest day of the forecast, with highs reaching the mid 70s in more areas and an isolated 80 possible in a few Cascade valleys. Breezy east winds with gusts of 20 to 30 mph are likely in the morning."
+    },
+    {
+      "when": "Saturday",
+      "what": "A quick system brings mostly rain, with snow levels above 8,000 ft. A few north Cascade locations could get up to an inch of rain, plus some snow at the highest elevations."
+    },
+    {
+      "when": "Late Sunday through Tuesday",
+      "what": "A cooler, wetter system spread over about 48 hours. Snow levels drop to 5,000 ft, bringing more mountain snow. Winds may be breezy at times."
+    }
+  ],
+  "confidence": "Forecasters sound fairly confident about the light rain tonight and the warm, dry stretch Thursday and Friday. They say the risk of advisory-level winds this weekend and early next week is low. The discussion gives no specific rain or snow totals for the system late Sunday through Tuesday, only that it will be wetter and cooler overall.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure in the upper atmosphere that usually brings sinking air, clearing skies and warmer, drier weather."
+    },
+    {
+      "term": "Shortwave trough",
+      "definition": "A small, fast-moving dip in the upper-level winds that can bring clouds and showers. This one is passing north of here in British Columbia."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated dip in the upper-level winds that usually brings cooler, wetter weather. One is expected to dig south from Alaska this weekend."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean, which for western Washington means east winds. It tends to bring drier air and gusty winds through the Cascades."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. A snow level of 5,000 ft means mountain areas above that height can get snow."
+    },
+    {
+      "term": "Cold front / warm front",
+      "definition": "The leading edge of a colder or warmer air mass. Fronts often bring clouds and rain as they pass. Here the cold front is expected to stay mostly on the Canadian side of the border."
+    },
+    {
+      "term": "Fuels",
+      "definition": "In fire weather, the grass, brush and trees that can burn. Recent rain has moistened them, so fire risk is low."
+    }
+  ]
+}

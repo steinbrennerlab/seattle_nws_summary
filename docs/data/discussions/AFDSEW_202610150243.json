@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610150243",
+  "issued": "2026-10-15T02:43:00+00:00",
+  "headline": "Dry, warmer weather with some morning fog arrives through Friday, then cooler, unsettled weather returns with light rain Saturday and early next week.",
+  "summary": "High pressure is building over the Northwest through Friday. Skies are clearing, with highs in the upper 60s to low 70s on Thursday and mid 70s on Friday. Forecasters note some Minor HeatRisk on both days, meaning the warmth could affect a small number of people who are especially sensitive to heat. Because the lower atmosphere is moist and winds are light, stratus (a low, flat layer of cloud) and possibly fog could form Thursday morning. Winds blowing from the east, away from the coast, will get a little breezy in the Cascades and foothills Thursday night, with gusts of 25-30 mph. Humidity in the Cascades and southern Olympics could drop to around 35-40% Thursday, with a wider drop on Friday to 35-45%.\n\nThe weather turns over the weekend as the high pressure weakens and a series of weak systems move through. Saturday will likely bring rain to western Washington during the day. Most of it should fall in the North Cascades, with only a few hundredths of an inch in the lowlands, and parts of the Seattle area may stay dry. The bigger change is temperature: highs fall to the low 60s on Saturday, a sharp drop from Friday's mid 70s.\n\nSunday should be cooler and drier, with morning lows in the low 40s around Puget Sound and the mid 30s in the Cascade foothills. Cool, unsettled weather continues into early next week, with additional chances for light rain, especially Tuesday. Forecasters say the pattern beyond that is unclear. The coastal waters will see building seas over the weekend and possibly higher into early next week.",
+  "timeline": [
+    {
+      "when": "Tonight through Thursday morning",
+      "what": "Skies clear. Stratus and possibly fog could develop Thursday morning because of the moist lower atmosphere and light winds."
+    },
+    {
+      "when": "Thursday",
+      "what": "High pressure builds in, with highs in the upper 60s to low 70s. Humidity drops to around 35-40% in the Cascades and southern Olympics."
+    },
+    {
+      "when": "Thursday night",
+      "what": "Offshore (easterly) winds get a little breezy in the Cascades and foothills, with gusts of 25-30 mph."
+    },
+    {
+      "when": "Friday",
+      "what": "Warmest day, with highs in the mid 70s and some Minor HeatRisk. Minimum humidity of 35-45% is more widespread."
+    },
+    {
+      "when": "Saturday",
+      "what": "A system likely brings rain to western Washington through the day, mostly in the North Cascades. Lowlands get only a few hundredths of an inch, and the Seattle area may stay dry. Highs drop to the low 60s."
+    },
+    {
+      "when": "Sunday through Tuesday",
+      "what": "Sunday is cooler and drier, with lows in the low 40s around Puget Sound and the mid 30s in the foothills. Light rain chances return early next week, especially Tuesday."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the warm, dry stretch through Friday and in the cooler, rainy turn on Saturday. Fog Thursday morning is described only as a possibility. The track of the offshore trough on Sunday will be watched for changes, and the pattern after Tuesday is uncertain because the forecast models disagree.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Minor HeatRisk",
+      "definition": "The lowest level of a heat-risk rating. Temperatures are warm enough to affect a small number of people who are especially sensitive to heat."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud that often forms in moist air under calm conditions and can sit near the ground like fog."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind that blows from the land toward the ocean, which here means from the east. It tends to bring drier air and can be breezy near the Cascades."
+    },
+    {
+      "term": "Wind gradient",
+      "definition": "The change in air pressure from one place to another that drives wind. A light gradient means little pressure difference and calm winds."
+    },
+    {
+      "term": "RH (relative humidity)",
+      "definition": "How much moisture the air holds compared with the most it could hold at that temperature. Lower values mean drier air."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere that blow mostly west to east, without big north-south swings."
+    },
+    {
+      "term": "Troughing",
+      "definition": "A dip in the high-altitude winds, often tied to cooler, unsettled weather. A trough in the northeast Pacific sits off the coast."
+    },
+    {
+      "term": "Model guidance",
+      "definition": "Computer forecasts forecasters use to predict the weather. When different models disagree, the forecast is less certain."
+    }
+  ]
+}

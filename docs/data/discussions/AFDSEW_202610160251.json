@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610160251",
+  "issued": "2026-10-16T02:51:00+00:00",
+  "headline": "Warm, dry Friday with highs in the mid to upper 70s, then a weak rainy system Saturday and cooler weather.",
+  "summary": "High pressure aloft keeps western Washington dry and warm through Friday. Tonight, winds blow from the east and turn breezy, mostly in the Cascades and nearby foothills, where gusts will likely reach 25-30 mph. They ease by Friday morning. Because the air is flowing from land toward the water, fog should be limited, though isolated patchy fog is still possible in the south Sound and in fog-prone valleys. Friday afternoon will also be fairly dry, with relative humidity dropping to the upper 30s to low 40s percent.\n\nThe pattern then shifts. Winds return to blowing in from the ocean Friday afternoon, and a weak front crosses the area Saturday. Most lowlands should get only a few hundredths of an inch of rain. The Cascades should get around a quarter of an inch. Parts of central Puget Sound could get even less, because the moisture is weak and the southwest winds may leave them in a rain shadow. Behind the front, westerly winds pick up Saturday afternoon and evening in the Strait of Juan de Fuca and Admiralty Inlet.\n\nSunday looks cool and mostly dry, with highs in the upper 50s and low 60s. A low-pressure system is expected Monday, but most computer models track it south of western Washington, so Monday should stay dry and cool. The summary at the top of the discussion mentions more rain early next week, but the detailed forecast favors dry weather Monday. Another weak front may bring isolated showers Wednesday into Thursday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Breezy east winds, strongest in the Cascades and foothills, with gusts likely 25-30 mph. Fog should be limited, with isolated patches possible in the south Sound and fog-prone valleys."
+    },
+    {
+      "when": "Friday",
+      "what": "Slightly warmer and dry, with highs in the mid to upper 70s. East winds ease by morning. Afternoon humidity drops to the upper 30s to low 40s percent. Winds from the ocean return in the afternoon."
+    },
+    {
+      "when": "Saturday",
+      "what": "A weak front brings light rain: a few hundredths of an inch to most lowlands and about a quarter inch to the Cascades. Central Puget Sound may see less. Westerly winds pick up in the Strait of Juan de Fuca and Admiralty Inlet in the afternoon and evening."
+    },
+    {
+      "when": "Sunday",
+      "what": "Cool and mostly dry, with highs in the upper 50s and low 60s."
+    },
+    {
+      "when": "Monday",
+      "what": "Most models keep a low-pressure system to the south, so the area generally stays dry and cool."
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "A weak front from a low in the Gulf of Alaska may arrive. It does not look particularly strong and may bring isolated showers through Thursday."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, warm Friday and the weak, light Saturday system. Monday is less certain: they say most models, not all, keep the low-pressure system south of the area, and the discussion's opening summary mentions rain early next week. The midweek front is described as weak and only likely to bring isolated showers.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure in the upper atmosphere that usually brings dry, warmer weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "An area of low pressure in the upper atmosphere that usually brings cooler, unsettled weather. \"Trough dominant\" means that pattern is in charge."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean, which here means from the east. It tends to dry the air and limit fog in western Washington."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land. It brings cooler, moister air to western Washington."
+    },
+    {
+      "term": "Front (frontal system)",
+      "definition": "The boundary between two different air masses. Fronts often bring clouds, rain, and shifting winds."
+    },
+    {
+      "term": "Rain shadow",
+      "definition": "An area that gets less rain because nearby terrain blocks or dries out the incoming air."
+    },
+    {
+      "term": "Model guidance",
+      "definition": "Computer forecasts that meteorologists compare to judge what is likely to happen."
+    }
+  ]
+}

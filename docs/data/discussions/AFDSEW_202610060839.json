@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610060839",
+  "issued": "2026-10-06T08:39:00+00:00",
+  "headline": "Mild weather with morning fog and sunny afternoons continues through Thursday, then a weak system brings light rain Friday into Saturday.",
+  "summary": "Western Washington stays under a mostly flat, west-to-east air flow while high pressure builds to the south over the Great Basin. That keeps temperatures mild to warm all week. Expect a repeat of the morning pattern: clouds and fog early, then sunshine by afternoon.\n\nFog is likely again this morning. Temperatures and dewpoints (a measure of moisture in the air) are close together, and a light breeze is still pushing in from the ocean. Early observations showed visibility as low as a quarter mile along the coast and in the Strait of Juan de Fuca. Fog is also expected to form on its own around Puget Sound. It should burn off by early afternoon. Winds turn more northerly this afternoon into Wednesday, which should cut down on widespread low cloud and fog, though patches of fog can still develop.\n\nDaytime highs will be in the upper 60s through midweek. Thursday should be a bit warmer, in the low 70s, because of a weak breeze from the east. By late in the week the high pressure weakens a little and a broad area of lower pressure may settle over the northeast Pacific. That would bring a weak system with light rain on Friday into Saturday, and Sunday looks drier. Nights get cooler over the weekend, with lows in the low to mid 40s around Puget Sound and the upper 30s in the Cascades and nearby foothills.",
+  "timeline": [
+    {
+      "when": "This morning (Tuesday)",
+      "what": "Stratus (low cloud) and fog are likely again, with visibility as low as a quarter mile on the coast and in the Strait of Juan de Fuca. Fog also forms around Puget Sound. It should burn off by early afternoon."
+    },
+    {
+      "when": "This afternoon into Wednesday",
+      "what": "Winds turn more northerly, which should reduce widespread low cloud and fog. Patchy fog can still form, and another round of low clouds and fog is possible Wednesday morning."
+    },
+    {
+      "when": "Through midweek",
+      "what": "Mild to warm weather with highs in the upper 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "A bit warmer, with highs in the low 70s because of weak offshore (easterly) flow."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A weak system moves in with light rain. Forecasters say it does not look particularly strong."
+    },
+    {
+      "when": "Weekend",
+      "what": "Cooler nights, with lows in the low to mid 40s around Puget Sound and the upper 30s in the Cascades and adjacent foothills. Sunday looks drier."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the mild, foggy-morning pattern through Thursday. The weekend is less certain. Computer model runs mostly keep the high pressure in place through Thursday, but they begin to differ on Friday and the weekend. They agree somewhat more on broad lower pressure over the weekend, but not on exactly where its center will sit.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Air in the upper atmosphere moving mostly west to east in a fairly straight path, without big north-south bends. It tends to bring steady, unremarkable weather."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A flat, gray layer of low cloud. When it reaches the ground it is fog."
+    },
+    {
+      "term": "Dewpoint",
+      "definition": "The temperature at which the air becomes saturated and fog or cloud forms. When the air temperature is close to the dewpoint, fog is more likely."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land. In western Washington it usually brings cooler, moister air."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean, here from the east. It tends to bring drier, warmer air to western Washington."
+    },
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure that bulges northward in the upper atmosphere, usually bringing dry, stable weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "An area of lower pressure in the upper atmosphere, often linked to cooler, wetter weather."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, confidence is higher. When they differ, the forecast is less certain."
+    }
+  ]
+}

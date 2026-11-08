@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610210351",
+  "issued": "2026-10-21T03:51:00+00:00",
+  "headline": "Dry weather continues through Friday, apart from a weak Thursday system; a possible weekend system is uncertain in track and timing.",
+  "summary": "Tonight and Wednesday stay dry. Wednesday should be another warmer-than-normal October day. Lighter winds tonight mean patchy fog could form early Wednesday in sheltered spots. Forecasters expect it to lift and break up by late morning.\n\nA weak weather system brushes the area Thursday. Expect more clouds and near-normal temperatures. Forecast models show only a few very limited, short-lived showers, mainly in the Olympics and north Cascades Thursday afternoon and evening. Friday looks dry with near-normal temperatures.\n\nThe weekend is less certain. A weak system may arrive Saturday night into Sunday, but forecasters say the models are nearly split on its path. Some show a more direct, somewhat more organized (but likely still weak) system. Others show a slower or more northerly track, or one staying offshore. Those paths would bring less rain, or push it to Sunday or even Monday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Dry, with lows near normal to slightly cooler than normal. Winds ease, so patchy fog may form in sheltered locations toward morning."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Morning fog and low cloud lift and break up by late morning. Another dry, warmer-than-normal day."
+    },
+    {
+      "when": "Thursday",
+      "what": "A weak system brings more clouds and near-normal temperatures. A few very limited, brief showers are possible in the afternoon and evening, mainly in the Olympics and north Cascades."
+    },
+    {
+      "when": "Thursday night",
+      "what": "Offshore, ocean seas build to 10-15 ft, which matters mainly for coastal waters. They ease below 10 ft on Friday."
+    },
+    {
+      "when": "Friday",
+      "what": "Dry with near-normal temperatures."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A weak system may move through, but its track is uncertain. If the track is slower, more northerly or offshore, there would be less precipitation, arriving Sunday or even Monday."
+    },
+    {
+      "when": "Early next week",
+      "what": "The pattern is a toss-up. Models are split almost evenly between a ridge (drier) and a trough (more unsettled)."
+    }
+  ],
+  "confidence": "Confidence is high that the next couple of days stay dry and that Thursday's system is weak, with only isolated showers. For the weekend, forecasters see good agreement on the broad pattern but not the details. 48% of ensemble members favor a direct, more organized system and 52% favor a slower, more northerly or offshore track. Early next week is also nearly a coin flip, at 49% ridging versus 51% troughing.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Ensemble",
+      "definition": "A group of many computer model runs started with slightly different conditions. If most agree, forecasters are more confident. If they split, the forecast is more uncertain."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the jet stream high above the ground. Troughs often bring clouds, cooler air and a chance of precipitation."
+    },
+    {
+      "term": "Ridging",
+      "definition": "The opposite of a trough: a bulge in the jet stream that usually brings drier, calmer and often warmer weather."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Upper-level winds blowing mostly west to east, without big dips or bulges. Zonal patterns often bring mild, quiet weather."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud. When it forms right at the ground, it is fog."
+    },
+    {
+      "term": "REFS",
+      "definition": "A high-resolution ensemble forecast system. It runs many detailed model versions to show where showers are most likely."
+    },
+    {
+      "term": "Grand ensemble",
+      "definition": "A combination of several different ensemble systems. It gives a broader view of how likely each outcome is."
+    }
+  ]
+}

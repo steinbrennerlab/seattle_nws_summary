@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610261626",
+  "issued": "2026-10-26T16:26:00+00:00",
+  "headline": "Showers linger through Tuesday, then a cold front Tuesday night into Wednesday brings lowland rain, pass snow, breezy winds and cooler weather.",
+  "summary": "A low-pressure system that has been spinning off the coast is moving inland over northwest Oregon today (Monday). Western Washington will see lingering showers as it moves east. A weak disturbance dropping in early Tuesday keeps conditions unsettled, with light precipitation.\n\nThe bigger change comes late Tuesday into Wednesday, when a front tied to colder air moves south from British Columbia. It should bring rain to the lowlands, snow to the mountains, and breezy winds, with gusts peaking around 20 to 25 mph. The snow level is expected to drop to 2,500 to 3,500 feet from Tuesday evening into Wednesday morning, low enough to put snow on the mountain passes. Current guidance suggests 4 to 6 inches at the passes and 8 to 13 inches on higher peaks by Wednesday evening, and the latest model output has nudged snowfall amounts slightly higher. There is also a slight chance of thunderstorms in the lowlands on Wednesday, 10 to 15%.\n\nAfter the front passes, Wednesday highs should only reach the upper 40s to low 50s. The low-pressure system is expected to deepen offshore from Thursday through late in the week, which lowers the chances for precipitation. Cool weather continues into the weekend, with highs in the upper 40s to low 50s and lows in the 30s, and upper 20s possible in the usual colder spots.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "A low moves inland over northwest Oregon, leaving lingering showers across Western Washington."
+    },
+    {
+      "when": "Tuesday",
+      "what": "A weak disturbance keeps conditions unsettled, with light precipitation."
+    },
+    {
+      "when": "Late Tuesday into Wednesday",
+      "what": "A cold front moves in from British Columbia with lowland rain, mountain snow and breezy winds, with gusts peaking around 20 to 25 mph."
+    },
+    {
+      "when": "Tuesday evening into Wednesday morning",
+      "what": "The snow level drops to 2,500 to 3,500 feet, bringing snow to the passes."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A 10 to 15% chance of lowland thunderstorms. Highs only reach the upper 40s to low 50s. Passes may see 4 to 6 inches and higher peaks 8 to 13 inches by evening."
+    },
+    {
+      "when": "Thursday through the weekend",
+      "what": "Precipitation chances decrease as the low deepens offshore. Highs stay in the upper 40s to low 50s, lows in the 30s, and upper 20s are possible in the colder spots."
+    }
+  ],
+  "confidence": "Forecasters say the computer model ensembles agree well that the offshore low will deepen Thursday through late in the week, which cuts precipitation chances. They are much less sure about Sunday: ensemble members split evenly between a trough over the Pacific Northwest and a temporary ridge. Snowfall totals and the thunderstorm chance are current guidance values and could change.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of low pressure high in the atmosphere that can spin in place and bring unsettled, showery weather."
+    },
+    {
+      "term": "Shortwave",
+      "definition": "A small, fast-moving disturbance in the upper atmosphere that can trigger showers or briefly disrupt the weather."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that brings a change in weather. Here, it brings colder air plus rain, mountain snow and wind."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain. A lower snow level puts snow on the passes."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast guidance product that combines many weather models into one blended forecast."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many runs of a forecast model, each started with slightly different conditions, used to see how much the possible outcomes agree."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of lower pressure in the upper atmosphere, often linked with cooler, wetter weather."
+    },
+    {
+      "term": "Transient upper-level ridge",
+      "definition": "A temporary area of higher pressure aloft that usually brings drier, calmer weather but does not last long."
+    }
+  ]
+}

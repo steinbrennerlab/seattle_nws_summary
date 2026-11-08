@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610181543",
+  "issued": "2026-10-18T15:43:00+00:00",
+  "headline": "Dry, quiet weather with mostly sunny afternoons and morning fog continues through Wednesday, with only a weak front and light showers late in the week.",
+  "summary": "Western Washington stays dry for most of the next week. A large area of low pressure aloft is staying well offshore, first west of Washington and then off the California coast by Tuesday afternoon. Because it is too far away, the region gets mostly sunny afternoons, with only some middle and high clouds on Monday.\n\nThe main nuisance is morning fog. Light winds and a small gap between temperature and dew point (meaning the air is close to saturated) let fog form overnight, especially in the Southwest Interior and near Puget Sound and Hood Canal. Forecasters expect it to burn off by late morning or noon, as it has on most foggy mornings this month. Wednesday morning could bring local freezing fog, given lows in the 30s to lower 40s.\n\nA weakening front arrives Thursday with more clouds and only a chance of rain, which trims highs a few degrees. A cool, weak system then lingers Thursday night through Saturday, with a slight chance of showers at times. Snow levels near 4,500 feet could bring very light snow to higher elevations. Forecasters note October has been very dry: only 0.08 inches of rain at Sea-Tac so far, and only four Octobers in 81 years of records have had less than an inch.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Morning fog in the Southwest Interior and near Puget Sound and Hood Canal, gone by late morning. Mostly sunny afternoon with highs in the mid 50s to lower 60s."
+    },
+    {
+      "when": "Tonight through Monday",
+      "what": "Patchy fog again late tonight to mid morning in fog-prone places. Some middle and high clouds Monday. Lows mid 30s to mid 40s; highs a couple of degrees either side of 60."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Slightly more widespread morning fog, gone before noon. Lows mid 30s to mid 40s; highs upper 50s to mid 60s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Another sunny day after areas of morning fog and local freezing fog. Lows in the 30s to lower 40s; highs lower to mid 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "Weakening front moves through with more clouds and just a chance of rain. Highs mid 50s to near 60; lows mid 30s to mid 40s."
+    },
+    {
+      "when": "Thursday night through Saturday",
+      "what": "Cool trough overhead with a slight chance of showers at times. Very light snow possible in higher elevations (snow levels near 4,500 feet). Highs mid 50s to near 60; lows mid 30s to mid 40s Friday morning, 30s to lower 40s Saturday morning."
+    }
+  ],
+  "confidence": "Forecasters say the longer-range computer models agree well on the low pressure system sitting off California through Wednesday, so the dry stretch looks solid. Late in the week they only forecast a chance of rain and a slight chance of showers because the systems are weak, so those details are less certain.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the jet stream, high above the ground, that often brings cooler air and sometimes unsettled weather. Here it stays too far offshore to affect Washington much early in the week."
+    },
+    {
+      "term": "Upper level low",
+      "definition": "A closed circle of low pressure high in the atmosphere that can break off from a trough. This one ends up off the Central California coast by Tuesday afternoon."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A bulge in the jet stream with generally sinking air, which usually means calmer, drier weather. A weak one sits over Western Washington Tuesday."
+    },
+    {
+      "term": "Temperature dewpoint spread",
+      "definition": "The gap between the air temperature and the temperature at which fog or dew forms. When the gap is narrow, as it is early this morning, fog forms easily."
+    },
+    {
+      "term": "Surface gradients",
+      "definition": "Differences in air pressure across an area that drive wind. Light gradients mean light winds, which helps fog form and linger."
+    },
+    {
+      "term": "Southwest Interior",
+      "definition": "The lowland area of southwest Washington inland from the coast, including areas north of the Columbia River. It is one of the places fog forms most readily."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog that forms when temperatures are at or below freezing, so droplets can freeze on surfaces and make roads or walkways slick."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. Near 4,500 feet means only higher elevations could see snow."
+    }
+  ]
+}

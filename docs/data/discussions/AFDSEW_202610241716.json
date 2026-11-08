@@ -1,0 +1,59 @@
+{
+  "id": "AFDSEW_202610241716",
+  "issued": "2026-10-24T17:16:00+00:00",
+  "headline": "Light rain arrives tonight and Sunday, then cooler, unsettled weather continues next week, possibly wetter Wednesday and Thursday.",
+  "summary": "A weather system now near British Columbia will move south into western Washington this evening. Rain should reach the coast this evening and spread inland by Sunday morning. Forecasters expect it to be light, with the most rain along the coast and the Olympics. High clouds are already moving in this morning, and temperatures have dropped to the low 30s to low 40s. Highs the next few days should be in the mid to upper 50s.\n\nThe large area of low pressure higher in the atmosphere driving this system will keep moving south Sunday into Monday. Most computer models take its center into Oregon, which would make Monday drier around here. If it tracks closer to the Oregon/Washington border instead, light showers could linger Monday. Overnight lows should rise from the low 30s to low 40s to the upper 30s to mid 40s by Monday.\n\nThe rest of the week stays cooler and unsettled as more systems pass through. A broad dip in the jet stream is expected over the region Tuesday, with a low to the north. That low is expected to move south, and models are now trending wetter for Wednesday and Thursday. Highs next week should be in the low to mid 50s, with the coldest temperatures late in the week and lows in the low 30s to low 40s.",
+  "timeline": [
+    {
+      "when": "Today (Saturday)",
+      "what": "High clouds spread over western Washington and temperatures keep dropping. Morning readings were in the low 30s to low 40s."
+    },
+    {
+      "when": "Tonight",
+      "what": "A front moves south into western Washington this evening. Light rain reaches the coast first."
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain fills in across the interior by morning, with the most rain on the coast and the Olympics. Highs are in the mid to upper 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "Likely drier as the low moves into Oregon. Light showers are possible if it tracks closer to the Oregon/Washington border. Lows are in the upper 30s to mid 40s."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Unsettled and cooler, with a broad upper-level trough over the region and a low pressure system to the north."
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "Still unsettled. Wednesday and Thursday are trending wetter as the low moves south. Temperatures are coldest late in the week, with highs in the low to mid 50s and lows in the low 30s to low 40s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in light rain tonight and Sunday, and in a cooler, unsettled pattern next week. Monday depends on the low's track: most models favor drier weather, but a track nearer the Oregon/Washington border could bring light showers. The wetter trend for Wednesday and Thursday is a recent change in the models, so those details could still shift.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisories for boaters, due to increasing winds, on the Pacific coastal waters and the Strait of Juan de Fuca. They start between 3 PM and 8 PM today, depending on the area, and run until 5 PM Sunday. Seas are expected to build to 10 to 12 feet."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that usually brings clouds and rain as it passes. Here it moves south into western Washington this evening."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere that drives weather near the ground. Its track, whether into Oregon or nearer the Washington border, affects Monday's forecast."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A broad dip in the jet stream that often brings cooler, unsettled weather. One is expected over the region Tuesday."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of computer forecasts run with slightly different starting conditions. When they agree, forecasters have more confidence."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats. It is not a warning for land areas."
+    }
+  ]
+}

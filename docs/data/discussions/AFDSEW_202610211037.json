@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610211037",
+  "issued": "2026-10-21T10:37:00+00:00",
+  "headline": "Dry, mild weather continues through Friday; a weak system may bring showers this weekend, but forecasters are unsure.",
+  "summary": "Today (Wednesday) looks sunny and a bit warmer than usual after some morning fog near Puget Sound and in river valleys. Light winds blowing from the land toward the water, called offshore flow, add a couple of degrees to afternoon highs. Most places should reach the 60s. Seattle's forecast high of 65 would be the 10th warmest October 21st in 82 years of records, though forecasters don't expect any records to be broken.\n\nThursday and Friday stay dry. A weather disturbance moving in from the ocean brings more clouds Thursday afternoon but no rain for the lowlands. The Cascades might see a shower or two Thursday night. Friday starts with low clouds that should break into at least partly sunny skies in the afternoon. Highs both days are in the mid 50s to lower 60s.\n\nThe weekend is much less certain. Computer models disagree, but the most favored scenario is a weak system moving through later Saturday into Sunday morning, with a chance of rain nearly everywhere except the north coast. Chances of rain have been trending lower in recent model runs. A leftover pocket of cooler air high in the atmosphere could keep a slight chance of showers going Sunday into Sunday night. Highs should stay in the 50s. Forecasters are more confident that high pressure builds Monday or Monday night, giving a dry Tuesday. If it builds later Monday, there is a good chance of some lows in the 20s Tuesday morning. Forecasters also noted that Seattle has had just 0.08 inches of rain so far this October, less than Los Angeles, San Diego, Palm Springs, Las Vegas and Phoenix.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Morning fog and low clouds near Puget Sound and in river valleys, then sunny by mid morning. Highs mostly in the 60s, with Seattle forecast at 65. Lows tonight in the mid 30s to mid 40s."
+    },
+    {
+      "when": "Thursday",
+      "what": "Cooler, with highs in the mid 50s to lower 60s. Clouds increase in the afternoon as a trough reaches the coast, but no showers are expected."
+    },
+    {
+      "when": "Thursday night",
+      "what": "The trough moves through, perhaps giving the Cascades a shower or two. Mostly cloudy in the evening, thinning overnight. Lows in the lower 30s to lower 40s."
+    },
+    {
+      "when": "Friday",
+      "what": "Dry. Morning low clouds give way to at least partly sunny skies in the afternoon. Highs in the mid 50s to lower 60s."
+    },
+    {
+      "when": "Saturday to Sunday night",
+      "what": "A weak system may move through later Saturday into Sunday morning, with a chance of rain for most of the area except the north coast. Chance or slight chance of showers may linger Sunday into Sunday night. Highs in the 50s."
+    },
+    {
+      "when": "Monday to Tuesday",
+      "what": "High pressure builds Monday or Monday night, bringing a dry Tuesday. If it builds later Monday, Tuesday morning lows in the 20s are likely."
+    }
+  ],
+  "confidence": "Confidence is high for the dry, mild weather through Friday. The weekend is highly uncertain because computer models have not agreed on a consistent solution, and rain chances have been slowly dropping in recent runs. Forecasters have better agreement that high pressure builds Monday or Monday night, but the exact timing affects how cold Tuesday morning gets.",
+  "hazards": [
+    "No watches, warnings or advisories are in effect for western Washington land areas.",
+    "Small Craft Advisories for the Pacific coastal waters run from Thursday morning or afternoon into Friday, because of expected winds and building seas. Forecasters expect seas of 10 to 15 feet Thursday night."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the jet stream high above the ground, often bringing cooler air and clouds, and sometimes rain. This one carries little moisture."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A bulge in the jet stream high above the ground that usually brings calmer, drier and often sunnier weather."
+    },
+    {
+      "term": "Upper level low",
+      "definition": "A pocket of cold air high in the atmosphere that has separated from the main jet stream. It can linger and produce showers."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Winds blowing from land toward the ocean. In western Washington, these winds tend to bring drier air and can make temperatures a bit warmer."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Winds blowing from the ocean toward land, which usually bring cooler, cloudier and moister air."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they disagree, confidence in the forecast is lower."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation, meaning the chance that measurable rain or snow falls. Forecasters here call them chance or slight chance rather than likely."
+    }
+  ]
+}

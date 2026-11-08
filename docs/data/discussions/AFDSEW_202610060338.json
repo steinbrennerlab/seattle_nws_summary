@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610060338",
+  "issued": "2026-10-06T03:38:00+00:00",
+  "headline": "Mild weather with morning fog and afternoon sun continues through Thursday, then a cooler, breezier, mostly dry system arrives Friday into the weekend.",
+  "summary": "Through Thursday, western Washington stays in a steady routine. Winds are light, so low clouds and fog form overnight over the Puget Sound area and burn off around noon, give or take an hour. Afternoons bring sun with some high clouds. Forecasters added more morning clouds and fog to Tuesday and Wednesday in this update. Areas of dense fog are possible tonight. Some spots about 700 feet up are above the shallow cloud layer and get morning sunshine.\n\nTemperatures stay seasonably warm: highs in the mid 60s to low 70s and lows in the upper 40s to mid 50s. Slightly stronger winds Tuesday and Wednesday may shift the mornings toward low clouds with less fog, though patchy fog remains possible in sheltered valleys. Thursday should be the warmest day, with highs in the upper 60s to mid 70s, as high pressure aloft is strongest.\n\nA dip in the jet stream (an upper-level trough) is expected to move in Friday into the weekend. It should bring more clouds, more wind, and cooler weather, with highs in the upper 50s to low 60s and lows in the upper 30s to mid 40s. Forecasters expect only slight chances of showers in parts of the area, and widespread rain does not look very likely. Friday into Saturday has the best chance of showers.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Low clouds and fog form over the Puget Sound area, with areas of dense fog possible. Lows in the upper 40s to mid 50s."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Morning clouds and fog, clearing around noon give or take an hour, then afternoon sun with high clouds. Highs in the mid 60s to low 70s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Another round of morning low clouds and fog. Slightly stronger winds may mean more stratus and less fog, with patchy fog still possible in sheltered valleys."
+    },
+    {
+      "when": "Thursday",
+      "what": "Warmest day of the week, with highs in the upper 60s to mid 70s."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A trough moves in with more clouds, more wind, and slight chances of showers in parts of the area. Timing is uncertain."
+    },
+    {
+      "when": "This weekend",
+      "what": "Cooler, with highs in the upper 50s to low 60s and lows in the upper 30s to mid 40s."
+    }
+  ],
+  "confidence": "Forecasters are confident in the repeating pattern of morning clouds and fog and afternoon sun through Thursday. Most models agree a trough arrives Friday into the weekend, but the exact timing is uncertain, and widespread rain is not likely.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud. When it reaches the ground, it is fog."
+    },
+    {
+      "term": "Marine layer",
+      "definition": "A cool, moist layer of air near the surface that comes in from the ocean. Here it is shallow, so places around 700 feet are above it."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big dips or bulges."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge of high pressure aloft that usually brings warmer, drier, more settled weather."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the jet stream that usually brings cooler air, more clouds, wind, and a chance of showers."
+    },
+    {
+      "term": "500 mb heights",
+      "definition": "A measure of how high the 500-millibar pressure level sits in the atmosphere, roughly halfway up. Higher heights usually mean warmer, more settled weather."
+    },
+    {
+      "term": "Surface gradients",
+      "definition": "Differences in air pressure across an area at ground level. Small differences mean light winds."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AFDSEW_202610132131",
+  "issued": "2026-10-13T21:31:00+00:00",
+  "headline": "A weak system brings a few showers north through Wednesday, then warm dry weather through Friday before rain returns this weekend.",
+  "summary": "A weak weather system is passing mostly to the north in British Columbia tonight into Wednesday. Clouds will stay in place for much of today, and a few light showers are possible into Wednesday morning, mainly in the north Olympics, north Cascades, and northern interior. Only the Neah Bay to Quillayute area is expected to see a small bump in wind, with gusts up to 20 mph this evening or Wednesday morning.\n\nHigh pressure builds in late Wednesday and Thursday, drying things out and clearing skies. Thursday morning may bring patchy fog in a few low-lying areas if clouds clear. Highs Thursday should reach the upper 60s to mid 70s, with lows in the upper 40s to low 50s. Friday should be the warmest and driest day, with more areas in the mid 70s and an isolated 80 possible in a few Cascade valley locations. Gusty east winds of 20 to 30 mph are expected in the Cascades Thursday morning and breezy east winds are likely again Friday morning. Forecasters do not expect fire weather to be a concern because the ground and vegetation have largely recovered from recent rains.\n\nThe pattern changes this weekend as the high pressure moves out and a trough (a dip in the jet stream) digs south from Alaska. A quick system Saturday brings mostly rain, with snow only at the highest elevations. A second, cooler and wetter system arrives late Sunday and lasts through Tuesday, with lower snow levels and more mountain snow. Both systems will bring some breezy winds, but forecasters rate the risk of damaging winds as low for now.",
+  "timeline": [
+    {
+      "when": "Tonight into Wednesday morning",
+      "what": "Clouds stay in place, with a chance of light showers mainly in the north Olympics, north Cascades, and northern interior. Gusts up to 20 mph are possible around Neah Bay to Quillayute."
+    },
+    {
+      "when": "Late Wednesday into Thursday",
+      "what": "High pressure builds and skies gradually clear. Patchy fog is possible Thursday morning in a few low-lying areas. Highs reach the upper 60s to mid 70s, and Cascade winds gust 20 to 30 mph Thursday morning."
+    },
+    {
+      "when": "Friday",
+      "what": "The warmest and driest day of the period. Highs reach the mid 70s in more areas, with an isolated 80 possible in a few Cascade valley locations. Breezy east winds with gusts of 20 to 30 mph are likely in the morning."
+    },
+    {
+      "when": "Saturday",
+      "what": "A quick system brings mostly rain, with snow levels above 8,000 ft. A few north Cascade locations may see up to an inch of rain, with some snow at the highest elevations. Winds may be breezy."
+    },
+    {
+      "when": "Late Sunday through Tuesday",
+      "what": "A cooler, wetter system spread over about 48 hours. Snow levels drop to 5,000 ft, so more snow falls in the mountains. Winds will be breezy at times."
+    }
+  ],
+  "confidence": "Forecasters sound confident about the dry, warm stretch through Friday and about the pattern turning unsettled over the weekend and early next week. Details such as exact rain and snow amounts are less certain, and they say the risk of damaging winds at advisory level is low for now.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Shortwave trough",
+      "definition": "A small dip in the upper-level winds that often brings clouds and showers as it moves past."
+    },
+    {
+      "term": "Ridge",
+      "definition": "A bulge in the upper-level winds that brings high pressure and usually calm, dry, warm weather."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, which for western Washington means winds from the east. It tends to bring drier air and gusty winds in the Cascades."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the upper-level winds that tends to bring cooler, wetter, unsettled weather."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass, often bringing clouds and light rain."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass, often followed by cooler air and showers."
+    }
+  ]
+}

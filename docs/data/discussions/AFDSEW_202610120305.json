@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610120305",
+  "issued": "2026-10-12T03:05:00+00:00",
+  "headline": "Frost and patchy fog are likely early Monday, then mostly dry and warming midweek, with cooler, unsettled weather possible by Saturday.",
+  "summary": "Dry air flowing from the northeast has kept skies clear, and that will continue tonight. Clear skies and light winds let temperatures drop quickly overnight, so a Frost Advisory is in effect from midnight tonight to 8 AM Monday for much of the Puget Sound area southward, the Hood Canal, and the North Coast. Patchy fog is also possible early Monday. Highs on Monday should climb a bit, with most inland areas topping 60 degrees.\n\nMore clouds arrive Monday night as a weak atmospheric river (a narrow stream of moisture) aims at British Columbia. Most of its rain should stay north of the Canadian border, though some may clip the northwestern Olympic Peninsula and the northern interior on Tuesday. The extra clouds may limit frost and fog early Tuesday. Wednesday looks mostly dry for most of the region, with the best rain chances again on the Olympic Peninsula and northern interior.\n\nAn upper-level ridge (a zone of high pressure aloft that brings warm, dry weather) builds in Thursday and Friday, and the warming may start as early as Wednesday. Highs should reach the upper 60s to lower 70s by Friday, and some Cascade valleys, including the Highway 12 corridor, may hit the upper 70s. Forecasters do not expect any daily records. By Saturday the ridge shifts well to the east and a trough (a dip in the jet stream) develops over the Pacific Northwest, which will likely bring rain chances and cooler temperatures.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Mostly clear skies and light winds. Frost is expected after midnight, with patchy fog possible. A Frost Advisory runs from midnight to 8 AM Monday."
+    },
+    {
+      "when": "Monday",
+      "what": "Dry and a little warmer, with most inland areas topping 60 degrees. Clouds increase Monday night as moisture moves toward British Columbia."
+    },
+    {
+      "when": "Tuesday",
+      "what": "More clouds may limit frost and fog in the morning. Rain may clip the northwestern Olympic Peninsula and northern interior. Highs stay near or above 60 degrees inland."
+    },
+    {
+      "when": "Wednesday",
+      "what": "The weakening moisture band shifts a bit south, but most of the region should stay dry. Rain chances are highest on the Olympic Peninsula and northern interior. Warming and drying may begin."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "The ridge builds northward. Temperatures rise well above normal, with highs in the upper 60s to lower 70s by Friday and possibly the upper 70s in some Cascade valleys."
+    },
+    {
+      "when": "Saturday",
+      "what": "Cooler weather and chances for rain are likely as a trough develops, but the exact details are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the clear, chilly start Monday, since the Frost Advisory was left unchanged. They are less sure where the weak atmospheric river will go Wednesday, since its path may shift, and the details of the weekend change to cooler, wetter weather remain uncertain. Aviation notes also mention uncertainty in how low temperatures will get tonight, with a risk of freezing fog if they reach freezing.",
+  "hazards": [
+    "Frost Advisory from midnight tonight to 8 AM Monday for much of the Puget Sound area southward, including Eastern Kitsap County, the foothills and valleys of Pierce, southern King, Thurston and Lewis Counties, Olympia and southern Puget Sound, Hood Canal, the Chehalis River valley, the Willapa and Black Hills, Lake Crescent along US 101, and the northern Washington coast. It marks the end of the growing season in these areas.",
+    "Patchy fog is possible early Monday, mainly in the southern interior and valleys. If temperatures reach freezing, the fog could be freezing fog."
+  ],
+  "glossary": [
+    {
+      "term": "Frost Advisory",
+      "definition": "A National Weather Service notice that temperatures are expected to drop low enough for frost to form, which can damage sensitive plants."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow stream of moist air in the atmosphere that can bring clouds and rain when it reaches land. This one is weak and mostly aimed at British Columbia."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings sinking air, which means dry and often warmer weather."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A swirl of low pressure high in the atmosphere. An exiting one allowed dry northeasterly air to move in."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream and upper-level winds that often brings cooler air and a better chance of rain."
+    },
+    {
+      "term": "Northeasterly flow",
+      "definition": "Winds coming from the northeast. Here they bring dry air toward western Washington, keeping skies clear."
+    },
+    {
+      "term": "Seasonal normals",
+      "definition": "The typical temperatures for this time of year, based on long-term averages."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of tiny water droplets that freeze on contact with surfaces when temperatures are at or below freezing, leaving a coating of ice."
+    }
+  ]
+}

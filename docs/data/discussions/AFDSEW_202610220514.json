@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610220514",
+  "issued": "2026-10-22T05:14:00+00:00",
+  "headline": "Mostly dry weather continues through Friday, then a cooler pattern brings frost chances and returning showers from Saturday into next week.",
+  "summary": "Western Washington stays mostly dry through the end of the week. Skies cleared Wednesday afternoon, and highs reached the mid and upper 60s, with a couple of 70s in the south. A weak cold front moves through Thursday morning with more clouds but no rain expected. Behind it, there is a 20 percent chance of showers Thursday afternoon, mainly in the south interior and south Sound. Friday turns clear in the afternoon but a few degrees cooler, with highs in the mid to upper 50s.\n\nThe bigger change comes this weekend. A low-pressure system aloft is expected to drop south into the Pacific just off the coast. That brings a chance of showers back from Saturday through the middle of next week. Snow levels, the elevation where rain turns to snow, briefly fall to about 3,000 to 4,000 feet on Saturday, so some mountain snow showers are possible. Saturday morning is expected to be the coldest, with lows in the 30s widely and a chance of frost, especially in the south interior.\n\nForecasters say rainfall amounts next week are not expected to cause significant impacts. After Saturday, temperatures and snow levels are favored to warm slightly. The Pacific coast could see another round of breezy winds on Sunday, but winds are otherwise expected to stay light. Thursday night, northwest winds on the coast are expected to gust 25 to 35 mph.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Clouds increase. Patchy fog is possible in interior areas by Thursday morning, and a weak cold front approaches."
+    },
+    {
+      "when": "Thursday",
+      "what": "The front passes in the morning with no rain expected. About a 20 percent chance of showers in the afternoon in the south interior and south Sound."
+    },
+    {
+      "when": "Thursday night",
+      "what": "Northwest winds increase on the Pacific Coast, with gusts of 25 to 35 mph. Seas build on the coastal waters."
+    },
+    {
+      "when": "Friday",
+      "what": "Clouds clear in the afternoon. Highs are a few degrees cooler, in the mid to upper 50s."
+    },
+    {
+      "when": "Friday night into Saturday morning",
+      "what": "Lows in the mid 30s are possible, with some frost potential, especially in the south interior. It depends on how long skies stay clear."
+    },
+    {
+      "when": "Saturday through Wednesday",
+      "what": "Chance of showers returns. Snow levels dip briefly to 3,000 to 4,000 feet Saturday, with possible mountain snow showers. Breezy winds are possible on the coast Sunday. Temperatures and snow levels are favored to warm slightly afterward."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry stretch through Friday and in Saturday morning being the coldest. They are less sure about the weekend and next week, because computer models disagree on whether the low off the coast stays in place or moves away and lets high pressure build in. That keeps a chance of showers in the forecast, though amounts are not expected to cause significant impacts.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for western Washington land areas.",
+    "Small Craft Advisories (for small boats) are in effect for the Pacific coastal waters from Cape Flattery to Cape Shoalwater. Nearshore waters (out to 10 nautical miles) run from 2 PM Thursday to 11 AM Friday. Waters farther out (10 to 60 nautical miles) run from 8 AM Thursday to 5 PM Friday."
+  ],
+  "glossary": [
+    {
+      "term": "Split-flow pattern",
+      "definition": "A setup where the upper-level winds divide, with one branch to the north and one to the south. Here the jet stream stays far north in Canada while a low-pressure system sits deep in California."
+    },
+    {
+      "term": "Upper level low",
+      "definition": "A pocket of low pressure high in the atmosphere. It can bring cooler air and showers when it moves near the region."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass. Its passage typically brings clouds, a shift in wind, and sometimes rain."
+    },
+    {
+      "term": "Post-frontal convergence zone",
+      "definition": "An area behind a front where winds come together and push air upward, which can trigger showers. Here it is expected in the south interior and south Sound."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ridge (ridging)",
+      "definition": "An area of high pressure aloft that usually brings drier and often warmer weather."
+    },
+    {
+      "term": "Models/ensembles",
+      "definition": "Computer forecasts of the atmosphere. Ensembles are groups of runs started with slightly different conditions, and their disagreement shows how uncertain a forecast is."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas hazardous to small boats."
+    }
+  ]
+}

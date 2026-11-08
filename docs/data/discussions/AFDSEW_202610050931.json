@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610050931",
+  "issued": "2026-10-05T09:31:00+00:00",
+  "headline": "Mild, repetitive weather with morning clouds and afternoon sun through Thursday, then cooler and unsettled with some rain Friday into the weekend.",
+  "summary": "Through the middle of the week, western Washington stays in a steady pattern. Air from the Pacific flows inland each day, so low clouds spread across the lowlands every morning, with patchy fog possible overnight when winds are light. Most lowland areas clear to sunshine by afternoon, though the coast may stay cloudy with little sun. Highs are generally in the 60s to lower 70s, and lows in the mid 40s to lower 50s. Wednesday should be only a degree or two warmer.\n\nA high-pressure ridge to the south nudges north slightly on Thursday, bringing a bit more warmth (highs in the mid 60s to lower 70s) but the same pattern of morning low clouds and afternoon sun.\n\nFrom Friday into the weekend, a dip in the jet stream (a trough) is expected to move over the region, bringing cooler weather. Forecasters are confident this change is coming, but the details are uncertain. Rain on Friday now looks less impressive than earlier, because a weather front is expected to split apart as it arrives. A narrow band of showers could form in the Puget Sound area into Saturday. A separate pocket of cold air aloft is expected overhead by Saturday, bringing light showers that may linger into Sunday, with highs in the mid 50s to lower 60s.",
+  "timeline": [
+    {
+      "when": "Today (Monday) through Wednesday",
+      "what": "Clouds and possible patchy fog each morning, clearing to sun by afternoon in most lowlands. The coast may stay cloudy. Highs generally in the 60s to lower 70s, lows in the mid 40s to lower 50s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Little change, with temperatures only a degree or two warmer than earlier in the week."
+    },
+    {
+      "when": "Thursday",
+      "what": "Slightly warmer, with highs in the mid 60s to lower 70s. Morning low clouds are possible again, followed by sunny afternoon skies."
+    },
+    {
+      "when": "Friday",
+      "what": "Cooler weather begins to move in with a chance of rain, though forecast models have backed off on how much. A front is expected to split apart as it arrives."
+    },
+    {
+      "when": "Saturday",
+      "what": "Cooler and unsettled, with light showers possible. A Puget Sound convergence zone may develop, but this is only hinted at in the forecast."
+    },
+    {
+      "when": "Sunday",
+      "what": "Light showers may linger. Highs in the mid 55s to lower 60s are expected for the weekend overall."
+    }
+  ],
+  "confidence": "Confidence is good for the steady pattern through Thursday. Forecasters say models agree that a trough will develop Friday into the weekend, but the details, including how much rain falls and whether a convergence zone forms, remain fairly uncertain.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly straight west to east, without big dips or bulges. It usually means few major weather changes."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Air moving from the Pacific Ocean toward land. It tends to bring cooler, cloudier, moister weather to western Washington."
+    },
+    {
+      "term": "Marine push",
+      "definition": "A surge of cool, moist ocean air moving inland, often bringing low clouds in the morning."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud that can blanket the lowlands in the morning."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings warmer, drier weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream that tends to bring cooler, wetter weather."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions to show the range of possible outcomes."
+    },
+    {
+      "term": "Puget Sound convergence zone",
+      "definition": "A narrow band where air flowing around the Olympic Mountains meets over the Puget Sound area, sometimes producing a streak of heavier showers."
+    },
+    {
+      "term": "Cutoff low",
+      "definition": "A pocket of cold, unsettled air high in the atmosphere that has separated from the main jet stream and sits nearly in place."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AFDSEW_202610130903",
+  "issued": "2026-10-13T09:03:00+00:00",
+  "headline": "Clouds and light showers Tuesday and Wednesday give way to dry, warm weather Thursday and Friday before a stronger system arrives Sunday.",
+  "summary": "A weak weather system is passing mainly through British Columbia and will only clip western Washington. Today brings more clouds and scattered showers, mostly along the coast and near the Canadian border. The cloud cover keeps this morning milder, with temperatures in the upper 30s and 40s, and highs are expected in the 50s to lower 60s. A weakening cold front moves south on Wednesday, with more showers on the coast, in the mountains and in the north. The best chance of rain that actually wets the ground is on the North Coast.\n\nHigh pressure builds over the region Thursday, bringing dry, warmer weather, with highs in the lower 70s and 60s along the water. Winds shift to blow from the land toward the water (offshore), which helps keep things warm. Friday should be one more dry, mild day, a few degrees warmer in the interior, with highs in the lower to mid 70s.\n\nThe pattern turns wetter over the weekend. A weak system brings cooler, wetter conditions Friday night and Saturday. A stronger Pacific system then arrives Sunday and Sunday night and continues into Monday. It could bring stronger winds along the coast, wetting rain to the coast and mountains, and a few inches of snow on mountain areas above 5,000 feet.",
+  "timeline": [
+    {
+      "when": "Today (Tuesday)",
+      "what": "Clouds increase and scattered showers fall mainly along the coast and near the Canadian border. Highs reach the 50s to lower 60s after a morning in the upper 30s and 40s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A weakening cold front brings more showers to the coast, mountains and north. The North Coast has the best chance of wetting rain."
+    },
+    {
+      "when": "Thursday",
+      "what": "High pressure brings dry, warmer weather. Highs are in the lower 70s, with 60s along the water."
+    },
+    {
+      "when": "Friday",
+      "what": "Another dry, mild day with offshore flow. Interior highs are in the lower to mid 70s, a few degrees warmer than Thursday."
+    },
+    {
+      "when": "Friday night and Saturday",
+      "what": "A weak system brings cooler, wetter conditions."
+    },
+    {
+      "when": "Sunday into Monday",
+      "what": "A stronger, wetter Pacific system could bring stronger coastal winds, wetting rain to the coast and mountains, and a few inches of snow above 5,000 feet."
+    }
+  ],
+  "confidence": "The forecast for the next few days looks fairly settled: light showers mostly in the north and on the coast, then a dry, warm Thursday and Friday. Forecasters describe the Sunday-Monday system as having \"potential\" for stronger coastal winds and mountain snow, so the details of that storm are less certain.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Ridge of high pressure",
+      "definition": "A zone of high air pressure that usually brings dry, calmer weather and often warmer temperatures."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean. In western Washington it tends to bring drier air and warmer temperatures."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that brings clouds and often rain as it passes. Cold fronts and warm fronts are the two common types."
+    },
+    {
+      "term": "Wetting rain",
+      "definition": "Enough rain to thoroughly wet the ground, as opposed to a few sprinkles."
+    },
+    {
+      "term": "Trough",
+      "definition": "An area of lower pressure that often brings cooler, cloudier, wetter weather."
+    },
+    {
+      "term": "Pacific system",
+      "definition": "A storm that forms over or crosses the Pacific Ocean and moves toward the West Coast, often carrying rain and wind."
+    }
+  ]
+}

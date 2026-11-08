@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610191002",
+  "issued": "2026-10-19T10:02:00+00:00",
+  "headline": "Quiet, mild days with patchy morning fog through Wednesday, then a weak Thursday front; the weekend forecast is very uncertain.",
+  "summary": "Through Wednesday, western Washington stays mostly dry and mild. A low-pressure system high in the atmosphere is sitting off the coast and will drift south toward Central California by Tuesday. Today (Monday) high clouds stay overhead, and patchy fog is possible until mid morning. Highs are expected in the upper 50s to mid 60s, with the same range Tuesday and lower to mid 60s Wednesday.\n\nFog is a bigger concern Tuesday morning. Clouds should thin overnight and winds near the ground will be light, which favors more widespread fog. Forecasters say it should be shallow and gone by noon. Tonight's lows are mostly mid 30s to mid 40s, with some spots near freezing in the Southwest Interior and near Hood Canal. Wednesday brings mostly clear skies, and areas of fog are again possible early, clearing by midday.\n\nA weakening front arrives Thursday with a chance of showers, followed by drier weather Friday as high pressure builds in. The weekend is the big question. Computer models disagree on a system developing off the coast. Some show a strong front with wind and rain Saturday into Sunday, while others show something much weaker. The forecast currently carries a general chance of rain or likely rain and no damaging winds, but forecasters expect it to change several times before Friday.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "High clouds over the area. Patchy fog possible until mid morning. Highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tonight",
+      "what": "Clouds thin out. Lows mostly mid 30s to mid 40s, near freezing in the Southwest Interior and near Hood Canal. More fog likely by morning."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Fog in the morning, shallow and gone by noon. Highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tuesday night and Wednesday",
+      "what": "Mostly clear. Areas of fog possible early Wednesday, clearing by midday. Lows in the 30s and lower 40s, highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday through Friday",
+      "what": "A weakening front brings a chance of showers Thursday. Drier Friday as high pressure builds in."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "Uncertain. Rain is likely or possible, and some model runs show a windy system, but no impactful winds are in the forecast for now. Highs in the mid to upper 50s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the quiet, foggy-morning pattern through Wednesday and in the weak front on Thursday. Confidence for the weekend is low: model runs keep changing and disagree on how strong a system off the coast will be, so the forecast will likely change several times.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper level low",
+      "definition": "An area of low pressure high in the atmosphere, often far above the surface. It can steer weather systems and bring clouds, even when it is offshore."
+    },
+    {
+      "term": "Temperature dew point spread",
+      "definition": "The gap between the air temperature and the temperature at which fog or dew forms. When the gap is near zero, the air is nearly saturated and fog can form easily."
+    },
+    {
+      "term": "Surface gradients",
+      "definition": "Differences in air pressure over short distances at ground level that drive wind. Light gradients mean light winds, which helps fog form and linger."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean. Here it is too weak to stop fog from forming."
+    },
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the jet stream, usually with cooler air and a chance of showers as it passes."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecast runs started with slightly different conditions. If they disagree, forecast confidence is lower."
+    },
+    {
+      "term": "ECMWF and GFS",
+      "definition": "Two major weather computer models, European and American. Forecasters compare them, and here they disagree on the weekend system."
+    },
+    {
+      "term": "Millibar (mb)",
+      "definition": "A unit of air pressure. A surface low that is 20 mb weaker would mean a much less intense storm, with weaker winds."
+    }
+  ]
+}

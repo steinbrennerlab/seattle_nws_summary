@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610080321",
+  "issued": "2026-10-08T03:21:00+00:00",
+  "headline": "Foggy mornings and sunny afternoons continue through Thursday, then a weak front brings light rain and cooler weather Friday into Saturday.",
+  "summary": "High pressure keeps western Washington mostly dry through Thursday. Fog and low cloud are expected again overnight, most likely in the north interior from Bellingham to Everett. Other areas should see a mix of low cloud and mist. Forecasters expect somewhat less cloud cover Thursday, so skies should clear earlier and temperatures run slightly warmer. Afternoons should be sunny and seasonably warm.\n\nA front arrives late Friday into Saturday. Forecasters call it weak, with only a few hundredths of an inch of rain expected over the Cascades and northern Puget Sound, and it won't last long. It will still bring a change to cooler weather, with Friday highs falling to the low 60s. Breezy winds are expected Friday along the coast, the Strait of Juan de Fuca and Puget Sound waterfront areas. Snow levels drop to around 5000 ft late Friday night, so the higher terrain, especially the North Cascades, may get a dusting of snow.\n\nThe weekend turns colder as low pressure settles over the Northwest. Saturday morning lows are forecast in the upper 30s at Cascade passes and the low 40s in the foothills, with a few degrees cooler on Sunday morning. Forecasters say to stay tuned for possible frost or freeze concerns for crops and sensitive plants. Cool weather should last into early next week, with another chance of rain Tuesday into Wednesday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Fog and low cloud increase overnight. Fog is most likely in the north interior from Bellingham to Everett, with low cloud and mist elsewhere."
+    },
+    {
+      "when": "Thursday",
+      "what": "Fog and cloud clear earlier than recently, with a sunny afternoon and slightly warmer temperatures. Fog is expected to be less widespread than in recent mornings."
+    },
+    {
+      "when": "Friday",
+      "what": "A weak front moves in, bringing light rain, breezy winds along the coast, the Strait of Juan de Fuca and Puget Sound waterfronts, and highs in the low 60s."
+    },
+    {
+      "when": "Late Friday night",
+      "what": "Snow levels fall to around 5000 ft, so the high terrain, especially the North Cascades, may see a dusting of snow."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "Colder mornings. Saturday lows are in the upper 30s at Cascade passes and low 40s in the foothills, with a few degrees cooler Sunday. Frost or freeze potential is being watched."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Cool weather continues, with another possible round of rain, though the details are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the fog pattern through Thursday and in the Friday front. They describe that front as weak, with minimal rain. They are less sure about Tuesday into Wednesday. Computer models show rain, but the ensembles (groups of model runs) disagree on where the low pressure area will end up. Frost and freeze potential this weekend is still being watched, not yet forecast.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud. When it forms right at ground level, it is fog."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, which is the predicted amount of rain or melted snow. Here it is only a few hundredths of an inch."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between air masses. A front usually brings clouds, rain, and a change in temperature, and here it brings cooler air."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they disagree, confidence in the details is lower."
+    },
+    {
+      "term": "North interior",
+      "definition": "The northern inland part of western Washington, including the Bellingham-to-Everett area."
+    },
+    {
+      "term": "Low pressure in the Gulf of Alaska",
+      "definition": "A large storm system over the ocean to the northwest. It can send cool air and weather systems toward Washington."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202610230957",
+  "issued": "2026-10-23T09:57:00+00:00",
+  "headline": "Dry today, then a weak low brings mostly light rain from late Saturday into early next week.",
+  "summary": "Today (Friday) looks dry across western Washington as high pressure in the upper atmosphere briefly rebuilds. Temperatures should be close to normal for late October. Some lowland spots, especially around Olympia and Bellingham, may see fog early this morning, which should clear by about 11 AM.\n\nA low-pressure system moving south from the British Columbia coast should start bringing rain later Saturday. The coast and Olympic Peninsula are most likely to get rain Saturday night into Sunday. Some rain should reach Puget Sound on Sunday, but forecasters expect it to stay fairly light. Rain chances linger Sunday night into Monday, mostly in the southern half of the forecast area.\n\nThe low should move east on Tuesday, but the forecast gets less certain by the middle of next week. Forecasters are keeping a low, generic chance of showers for much of the area. Temperatures should stay near seasonal, with a growing chance of below-freezing overnight lows in the Southwest Interior and outlying areas by the middle to later part of next week.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "Dry with near-normal temperatures. Patchy morning fog is possible in a few places, with clearing expected by late morning."
+    },
+    {
+      "when": "Saturday",
+      "what": "Dry for much of the day. Rain from the approaching low begins later in the day."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "Rain is likely on the coast and Olympic Peninsula. Some rain reaches Puget Sound on Sunday but should be light. Forecasters are unsure of the low's exact track."
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A lingering chance of rain, mostly in the southern half of the forecast area."
+    },
+    {
+      "when": "Tuesday",
+      "what": "The upper-level trough shifts east, and drier conditions begin returning."
+    },
+    {
+      "when": "Middle to late next week",
+      "what": "Low chances of showers for much of the area. Sub-freezing overnight lows become more likely in the Southwest Interior and outlying areas."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in dry weather today and in rain arriving for the coast and Olympic Peninsula Saturday night into Sunday, though the models disagree on the low's track. Confidence drops by the middle of next week because computer model ensembles have shifted since yesterday and disagree on how much of a trough will remain over the region. Neither scenario looks particularly wet.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for western Washington land areas.",
+    "Small Craft Advisories for the coastal waters (rough seas and strong northwest winds) expire at 11 AM and 5 PM today, depending on the area. They also cover the Grays Harbor Bar, where waves can be hazardous for boats crossing it."
+  ],
+  "glossary": [
+    {
+      "term": "High pressure aloft (upper-level ridge)",
+      "definition": "An area of higher air pressure high in the atmosphere that usually brings sinking air, clearer skies, and dry weather."
+    },
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the high-altitude air flow, usually linked to cooler, unsettled weather and a better chance of precipitation."
+    },
+    {
+      "term": "PoPs",
+      "definition": "Probability of precipitation, the percent chance of measurable rain or snow. \"Likely to categorical\" means very high chances, roughly 60 percent or more."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, the predicted amount of rain or melted snow."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer model runs started with slightly different conditions. When they disagree (diverge), confidence in the forecast is lower."
+    },
+    {
+      "term": "GFS and ECMWF",
+      "definition": "Two major weather forecast computer models, one American and one European. Forecasters compare them to judge how certain a forecast is."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast that combines many computer models into one blended result."
+    },
+    {
+      "term": "CWA",
+      "definition": "County Warning Area, the region the Seattle forecast office is responsible for, which is western Washington."
+    },
+    {
+      "term": "Southwest Interior",
+      "definition": "The inland part of southwest Washington, away from the coast, including areas around Olympia and south toward the Columbia River."
+    }
+  ]
+}

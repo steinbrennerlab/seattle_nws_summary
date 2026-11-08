@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610130321",
+  "issued": "2026-10-13T03:21:00+00:00",
+  "headline": "Light showers brush the northwest Tuesday, then warm, dry weather Thursday and Friday before wetter, breezier weather returns over the weekend.",
+  "summary": "Tonight is quiet. High clouds are moving in, which should keep temperatures from dropping as far and limit fog and frost, though forecasters still mention patchy valley fog and some frost as possible. Lows are expected in the upper 30s to mid 40s. No changes were made to the forecast this evening.\n\nA weather system passing through British Columbia will just clip western Washington Tuesday into early Wednesday. Light showers are expected mainly along the Pacific Coast, on the western slopes of the Olympics, and from King County northward. Amounts should be small: a few hundredths of an inch in the northern inland areas, and a quarter to half an inch on the North Coast. High pressure aloft rebuilds Wednesday, and showers fade through the day.\n\nThursday and Friday should be warm. The air near the ground will flow from the land toward the coast instead of off the ocean, which warms things up. Highs are expected in the mid 60s to mid 70s, about 5 to 10 degrees above normal on Friday. A weak, fading system brings some rain Saturday, mainly to the coast and North Cascades. A stronger system Sunday into Monday brings more widespread rain and breezy winds, with highs only in the upper 50s to mid 60s.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Increasing mid and high clouds. Lows in the upper 30s to mid 40s. Patchy valley fog and some frost are still possible, though the clouds should limit them."
+    },
+    {
+      "when": "Tuesday into early Wednesday",
+      "what": "Light showers mainly on the Pacific Coast, the western Olympic slopes, and from King County northward. Highs in the mid 50s to mid 60s. The North Coast could see a quarter to half an inch of rain."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Showers taper off through the day. Mostly cloudy in the morning, becoming partly cloudy by afternoon. Highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "High pressure builds and the wind turns offshore. Highs in the mid 60s to mid 70s, lows in the mid 40s to low 50s."
+    },
+    {
+      "when": "Friday",
+      "what": "The warmest day of the week, a degree or two warmer than Thursday. Highs again in the mid 60s to mid 70s, roughly 5 to 10 degrees above normal."
+    },
+    {
+      "when": "Saturday through Monday",
+      "what": "A weakening system on Saturday brings rain mostly to the coast and North Cascades. A stronger system Sunday into Monday brings more widespread rain and breezy winds. A dusting of snow is possible on the higher peaks Monday as snow levels drop to 5000-5500 ft. Highs in the upper 50s to mid 60s."
+    }
+  ],
+  "confidence": "Forecasters say computer models are in strong agreement that high pressure builds over the region Thursday, so the warm spell looks likely. The weekend system is described as what \"looks to\" happen, and the mountain snow is only called \"possible.\" The discussion does not give detailed confidence for the weekend timing or amounts.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings calmer, drier and often warmer weather."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean. In western Washington it keeps cool, damp ocean air out and often brings warmer, drier weather."
+    },
+    {
+      "term": "Thermal trough",
+      "definition": "A narrow area of low pressure near the ground created by hot air. Along the coast it helps turn winds offshore and brings warmer temperatures."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A weather system with a boundary between air masses. It usually brings clouds, rain and sometimes wind as it passes."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ridge axis",
+      "definition": "The line along the crest of a ridge of high pressure, where its influence is strongest."
+    },
+    {
+      "term": "North Interior",
+      "definition": "The part of western Washington away from the coast in the northern area, around the northern Puget Sound region."
+    }
+  ]
+}

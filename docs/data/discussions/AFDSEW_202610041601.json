@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610041601",
+  "issued": "2026-10-04T16:01:00+00:00",
+  "headline": "Fog clears around midday Sunday, then a mild, dry, seasonable week follows, with rain chances rising Friday afternoon but uncertain.",
+  "summary": "Today is the last warm day for a while. High pressure is overhead, and a thermal trough (a zone of warmer air near the surface) is shifting inland. Highs in the lowlands are expected in the low to mid 70s, with some Cascade foothills and valleys reaching the upper 70s to lower 80s. Fog and low cloud are widespread this morning, and forecasters expect them to start breaking up around noon. They say this could make highs a degree or two cooler than forecast.\n\nFrom tonight, a weather system passing over British Columbia flattens the high-pressure ridge and brings air in from the ocean again. That means a cooler, more typical pattern: morning clouds, afternoon sun breaks, and dry weather. Monday and Tuesday look nearly the same, with highs mostly in the mid 60s to lower 70s and lows in the upper 40s to lower 50s. Forecasters expect little change through Thursday.\n\nA trough (a dip in the jet stream) may bring cooler, wetter weather on Friday, with rain chances increasing Friday afternoon into Saturday. Forecasters say the front bringing the rain may break apart as it reaches western Washington, which would not be a washout. How much rain falls and how widely is still uncertain.",
+  "timeline": [
+    {
+      "when": "Today (Sunday) morning",
+      "what": "Dense fog and low clouds across many lowlands. A Dense Fog Advisory runs until 10 AM for parts of the north and south Sound area, Island County, and the North Cascade foothills. Fog in the Seattle-Tacoma corridor is patchy and varies from minute to minute."
+    },
+    {
+      "when": "Today (Sunday) midday and afternoon",
+      "what": "Clouds are expected to begin breaking up around noon, though they could linger into early afternoon. Highs reach the low to mid 70s in the lowlands, and the upper 70s to lower 80s in some foothills and valleys."
+    },
+    {
+      "when": "Tonight into Monday morning",
+      "what": "The ridge flattens and onshore flow returns, bringing another round of morning low clouds. Marine winds strengthen, especially in the Strait of Juan de Fuca."
+    },
+    {
+      "when": "Monday and Tuesday",
+      "what": "Dry and seasonable, with morning clouds and afternoon sun breaks. Highs are in the mid 60s to lower 70s and lows in the upper 40s to lower 50s."
+    },
+    {
+      "when": "Tuesday night through Thursday",
+      "what": "More of the same, with little day-to-day change: near-normal temperatures and morning clouds."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "Cooler and wetter as a trough passes. Rain chances increase Friday afternoon into Saturday, but the amount and coverage are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, seasonable pattern through Thursday, though the timing of fog clearing today has been tricky. They have low confidence in the Friday rain: models agree a little better on cooler, wetter weather, but may break the rain-making system apart, so intensity and coverage are unclear.",
+  "hazards": [
+    "Dense Fog Advisory until 10 AM PDT this morning for parts of western Washington, including the Everett and Marysville area, Island County, the lowlands of western Skagit, northwestern Snohomish, and western Whatcom counties, the Shoreline, Lynnwood, and south Everett area, the lowlands of Lewis and southern Thurston counties, and the North Cascade foothills and valleys. Visibility is under 1/2 mile in places.",
+    "No fog advisory for the I-5 corridor through Seattle and Tacoma, but forecasters are watching it and could issue a short-notice one.",
+    "Small Craft Advisory from 5 PM Sunday to 5 AM Monday for the central and eastern Strait of Juan de Fuca, where onshore winds will be strongest."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge (upper-level ridge)",
+      "definition": "A bulge of high pressure in the upper atmosphere that usually brings calm, dry, and often warmer weather."
+    },
+    {
+      "term": "Thermal trough",
+      "definition": "A narrow zone of low pressure near the surface where warm air gathers, usually along the coast, often tied to warm, dry offshore winds."
+    },
+    {
+      "term": "Near-zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east without big dips or bulges, which generally means a quiet, typical pattern."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land, which brings cooler, moister air and often morning clouds to western Washington."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean, which tends to be drier and warmer."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud, often gray, that can sit near the ground and become fog."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream, often associated with cooler air and a better chance of clouds and rain."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A warning for winds or waves that could be hazardous to small boats."
+    }
+  ]
+}

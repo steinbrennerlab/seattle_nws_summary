@@ -1,0 +1,60 @@
+{
+  "id": "AFDSEW_202610052116",
+  "issued": "2026-10-05T21:16:00+00:00",
+  "headline": "Warm days with foggy mornings last through Thursday; cooler, breezier weather with a few showers possible arrives Friday.",
+  "summary": "The pattern stays much the same for the next few days. Winds high up are mostly flat, west to east, and a weak bulge of high pressure aloft is building as a ridge over the southwestern U.S. expands. Near the ground, air keeps flowing in from the ocean. The result is a routine run of morning clouds and fog, then sunnier afternoons with some high clouds. Highs should be in the mid 60s to low 70s and lows in the upper 40s to mid 50s.\n\nFog is most likely today and tonight. Winds are light and there is plenty of moisture, so a layer of low cloud is expected to rebuild and bring areas of dense fog. Winds should pick up a bit Tuesday and Wednesday, which may shift things toward low cloud rather than fog. Patchy fog is still possible in sheltered valleys.\n\nThursday looks like the warmest day of the week, with highs in the upper 60s to mid 70s. After that, most forecast models show a trough (a dip in the jet stream) moving into the Pacific Northwest from Friday into the weekend. Expect more clouds, more wind, and cooler weather, with highs in the upper 50s to low 60s and lows in the upper 30s to mid 40s. Forecasters see only slight chances for showers in parts of the area, and widespread rain does not look very likely.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light winds and leftover moisture favor fog and low cloud returning, with areas of dense fog possible."
+    },
+    {
+      "when": "Tuesday and Wednesday",
+      "what": "Morning clouds and fog give way to sunny afternoons with high clouds. Slightly stronger winds may mean more low cloud and less fog, though patchy fog is still possible in sheltered valleys. Highs are in the mid 60s to low 70s."
+    },
+    {
+      "when": "Thursday",
+      "what": "The ridge has its greatest influence, making this the warmest day of the week, with highs in the upper 60s to mid 70s."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A trough moves in, bringing more clouds, more wind, and slight chances for showers in some areas. These two days have the best chance for any showers, but timing is uncertain."
+    },
+    {
+      "when": "This weekend",
+      "what": "Cooler, with highs in the upper 50s to low 60s and lows in the upper 30s to mid 40s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the routine pattern of morning fog and afternoon sun through Thursday. Most models agree a trough arrives Friday into the weekend, but the exact timing is uncertain, and widespread rain is not expected, only slight chances for showers.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly straight west to east, without big north-south bends. It usually means a quiet, steady pattern."
+    },
+    {
+      "term": "Ridge (upper-level ridge)",
+      "definition": "A bulge of high pressure in the upper atmosphere that tends to bring warmer, drier, more settled weather."
+    },
+    {
+      "term": "Trough (upper-level trough)",
+      "definition": "A dip in the jet stream that brings cooler air and often more clouds, wind, and a chance of showers."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Air moving from the Pacific Ocean toward land. It brings cool, moist air, which helps make morning low clouds and fog."
+    },
+    {
+      "term": "Marine layer",
+      "definition": "A cool, moist layer of air near the surface that pushes in from the ocean and often brings low clouds and fog."
+    },
+    {
+      "term": "500 mb heights",
+      "definition": "A measure of how high the 500-millibar pressure level sits, roughly halfway up through the atmosphere. Higher heights generally mean warmer, more settled weather."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A flat, gray layer of low cloud. When it sits right at ground level, it is fog."
+    }
+  ]
+}

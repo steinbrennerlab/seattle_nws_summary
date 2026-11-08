@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610100940",
+  "issued": "2026-10-10T09:40:00+00:00",
+  "headline": "Cool, mostly dry weather with frosty mornings through Monday, then a couple of warm days late next week.",
+  "summary": "A cool pocket of cold air high in the atmosphere (an upper-level low) is over western Washington this morning. It is producing a few scattered showers from Skagit to King County, but those should fade this morning, and no showers are expected this afternoon. The main effect is chilly daytime temperatures, with highs in the mid and upper 50s. Forecasters are going for 57 in Seattle today. Seattle's high Friday was 58, the coolest since May 15th (51).\n\nSkies should clear this afternoon and tonight, and dry winds from the northeast will take over aloft through Monday. Clear skies let the ground cool off quickly, so lows tonight drop to the mid 30s to mid 40s. Sunday night into Monday morning will be even colder, with most places in the 30s. Olympia's last freezing-or-colder low was May 17th (32). Daytime highs on Sunday and Monday recover to near normal, upper 50s to mid 60s. Frost advisories cover both mornings.\n\nA weak band of moisture (a weak atmospheric river) is expected to pass mainly to the north, aimed at Vancouver Island, Tuesday night into Wednesday. Western Washington may catch its southern edge, so there is a chance of rain Tuesday night and Wednesday. After that, high pressure builds in from the south and winds near the ground turn offshore (blowing from land toward the ocean). That should bring a couple of warm days Wednesday night through Friday, with the warmest spots reaching the lower 70s. Forecasters say that is nowhere near records but at least 5 degrees above normal.",
+  "timeline": [
+    {
+      "when": "This morning (Saturday)",
+      "what": "Mostly cloudy with a few scattered showers from Skagit to King County. The showers dissipate through the morning."
+    },
+    {
+      "when": "This afternoon",
+      "what": "Cool and mostly dry, with clearing skies later in the day. Highs are in the mid and upper 50s, about 57 in Seattle."
+    },
+    {
+      "when": "Tonight into Sunday morning",
+      "what": "Clear and cold, with lows in the mid 30s to mid 40s. A Frost Advisory runs from midnight to 8 AM Sunday for parts of King, Pierce, Lewis and Thurston counties."
+    },
+    {
+      "when": "Sunday and Monday",
+      "what": "Dry, with highs warming to near normal (upper 50s to mid 60s). Sunday night into Monday morning is even colder, with most places in the 30s, and a Frost Advisory covers a larger area for Monday morning."
+    },
+    {
+      "when": "Tuesday through Wednesday",
+      "what": "Lows are in the mid 30s to lower 40s Tuesday and in the 40s Wednesday, with highs in the upper 50s to mid 60s both days. There is a chance of rain Tuesday night and Wednesday."
+    },
+    {
+      "when": "Late next week (Wednesday night through Friday)",
+      "what": "A couple of warm days with offshore low-level flow. The warmer spots may reach the lower 70s, with lows in the 40s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the cool, dry stretch through Monday, with frost on both mornings. The rain chance Tuesday night and Wednesday is less certain: only some computer model runs bring moisture this far south, so the forecast carries just a chance of rain. The late-week warm-up is described as how things look right now, so details could change.",
+  "hazards": [
+    "Frost Advisory from midnight tonight to 8 AM Sunday for foothills and valleys of Pierce, southern King, Thurston and Lewis counties, and the Middle Chehalis River Valley.",
+    "Frost Advisory from midnight Sunday night to 8 AM Monday for a larger area: Eastern Kitsap County, foothills and valleys and lowlands of Pierce, southern King, Thurston and Lewis counties, the Olympia and southern Puget Sound area, Northern and Southern Hood Canal, the Northern Washington Coast, the Western and Southern Olympic Peninsula foothills, the Lake Crescent area including US 101, the Middle Chehalis River Valley, and the Willapa and Black Hills.",
+    "Small Craft Advisories for the coastal waters and Grays Harbor Bar, ending this morning or early this afternoon (for boaters)."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold air high in the atmosphere with low pressure, which can cause clouds and showers and keep temperatures cool."
+    },
+    {
+      "term": "Convergence (Puget Sound convergence zone)",
+      "definition": "A place where winds flowing around the Olympic Mountains come together over Puget Sound and push air upward, which can produce a narrow band of showers."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere, usually bringing calmer, drier and often warmer weather."
+    },
+    {
+      "term": "Northeasterly flow aloft",
+      "definition": "Winds high above the ground blowing from the northeast, which in this case bring dry air into the region."
+    },
+    {
+      "term": "Frost Advisory",
+      "definition": "A notice that temperatures are expected to get cold enough for frost to form, which can damage sensitive plants."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of moist air that can bring rain to the coast. This one is described as weak and aimed mostly at Vancouver Island."
+    },
+    {
+      "term": "Ensemble solutions",
+      "definition": "Many runs of a computer weather model with slightly different starting conditions. If only some of them show rain, the forecast is uncertain."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Winds near the ground blowing from land toward the ocean. In western Washington this tends to bring drier air and warmer temperatures."
+    }
+  ]
+}

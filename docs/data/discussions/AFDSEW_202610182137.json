@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610182137",
+  "issued": "2026-10-18T21:37:00+00:00",
+  "headline": "Quiet, dry, and chilly through midweek with frost possible in southern areas; a weak system may bring light rain late in the week.",
+  "summary": "Skies are clear this afternoon, with highs in the mid to upper 50s. A storm system is passing far offshore to the south, sending only high clouds our way. Under these calm conditions, the next couple of mornings will be chilly. Lows Monday morning should be in the mid 30s from Olympia south along the I-5 corridor, and in the mid 40s elsewhere. Tuesday morning gets a few degrees colder, raising the chance of frost in those southern areas, the Cascades, and valleys. Patchy morning fog is possible early in the week and is most likely in valleys and spots that often get fog.\n\nFrom Wednesday on, forecasters expect the pattern to stay fairly quiet. Computer models favor a trough (a dip in the jet stream) building over the Gulf of Alaska while a stronger low pressure area moves into southern California. By Friday and into next weekend the exact position of that low is less certain, but forecasters do not see much impactful weather coming.\n\nSome light rain is possible Thursday into Friday. If it does develop, snow levels could fall to around 4,000-4,500 feet, so light snow flurries could reach those elevations and higher. For the coast, the aviation and marine sections mention a larger swell of about 10-12 feet arriving around Thursday, and a front may reach the waters toward the end of the week.",
+  "timeline": [
+    {
+      "when": "This afternoon",
+      "what": "Clear skies with highs in the mid to upper 50s. High clouds are moving in from the offshore system."
+    },
+    {
+      "when": "Monday morning",
+      "what": "Lows in the mid 30s from Olympia south through the I-5 corridor and in the mid 40s elsewhere. Patchy fog is possible, mainly in valleys and fog-prone spots."
+    },
+    {
+      "when": "Tuesday morning",
+      "what": "A few degrees colder than Monday. Frost is possible in the south Puget Sound, the Chehalis Valley, the Cascades, and valleys. Patchy fog is still possible."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Dry, quiet pattern with winds from the west and no impactful weather expected, according to the discussion's outlook."
+    },
+    {
+      "when": "Thursday into Friday",
+      "what": "Light rain is possible. Snow levels could drop to around 4,000-4,500 feet, bringing possible light snow flurries at and above those elevations if precipitation develops."
+    },
+    {
+      "when": "Friday into next weekend",
+      "what": "The position of the low pressure system becomes less clear, but forecasters do not expect much impactful weather."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the chilly, quiet weather and the frost potential through Tuesday morning. Confidence is lower for late in the week, since the low's position becomes less clear by Friday into the weekend and the light rain is described only as possible. Flurries would only occur if the precipitation actually develops.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated area of lower pressure in the upper atmosphere, shown as a dip in the jet stream. Troughs often bring cooler, unsettled weather, though this one is passing well offshore."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Upper-level winds blowing mostly from west to east without big north-south dips or bulges. This usually means a calmer, less dramatic pattern."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When most of them agree, forecasters have more confidence in the outcome."
+    },
+    {
+      "term": "Gulf of Alaska troughing",
+      "definition": "A dip in the jet stream, with lower pressure aloft, sitting over the Gulf of Alaska to our northwest."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain. Here it could fall to about 4,000-4,500 feet."
+    },
+    {
+      "term": "Fog-prone locations",
+      "definition": "Places such as valleys and low spots where cool, damp air tends to settle, making fog more likely."
+    },
+    {
+      "term": "Swell",
+      "definition": "Long, rolling ocean waves created by distant storms. They can reach the coast even when local weather is calm."
+    }
+  ]
+}

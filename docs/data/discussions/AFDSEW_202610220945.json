@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610220945",
+  "issued": "2026-10-22T09:45:00+00:00",
+  "headline": "Dry, quiet weather continues through Friday; rain chances rise Saturday night into Monday, but forecasters are unsure how much will fall.",
+  "summary": "A weak front is falling apart as it reaches western Washington today (Thursday). Expect a few clouds and cooler temperatures, and not much else. Forecasters note that Seattle hasn't been this dry three weeks into October since 1987, and that streak is likely to continue for at least a few more days. High pressure briefly returns Friday for a bit more sunshine, with temperatures staying cooler, which the forecasters describe as more seasonal.\n\nThe forecast gets less certain from later Saturday onward. A strong ridge of high pressure aloft is expected to build over southeastern Alaska, which would help cut off a pocket of cold, low-pressure air (an upper low) as it drifts south along the British Columbia coast. Computer models disagree on its path. The European ensembles bring more precipitation to the area, the American GFS brings less, and the National Blend of Models splits the difference, with at least a chance of rain reaching the northwest half of the forecast area by Saturday evening.\n\nMost of the area keeps at least a chance of rain Sunday into Monday while a trough (a dip in the jet stream) lingers overhead, before it moves off to the east. After that, forecasters expect a return to quiet, dry weather through the middle of next week, with a strong ridge over the Gulf of Alaska and a broad trough off California in the long-range models.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "A weak front weakens as it comes ashore. Expect a few clouds and cooler temperatures, with no significant weather. Patchy fog is possible in the morning, per the aviation section."
+    },
+    {
+      "when": "Friday",
+      "what": "High pressure briefly returns, bringing a little more sunshine. Temperatures stay cooler, but that is closer to normal for the season."
+    },
+    {
+      "when": "Saturday",
+      "what": "Uncertainty grows later in the day. A chance of rain may spread into the northwest half of the forecast area by Saturday evening, though models disagree."
+    },
+    {
+      "when": "Sunday into Monday",
+      "what": "Most of the area keeps at least a chance of rain as an upper trough sits over the region, then is pushed eastward."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Dry, quiet weather returns across the whole area by the middle of next week."
+    }
+  ],
+  "confidence": "Confidence is high that today and Friday will be dry and quiet, and fairly good that quiet weather returns by midweek. The weekend rain is much less certain: the models struggle to predict the path of the upper low, and the European and American ensembles disagree on how much precipitation will reach the area.",
+  "hazards": [
+    "Small Craft Advisory for the Pacific coastal waters (roughly Cape Flattery to Cape Shoalwater), in effect through Friday morning out to 10 nautical miles from shore and through Friday afternoon from 10 to 60 nautical miles out. This mainly affects small boats; seas are expected to build to 10-15 ft Thursday night.",
+    "No watches, warnings, or advisories for land areas of western Washington."
+  ],
+  "glossary": [
+    {
+      "term": "Upper ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings calmer, drier weather beneath it."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A pocket of low pressure high in the atmosphere. It can bring clouds and showers, and its path is often hard to predict."
+    },
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the jet stream where the air aloft is lower in pressure and cooler. It often brings clouds and a chance of rain."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of many computer forecast runs, each started with slightly different conditions. If they disagree, forecasters are less certain."
+    },
+    {
+      "term": "ECMWF and GFS",
+      "definition": "Two major weather computer models: the European model (ECMWF, also called the Euro) and the American Global Forecast System (GFS)."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, which combines many forecast models into one forecast, here a compromise between the wetter European and drier American solutions."
+    },
+    {
+      "term": "PoPs",
+      "definition": "Probabilities of precipitation, the chance that measurable rain or snow falls at a given location."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    }
+  ]
+}

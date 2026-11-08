@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610262339",
+  "issued": "2026-10-26T23:39:00+00:00",
+  "headline": "Showers continue Tuesday, steadier rain arrives Tuesday night, and the first widespread Cascade snow of the season hits Wednesday.",
+  "summary": "A weather system that was offshore moved inland over northwest Oregon this afternoon. Showers will continue at times in western Washington into Tuesday, with highs in the mid to upper 50s on Tuesday. A broad dip in the jet stream (a trough) stays over the Pacific Northwest, which keeps conditions unsettled.\n\nAnother front moves south from British Columbia from Tuesday evening through Wednesday. It brings steadier rain to the lowlands, especially Tuesday night. Southwest winds pick up late Tuesday in parts of southern and central Puget Sound, peaking at 20 to 30 MPH from Seattle to Tacoma and west toward Shelton. Forecasters say the most impactful part of this system is the first widespread mountain snow of the season for the Cascades and Olympics. Snow levels start around 4000 to 4500 feet and drop to 3000 to 3500 feet by Wednesday morning, so the higher Cascade passes get snow. A Winter Weather Advisory is in effect, and travelers should check WSDOT for updates. Wednesday is cooler, with highs in the low to mid 50s, and showers continue Wednesday night.\n\nA low-pressure center aloft (an upper low) then lingers over western Washington through at least Friday, keeping showers going and adding light snow at times in the Cascades and Olympics. Over the weekend and into early next week, forecasters expect a slow drying trend and cooler temperatures. They will be watching for possible frost and freeze conditions from Saturday into early next week.",
+  "timeline": [
+    {
+      "when": "Tonight through Tuesday",
+      "what": "Scattered showers at times as the trough stays overhead. Highs on Tuesday are in the mid to upper 50s."
+    },
+    {
+      "when": "Tuesday evening through Tuesday night",
+      "what": "A new front arrives from British Columbia. Steadier lowland rain returns, heaviest Tuesday night. Southwest winds increase late Tuesday in southern and central Puget Sound, peaking at 20 to 30 MPH from Seattle to Tacoma and west toward Shelton. Cascade snow begins as the Winter Weather Advisory starts at 5 PM."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Snow levels fall to 3000 to 3500 feet by morning. Heaviest snow is forecast for White Pass and Paradise (6 to 12 inches, locally up to 15 near Paradise). Stevens and Rainy Pass could get 4 to 8 inches, and Snoqualmie Pass up to 3 inches. Lowland highs are only in the low to mid 50s."
+    },
+    {
+      "when": "Wednesday night",
+      "what": "Showers continue as the system slowly moves south along the offshore waters."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "The upper low lingers over western Washington with showers at times. Snow levels move between 2500 and 4000 feet, with light snow accumulations at times in the Cascades and Olympics."
+    },
+    {
+      "when": "Weekend into early next week",
+      "what": "A slow drying trend is expected, though timing is uncertain. Temperatures turn cooler, and forecasters will monitor the potential for frost and freezing conditions from Saturday into early next week."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the Tuesday–Wednesday front and the mountain snow, and the computer model ensembles consistently keep the upper low over western Washington through at least Friday. Uncertainty grows for next weekend because it is unclear how quickly the trough leaves the region, so the drying trend and the frost or freeze threat are still being monitored.",
+  "hazards": [
+    "Winter Weather Advisory for the Cascades (Whatcom and Skagit, Snohomish and northern King, southern King, and Pierce and Lewis Counties) from 5 PM Tuesday to 5 PM Wednesday, for the season's first widespread mountain snow.",
+    "Small Craft Advisory for the Pacific coastal waters from Cape Flattery to Cape Shoalwater, from 5 AM Tuesday to 5 AM Wednesday, for winds and rough seas."
+  ],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated dip in the jet stream where air aloft is lower in pressure. It usually brings cooler, more unsettled weather with showers."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A center of low pressure high in the atmosphere that can stall over a region. It tends to produce showers and cooler temperatures for days."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between different air masses that typically brings a period of steadier rain, shifting winds, and cooler air."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain. Lower snow levels put snow on more mountain passes."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, forecasters have more confidence; when they differ, uncertainty is higher."
+    },
+    {
+      "term": "Winter Weather Advisory",
+      "definition": "A National Weather Service notice that winter conditions, such as snow, will make travel difficult but are not severe enough for a warning."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land, which usually brings cooler, moister air to western Washington."
+    }
+  ]
+}

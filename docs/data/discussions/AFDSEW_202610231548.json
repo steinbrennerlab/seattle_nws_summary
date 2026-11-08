@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610231548",
+  "issued": "2026-10-23T15:48:00+00:00",
+  "headline": "Today stays dry; a low from British Columbia brings mostly light rain Saturday night through Monday, then drier, seasonal weather returns midweek.",
+  "summary": "Today (Friday) will be dry across western Washington, with high pressure overhead briefly. Temperatures should be close to normal, within a couple degrees of what's typical for late October.\n\nA low-pressure system is expected to slide south from the British Columbia coast, starting to affect the area later Saturday and into Sunday. The coast and Olympic Peninsula are the most likely places to see rain, Saturday night into Sunday. Some rain should reach the Puget Sound area on Sunday, but forecasters expect it to stay fairly light. A lingering chance of rain continues Sunday night into Monday, mostly in the southern half of the forecast area.\n\nThe low should shift east on Tuesday, with drier conditions returning by the middle of next week. Forecasters are less sure about the details by then, because computer models disagree somewhat. Neither version looks particularly wet for western Washington, so the forecast keeps a generic low chance of rain for much of the area. Temperatures should stay near seasonal, but chances for below-freezing overnight lows increase toward the middle and later part of next week in the Southwest Interior and outlying areas.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "Dry with high pressure overhead and near-normal temperatures. Morning clouds are expected to clear out."
+    },
+    {
+      "when": "Later Saturday",
+      "what": "Low pressure arrives from the north and begins to affect the area."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "Rain is likely on the coast and Olympic Peninsula. Some rain reaches Puget Sound on Sunday, but it is expected to be rather light."
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A lingering chance of rain, mostly in the southern half of the forecast area."
+    },
+    {
+      "when": "Tuesday",
+      "what": "The low moves eastward and conditions start to dry out."
+    },
+    {
+      "when": "Middle to later next week",
+      "what": "Mostly dry and seasonal, with a low chance of showers possible. Chances rise for below-freezing overnight lows in the Southwest Interior and outlying areas."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry Friday and in rain on the coast and Olympic Peninsula this weekend, though models still disagree on the low's exact track. Confidence drops by midweek because ensembles (groups of model runs) have shifted from a day ago and disagree on how much the upper-level trough affects the region, though neither scenario looks particularly wet.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas in western Washington.",
+    "Small Craft Advisory for the coastal waters and the Grays Harbor Bar, expiring this morning (11 AM) for nearshore waters and this afternoon (5 PM) for waters farther out. Winds and seas are expected to ease by evening."
+  ],
+  "glossary": [
+    {
+      "term": "High pressure aloft",
+      "definition": "An area of higher air pressure high in the atmosphere, which usually keeps the weather dry and calm."
+    },
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the jet stream high above the ground, often tied to cooler, unsettled weather and a chance of rain."
+    },
+    {
+      "term": "PoPs",
+      "definition": "Probability of precipitation, meaning the chance of rain or snow at a location. \"Likely to categorical\" means a high chance, from likely up to near-certain."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, which is the predicted amount of rain or melted snow."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of many weather model runs with slightly different starting conditions, used to see the range of possible outcomes."
+    },
+    {
+      "term": "GFS and ECMWF",
+      "definition": "Two major weather computer models, American (GFS) and European (ECMWF). Here they disagree on how much the upper trough affects the region midweek."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast tool that combines many models into one set of numbers."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    }
+  ]
+}

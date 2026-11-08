@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610201018",
+  "issued": "2026-10-20T10:18:00+00:00",
+  "headline": "Quiet, dry weather through Thursday with morning fog; rain chances return Saturday night into Sunday morning, but the weekend forecast is uncertain.",
+  "summary": "Not much is happening this week. A large area of low pressure sits well to the south, and the winds high above the Northwest are light and flat. Light winds near the ground let patchy low clouds and fog form near Puget Sound and the water in Whatcom, Skagit and Snohomish counties, and possibly a layer of low cloud around Lake Washington just after sunrise today. Forecasters expect it all to burn off by late morning. Highs today run from the upper 50s to mid 60s.\n\nWednesday looks a bit warmer, mostly in the 60s, as light winds blowing from the land toward the coast add a couple of degrees. Forecasters don't expect records, but note that record highs this time of year can be in the mid to upper 60s. A weak dip in the jet stream approaches Wednesday night and brings more clouds but no rain, and Thursday's highs cool to the mid to upper 50s. Thursday night brings a chance of showers, mainly in the mountains.\n\nThe weekend is much less certain. Computer model runs disagree widely. Most favor a rain-bearing front crossing the area Saturday night into Sunday morning, some have it only brushing the region, and a few keep the weather dry with high pressure building instead. Forecasters are going with a chance of rain Saturday, then rain likely or a chance of rain Saturday night into Sunday morning, and drying out Monday. If skies clear Sunday night, Monday morning could be the coldest of the season so far.",
+  "timeline": [
+    {
+      "when": "Today (Tuesday)",
+      "what": "Morning fog and low clouds near Puget Sound and the northern waters, gone by late morning. Otherwise clear and quiet, with highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tonight",
+      "what": "Patchy fog may form again in the early morning hours. Lows in the lower 30s to lower 40s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Morning fog and low clouds clear out. Light winds from the land add a couple of degrees, with highs mostly in the 60s."
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "A weak trough approaches and clouds increase, but no precipitation is expected. Lows in the mid 30s to mid 40s, then much cooler highs in the mid to upper 50s."
+    },
+    {
+      "when": "Thursday night and Friday",
+      "what": "Chance of showers Thursday night, especially in the mountains. Friday is between weather systems with nothing in the flow aloft."
+    },
+    {
+      "when": "Saturday through Monday",
+      "what": "Chance of rain Saturday, with rain likely or a chance of rain Saturday night into Sunday morning, then drying Monday. Highs in the mid and upper 50s, lows in the mid 30s to lower 40s. Monday morning could be the coldest of the season if skies clear Sunday night."
+    }
+  ],
+  "confidence": "Confidence is good through Friday, since the models agree on the pattern. It drops for the weekend: the models show a wide range of outcomes, from a front moving through to only brushing the area to staying dry under high pressure. Forecasters are more confident that high pressure will be in place Monday. Fog timing and extent are also hard to pin down.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A large area of low pressure high in the atmosphere. This one is sitting well south of Washington, so it is not affecting local weather."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east without big dips or bulges, which usually means few strong weather systems."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the winds high in the atmosphere that often brings clouds and sometimes showers. This week's is weak."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge in the high-altitude winds that usually brings dry, stable weather."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Low-level wind blowing from land toward the ocean, which tends to warm and dry western Washington."
+    },
+    {
+      "term": "Lake Washington stratus",
+      "definition": "A layer of low cloud that sometimes forms over and near Lake Washington around sunrise in light-wind conditions."
+    },
+    {
+      "term": "Model ensembles",
+      "definition": "Groups of computer forecasts started with slightly different conditions. When they disagree widely, forecast confidence is low."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between air masses, often bringing a band of clouds and rain as it passes."
+    }
+  ]
+}

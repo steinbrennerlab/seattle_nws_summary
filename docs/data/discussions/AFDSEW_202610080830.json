@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610080830",
+  "issued": "2026-10-08T08:30:00+00:00",
+  "headline": "Warm, sunny weather today gives way to rain Friday and Saturday, then a cooler stretch with possible frost Sunday morning.",
+  "summary": "Today (Thursday) should be the warmest and sunniest day of the stretch. Morning fog and low clouds are expected from King County northward along the water and along the Pacific coast, but forecasters say it should be less widespread than in recent days. Once it clears, afternoon highs should reach the low to mid 70s.\n\nA weak front arrives Friday into Saturday and changes the pattern. It isn't expected to be strong, but it should bring a round of rain to western Washington and breezy southwesterly winds around Puget Sound, with elevated westerly wind through the Strait of Juan de Fuca. Rain totals are forecast at about a quarter to a half inch in the Cascades and a few hundredths to a tenth of an inch elsewhere. The system is cool enough that snow levels drop to around 4,500-5,000 ft Friday night into Saturday, bringing an inch of snow or less, mainly to the North Cascades.\n\nSaturday night into Sunday turns drier and cooler. Sunday morning lows are mostly in the upper 30s and low 40s, but cold air settling into Cascade valleys could push some spots to around freezing, which matters for gardens and agriculture. Highs through the middle of next week are in the low to mid 60s, with another chance of light rain Tuesday. The pattern after Wednesday is unclear.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "Morning fog and low clouds from King County north along the water and on the Pacific coast, then sunny and warmer with highs in the low to mid 70s."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A weak front brings rain to western Washington, breezy southwest winds around Puget Sound, and stronger westerly wind in the Strait of Juan de Fuca. Cascades get about a quarter to half inch of precipitation; elsewhere a few hundredths to a tenth of an inch."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "Snow levels fall to around 4,500-5,000 ft, with an inch of snow or less mainly in the North Cascades."
+    },
+    {
+      "when": "Saturday morning",
+      "what": "Lows in the low 40s for much of the Puget Sound area and in the mid to upper 30s in the Cascades and adjacent foothills."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "Drier and cooler. Sunday morning lows are mostly in the upper 30s and low 40s, with about a 30% chance of freezing in some Cascade valleys."
+    },
+    {
+      "when": "Monday through Wednesday",
+      "what": "Lows warm up a bit, but afternoon highs stay in the low to mid 60s. Another chance of light rain on Tuesday."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the Friday-Saturday front and the cooler pattern afterward. The frost threat Sunday morning is a lower-probability risk, about 30% in the most prone Cascade valleys. After Wednesday, computer models disagree on whether the cool trough lingers or high pressure returns.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for the central and eastern Strait of Juan de Fuca from 2 PM today to 3 AM Friday.",
+    "Gale Watch for the Strait of Juan de Fuca and the coastal waters from late tonight through Friday evening (strong winds and high seas on the water)."
+  ],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud. When it touches the ground, it is fog."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that usually brings clouds, rain, and shifting winds as it passes."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, which is the expected amount of rain or melted snow."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream that usually brings cooler, less settled weather."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of many computer forecast runs with slightly different starting conditions, used to gauge how much the forecast could vary."
+    },
+    {
+      "term": "Gale Watch",
+      "definition": "A marine alert that gale-force winds (34 knots or more) are possible but not yet certain."
+    },
+    {
+      "term": "Thermal trough",
+      "definition": "A zone of low pressure along the coast caused by warm inland temperatures, which can change wind direction over coastal waters."
+    }
+  ]
+}

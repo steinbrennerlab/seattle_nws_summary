@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610040348",
+  "issued": "2026-10-04T03:48:00+00:00",
+  "headline": "Mild, dry weather continues Sunday after morning clouds, then cooler Monday, a warmer midweek, and possible light rain next Friday and Saturday.",
+  "summary": "High pressure is overhead, with a weak breeze blowing from land toward the water. That keeps western Washington dry through Monday night. Low clouds and fog are likely to form across most lowlands late tonight and early Sunday morning, then clear by afternoon. Sunday should be the warmest day for inland areas, with highs in the mid 60s to mid 70s.\n\nBy Sunday night the high-pressure ridge flattens, and the air begins flowing in from the ocean again. On the coast this cools things off Sunday, with highs about 5 degrees lower than Saturday. Monday highs should be near normal, generally in the 60s for most lowland areas. Overnight lows stay about the same, in the upper 40s to lower 50s.\n\nHigh pressure builds back over the eastern Pacific from Tuesday into midweek, and highs may climb to the upper 60s to lower 70s by Thursday. A system from British Columbia is then expected to push a front across the region Friday into Saturday. It could bring light rain and cooler weather, but forecasters are unsure how strong that front will be.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Dry. Low clouds and fog are likely to develop across most lowlands late tonight, and clouds should reach the coast early Sunday morning. Lows are in the upper 40s to lower 50s."
+    },
+    {
+      "when": "Sunday",
+      "what": "Morning clouds and fog clear by afternoon. Inland highs reach the mid 60s to mid 70s, a few degrees warmer than Saturday. The coast cools about 5 degrees from Saturday as the wind turns onshore."
+    },
+    {
+      "when": "Sunday night through Monday night",
+      "what": "The ridge flattens and ocean air flows inland. Monday highs are near normal, generally in the 60s for most lowlands, with lows in the upper 40s to lower 50s. No precipitation is expected."
+    },
+    {
+      "when": "Tuesday through Thursday",
+      "what": "High pressure slowly builds over the eastern Pacific. Highs may rebound a handful of degrees to the upper 60s to lower 70s by Thursday, with lows about the same as before."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A front from British Columbia may bring light precipitation, with a 20 to 50 percent chance. Highs fall to the upper 50s to lower 60s by Saturday, near normal or slightly below."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, mild pattern through Monday night, and they said no forecast update was needed. They are much less certain about Friday and Saturday. Computer model runs disagree widely on how well the front holds together and how much rain it brings, though forecasters think light rain is a reasonable expectation for now.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory from 5 PM Sunday to 5 AM Monday for the central and eastern Strait of Juan de Fuca, which affects small boats."
+  ],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A flat, gray layer of low cloud. When it sits at ground level it appears as fog."
+    },
+    {
+      "term": "Offshore flow / onshore flow",
+      "definition": "Offshore flow is air moving from land toward the ocean, which tends to be drier and warmer here. Onshore flow is air moving from the ocean inland, which brings cooler, cloudier weather."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings dry, calm, and warmer weather."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big bends. This usually means fewer extreme changes in the weather."
+    },
+    {
+      "term": "Thermally induced surface trough",
+      "definition": "A narrow area of lower pressure near the ground, created by heating of the land. Its position helps decide whether winds blow offshore or onshore."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A group of computer forecasts run with slightly different starting conditions. When they disagree widely, confidence is lower."
+    },
+    {
+      "term": "PoP (probability of precipitation)",
+      "definition": "The chance that measurable precipitation will fall at a given place during a given time."
+    },
+    {
+      "term": "Climo (climatology)",
+      "definition": "The typical weather for this time of year. \"Back to climo\" means temperatures near seasonal normals."
+    }
+  ]
+}

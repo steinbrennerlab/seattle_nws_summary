@@ -1,0 +1,56 @@
+{
+  "id": "AFDSEW_202610191522",
+  "issued": "2026-10-19T15:22:00+00:00",
+  "headline": "Calm conditions with patchy fog possible; a bigger ocean swell and a possible front arrive late this week, with uncertain details.",
+  "summary": "The main sections of this discussion (the overview, the day-by-day forecast, and the long-range outlook) were blank in this issuance. All that is available are the aviation and marine notes, so this explanation covers only what they say. There are no watches, warnings, or advisories in effect.\n\nToday (Monday), winds high above the surface are from the southwest as a trough of low pressure (an upper trough) digs south well offshore. Mid- and high-level clouds are limiting how much low cloud and fog form this morning. Fog is still possible in the usual fog-prone spots: the Southwest Interior, some river valleys, and the far southern Puget Sound. Those areas are expected to improve by about 11 AM. At Sea-Tac, forecasters lean toward clear-enough conditions for most of the day, with light winds this morning.\n\nOffshore, the low passing south keeps winds northerly or weakly offshore today. Weak high pressure then holds over the waters into the middle of the week, bringing quiet conditions. Around Thursday, a larger swell of about 10 to 12 feet from stormy weather far out at sea is expected to reach the coast, along with more onshore flow. A front may arrive toward the end of the week, but forecasters say its track and strength are very uncertain.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "Clouds limit fog this morning, though a few fog-prone areas may start with poor visibility. Conditions are expected to improve by about 11 AM. Winds are light this morning at Sea-Tac."
+    },
+    {
+      "when": "Late tonight into Tuesday morning",
+      "what": "More widespread low clouds and fog are possible."
+    },
+    {
+      "when": "Into the middle of the week",
+      "what": "Weak high pressure stays over the waters, so conditions there stay calm."
+    },
+    {
+      "when": "Thursday",
+      "what": "A larger swell of about 10 to 12 feet is expected to reach the coast, along with an increase in onshore flow."
+    },
+    {
+      "when": "Toward the end of the week",
+      "what": "A front may reach the waters, but its path and strength are highly uncertain."
+    }
+  ],
+  "confidence": "Forecasters lean toward clear-enough conditions at Sea-Tac today, but fog late tonight into Tuesday morning is only described as a possibility. They are most uncertain about the front near the end of the week, saying much uncertainty exists in its track and intensity. The Thursday swell is stated as expected.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the high-altitude air flow, often linked to cooler, more unsettled weather. Here it is digging south well offshore."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the Pacific toward the coast. It usually brings cooler, moister air inland."
+    },
+    {
+      "term": "Offshore winds",
+      "definition": "Winds blowing from land out toward the ocean. Here they are described as weak."
+    },
+    {
+      "term": "Swell",
+      "definition": "Long, rolling ocean waves created by storms far away. They can reach the coast even when local weather is calm."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two different air masses. Fronts coming off the Pacific often bring clouds, rain, and wind."
+    },
+    {
+      "term": "IFR/LIFR",
+      "definition": "Aviation codes for low visibility and low clouds, usually from fog. LIFR is the more severe of the two."
+    }
+  ]
+}

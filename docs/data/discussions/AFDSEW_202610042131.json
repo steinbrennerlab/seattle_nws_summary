@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202610042131",
+  "issued": "2026-10-04T21:31:00+00:00",
+  "headline": "Mild, dry weather continues with morning clouds and afternoon sun through midweek; a weakening front may bring light rain Friday.",
+  "summary": "A ridge of high pressure that brought sunny, warm days is moving east. Winds aloft will turn more west to east overnight, and cooler air from the ocean will return at the surface. That will trim a few degrees off daytime highs. Monday and Tuesday highs should be in the low to upper 60s, with a few isolated spots in the southwest interior near 70. Dry weather is expected through the short term, and the pattern of morning clouds giving way to afternoon sun should last at least through midweek.\n\nForecasters had been worried that the return of ocean air could make the recent morning fog worse. They currently expect widespread fog to be held back because clouds moving in overnight should stay above the ground. Temperatures edge up Wednesday and especially Thursday as a weak ridge builds off the California coast. Highs on Thursday could reach the 70s in many interior lowland spots, from the upper 60s to mid 70s, with the southwest interior on the warmer end. Coastal areas may not change much.\n\nA front is expected to move through western Washington on Friday, but the details are uncertain. Models agree it should weaken as it moves through. Higher elevations have a 60-70 percent chance of precipitation, while the lowlands mostly have 20-40 percent. Friday and the weekend should be cooler regardless of whether it rains, with highs from the mid 50s to lower 60s, and some mid 60s possible mainly on Friday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Clouds move in overnight but should mostly stay above the ground, so widespread dense fog is not expected. Dry. Onshore flow returns."
+    },
+    {
+      "when": "Monday and Tuesday",
+      "what": "Cooler and more seasonable, with highs in the low to upper 60s. A few isolated spots in the southwest interior may reach about 70. Dry, with morning clouds and afternoon sun."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Highs warm a degree or two, ranging from the mid 60s to lower 70s, as winds aloft turn a bit more northwesterly."
+    },
+    {
+      "when": "Thursday",
+      "what": "Warmest day of the period. Interior lowlands range from the upper 60s to mid 70s, with the southwest interior on the higher end. Coastal temperatures may change little."
+    },
+    {
+      "when": "Friday",
+      "what": "A front moves through, most likely during the afternoon and evening, though timing is uncertain. It should weaken. Higher elevations have a 60-70 percent chance of precipitation and the lowlands 20-40 percent. Highs from the mid 50s to lower 60s, with some mid 60s possible."
+    },
+    {
+      "when": "Weekend",
+      "what": "Cooler than this week, with highs from the mid 50s to lower 60s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, seasonable pattern through midweek. They are less sure about Friday's front: models disagree on whether it arrives Friday afternoon and evening or later Friday night, and there is still time for more differences to appear. They are more confident that it will weaken and bring little rain to the lowlands.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for the Strait of Juan de Fuca until 5 AM Monday, for strong winds and rough water."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings dry, warm, stable weather at the surface."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly from west to east, without big northward or southward swings. It usually means a quiet pattern."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land. It brings cooler, moister air and often morning clouds to western Washington."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat, gray layer of cloud. When it reaches the ground, it is fog."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast that combines many computer models into one."
+    },
+    {
+      "term": "Deterministic model (GFS, ECMWF)",
+      "definition": "A single computer forecast run from one starting point. The GFS and ECMWF are two widely used ones that sometimes disagree."
+    },
+    {
+      "term": "Ensemble members",
+      "definition": "Many runs of the same model, each started with slightly different conditions, to show a range of possible outcomes."
+    },
+    {
+      "term": "FROPA",
+      "definition": "Short for frontal passage, the time when a weather front moves through an area."
+    },
+    {
+      "term": "PoPs",
+      "definition": "Probability of precipitation, the chance that measurable rain or snow falls at a given place."
+    }
+  ]
+}

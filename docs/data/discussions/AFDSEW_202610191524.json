@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610191524",
+  "issued": "2026-10-19T15:24:00+00:00",
+  "headline": "Quiet, foggy mornings with mild days through Wednesday; weekend rain and wind are very uncertain after a showery Thursday.",
+  "summary": "Through Wednesday, western Washington stays mostly dry and mild. A low-pressure system high in the atmosphere is sliding south off the coast toward central California. Today it keeps high clouds overhead, with highs in the upper 50s to mid 60s. Patchy fog is possible until mid morning because the air near the ground is close to saturated in places.\n\nAs the system moves farther away, clouds thin out overnight and skies turn mostly clear by Tuesday night and Wednesday. Clearer skies and light winds near the ground should make fog more widespread Tuesday morning, but it should be shallow and clear by noon. Fog is also possible early Wednesday and should clear by midday. Tonight's lows are mostly mid 30s to mid 40s, with some spots near freezing in the Southwest Interior and near Hood Canal.\n\nA weakening front brings a chance of showers Thursday, then high pressure gives a dry Friday. The weekend is the big question. Computer models disagree about a storm developing off the coast, and some versions show wind and rain Saturday into Sunday. Forecasters have not included any damaging winds in this forecast, and they expect the weekend outlook to change several times before Friday.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "High clouds and patchy fog until mid morning, then mild. Highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tonight into Tuesday",
+      "what": "Clouds thin out. Lows mostly mid 30s to mid 40s, near freezing in the Southwest Interior and near Hood Canal. More widespread fog Tuesday morning, clearing by noon. Highs upper 50s to mid 60s."
+    },
+    {
+      "when": "Tuesday night and Wednesday",
+      "what": "Mostly clear. Areas of fog early Wednesday morning, gone by midday. Lows in the 30s and lower 40s, highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "A weakening front dissipates over the area, bringing a chance of showers."
+    },
+    {
+      "when": "Thursday night into Friday",
+      "what": "A trailing upper-level trough passes through early Friday, then high pressure builds in for a dry Friday."
+    },
+    {
+      "when": "Saturday into Sunday",
+      "what": "Very uncertain. A chance of rain or likely rain is in the forecast. Some model runs show wind with rain, but no damaging winds are forecast for now. Highs mid to upper 50s, lows in the 30s and lower 40s."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the quiet pattern through Wednesday and in the Thursday front and dry Friday. Confidence for the weekend is low because model runs disagree with each other and change from one run to the next about a storm forming off the coast. The European model's ensembles lean windier on the coast and in the Northwest Interior, while the American GFS model is much weaker.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, low-pressure air high in the atmosphere. It can bring clouds and unsettled weather, and here it is drifting south away from Washington."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude air flow that often brings cooler air and a chance of showers as it passes."
+    },
+    {
+      "term": "Southwesterly flow aloft",
+      "definition": "Winds high above the ground blowing from the southwest, which here keeps high clouds over the region."
+    },
+    {
+      "term": "Temperature dew point spread",
+      "definition": "The gap between air temperature and the temperature at which fog or cloud forms. When the gap is near zero, the air is nearly saturated and fog can form."
+    },
+    {
+      "term": "Surface gradient",
+      "definition": "The difference in air pressure across an area near the ground that drives wind. Light gradients mean light winds, which help fog form and linger."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Low-level wind blowing from land toward the ocean. It tends to bring drier air, though here it is too weak to stop fog."
+    },
+    {
+      "term": "ECMWF and GFS",
+      "definition": "Two major computer weather models, the European and the American. Forecasters compare them, and here they disagree about the weekend storm."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A group of model runs started with slightly different conditions to show a range of possible outcomes. A wide spread among them means low confidence."
+    }
+  ]
+}

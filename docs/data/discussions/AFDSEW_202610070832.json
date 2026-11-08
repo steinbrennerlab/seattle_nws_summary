@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610070832",
+  "issued": "2026-10-07T08:32:00+00:00",
+  "headline": "Foggy mornings and sunny, mild afternoons continue through Thursday, then a weak Friday front brings brief rain and cooler weather.",
+  "summary": "Through Thursday, western Washington stays under high pressure centered well to the east, over the Great Basin. Winds aloft are blowing steadily west to east without much of a dip or bump in them (forecasters call this zonal flow). That keeps things quiet: fog and low cloud in the mornings, then sunny afternoons. Fog was well established across most of Puget Sound early Wednesday. A light offshore breeze, meaning air flowing from land toward the water, should help it clear a bit earlier than in the past few days. Fog is expected to be less widespread by Thursday morning. That same breeze will also make the air a little drier in the Cascades and valleys Wednesday afternoon. Highs are forecast in the upper 60s Wednesday and the low 70s Thursday.\n\nA weak front arrives Friday, bringing the next chance of rain. Forecasters expect very little: only a few hundredths of an inch in the Cascades and northern Puget Sound, and it won't last long. The bigger change is the temperature. Highs drop to the low 60s on Friday. Snow levels fall to around 5000 feet late Friday night, so the higher terrain, especially the North Cascades, may get a dusting of snow. Friday will also be breezy along the coast, the Strait of Juan de Fuca and Puget Sound waterfront areas.\n\nThe cooler pattern continues through the weekend and into early next week, as low pressure sits over the Northwest and in the Gulf of Alaska. Saturday morning lows are forecast in the upper 30s at the Cascade passes and the low 40s in the foothills, a few degrees colder again Sunday morning. Forecasters say to stay tuned for possible frost or freeze concerns for farms and sensitive plants. Some computer models show another chance of rain Tuesday into Wednesday, but the details are unsettled.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Dense fog across much of Puget Sound early, lasting through the morning but clearing a bit sooner than recent days. Then sunny, with highs in the upper 60s. Drier air in the Cascades and valleys in the afternoon."
+    },
+    {
+      "when": "Thursday",
+      "what": "Morning fog and low cloud again, but less widespread. Sunny afternoon with highs in the low 70s."
+    },
+    {
+      "when": "Friday",
+      "what": "A weak front brings a brief period of light rain, mainly to the Cascades and northern Puget Sound, with only a few hundredths of an inch expected. Highs fall to the low 60s. Breezy on the coast, Strait of Juan de Fuca and Puget Sound waterfront areas."
+    },
+    {
+      "when": "Late Friday night",
+      "what": "Snow levels drop to around 5000 feet. The higher terrain, especially the North Cascades, may see a dusting of snow."
+    },
+    {
+      "when": "Saturday and Sunday mornings",
+      "what": "Colder nights. Saturday lows are in the upper 30s at the Cascade passes and the low 40s in the foothills, with a few degrees colder on Sunday morning. Frost or freeze potential is being watched."
+    },
+    {
+      "when": "Early next week (Tuesday into Wednesday)",
+      "what": "Cooler weather continues. Another chance of rain Tuesday into Wednesday, but the details are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the near-term pattern of morning fog and sunny afternoons through Thursday, and in the weak Friday front and cooldown. They are much less sure about the rain chance Tuesday into Wednesday, because the computer model ensembles disagree on where the low-pressure system will end up.",
+  "hazards": [
+    "No watches, warnings or advisories are in effect for western Washington.",
+    "Dense fog is occurring early Wednesday morning, especially over parts of Puget Sound and nearby waters, with visibility down to a mile or less on the water.",
+    "Frost or freeze potential over the weekend is being watched, but no frost or freeze products have been issued."
+  ],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly straight west to east, without big north-south bends. It usually means a quiet, steady pattern."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud. When it forms right at the ground, it looks like fog."
+    },
+    {
+      "term": "Offshore gradient",
+      "definition": "A difference in air pressure that pushes air from the land toward the ocean or Puget Sound. It tends to dry the air and can help clear fog."
+    },
+    {
+      "term": "Relative humidity",
+      "definition": "How much moisture the air holds compared with the most it could hold at that temperature. Lower values mean drier air."
+    },
+    {
+      "term": "QPF",
+      "definition": "Short for quantitative precipitation forecast, the predicted amount of rain or melted snow."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they disagree, confidence in the forecast is lower."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two air masses, often bringing clouds, rain, wind and a change in temperature."
+    }
+  ]
+}

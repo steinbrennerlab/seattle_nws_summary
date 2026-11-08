@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610260322",
+  "issued": "2026-10-26T03:22:00+00:00",
+  "headline": "Showers continue Monday, then a Tuesday night-Wednesday front brings lowland rain and the season's first notable Cascade snow, with a chilly weekend.",
+  "summary": "An area of low pressure off the coast is drifting south and will move onto northwest Oregon by Monday afternoon, weakening as it goes. Until then, western Washington sees periodic showers, with steadier rain at times over the Cascades and coast. Highs stay in the 50s for most areas Monday. Snow falls only on high mountains, with the snow level near 5000 feet in heavier showers. Winds are easing tonight along the coast and around Admiralty Inlet.\n\nTuesday stays unsettled, with a few showers over the Cascades and highs in the mid 50s. A new front arrives from British Columbia late Tuesday into Tuesday night, bringing more rain and locally breezy winds. It crosses Western Washington Tuesday night into Wednesday and brings in colder air. Forecasters call it the first noticeable mountain snow event of the season. Snow levels during the heaviest precipitation are 3500 to 4500 feet, so the higher Cascade passes could get snow. Most of it falls Tuesday evening into early Wednesday. The lowlands get rain Wednesday, with a small (15%) chance of thunderstorms for most lowland areas.\n\nThe low associated with that front deepens offshore Thursday and lingers off Washington and Oregon into late week, keeping conditions unsettled. By late Friday into the weekend, the storm track is expected to dig farther south, which should reduce the chance of precipitation. Temperatures turn cooler over the weekend, and forecasters will watch for frost or freeze in the mornings.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Scattered showers continue, with steadier precipitation at times over the Cascades and coast. Winds ease in breezy coastal areas and around Admiralty Inlet."
+    },
+    {
+      "when": "Monday",
+      "what": "The offshore low weakens and moves into northwest Oregon by afternoon. Periodic showers continue, highs are in the 50s, and the snow level stays near 5000 feet."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Unsettled, with a few showers over the Cascades and highs in the mid 50s. A new front approaches from British Columbia later in the day, with rain increasing and locally breezy winds by Tuesday night."
+    },
+    {
+      "when": "Tuesday night into Wednesday",
+      "what": "The front crosses Western Washington with lowland rain and colder air. Snow levels are 3500 to 4500 feet, with most Cascade snow from Tuesday evening into early Wednesday. Thunderstorm chance is about 15% for most lowlands on Wednesday."
+    },
+    {
+      "when": "Thursday into late week",
+      "what": "The upper-level low deepens offshore and lingers, keeping conditions unsettled."
+    },
+    {
+      "when": "Late Friday into the weekend",
+      "what": "The trough shifts farther south, lowering precipitation chances. Temperatures turn cooler, and morning frost or freeze may need watching."
+    }
+  ],
+  "confidence": "Forecasters say the ensembles (groups of model runs) are generally consistent that the trough shifts south late Friday into the weekend. The snow forecast for Wednesday has more uncertainty. The odds of more than 6 inches in 24 hours ending 5 PM Wednesday are about 90% at Paradise and 70% at Heather Meadows (Mt. Baker), but only 20% at Stevens Pass and 15% at Rainy Pass. Forecasters have not yet decided whether the snow needs a formal advisory or warning, and the thunderstorm chance is low at 15%.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Small Craft Advisories (for hazardous winds and rough seas, mainly affecting small boats) are in effect for the Strait of Juan de Fuca and the coastal waters, expiring at 11 PM tonight for parts of the Strait and Grays Harbor Bar, and at 3 AM Monday for the outer coastal waters.",
+    "Forecasters are considering whether Cascade snow Tuesday night into Wednesday will need a winter weather headline; none has been issued yet."
+  ],
+  "glossary": [
+    {
+      "term": "Troughing",
+      "definition": "A broad dip in the jet stream that tends to bring cooler, unsettled weather. Forecasters say it persists over the Pacific Northwest on Tuesday."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain. Lower snow levels mean snow can reach mountain passes."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that usually brings a period of steadier rain or snow, often followed by cooler air."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A closed area of low pressure high in the atmosphere that can linger and keep weather unsettled."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts started with slightly different conditions. When they agree, forecasters have more confidence."
+    },
+    {
+      "term": "NBM probabilities",
+      "definition": "Chances from the National Blend of Models, which combines many forecast models. Here it gives the odds that certain Cascade locations get more than 6 inches of snow in 24 hours."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    },
+    {
+      "term": "Cascade Passes",
+      "definition": "Mountain highway crossings of the Cascade Range, such as Stevens Pass, where snow can affect travel."
+    }
+  ]
+}

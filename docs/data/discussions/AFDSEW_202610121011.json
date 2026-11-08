@@ -1,0 +1,70 @@
+{
+  "id": "AFDSEW_202610121011",
+  "issued": "2026-10-12T10:11:00+00:00",
+  "headline": "Frosty start today gives way to sunshine, then a warm, mostly dry stretch with highs up to the lower 70s Thursday and Friday.",
+  "summary": "This morning is chilly and clear. Temperatures at 3 AM ranged from near freezing at Shelton and Olympia to the mid 40s around Seattle, and Sea-Tac was at 44 degrees. Fog formed in the Snohomish and Lower Chehalis river valleys but should clear within a couple of hours after sunrise. A Frost Advisory for most areas south of Seattle and along the north coast ends at 8 AM. Today is sunny with highs in the upper 50s to mid 60s, close to normal.\n\nTuesday brings high clouds from an atmospheric river (a long, narrow band of moisture) aimed at British Columbia. Western Washington is mostly on its southern fringe, so rain is likely only on the north coast, with a chance over the Northwest Interior (the area north of Seattle). Wednesday has a chance of morning rain on the coast and north of Seattle, then a mostly cloudy to cloudy day as the moisture band fades.\n\nA ridge of high pressure then builds over the region. By Thursday, winds near the ground turn offshore (blowing from land toward the water), which warms things up: highs in the mid 60s to lower 70s Thursday, and mid 60s to mid 70s Friday, the warmest day of the week. That is over 10 degrees above normal, but forecasters don't expect records. A weakening system brings some rain Friday night and Saturday, mainly to the north coast and North Cascades. A stronger system may arrive Sunday, with cooler highs.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "Frost Advisory ends at 8 AM. Morning valley fog clears within a couple of hours of sunrise. Sunny, with highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tonight",
+      "what": "High clouds spread over the area, keeping lows a little warmer: mid 30s to mid 40s by Tuesday morning."
+    },
+    {
+      "when": "Tuesday and Tuesday night",
+      "what": "High clouds. Rain likely on the north coast and a chance over the Northwest Interior. Highs mid 50s to mid 60s, coolest in the north under thicker cloud. Lows in the 40s Tuesday night."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Chance of morning rain on the coast and north of Seattle. Mostly cloudy to cloudy later, with highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "Offshore low-level winds bring warmth. Highs mid 60s to lower 70s Thursday, and mid 60s to mid 70s Friday, the warmest day of the week."
+    },
+    {
+      "when": "Friday night through Sunday",
+      "what": "A weakening system brings rain Friday night and Saturday, mostly to the north coast and North Cascades. A stronger system may approach Sunday. Highs lower to mid 60s Saturday, mid 50s to lower 60s Sunday."
+    }
+  ],
+  "confidence": "Forecasters say the computer models are in good agreement that the ridge builds Wednesday night and Thursday, so the warm-up looks likely. The Sunday system is described only as approaching, with no timing or rain details given, so it is less certain.",
+  "hazards": [
+    "Frost Advisory until 8 AM PDT this morning for much of the area south of Seattle (including Eastern Kitsap County, the Pierce, Thurston and Lewis County lowlands and foothills, Olympia and Southern Puget Sound, Hood Canal, and the Chehalis River valley) and for the Northern Washington Coast and parts of the Olympic Peninsula."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of moist air that can bring heavy rain and mountain snow. Here, most of it stays north in British Columbia and only brushes the northern edge of western Washington."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings dry, calm and often warmer weather."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of low pressure high in the atmosphere. This one is over Southeast Oregon and does not directly affect western Washington."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind near the ground blowing from the land toward the ocean. In western Washington it brings drier air from inland and often warmer temperatures."
+    },
+    {
+      "term": "Northwest Interior",
+      "definition": "The National Weather Service's name for the part of western Washington north of Seattle and inland from the coast, including the northern Puget Sound area."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation. \"Likely pops\" means rain is likely; \"chance pops\" means rain is possible but less than likely."
+    },
+    {
+      "term": "500 mb heights",
+      "definition": "The height of the 500-millibar pressure level, about halfway up through the atmosphere, measured in decameters (dm). Higher numbers mean a stronger ridge and warmer air. The forecast has them in the mid 580s dm by Thursday afternoon."
+    },
+    {
+      "term": "Frost Advisory",
+      "definition": "A National Weather Service alert that temperatures are expected to get cold enough for frost, which can damage sensitive plants."
+    }
+  ]
+}

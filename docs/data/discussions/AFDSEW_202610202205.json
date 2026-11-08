@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610202205",
+  "issued": "2026-10-20T22:05:00+00:00",
+  "headline": "Dry, warm weather continues through Wednesday, with a weak Thursday system and a possible weak weekend system.",
+  "summary": "Tonight and Wednesday stay dry. Overnight lows should be near normal to slightly cooler than normal. Winds will be light into Wednesday morning, so patchy fog may form in sheltered spots. Any shallow fog or low cloud should lift and scatter by late morning, leaving another warm October day.\n\nA weak system passes through Thursday and mostly brings more clouds and near-normal temperatures. Forecast models show only a few brief, light showers, mainly in the Olympics and north Cascades Thursday afternoon and evening. Friday looks dry with near-normal temperatures.\n\nThe weekend is less certain. A weak system may arrive Saturday night into Sunday, but forecasters say it could instead pass farther north or offshore, giving less rain or delaying it until Monday. The pattern early next week is a toss-up between higher pressure (drier) and a trough (cooler, unsettled).",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Dry, with lows near normal to slightly cooler than normal. Winds are light."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Patchy fog is possible in sheltered locations early, lifting and scattering late morning. Another warm, dry October day follows."
+    },
+    {
+      "when": "Thursday",
+      "what": "A weak system brings more clouds and near-normal temperatures. A few brief, light showers are possible mainly in the Olympics and north Cascades in the afternoon and evening."
+    },
+    {
+      "when": "Friday",
+      "what": "Dry, with near-normal temperatures."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A weak system may move through, though it could be slower, farther north, or offshore, giving limited rain on Sunday or delaying it into Monday."
+    },
+    {
+      "when": "Early next week",
+      "what": "Pattern is uncertain: roughly even odds of ridging (drier) or troughing (cooler, unsettled)."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, warm start through Wednesday and in the weak, low-impact Thursday system. Confidence drops for the weekend: 48% of model runs favor a more direct, organized system, while 52% show a slower, more northerly, or offshore track. Early next week is essentially a coin flip, at 49% ridging and 51% troughing.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper level system",
+      "definition": "A pocket or dip of cooler air high in the atmosphere that can bring clouds and showers as it passes."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud. When it reaches the ground it appears as fog."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, confidence is higher; when they differ, uncertainty is higher."
+    },
+    {
+      "term": "REFS",
+      "definition": "A high-resolution ensemble forecast system that gives detailed guidance on features like showers."
+    },
+    {
+      "term": "Zonal",
+      "definition": "A pattern where the winds high in the atmosphere flow mostly west to east, usually with fewer strong weather changes."
+    },
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the high-altitude winds, often associated with cooler, more unsettled weather."
+    },
+    {
+      "term": "Ridging",
+      "definition": "A bulge in the high-altitude winds associated with higher pressure and typically drier, warmer weather."
+    }
+  ]
+}

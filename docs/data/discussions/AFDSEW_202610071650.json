@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610071650",
+  "issued": "2026-10-07T16:50:00+00:00",
+  "headline": "Fog and sunny, mild afternoons continue through Thursday, then a weak Friday system brings brief light rain and cooler weather.",
+  "summary": "Western Washington is in a quiet pattern. High pressure sits over the Great Basin (the dry interior region to the east), and winds high in the atmosphere are blowing mostly west to east without much of a dip or bump. That means morning fog and low cloud, then sunny afternoons. A light wind from the east today should help the fog clear a bit earlier than in recent days. That wind will also dry the air slightly this afternoon in the Cascades and valleys. A Dense Fog Advisory for Puget Sound, Hood Canal, the San Juan Islands and parts of the Strait of Juan de Fuca runs until noon today. Highs should reach the upper 60s today and the low 70s Thursday. Fog is expected to be less widespread Thursday morning.\n\nA weak weather front arrives Friday. Forecasters expect very little rain, only a few hundredths of an inch across the Cascades and northern Puget Sound, and it won't last long. The bigger change is the temperature: highs drop back to the low 60s. Snow levels fall to around 5,000 feet late Friday night, so the higher terrain, especially the North Cascades, may get a dusting of snow. Expect breezy winds on Friday along the coast, the Strait of Juan de Fuca and Puget Sound waterfront areas.\n\nThe cooler pattern continues through the weekend and into early next week as low pressure settles over the Pacific Northwest and the Gulf of Alaska. Saturday morning lows should be in the upper 30s at Cascade passes and the low 40s in the foothills, a few degrees colder Sunday morning. Forecasters say to stay tuned for possible frost or freeze concerns for farms and sensitive plants. Another chance of rain may come Tuesday into Wednesday, but the details are unclear.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Morning fog and low cloud, with the Dense Fog Advisory for Puget Sound and nearby waters until noon. Then sunny, with highs in the upper 60s. Humidity dips slightly in the Cascades and valleys."
+    },
+    {
+      "when": "Thursday",
+      "what": "Fog returns in the morning but is less widespread. Sunny afternoon with highs in the low 70s."
+    },
+    {
+      "when": "Friday",
+      "what": "A weak front brings brief, very light rain to the Cascades and northern Puget Sound. Highs drop to the low 60s. Breezy winds along the coast, the Strait of Juan de Fuca and Puget Sound waterfronts."
+    },
+    {
+      "when": "Late Friday night",
+      "what": "Snow levels drop to around 5,000 feet. The higher terrain, especially the North Cascades, may see a dusting of snow."
+    },
+    {
+      "when": "Saturday and Sunday mornings",
+      "what": "Colder nights. Saturday lows are in the upper 30s at Cascade passes and the low 40s in the foothills. Sunday morning is a few degrees colder. Frost or freeze potential is being watched."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Cool weather continues, with another chance of rain that is still uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the fog-then-sun pattern through Thursday and in the weak Friday system with cooler air behind it. Confidence is lower for the frost and freeze risk this weekend, which they say to watch for in later forecasts, and for the Tuesday–Wednesday rain chance. Computer models disagree on exactly where the next low-pressure area will sit.",
+  "hazards": [
+    "Dense Fog Advisory until noon today for Puget Sound, Hood Canal, Admiralty Inlet, the San Juan Islands and the northern inland waters, including parts of the Strait of Juan de Fuca. Visibility may drop to a nautical mile or less.",
+    "No watches, warnings or advisories on land in western Washington."
+  ],
+  "glossary": [
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big north-south waves. It usually means a quiet, steady pattern."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud that often looks like a gray blanket. When it reaches the ground, it is fog."
+    },
+    {
+      "term": "Offshore gradient",
+      "definition": "A difference in air pressure that pushes air from land toward the ocean, here from the east. It tends to dry the air and can help clear fog."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, which is the predicted amount of rain or melted snow. Here it is just a few hundredths of an inch."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between warmer and cooler air masses. Its arrival usually brings clouds, a chance of rain, and a temperature change."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of forecast model runs started from slightly different conditions. When they disagree, the forecast is less certain."
+    },
+    {
+      "term": "Low pressure in the Gulf of Alaska",
+      "definition": "A storm system over the northeast Pacific that can send cool air and weather systems toward the Pacific Northwest."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610230508",
+  "issued": "2026-10-23T05:08:00+00:00",
+  "headline": "Mostly dry, mild weather continues, with a weak system bringing light showers Saturday into Sunday before a drier week.",
+  "summary": "Western Washington should stay mostly dry and mild through Friday. Thursday's weak front left cloudy skies, and Friday should be clearer and a bit cooler. Low clouds and fog are likely early Friday morning, especially south of Puget Sound and over the Kitsap Peninsula, and should clear by afternoon.\n\nA low pressure system will move toward Washington from the north on Saturday, bringing a chance of showers through the day. Most of the rain should fall along the Olympic Peninsula. Inland areas through Puget Sound should see only a few hundredths of an inch. Some showers may linger into Sunday under mostly cloudy skies, again with only a few hundredths of an inch, and conditions should turn drier by Sunday afternoon. Saturday morning lows should be in the upper 30s to low 40s, and mountain valleys could dip into the low 30s, so frost or a light freeze is possible there.\n\nThe rest of next week looks mostly dry. Looking further ahead, forecasters see hints that a more active pattern could return around the end of the month and into the first week of November. That could bring a slight risk of heavy rain, possible mountain snow, and breezier conditions at the immediate coast. These are early signals, not firm predictions.",
+  "timeline": [
+    {
+      "when": "Thursday afternoon",
+      "what": "Mostly cloudy skies left behind by a fading front, with highs in the mid 50s to low 60s."
+    },
+    {
+      "when": "Early Friday morning",
+      "what": "Low clouds and fog are expected, especially south of Puget Sound and over the Kitsap Peninsula. Winds are light."
+    },
+    {
+      "when": "Friday",
+      "what": "Skies clear and temperatures run slightly cooler. The weak front's northwest winds and rough seas along the coast ease by late in the day."
+    },
+    {
+      "when": "Saturday",
+      "what": "A low pressure system brings a chance of showers through the day, mostly on the Olympic Peninsula. Inland areas get only a few hundredths of an inch. Morning lows are in the upper 30s to low 40s, with possible frost in mountain valleys."
+    },
+    {
+      "when": "Sunday",
+      "what": "A few showers may linger under mostly cloudy skies, with only a few hundredths of an inch, then conditions trend drier by afternoon."
+    },
+    {
+      "when": "Early next week through Thursday",
+      "what": "Most of the week looks dry. Depending on the low's track, early in the week could be cooler and cloudier or have weak high pressure. A more active pattern may return around the end of the month into early November."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry stretch through Friday and in the light rain amounts this weekend. They are less sure of the low's track early next week: some computer model runs send it into Oregon, keeping things cooler and cloudier, while others bring weak high pressure. The possible shift to wetter weather in early November is uncertain, since it rests on long-range outlooks that show only a slight risk.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisories for the Pacific coastal waters until Friday morning and afternoon because of strong northwest winds and rough seas. This mainly affects mariners.",
+    "Frost or a light freeze is possible Saturday morning in mountain valleys."
+  ],
+  "glossary": [
+    {
+      "term": "Ridging",
+      "definition": "A bulge in the upper atmosphere that usually brings calmer, drier weather. Weak ridging means this effect is modest."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A group of computer forecasts run with slightly different starting conditions. When they disagree, confidence in the forecast is lower."
+    },
+    {
+      "term": "Probabilistic week two hazards",
+      "definition": "An outlook for days 8 to 14 that shows the chances of significant weather, such as heavy rain or snow, rather than a specific forecast."
+    },
+    {
+      "term": "CWA",
+      "definition": "County Warning Area, the part of western Washington the Seattle forecast office covers."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    },
+    {
+      "term": "Low stratus",
+      "definition": "A flat, gray layer of low cloud that often forms overnight and can come with fog."
+    }
+  ]
+}

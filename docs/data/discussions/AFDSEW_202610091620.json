@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202610091620",
+  "issued": "2026-10-09T16:20:00+00:00",
+  "headline": "A cold front brings rain and breezy winds today, then a cooler weekend with possible frost and another front Tuesday.",
+  "summary": "A cold front is moving across western Washington this morning. Most of the rain has already passed through the lowlands, but showers continue over the Cascades. Snow levels stay between 5000 and 5500 feet, so a dusting of snow is still probable in the higher terrain of the North Cascades. Winds are breezy from the west and southwest this morning. Behind the front, showers become more scattered through the afternoon and evening, and winds ease tonight into Saturday.\n\nThis afternoon, winds pushing west through the Strait of Juan de Fuca will turn the winds in Puget Sound to northerly by late morning. That sets up a convergence zone, a band where air flows together and produces heavier showers, in central and south King County early this afternoon. The strongest gusts, 25-35 mph, are expected over the northern inland waters and the Pacific coast. There is a 40-50% chance of gusts above 35 mph between Port Angeles and Port Townsend, possibly as far east as Whidbey Island this evening.\n\nThe weekend will be cooler. Highs will be in the upper 50s to low 60s, and lows in the upper 30s to low 40s, with the mid to upper 30s most likely in the Cascades and valleys. Frost and freeze potential is still in the forecast, especially Sunday and Monday mornings, so people with gardens, crops, or sensitive plants should watch the forecast. Highs stay in the low 60s into midweek. Another front looks likely to bring rain and breezy winds Tuesday into Wednesday, followed by a likely return to high pressure and milder weather.",
+  "timeline": [
+    {
+      "when": "This morning (Friday)",
+      "what": "Cold front crosses western Washington with breezy west to southwest winds. Most lowland rain has passed, while Cascade showers continue with a dusting of snow possible in the higher North Cascades."
+    },
+    {
+      "when": "Early this afternoon",
+      "what": "A convergence zone is likely to set up in central and south King County, bringing more concentrated showers there. Showers elsewhere become more scattered."
+    },
+    {
+      "when": "This evening",
+      "what": "Gusts above 35 mph are possible (40-50% chance) between Port Angeles and Port Townsend, maybe as far east as Whidbey Island. Winds then ease overnight."
+    },
+    {
+      "when": "Saturday through Sunday",
+      "what": "Cooler, with highs in the upper 50s to low 60s and lows in the upper 30s to low 40s. Frost and freeze potential is highest Sunday morning."
+    },
+    {
+      "when": "Sunday night and Monday",
+      "what": "Cold nights continue, with Monday morning another chance for frost or freeze. Daytime highs stay in the low 60s."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Another front is expected to bring rain and breezy winds. Beyond midweek, high pressure and milder weather are favored, but the pattern is uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in today's front, the cooler weekend, and steady low 60s highs into midweek. The Tuesday-Wednesday front comes from model guidance rather than certainty, and the pattern after midweek is uncertain, though a return to high pressure and mild weather is favored. Frost and freeze is described as a potential, not a sure thing.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Gale Warning until 11 PM this evening for the Strait of Juan de Fuca and the coastal waters.",
+    "Small Craft Advisories for the northern inland waters including the San Juan Islands (until 11 PM tonight), Admiralty Inlet and the west entrance of the Strait of Juan de Fuca (until 8 PM tonight), the Grays Harbor Bar (2 PM today to 5 AM Saturday), and the outer coastal waters (11 PM tonight to 6 PM Saturday).",
+    "Seas of 9 to 14 feet are expected on the coastal waters today into tonight."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. Its passage usually brings rain and wind, followed by cooler temperatures."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band in Puget Sound where winds flowing around the Olympic Mountains meet and push air upward. It often produces heavier, more persistent showers in one area."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Strait of Juan de Fuca",
+      "definition": "The waterway between the Olympic Peninsula and Vancouver Island, which channels wind from the Pacific into Puget Sound and the northern inland waters."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for sustained winds of roughly 34 to 47 knots, which are dangerous for boats."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine advisory for winds or seas that are hazardous to small boats."
+    },
+    {
+      "term": "Frost and freeze potential",
+      "definition": "The chance that temperatures drop low enough to form frost or reach freezing, which can damage tender plants and crops."
+    },
+    {
+      "term": "High pressure",
+      "definition": "A zone of sinking air that typically brings drier, calmer, and often milder weather."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202610250953",
+  "issued": "2026-10-25T09:53:00+00:00",
+  "headline": "Rain and breezy winds continue today, light showers Monday, then a colder, wetter system midweek brings mountain pass snow.",
+  "summary": "A low pressure system moving south off the coast is bringing widespread rain to western Washington early this morning. The heaviest rain is expected on the coast and Olympic Peninsula, with 1.00 to 1.50 inches. West of I-5 should see 0.25 to 0.50 inches, and areas east of I-5 about 0.10 to 0.20 inches. Southerly winds will turn breezy along the coast, the San Juan Islands, and the Olympic Peninsula this morning, with gusts up to 35 mph, then ease late tonight. Highs today are in the low to mid 50s.\n\nThe low stays offshore today and moves inland Monday morning near the Oregon/Washington border, so light showers will linger into Monday. A weak disturbance dropping south from British Columbia on Tuesday brings another chance of light precipitation.\n\nA stronger system arrives from the British Columbia coast late Tuesday, bringing widespread precipitation through at least Thursday along with colder air. Highs are expected to reach only the upper 40s to low 50s, with nighttime lows in the 30s and upper 20s possible in the valleys by Thursday. Snow levels will fall below 3500 ft, bringing light snow to the passes (around 4 inches) and perhaps around 7 inches on higher mountain peaks.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Widespread rain, heaviest on the coast and Olympic Peninsula. Breezy southerly winds with gusts up to 35 mph on the coast, San Juan Islands, and Olympic Peninsula. Highs in the low to mid 50s."
+    },
+    {
+      "when": "Tonight",
+      "what": "Winds ease late in the night as the low weakens."
+    },
+    {
+      "when": "Monday",
+      "what": "The low moves inland near the Oregon/Washington border in the morning. Light showers linger."
+    },
+    {
+      "when": "Tuesday",
+      "what": "A weak disturbance from British Columbia brings another chance of light precipitation."
+    },
+    {
+      "when": "Tuesday night through Thursday",
+      "what": "Another low brings widespread precipitation and colder air. Highs in the upper 40s to low 50s, lows in the 30s, and upper 20s possible in valleys by Thursday. Snow levels drop below 3500 ft, with about 4 inches at the passes and about 7 inches on higher peaks."
+    },
+    {
+      "when": "Saturday",
+      "what": "The pattern becomes uncertain. Most forecast model runs keep a trough (cool, unsettled pattern) over western Washington, but some build a weak ridge (drier pattern)."
+    }
+  ],
+  "confidence": "Forecasters say the models now agree better on the path of the current low, and there is good agreement that the midweek system will arrive and bring widespread precipitation. Confidence drops by Saturday, when models disagree on the upper-level pattern: most favor continued unsettled weather, but some show a weak ridge building in.",
+  "hazards": [
+    "No land-based watches, warnings, or advisories for western Washington.",
+    "Gale Warning until 5 PM today for the east entrance of the Strait of Juan de Fuca.",
+    "Small Craft Advisory until 5 PM today for the Grays Harbor Bar and the Northern Inland Waters including the San Juan Islands.",
+    "Small Craft Advisory until 11 PM tonight for the Strait of Juan de Fuca and the coastal waters, from Cape Flattery south to Cape Shoalwater."
+  ],
+  "glossary": [
+    {
+      "term": "Shortwave",
+      "definition": "A small, fast-moving disturbance in the upper atmosphere that can bring clouds and light precipitation."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the jet stream high above the surface, usually bringing cooler, unsettled weather."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge in the jet stream high above the surface, usually bringing drier, more settled weather."
+    },
+    {
+      "term": "Model members",
+      "definition": "Individual runs of a forecast model, each started with slightly different conditions. When most agree, confidence is higher; when they split, the forecast is less certain."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "High-res guidance",
+      "definition": "Computer forecast models that cover small areas in fine detail, useful for short-term details such as wind gusts."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or waves that could be hazardous to small boats."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for strong winds, generally 34 to 47 knots, which are dangerous to most vessels."
+    }
+  ]
+}

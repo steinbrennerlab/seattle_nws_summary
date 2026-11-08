@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610170304",
+  "issued": "2026-10-17T03:04:00+00:00",
+  "headline": "A front brings rain tonight into Saturday morning, then cooler, mostly dry weather follows into early next week.",
+  "summary": "Warm weather ended this evening as a front approaches western Washington. Forecasters expect most of the rain late tonight into early Saturday morning, mainly along the coast and in the mountains. A ridge (a zone of higher pressure aloft that has been keeping things warm and calm) is moving east, which lets a trough (a dip in the jet stream) and the front move in.\n\nAfter the front passes, a convergence zone is expected to set up along the Snohomish/King county line, which could bring lingering showers there. Saturday's high temperatures should cool to the upper 50s to lower 60s. Sunday is cooler and dry for most places, with a few showers lingering in the Cascades and highs staying in the upper 50s.\n\nNext week looks mostly dry. A low-pressure system off the coast Monday should barely clip the area, with at most a shower or two along the coast. Light offshore winds and highs in the upper 50s follow on Tuesday. A weak front may bring a chance of rain from Wednesday into Thursday. Out on the coastal waters, seas will build Saturday, and a Small Craft Advisory is in effect for waves around 10 feet.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Frontal system arrives with showers. The bulk of the rain is expected late tonight into early morning, mostly along the coast and in the mountains."
+    },
+    {
+      "when": "Saturday",
+      "what": "Rain eases after the front passes. A convergence zone may set up along the Snohomish/King county line with lingering showers. Highs cool to the upper 50s to lower 60s. Rough seas on the coastal waters and Strait of Juan de Fuca."
+    },
+    {
+      "when": "Sunday",
+      "what": "Cooler and dry for most areas, with lingering showers in the Cascades. Highs stay in the upper 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "An upper-level low off the coast barely clips the area. Mostly dry, with a shower or two possible along the coast."
+    },
+    {
+      "when": "Tuesday",
+      "what": "The low weakens and moves away, leaving western Washington with light, dry offshore winds. Highs stay in the upper 50s."
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "A weak front is expected to enter the area, bringing a chance of rain."
+    }
+  ],
+  "confidence": "Forecasters describe the weekend as on track, with the timing of tonight's rain stated fairly firmly. The Monday system is based on ensemble guidance (a set of model runs), and the language that it will 'barely clip' the area suggests a close call. The midweek front is described only as a chance of rain, so details are less certain.",
+  "hazards": [
+    "Small Craft Advisory for the Strait of Juan de Fuca (east entrance and the main strait), 6 AM to 6 PM PDT Saturday, for westerly winds. Mainly affects boaters.",
+    "Small Craft Advisory for the outer coastal waters from Cape Flattery to Cape Shoalwater, 10 to 60 nautical miles out, 6 AM to 8 PM PDT Saturday, for waves of about 10 feet or higher. Mainly affects boaters.",
+    "No watches, warnings, or advisories for land areas in western Washington."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "A zone of higher pressure in the upper atmosphere that usually brings calmer, warmer, drier weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the upper atmosphere's flow that usually brings cooler air and a better chance of clouds and rain."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between air masses. Fronts passing through often bring a band of rain and cooler temperatures."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band where winds flowing around the Olympic Mountains come together over Puget Sound, pushing air upward and causing showers, here expected near the Snohomish/King county line."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer model runs started with slightly different conditions. If most runs agree, forecasters have more confidence."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of low pressure high in the atmosphere, often with cool air, that can bring clouds and showers."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean, which in western Washington usually means drier air."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or waves that could be hazardous to small boats."
+    }
+  ]
+}

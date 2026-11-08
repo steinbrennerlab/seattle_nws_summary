@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610091009",
+  "issued": "2026-10-09T10:09:00+00:00",
+  "headline": "A fast-moving front brings morning rain and breezy winds today, followed by a cool, possibly frosty weekend and another front Tuesday.",
+  "summary": "A weather front is moving in from the coast this morning. Rain will reach much of western Washington today, mostly in the morning and early afternoon, since the front is moving fairly quickly. Rain totals should be modest: just over a quarter inch in the central and northern Cascades, and a tenth of an inch or less in the lowlands. Snow levels stay between 5000 and 5500 feet, so a dusting of snow is still probable in the higher terrain of the North Cascades.\n\nBreezy west to southwest winds will blow across much of the area this morning. Later in the morning, winds in Puget Sound will shift from westerly to northerly as air pushes in from the Strait of Juan de Fuca. That shift should set up a convergence zone (a band where air streams meet and produce heavier showers) in central and south King County early this afternoon. Elsewhere, showers become more scattered through the afternoon and evening. The strongest gusts, 25 to 35 mph, are expected over the northern inland waters and the Pacific coast. There is a 40-50% chance of gusts above 35 mph between Port Angeles and Port Townsend, possibly as far east as Whidbey Island this evening. Winds ease tonight into Saturday.\n\nCooler air follows for the weekend. Highs will be in the upper 50s to low 60s, and lows in the upper 30s to low 40s, with the mid to upper 30s most likely in the Cascades and valleys. Frost and freezing temperatures are still possible, especially Sunday and Monday mornings, so gardeners, farmers, and anyone with sensitive plants should keep watching the forecast. Models suggest another front Tuesday into Wednesday with rain and breezy winds. After midweek the pattern is uncertain, but a return to high pressure and mild weather is generally favored.",
+  "timeline": [
+    {
+      "when": "Today (Friday), morning and early afternoon",
+      "what": "Front brings rain and breezy west to southwest winds. Rain totals are just over a quarter inch in the central and northern Cascades and a tenth of an inch or less in the lowlands. Snow levels are 5000-5500 feet, with a dusting probable in the higher North Cascades."
+    },
+    {
+      "when": "Today, late morning through afternoon",
+      "what": "Puget Sound winds shift from westerly to northerly. A convergence zone likely sets up early this afternoon in central and south King County. Showers become more scattered elsewhere."
+    },
+    {
+      "when": "This evening and tonight",
+      "what": "Strongest gusts of 25-35 mph stay mainly over the northern inland waters and the coast. There is a 40-50% chance of gusts above 35 mph between Port Angeles and Port Townsend, possibly to Whidbey Island. Winds ease overnight into Saturday."
+    },
+    {
+      "when": "Saturday through Sunday",
+      "what": "Cooler weather, with highs in the upper 50s to low 60s and lows in the upper 30s to low 40s. Frost and freeze potential is in the forecast, especially Sunday morning."
+    },
+    {
+      "when": "Monday",
+      "what": "Cold morning with continued frost and freeze potential. Highs stay in the low 60s."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Another front may bring rain and breezy winds. Beyond midweek, high pressure and milder conditions are generally favored, but the pattern is uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in today's rain, wind, and the cool weekend, and the daytime highs in the low 60s look fairly steady through midweek. They are less certain about the Tuesday-Wednesday front, which models only suggest, and about the pattern beyond midweek. Frost and freeze chances are described as localized, and the stronger wind gusts near Port Angeles to Whidbey Island are a 40-50% chance, not a sure thing.",
+  "hazards": [
+    "No land-based watches, warnings, or advisories for western Washington.",
+    "Gale Warning until 11 PM this evening for the Pacific coastal waters and the central and eastern Strait of Juan de Fuca (strong winds and rough seas for boaters).",
+    "Small Craft Advisories today and this evening for the Grays Harbor Bar, the west entrance of the Strait of Juan de Fuca, the Northern Inland Waters including the San Juan Islands, Admiralty Inlet, and the outer coastal waters (hazardous for small boats). The central and east Strait advisory ends at 3 AM this morning."
+  ],
+  "glossary": [
+    {
+      "term": "Front",
+      "definition": "The boundary between two different air masses. When it passes, it usually brings rain, a wind shift, and a change in temperature."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band in Puget Sound where air flowing around the Olympic Mountains meets and rises, often causing heavier showers in a small area. This time it is expected in central and south King County."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. Today it is 5000 to 5500 feet."
+    },
+    {
+      "term": "Strait of Juan de Fuca",
+      "definition": "The waterway between Washington's Olympic Peninsula and Vancouver Island. Winds pushing through it can shift and strengthen winds in Puget Sound."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for sustained winds of about 34 to 47 knots (roughly 39 to 54 mph)."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine advisory for winds or seas hazardous to small boats."
+    },
+    {
+      "term": "High pressure",
+      "definition": "A weather pattern with sinking air, usually bringing drier, calmer, and often milder conditions."
+    }
+  ]
+}

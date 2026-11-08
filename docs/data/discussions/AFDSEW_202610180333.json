@@ -1,0 +1,56 @@
+{
+  "id": "AFDSEW_202610180333",
+  "issued": "2026-10-18T03:33:00+00:00",
+  "headline": "Western Washington stays dry through Wednesday with morning fog and frost, then light rain chances return Thursday into late next week.",
+  "summary": "Tonight clouds clear out and winds ease, so Sunday morning should start with fog, especially in the usual fog-prone spots and river valleys. A weather system approaches the coast late Sunday and Monday, but most of its energy heads south toward California and it stays well offshore. Western Washington stays dry, though clouds spread in. Highs Sunday and Monday should be in the mid 50s to low 60s.\n\nOn Tuesday and Wednesday, high pressure aloft builds over British Columbia while a separate low-pressure system sits far to the south, off central California. That keeps western Washington dry. Light winds and clearer skies should bring fog again each morning, plus areas of frost, mainly away from the water.\n\nA weak trough, a dip in the jet stream, returns Thursday into late next week and brings chances for precipitation. Forecasters say amounts are not heavy because any front will be weakening as it arrives. Temperatures should stay near normal, with the warmest days around midweek.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Clouds thin out and winds lighten, leaving mostly clear skies. Fog may form late, especially in river valleys and other usual spots."
+    },
+    {
+      "when": "Sunday",
+      "what": "Morning fog is possible, then dry weather with highs in the mid 50s to low 60s. A system approaches the coast late in the day."
+    },
+    {
+      "when": "Monday",
+      "what": "Dry, with clouds spreading across western Washington. The system stays well offshore and mostly passes south toward California. Highs are again in the mid 50s to low 60s."
+    },
+    {
+      "when": "Tuesday and Wednesday",
+      "what": "Dry, with morning fog each day and areas of frost each morning, mainly away from the water. Highs peak around midweek."
+    },
+    {
+      "when": "Thursday into late next week",
+      "what": "A weak trough brings chances for precipitation, but rainfall amounts are not expected to be heavy. Temperatures stay near normal."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry stretch through Wednesday, since the nearby system stays offshore. They also say the computer model ensembles (groups of forecast runs) consistently show a weak trough returning Thursday into late week. Exact timing and amounts of that precipitation were not detailed.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Ridging (upper ridge)",
+      "definition": "An area of higher pressure in the upper atmosphere that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Trough (upper trough)",
+      "definition": "A dip in the jet stream that often brings clouds and cooler or wetter weather. A weak trough usually brings only light precipitation."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A pocket of low pressure high in the atmosphere. Here it stays far to the south, off California, so it does not affect Washington directly."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many computer forecast runs with slightly different starting conditions. When they agree, forecasters have more confidence in the outcome."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that typically brings clouds and rain. The discussion says any front arriving late next week will be weakening."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean. It tends to bring drier air and fewer clouds to western Washington."
+    }
+  ]
+}

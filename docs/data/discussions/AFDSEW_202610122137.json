@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610122137",
+  "issued": "2026-10-12T21:37:00+00:00",
+  "headline": "Mostly dry weather with light showers Tuesday, then warm, sunny days Thursday and Friday before rain and breezy winds arrive Sunday into Monday.",
+  "summary": "Today was sunny and typical for mid-October, with highs from the upper 50s to mid 60s. Clouds increase tonight ahead of a weather system passing through British Columbia. That system will brush the northwest part of the region Tuesday into early Wednesday, bringing light showers mainly to the Pacific coast, the western Olympic slopes, and areas from King County northward. Amounts should be small: a few hundredths of an inch in the Northern Interior and a quarter to half an inch along the North Coast.\n\nA ridge of high pressure (a zone of sinking, stable air) rebuilds Wednesday, and showers taper off during the day. On Thursday and Friday, winds near the surface turn offshore, blowing from land toward the ocean. That pattern helps warm the area, with highs in the mid 60s to mid 70s. Friday looks like the warmest day, roughly 5 to 10 degrees above normal.\n\nThe warm spell ends over the weekend. A weakening front arrives Saturday, with the best rain chances along the coast and in the North Cascades. A stronger front follows Sunday into Monday, with more widespread rain and breezy winds. Snow levels may drop to 5000-5500 feet on Monday, so a dusting of snow is possible on the higher peaks.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Dry, with clouds increasing overnight. Lows in the upper 30s to mid 40s. The clouds make fog and frost less likely."
+    },
+    {
+      "when": "Tuesday into early Wednesday",
+      "what": "Light showers in the northwest part of the area: the coast, western Olympic slopes, and King County northward. Highs in the mid 50s to mid 60s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Showers taper off during the day. Mostly cloudy in the morning, partly cloudy by afternoon. Highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "Ridge builds and winds turn offshore. Highs warm to the mid 60s to mid 70s. Lows in the mid 40s to low 50s."
+    },
+    {
+      "when": "Friday",
+      "what": "Warmest day of the week, a degree or two warmer than Thursday, with highs in the mid 60s to mid 70s (about 5 to 10 degrees above normal). Lows in the mid 40s to low 50s."
+    },
+    {
+      "when": "Saturday",
+      "what": "A weakening front brings rain chances, best along the Pacific Coast and in the North Cascades. Cooler."
+    },
+    {
+      "when": "Sunday into Monday",
+      "what": "A stronger front brings more widespread rain and breezy winds. Snow levels fall to 5000-5500 feet Monday, with a dusting possible on the higher peaks. Highs in the upper 50s to mid 60s over the weekend."
+    }
+  ],
+  "confidence": "Forecasters say computer models are in strong agreement that the ridge will build Thursday, so the warm, dry midweek looks reliable. Rain amounts early in the week are expected to be light. Details of the weekend systems are less certain, though the pattern clearly turns more unsettled.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere. It usually brings calmer, drier, and often warmer weather."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean. In western Washington it tends to bring drier air and warmer temperatures."
+    },
+    {
+      "term": "Thermal trough",
+      "definition": "A narrow area of low pressure near the surface caused by strong heating of the ground. Along the coast, it can shift the low-level wind to blow offshore."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A weather system with a boundary between air masses. It typically brings clouds, rain, and often wind as it passes."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ridge axis",
+      "definition": "The line along the crest of a ridge of high pressure. When it moves inland, the area it leaves behind becomes more open to approaching weather systems."
+    }
+  ]
+}

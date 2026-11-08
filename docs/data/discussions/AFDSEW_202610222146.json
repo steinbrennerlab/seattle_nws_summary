@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202610222146",
+  "issued": "2026-10-22T21:46:00+00:00",
+  "headline": "Mostly dry and mild through Friday, light weekend showers, then a mostly dry week with a possible wetter pattern in early November.",
+  "summary": "Western Washington stays mostly dry and mild for the next several days. A weakening front left mostly cloudy skies today, with highs in the mid 50s to low 60s. Friday should be clearer and slightly cooler, though low clouds and fog are expected to form early Friday morning, especially south of Puget Sound and over the Kitsap Peninsula.\n\nA low pressure system moving south from the British Columbia coast brings a chance of showers on Saturday. Most of the rain should fall along the Olympic Peninsula, with only a few hundredths of an inch from the inland lowlands through Puget Sound. Saturday morning lows will be in the upper 30s to low 40s, and mountain valleys could dip into the low 30s, so frost or a freeze is possible there. Some showers linger into Sunday under mostly cloudy skies, then conditions trend drier by Sunday afternoon.\n\nMost of next week looks dry. Forecasters see some signs that the weather could turn more active around the end of October and the first week of November, with a slight risk of heavy rain, possible mountain snow, and breezier weather on the immediate coast. This is a long-range outlook, and details will change.",
+  "timeline": [
+    {
+      "when": "Tonight into Friday morning",
+      "what": "Clouds fill in overnight, with low clouds and fog expected early Friday, especially south of Puget Sound and over the Kitsap Peninsula."
+    },
+    {
+      "when": "Friday",
+      "what": "Clearer skies and slightly cooler temperatures than today."
+    },
+    {
+      "when": "Saturday",
+      "what": "A low pressure system arrives, bringing a chance of showers through the day. The Olympic Peninsula gets most of the rain, and inland areas through Puget Sound see only a few hundredths of an inch. Morning lows are in the upper 30s to low 40s, with possible frost or freezing temperatures in mountain valleys."
+    },
+    {
+      "when": "Sunday",
+      "what": "Some showers linger under mostly cloudy skies, with only a few hundredths of an inch expected. Conditions generally turn drier into the afternoon."
+    },
+    {
+      "when": "Early to late next week",
+      "what": "The majority of the week is dry. Early in the week it could be cooler and cloudier if the low moves into Oregon, or weak high pressure could take over."
+    },
+    {
+      "when": "End of October into the first week of November",
+      "what": "Long-range guidance hints at a switch to a more active pattern, with slight risks of heavy rain, possible mountain snow, and breezier conditions at the immediate coast."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, mild stretch through Friday and in light rain amounts this weekend. They are less sure what happens early next week, because some computer model runs send the low into Oregon (cooler, cloudier) while others bring weak high pressure. The early November shift to a wetter pattern comes from extended-range guidance only, so it is a signal to watch rather than a firm forecast.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for the Pacific coastal waters through Friday (until 11 AM Friday for waters out to 10 nautical miles from shore, and until 5 PM Friday for waters 10 to 60 nautical miles out), because of building winds and rough seas."
+  ],
+  "glossary": [
+    {
+      "term": "Ridging",
+      "definition": "A ridge is an area of high pressure that pushes the jet stream northward and usually brings calmer, drier weather. Weak ridging means that effect is present but not strong."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs, each started with slightly different conditions. When they disagree, as they do about early next week, forecasters are less certain."
+    },
+    {
+      "term": "Active weather regime",
+      "definition": "A pattern where storms and fronts move through often, bringing more frequent rain, wind, or mountain snow."
+    },
+    {
+      "term": "Probabilistic week two hazards",
+      "definition": "An outlook that shows the chance of notable weather, such as heavy rain or strong wind, about one to two weeks ahead. A slight risk means the chance is lower and the details are uncertain."
+    },
+    {
+      "term": "CWA",
+      "definition": "The County Warning Area, the part of western Washington that the Seattle forecast office is responsible for."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    },
+    {
+      "term": "Low stratus",
+      "definition": "A flat, gray layer of low cloud. When it reaches the ground it is fog."
+    }
+  ]
+}

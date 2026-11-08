@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202610081636",
+  "issued": "2026-10-08T16:36:00+00:00",
+  "headline": "Fog clears to a sunny, low-to-mid 70s Thursday, then a weak front brings rain, wind and cooler weather Friday into Saturday.",
+  "summary": "Dense fog lingered this Thursday morning in parts of western Washington, including King County northward along the water and along the Pacific coast. Forecasters say it should be less widespread than in recent days and should clear later this morning. Once it does, high pressure brings sunshine and afternoon highs in the low to mid 70s.\n\nThe warmth won't last. A weak front arrives Friday into Saturday and brings a round of rain to western Washington, plus breezy southwest winds around Puget Sound. Winds will also be stronger in the Strait of Juan de Fuca. Rain totals are expected to be a quarter to half inch in the Cascades and a few hundredths to a tenth of an inch elsewhere. The system is cool enough that snow levels drop to around 4,500-5,000 ft Friday night into Saturday, with an inch of snow or less mainly in the North Cascades.\n\nBehind the front, Saturday night into Sunday turns drier and cooler. Sunday morning lows are mostly upper 30s to low 40s, and some Cascade valleys could drop to around freezing, which matters for gardens and sensitive plants. Highs midweek are in the low to mid 60s, with another chance of light rain Tuesday.",
+  "timeline": [
+    {
+      "when": "This morning (Thursday)",
+      "what": "Dense fog lingers in some areas, then clears later in the morning. Dense Fog Advisories are in effect for parts of the lowlands and the coast."
+    },
+    {
+      "when": "This afternoon",
+      "what": "Sunny and warmer, with highs in the low to mid 70s."
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "A weak front brings rain to western Washington and breezy southwest winds around Puget Sound. Cascades get about a quarter to half inch of precipitation, and elsewhere a few hundredths to a tenth of an inch. Snow levels fall to around 4,500-5,000 ft Friday night into Saturday, with an inch of snow or less mainly in the North Cascades."
+    },
+    {
+      "when": "Saturday morning",
+      "what": "Lows in the low 40s for much of the Puget Sound area, and mid to upper 30s in the Cascades and adjacent foothills."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "Drier and cooler. Sunday morning lows are mostly upper 30s and low 40s, with about a 30% chance of 32°F or colder in Cascade valleys of Snohomish and Skagit Counties and near Mount Rainier."
+    },
+    {
+      "when": "Monday through Wednesday",
+      "what": "Lows rise, but highs stay in the low to mid 60s. Another chance of light rain comes Tuesday."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the Friday-Saturday front and the cooler pattern afterward, though they call it a weak system. The freezing-temperature risk Sunday morning is only about 30%, so it's possible but not likely. After Wednesday, forecast models disagree about whether the cool trough lingers or high pressure returns.",
+  "hazards": [
+    "Dense Fog Advisory until 1 PM Thursday for the lowlands of western Skagit and northwestern Snohomish Counties, including the Everett and Marysville area.",
+    "Dense Fog Advisory until 1 PM Thursday for the Grays Harbor County coast and the northern Washington coast.",
+    "Dense Fog Advisory on the water until noon Thursday, including Puget Sound, Hood Canal, Admiralty Inlet, the San Juan Islands and parts of the coastal waters and Strait of Juan de Fuca.",
+    "Small Craft Advisory from 2 PM Thursday to 3 AM Friday for the central and east Strait of Juan de Fuca.",
+    "Gale Watch from late tonight through Friday evening for the coastal waters and the Strait of Juan de Fuca. Gale-force gusts are possible but not certain."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses, usually bringing clouds, rain, wind and a change in temperature as it passes."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the expected amount of rain or melted snow."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud. When it touches the ground it is fog."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of forecast model runs started with slightly different conditions, used to see how much the possible outcomes vary."
+    },
+    {
+      "term": "Troughing",
+      "definition": "A pattern with a dip in the upper-level winds, often bringing cooler and more unsettled weather."
+    },
+    {
+      "term": "Gale Watch",
+      "definition": "A notice that gale-force winds (sustained 34 to 47 knots) are possible on the water, issued when conditions could develop but are not yet certain."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine notice that winds or seas may be hazardous to small boats."
+    }
+  ]
+}

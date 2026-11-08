@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610040941",
+  "issued": "2026-10-04T09:41:00+00:00",
+  "headline": "One more warm, mostly dry day today, then seasonable weather with morning clouds all week; rain chances rise Friday afternoon into Saturday.",
+  "summary": "Today (Sunday) is the last mild day for a while. High pressure is overhead, and a thermal trough (a zone of warmer air near the surface) is moving inland. Low clouds are expected to spread across the lowlands this morning and may linger into the early afternoon. Highs should reach the low to mid 70s in the lowlands, with the Cascade foothills and valleys reaching the upper 70s to lower 80s. How warm it gets depends on how quickly the clouds clear.\n\nTonight the ridge of high pressure flattens as a system moves inland over British Columbia. Winds at the surface will turn onshore, blowing in from the ocean, and the air aloft will flow roughly west to east. That brings a repeating pattern: low clouds in the morning, sun breaks in the afternoon, and dry weather. Monday through Thursday look much alike, with highs in the mid 60s to lower 70s and lows in the upper 40s to lower 50s.\n\nA trough, a dip in the jet stream, is expected to bring cooler, wetter weather Friday, with rain chances increasing Friday afternoon into Saturday. Forecasters note that computer models show the approaching front, the leading edge of the cooler air, may break apart as it reaches western Washington. If so, it would by no means be a washout. How much rain falls and how widely is still uncertain.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Morning low clouds and fog, possibly lingering into early afternoon. Then warm, with lowland highs in the low to mid 70s and foothills and valleys in the upper 70s to lower 80s."
+    },
+    {
+      "when": "Tonight",
+      "what": "The ridge flattens and onshore flow returns, bringing another round of low clouds and fog overnight into Monday morning. The warm-up ends."
+    },
+    {
+      "when": "Monday and Tuesday",
+      "what": "Little change from day to day. Morning clouds, afternoon sun breaks, and dry weather. Highs in the mid 60s to lower 70s, lows in the upper 40s to lower 50s."
+    },
+    {
+      "when": "Wednesday and Thursday",
+      "what": "More of the same: near-normal temperatures and morning clouds, with the same range of highs and lows."
+    },
+    {
+      "when": "Friday",
+      "what": "Cooler and wetter as a trough passes over the Pacific Northwest. The rain may be broken up or weak, and it is not expected to be a washout."
+    },
+    {
+      "when": "Friday afternoon into Saturday",
+      "what": "Rain chances increase. The strength and coverage of the rain are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the steady, dry pattern through Thursday, with little change from day to day. Confidence is lower for Friday and Saturday: models agree somewhat better on cooler, wetter weather, but the front may weaken or fall apart, so the amount and coverage of rain are uncertain.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for the central and eastern Strait of Juan de Fuca, from 5 PM today until 5 AM Monday, for strong onshore winds that can make boating difficult."
+  ],
+  "glossary": [
+    {
+      "term": "Thermal trough",
+      "definition": "A narrow zone of low pressure and warm air near the surface along the coast. When it shifts inland, western Washington gets warmer, drier air."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere, usually bringing calm, dry weather. When it flattens, the weather pattern becomes more ordinary."
+    },
+    {
+      "term": "Near-zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly straight from west to east, without big dips or bulges. It usually means few strong storms."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the Pacific toward land. It brings cooler, moister air and often morning clouds to western Washington."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean. It tends to bring drier, warmer air to the lowlands."
+    },
+    {
+      "term": "Low stratus",
+      "definition": "A flat, gray layer of low cloud, often causing gloomy mornings until the sun burns it off."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream that tends to bring cooler air and a greater chance of rain."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between warm and cold air masses. Fronts often bring clouds and rain as they pass."
+    }
+  ]
+}

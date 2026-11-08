@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202610072300",
+  "issued": "2026-10-07T23:00:00+00:00",
+  "headline": "Fog and sunny afternoons continue through Thursday, then a weak front brings light rain and cooler weather Friday into Saturday.",
+  "summary": "High pressure stays over western Washington through Thursday. That means mornings with fog and low cloud, followed by sunny afternoons. Highs today are in the upper 60s. Thursday should be similar, but with slightly less cloud, earlier clearing and slightly warmer temperatures. Today, a flow of air from the east side of the Cascades (an offshore gradient) will also cause a small drop in humidity in the Cascades and valleys.\n\nA front arrives late Friday and moves through into Saturday. Forecasters call it weak: rain totals are expected to be only a few hundredths of an inch across the Cascades and northern Puget Sound, and the rain won't last long. The bigger change is cooler air, with Friday highs falling to the low 60s. Snow levels drop to around 5,000 feet late Friday night, so higher terrain, especially the North Cascades, may get a dusting of snow. Expect breezy winds on Friday along the coast, the Strait of Juan de Fuca and Puget Sound waterfront areas.\n\nCooler weather continues into early next week as low pressure sits over the Gulf of Alaska. Saturday morning lows are forecast in the upper 30s at the Cascade passes and low 40s in the foothills, a few degrees colder Sunday morning. Forecasters say to stay tuned for possible frost or freeze concerns for farms and sensitive plants. Another chance of rain appears Tuesday into Wednesday, but the details are uncertain.",
+  "timeline": [
+    {
+      "when": "Tonight into Thursday morning",
+      "what": "Fog and low cloud likely return across parts of western Washington, becoming less widespread by Thursday morning."
+    },
+    {
+      "when": "Thursday",
+      "what": "Earlier clearing, sunny afternoon and slightly warmer temperatures than today's upper 60s."
+    },
+    {
+      "when": "Friday",
+      "what": "Weak front moves in late in the day. Highs drop to the low 60s. Breezy winds on the coast, Strait of Juan de Fuca and Puget Sound waterfront areas. Only light rain, mainly Cascades and northern Puget Sound."
+    },
+    {
+      "when": "Late Friday night",
+      "what": "Snow level falls to around 5,000 feet, so higher terrain, especially the North Cascades, may see a dusting of snow."
+    },
+    {
+      "when": "Saturday and Sunday mornings",
+      "what": "Colder mornings: upper 30s at Cascade passes and low 40s in the foothills Saturday, a few degrees colder Sunday. Frost or freeze potential is being watched."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Cool pattern continues, with another chance of rain, though its timing and location are uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the fog-then-sun pattern through Thursday and in the cooler change arriving with the Friday front. The Friday system is described as weak with minimal rain. Confidence is lower for the Tuesday–Wednesday rain chance because computer models disagree on where the low-pressure system will be, and frost or freeze potential this weekend is still being evaluated.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of cloud that often looks like a gray blanket and can sit near the ground as fog."
+    },
+    {
+      "term": "Offshore gradient",
+      "definition": "A pressure difference that pushes air from land toward the ocean, usually bringing drier air to western Washington."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the predicted amount of rain or melted snow."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they disagree, confidence in the details is lower."
+    },
+    {
+      "term": "Thermal trough",
+      "definition": "A zone of lower pressure along the coast caused by warm air, which can drive northerly winds."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the ocean toward land, typically bringing cooler, moister air."
+    }
+  ]
+}

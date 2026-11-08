@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202610211551",
+  "issued": "2026-10-21T15:51:00+00:00",
+  "headline": "Dry, mild weather continues through Friday, then a weak, uncertain system may bring a chance of showers this weekend.",
+  "summary": "Today (Wednesday) will be sunny after some patchy morning fog and low clouds near Puget Sound. A light wind blowing from land toward the water (offshore flow) should add a couple of degrees to afternoon highs, with most places in the 60s. Forecasters don't expect records, but Seattle's forecast high of 65 would be the 10th warmest October 21st in 82 years of records.\n\nThursday and Friday stay dry. A weather system offshore moves inland Thursday and brings more clouds Thursday afternoon, but no rain is expected, with perhaps a shower or two in the Cascades Thursday night. Friday brings morning low clouds that become at least partly sunny in the afternoon. Highs both days are in the mid 50s to lower 60s.\n\nThe weekend is much less certain. Computer models disagree, but the group of model runs forecasters favor shows a weak system moving through later Saturday into Sunday morning. The chance of rain there has been trending lower, and it is now just a chance almost everywhere except the north coast. A leftover pocket of cool air high in the atmosphere could linger Sunday into Monday and keep a slight chance of showers going. High pressure aloft is more likely to build Monday or Monday night, giving a dry Tuesday. Highs stay in the 50s through the period.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Patchy morning fog and low clouds near Puget Sound clear by mid morning, leaving sunny skies. Highs mostly in the 60s; Seattle is forecast to reach 65."
+    },
+    {
+      "when": "Tonight",
+      "what": "Light winds. Lows in the mid 30s to mid 40s."
+    },
+    {
+      "when": "Thursday",
+      "what": "Clouds increase in the afternoon as a system reaches the coast, but no showers are expected. Cooler, with highs in the mid 50s to lower 60s."
+    },
+    {
+      "when": "Thursday night",
+      "what": "Mostly cloudy early, thinning a little overnight. The Cascades may get a shower or two. Lows in the lower 30s to lower 40s."
+    },
+    {
+      "when": "Friday",
+      "what": "Dry. Morning low clouds give way to at least partly sunny skies in the afternoon. Highs in the mid 50s to lower 60s."
+    },
+    {
+      "when": "Saturday through Monday",
+      "what": "A weak system may move through later Saturday into Sunday morning, with a chance of rain nearly everywhere except the north coast. Chance or slight chance of showers may linger Sunday into Sunday night. Highs in the 50s."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Likely dry as high pressure builds Monday or Monday night. If it builds later Monday, there is a good chance of some lows in the 20s Tuesday morning."
+    }
+  ],
+  "confidence": "Forecasters are confident about the dry, mild weather through Friday. The weekend is uncertain because computer models have had trouble agreeing on a single outcome, though rain chances there have been trending lower. They have better agreement that high pressure builds Monday or Monday night, leading to a dry Tuesday.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for the Washington coastal waters, beginning 8 AM Thursday and lasting until 5 PM Friday for waters 10 to 60 nautical miles out, and from 2 PM Thursday to 11 AM Friday for waters out to 10 nautical miles. Forecasters expect winds and waves to meet advisory levels, with seas building to 10 to 15 feet Thursday night."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the high-altitude air flow, often associated with cooler air and a chance of clouds or precipitation as it passes."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A bulge in the high-altitude air flow that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Upper level low",
+      "definition": "A pocket of cool air and low pressure high in the atmosphere that can linger and spark clouds or showers."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Low-level wind blowing from land toward the ocean. It tends to bring drier air and slightly warmer temperatures to western Washington."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Low-level wind blowing from the ocean toward land. It tends to bring cooler, cloudier, and moister air."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecast runs started with slightly different conditions. When they agree, confidence is higher; when they differ, uncertainty is higher."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation, the chance that measurable rain or snow will fall at a given place."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or waves that could be hazardous to small boats."
+    }
+  ]
+}

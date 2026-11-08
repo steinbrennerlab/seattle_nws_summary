@@ -1,0 +1,63 @@
+{
+  "id": "AFDSEW_202610172056",
+  "issued": "2026-10-17T20:56:00+00:00",
+  "headline": "Mostly dry weather continues through midweek, with morning fog and frost, then a weak system may bring light rain Thursday.",
+  "summary": "After a front passed through, western Washington has mostly sunny skies this afternoon. A small area of weak convergence, where air flows together and makes clouds, is lingering over parts of central Puget Sound. Clouds fade this evening, and skies should be mostly clear with lighter winds early Sunday morning. That sets up fog, especially in the usual fog-prone spots and river valleys.\n\nA weather system will approach the coast late Sunday and Monday, but most of its energy is forecast to dig south toward California and stay well offshore. Western Washington stays dry, with clouds spreading in. Highs Sunday and Monday should be in the mid 50s to low 60s.\n\nOn Tuesday and Wednesday, high pressure aloft builds over British Columbia while a low sits far to the south, off central California. Expect dry weather, morning fog both days, and areas of frost each morning, mainly away from the water. A weak trough, a dip in the jet stream, is expected to return Thursday into late week and bring a chance of rain. Amounts should be light because the front is weakening. Temperatures stay near normal, with the warmest highs midweek.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Clouds taper off this evening and skies become mostly clear. Winds lighten, and fog may begin to form toward Sunday morning."
+    },
+    {
+      "when": "Sunday",
+      "what": "Morning fog is possible, especially in the usual areas and river valleys. Clouds increase later as a weather system approaches offshore. Highs are in the mid 50s to low 60s."
+    },
+    {
+      "when": "Monday",
+      "what": "Dry, with clouds spreading across western Washington. The system stays well offshore as most of its energy heads toward California. Highs are again in the mid 50s to low 60s."
+    },
+    {
+      "when": "Tuesday and Wednesday",
+      "what": "Dry. Morning fog is expected both days, and areas of frost are expected each morning, mainly away from the water. Temperatures are near normal, with highs peaking midweek."
+    },
+    {
+      "when": "Thursday into late week",
+      "what": "A weak trough returns and brings chances of precipitation. Rainfall amounts are not expected to be heavy because the front is weakening. Temperatures stay near normal."
+    }
+  ],
+  "confidence": "Forecasters say the computer model ensembles (groups of forecast runs) consistently show weak troughing returning Thursday into late week, which gives fairly good confidence in a pattern change. Exact rain timing and amounts are not detailed, and the discussion says amounts will not be heavy.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for western Washington land areas.",
+    "Small Craft Advisories for the Strait of Juan de Fuca and the coastal waters are in effect only until this evening (6 PM or 8 PM PDT, depending on the area)."
+  ],
+  "glossary": [
+    {
+      "term": "Post-frontal airmass",
+      "definition": "The air that settles in behind a passing weather front. It is often drier and clearer, as it is this afternoon."
+    },
+    {
+      "term": "Convergence",
+      "definition": "Air flowing together from different directions, which pushes it upward and can create clouds or showers. Here a weak area remains over central Puget Sound."
+    },
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the jet stream high above the ground. It often brings cooler, unsettled weather, though this one is passing offshore and heading south."
+    },
+    {
+      "term": "Upper ridge (ridging)",
+      "definition": "A bulge in the jet stream high above the ground, usually linked to calmer, drier weather. One builds over British Columbia Tuesday and Wednesday."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A closed area of low pressure high in the atmosphere. This one is expected to sit well south of Washington, off central California."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many runs of a weather model, each started with slightly different conditions. When they agree, forecasters have more confidence."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean. Here, it is weak and helps keep conditions calm."
+    }
+  ]
+}

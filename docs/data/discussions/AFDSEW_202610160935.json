@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610160935",
+  "issued": "2026-10-16T09:35:00+00:00",
+  "headline": "One more warm, dry day today, then rain Saturday and cool weather Sunday, with more showers possible Monday and midweek.",
+  "summary": "Today (Friday) is the last warm, dry day for now. High pressure and east winds are keeping western Washington dry, with afternoon highs in the lower to mid 70s and 60s near the water. East winds peaked overnight, with gusts of 40-50 mph on the Cascade ridges and 20-30 mph in the gaps, and they will keep easing today. Patchy, shallow fog is forming this morning, mostly where the wind is calm, and should burn off late in the morning.\n\nThe pattern changes tonight into Saturday. The high-pressure ridge moves east, and a front and a trough move in from the west. Most of the rain falls tonight into Saturday morning, mainly at the coast and in the mountains. On Saturday afternoon, showers are expected near the King/Snohomish county line, where winds coming around the Olympics and Cascades meet and lift the air (a convergence zone). Elsewhere there should be a few sunbreaks, with highs in the 50s to lower 60s.\n\nSunday falls between weather systems, so it is cool and dry. Morning lows will be in the 30s and 40s, near freezing around the south Sound, and highs mostly in the 50s. On Monday a low-pressure system spinning offshore should bring showers mainly to the coast. It weakens as it moves south on Tuesday, when light, dry east winds return. A weak front may bring a chance of light rain late Wednesday night and Thursday.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "Warm and dry, with highs in the lower to mid 70s and 60s near the water. East winds ease. Patchy morning fog burns off late in the morning."
+    },
+    {
+      "when": "Tonight into Saturday morning",
+      "what": "A front brings the bulk of the rain, mainly to the coast and mountains."
+    },
+    {
+      "when": "Saturday",
+      "what": "Cooler, with highs in the 50s to lower 60s. Showers are expected in the afternoon near the King/Snohomish line, with a few sunbreaks elsewhere."
+    },
+    {
+      "when": "Sunday",
+      "what": "Cool and dry between systems. Morning lows in the 30s and 40s, near freezing around the south Sound. Highs mostly in the 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "A low offshore sends showers mainly along the coast."
+    },
+    {
+      "when": "Tuesday through Thursday",
+      "what": "The offshore system weakens on Tuesday, with light, dry east winds. A weak front fades as it arrives Wednesday night and Thursday, with a chance of light rain."
+    }
+  ],
+  "confidence": "The forecasters sound fairly sure about the near-term timing: a warm, dry Friday, rain tonight into Saturday morning, and a dry Sunday. The midweek front is described only as something that \"may\" arrive, weak and fading, with just a chance of light rain, so that part is less certain.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory (for boaters) from 6 AM to 6 PM Saturday in the central and eastern Strait of Juan de Fuca, due to strong westerly winds."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge",
+      "definition": "An area of high pressure that stretches high into the atmosphere and usually brings dry, settled weather."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean. Here it means east winds, which tend to bring dry and warmer air to western Washington."
+    },
+    {
+      "term": "Gaps",
+      "definition": "Low spots between mountains, such as Cascade passes, where winds are funneled and become stronger."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between air masses. A front passing through usually brings clouds and rain, and cooler air."
+    },
+    {
+      "term": "Trough",
+      "definition": "An area of lower pressure in the atmosphere, usually linked to cooler, unsettled weather."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band, often near the King/Snohomish county line, where air flowing around the Olympic Mountains comes back together and rises, producing showers while nearby areas stay drier."
+    },
+    {
+      "term": "Upper level low",
+      "definition": "A pocket of low pressure high in the atmosphere that can spin in place and bring showers."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that could be hazardous to small boats."
+    }
+  ]
+}

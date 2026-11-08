@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610181014",
+  "issued": "2026-10-18T10:14:00+00:00",
+  "headline": "Dry, mostly sunny weather with patchy morning fog continues through the week, with only light showers possible Thursday through Saturday.",
+  "summary": "A trough of low pressure aloft is moving south well off the coast, too far west to bring rain here. A weak ridge of high pressure aloft builds over western Washington by Tuesday. Light winds and clear skies let the air cool overnight, so patchy fog is likely each morning, especially in the Southwest Interior, near Puget Sound and Hood Canal, and in river valleys. Forecasters say the fog should burn off by late morning or before noon, leaving mostly sunny afternoons.\n\nHighs stay in the mid 50s to mid 60s through Wednesday, and lows range from the mid 30s to mid 40s. By Wednesday, some morning fog could be freezing fog in spots, with lows in the 30s to lower 40s. A weakening front moves through Thursday, with only a chance of showers and more clouds trimming a few degrees off highs (mid 50s to near 60).\n\nFrom Thursday night into Saturday, a cool trough sits overhead with very little energy, so forecasters keep only a slight chance of showers at times. Snow levels near 4,500 feet mean a chance of very light snow at the higher elevations. Forecasters also note how dry October has been: only 0.08 inches of rain so far at Sea-Tac Airport. Only 4 Octobers in 81 years of records there have had less than an inch.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Fog in the morning, especially in the Southwest Interior and near Puget Sound and Hood Canal, gone by late morning. Mostly sunny afternoon with highs in the mid 50s to lower 60s."
+    },
+    {
+      "when": "Tonight and Monday",
+      "what": "Another round of patchy fog late tonight through mid morning, with lows in the mid 30s to mid 40s. Some middle and high clouds Monday, with highs within a couple of degrees of 60."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Slightly more widespread morning fog under a weak ridge, gone before noon. Lows in the mid 30s to mid 40s, highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Sunny after areas of morning fog, with some local freezing fog. Lows in the 30s to lower 40s, highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday",
+      "what": "A weakening front moves inland with more clouds and only a chance of showers. Highs from the mid 50s to near 60."
+    },
+    {
+      "when": "Thursday night through Saturday",
+      "what": "Cool trough overhead with a slight chance of showers at times. Very light snow is possible in the higher elevations (snow levels near 4,500 feet). Highs near normal, mid 50s to near 60."
+    }
+  ],
+  "confidence": "Forecasters say the computer models agree well on the pattern through midweek, so the dry, foggy-morning forecast looks solid. The Thursday front and the weekend showers are described only as chances, with little energy behind them, so any rain or mountain snow is expected to be light and spotty.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper level trough",
+      "definition": "A dip in the jet stream high above the ground, often linked to cooler and more unsettled weather. Here it stays offshore, so it brings little to western Washington."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "A bulge in the jet stream high above the ground that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Upper level low",
+      "definition": "A closed circle of low pressure high in the atmosphere. This one is forecast to sit off the California coast, away from Washington."
+    },
+    {
+      "term": "Temperature dewpoint spread",
+      "definition": "The gap between the air temperature and the temperature at which fog or dew forms. When the gap is narrow, fog forms easily."
+    },
+    {
+      "term": "Light gradients",
+      "definition": "Small differences in air pressure across the area, which mean light winds that let fog form and linger."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of tiny water droplets that freeze onto surfaces when temperatures are at or below freezing."
+    },
+    {
+      "term": "Chance pops",
+      "definition": "Short for probability of precipitation. A \"chance\" means rain is possible but far from certain, roughly a 30 to 50 percent likelihood."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    }
+  ]
+}

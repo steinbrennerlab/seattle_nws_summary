@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202610111647",
+  "issued": "2026-10-11T16:47:00+00:00",
+  "headline": "Dry, sunny weather continues; frost Monday morning, then a warm, offshore-wind stretch Thursday and Friday before a cooler change Saturday.",
+  "summary": "Western Washington stays dry through the week's first half. Today's morning fog and low clouds should clear by mid morning, leaving sunny skies and highs near normal, in the upper 50s to mid 60s. Skies stay clear tonight, so Monday morning should be the coldest since May, with lows in the 30s and lower 40s. A Frost Advisory covers most of the area south of Seattle, plus Hood Canal and the North Coast.\n\nA high-pressure ridge (a bulge of high pressure in the upper atmosphere) moves overhead Monday night into Tuesday. That brings some high clouds and slightly milder nights. Tuesday highs are in the mid 50s to mid 60s, cooler in the north where the clouds are thicker. A plume of moisture (an atmospheric river) heads to Vancouver Island and central British Columbia Tuesday night and Wednesday. Western Washington gets only a slight chance of rain, mainly along the coast and near the Canadian border.\n\nA stronger ridge builds Wednesday night and Thursday, and winds near the ground turn offshore (blowing from land toward the ocean). That warms highs into the 60s and lower 70s Thursday. Friday looks warmest, with highs in the mid 60s to mid 70s. Forecasters don't expect records. A weakening warm front may arrive Friday night into Saturday with a chance or slight chance of rain, and Saturday highs drop to the lower to mid 60s.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Morning stratus and patchy fog dissipate by mid morning, leaving sunny skies. Highs in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Tonight into Monday morning",
+      "what": "Clear and calm. Monday morning is the coldest since May, with lows in the 30s and lower 40s. Frost Advisory from midnight to 8 AM Monday for areas south of Seattle, Hood Canal and the North Coast."
+    },
+    {
+      "when": "Monday",
+      "what": "Plenty of sunshine, with highs again in the upper 50s to mid 60s."
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "High clouds move in as the ridge passes overhead. Lows in the mid 30s to mid 40s. Tuesday highs in the mid 50s to mid 60s, cooler in the north."
+    },
+    {
+      "when": "Tuesday night through Wednesday",
+      "what": "Moisture plume stays to the north. Slight chance of rain along the coast and near the Canadian border. Lows in the 40s, highs in the 60s."
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "Strong ridge and offshore flow bring warmth. Thursday highs in the 60s and lower 70s. Friday, the warmest day, has highs in the mid 60s to mid 70s. Lows in the 40s, and on Friday up to the lower 50s."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "A weakening warm front may bring a chance or slight chance of rain. Saturday highs are much cooler, in the lower to mid 60s."
+    }
+  ],
+  "confidence": "Forecasters say the models agree well on a strong ridge building Wednesday night and Thursday, so the warm-up looks likely. The Friday night and Saturday rain is less certain: forecasters say the front may only possibly reach the area and give just a chance or slight chance of rain. Aviation notes add some uncertainty about how cold Monday morning gets, with a possibility of isolated freezing fog.",
+  "hazards": [
+    "Frost Advisory from midnight tonight to 8 AM Monday for Eastern Kitsap County, the foothills and valleys and lowlands of Pierce, southern King, Thurston and Lewis Counties, the Olympia and southern Puget Sound area, Hood Canal (northern and southern), the Northern Washington Coast, the Middle Chehalis River Valley, Willapa and Black Hills, and the Lake Crescent area including US 101. Frost could damage sensitive plants.",
+    "Possible isolated freezing fog Monday morning in the southern interior (uncertain)."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings calm, dry and often warmer weather."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere. Here it sits over Eastern Oregon and helps steer dry northeast winds over western Washington."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow stream of moist air that can bring heavy rain where it comes ashore. This one is aimed north of Washington."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Low-level wind blowing from the land toward the ocean. In western Washington it tends to bring dry air and warmer temperatures."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Low-level wind blowing from the ocean toward the land, which usually brings cooler, cloudier, moister air."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass. It can bring clouds and light rain as it passes."
+    },
+    {
+      "term": "Pops",
+      "definition": "Short for probability of precipitation, the chance that rain will fall at a given spot."
+    },
+    {
+      "term": "500 mb heights",
+      "definition": "A measure of how high the 500-millibar pressure level sits in the atmosphere. Higher values, like the 580s dm mentioned, indicate a strong ridge and warm air."
+    }
+  ]
+}
