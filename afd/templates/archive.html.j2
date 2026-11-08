@@ -1,0 +1,20 @@
+{% extends "base.html.j2" %}
+{% block title %}Archive of Seattle forecast discussions{% endblock %}
+{% block main %}
+<section class="block">
+  <h1 class="period">Archive</h1>
+  <div class="body">
+    <p>Every Seattle forecast discussion this site has saved, newest first, in the original text. Times are Pacific.</p>
+    {% for month, days in months.items() %}
+    <h2 class="month">{{ month }}</h2>
+    <ul class="archive">
+      {% for d in days %}
+      <li><span class="day-label">{{ d.label }}</span>
+        {% for x in d.discussions %}<a href="{{ x.url }}" title="{{ x.summary.headline if x.summary else '' }}">{{ x.time }}</a>{{ ", " if not loop.last }}{% endfor %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

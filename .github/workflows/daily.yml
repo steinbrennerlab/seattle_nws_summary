@@ -1,0 +1,57 @@
+name: Daily update
+
+on:
+  schedule:
+    # 23:30 UTC is 3:30 PM PST / 4:30 PM PDT, after the afternoon discussion is usually out.
+    # GitHub often starts scheduled runs 10-30 minutes late.
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: "Days of history to load from the Iowa Environmental Mesonet first (0 = none)"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Backfill
+        if: github.event_name == 'workflow_dispatch' && inputs.backfill_days != '0'
+        run: python -m afd backfill --days "${{ inputs.backfill_days }}"
+
+      - name: Fetch, summarize, rebuild page
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m afd update
+
+      # Runs even if the update step failed, so the page records the failed check
+      # and any discussions that were saved before the failure are kept.
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "Update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

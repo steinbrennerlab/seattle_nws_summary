@@ -1,0 +1,8 @@
+[project]
+name = "seattle_nws_summary"
+version = "0.1.0"
+description = "Archive and plain-language explanations of the NWS Seattle Area Forecast Discussion"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

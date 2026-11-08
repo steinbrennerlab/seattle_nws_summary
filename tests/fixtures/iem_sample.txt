@@ -1,0 +1,73 @@
+000
+FXUS66 KSEW 312145
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+245 PM PDT Sat Oct 31 2026
+
+.SYNOPSIS...An upper-level ridge offshore keeps western Washington
+dry through Sunday with areas of morning fog. A frontal system
+arrives Monday night, followed by an atmospheric river Wednesday.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH MONDAY/...Light offshore flow tonight
+with patchy dense fog in the lowlands by morning. Highs Sunday in the
+upper 50s. Clouds increase Monday as the ridge shifts east.
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...Ensembles agree on a moist
+southwest flow Wednesday into Thursday. Snow levels near 6000 feet.
+QPF remains uncertain; the heaviest totals favor the Olympics.
+
+&&
+
+.AVIATION...VFR except IFR in fog 12z-17z.
+
+&&
+
+.MARINE...Small craft advisory for the coastal waters Monday night.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...None.
+&&
+
+$$
+
+512
+FXUS66 KSEW 021100
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+300 AM PST Mon Nov 2 2026
+
+.SYNOPSIS...The ridge breaks down today. A cold front crosses tonight
+with breezy south winds. An atmospheric river aims at the area
+Wednesday into Thursday with river flooding possible.
+
+&&
+
+.SHORT TERM /TODAY THROUGH WEDNESDAY/...Rain spreads inland this
+evening. Gusts to 40 mph along the coast. Puget Sound convergence zone
+showers Tuesday north of Seattle.
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...Flood watch likely for rivers
+draining the Olympics and Cascades Wednesday.
+
+&&
+
+.HYDROLOGY...Several rivers could reach flood stage Thursday.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Wind Advisory for the Coast from 4 PM this afternoon to 4 AM PST
+Tuesday.
+&&
+
+$$
+

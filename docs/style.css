@@ -1,0 +1,123 @@
+/* Palette taken from a Puget Sound overcast: fog grey, slate ink, Sound-water blue.
+   Source Serif for reading, Public Sans (the U.S. federal web typeface) for times and labels. */
+:root {
+  --bg: #edf0f1;
+  --ink: #1b2830;
+  --muted: #56656e;
+  --accent: #2c6a78;
+  --rule: #c6d0d4;
+  --hazard-bg: #f6ead2;
+  --hazard-ink: #6e4200;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12191d;
+    --ink: #dde5e8;
+    --muted: #93a3aa;
+    --accent: #84bcc8;
+    --rule: #2c3a40;
+    --hazard-bg: #3a2c12;
+    --hazard-ink: #f0c879;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 1.125rem/1.6 var(--serif);
+  font-optical-sizing: auto;
+}
+a { color: var(--accent); text-underline-offset: 0.15em; }
+a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+
+.masthead, main, footer {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+.masthead { padding-top: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--rule); }
+.site-name { margin: 0; font: 600 1rem/1.3 var(--sans); }
+.site-name a { color: var(--ink); text-decoration: none; }
+.status { margin: 0.35rem 0 0; font: 400 0.875rem/1.45 var(--sans); color: var(--muted); }
+.status-bad { color: var(--hazard-ink); background: var(--hazard-bg); padding: 0.5rem 0.75rem; border-radius: 4px; }
+
+/* Each block: a narrow column naming the time span, then the reading column. */
+.block {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 40rem);
+  gap: 0 2.5rem;
+  padding: 2.5rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.period {
+  margin: 0.3rem 0 0;
+  font: 600 0.95rem/1.3 var(--sans);
+  color: var(--muted);
+}
+.body > :first-child { margin-top: 0; }
+
+.issued { font: 400 0.875rem/1.45 var(--sans); color: var(--muted); margin: 0 0 0.75rem; }
+.headline {
+  font: 400 clamp(1.9rem, 1.3rem + 2.4vw, 2.75rem)/1.12 var(--serif);
+  letter-spacing: -0.01em;
+  margin: 0 0 1.25rem;
+  text-wrap: balance;
+}
+.headline.small { font-size: clamp(1.4rem, 1.15rem + 1vw, 1.75rem); line-height: 1.2; }
+h3 { font: 600 1rem/1.3 var(--sans); margin: 2rem 0 0.6rem; }
+p { margin: 0 0 1rem; }
+
+.hazards { list-style: none; padding: 0; margin: 0 0 1.25rem; }
+.hazards li {
+  font: 600 0.9rem/1.4 var(--sans);
+  background: var(--hazard-bg);
+  color: var(--hazard-ink);
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  margin-bottom: 0.4rem;
+}
+
+/* Period-by-period forecast and turning points: time on the left, text on the right. */
+.timeline { display: grid; grid-template-columns: 9rem 1fr; gap: 0.6rem 1.25rem; margin: 0; }
+.timeline dt { font: 600 0.875rem/1.6 var(--sans); padding-top: 0.15rem; }
+.timeline dd { margin: 0; }
+
+.glossary { margin-top: 2rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
+.glossary summary { font: 600 1rem/1.3 var(--sans); cursor: pointer; }
+.glossary dl { margin: 1rem 0 0; }
+.glossary dt { font-weight: 600; }
+.glossary dd { margin: 0 0 0.75rem; color: var(--muted); }
+
+.pending { color: var(--muted); font-style: italic; }
+
+.days { list-style: none; padding: 0; margin: 0; }
+.days li { padding: 0 0 1.5rem; margin-bottom: 1.5rem; border-bottom: 1px solid var(--rule); }
+.days li:last-child { border-bottom: 0; }
+.day-label { font: 600 0.95rem/1.3 var(--sans); margin: 0 0 0.35rem; }
+.day-headline { font-weight: 600; margin-bottom: 0.4rem; }
+.changes { color: var(--muted); }
+.sources, .archive { font: 400 0.875rem/1.6 var(--sans); color: var(--muted); }
+.sources { margin: 0; }
+
+.month { font: 600 1.25rem/1.3 var(--serif); margin: 2rem 0 0.75rem; }
+.archive { list-style: none; padding: 0; margin: 0; }
+.archive li { padding: 0.2rem 0; }
+.archive .day-label { display: inline-block; min-width: 7.5rem; color: var(--ink); }
+
+footer { padding-top: 2rem; padding-bottom: 3rem; font: 400 0.875rem/1.55 var(--sans); color: var(--muted); max-width: 64rem; }
+footer p { max-width: 42rem; }
+
+@media (max-width: 760px) {
+  body { font-size: 1.0625rem; }
+  .block { grid-template-columns: 1fr; padding: 2rem 0; }
+  .period { margin-bottom: 0.75rem; }
+  .timeline { grid-template-columns: 1fr; gap: 0; }
+  .timeline dd { margin-bottom: 0.75rem; }
+}

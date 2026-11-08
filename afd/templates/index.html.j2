@@ -1,0 +1,91 @@
+{% extends "base.html.j2" %}
+{% block main %}
+{% if not latest %}
+<section class="block">
+  <p>No discussions have been archived yet. Run the backfill workflow in the repository's Actions tab to load the past month.</p>
+</section>
+{% else %}
+{% set s = latest.summary %}
+<section class="block now" aria-labelledby="now-h">
+  <h2 class="period" id="now-h">Current discussion</h2>
+  <div class="body">
+    <p class="issued">Issued {{ latest.label }}. <a href="{{ latest.url }}">Original text</a></p>
+    {% if s %}
+    <h1 class="headline">{{ s.headline }}</h1>
+    {% if s.hazards %}
+    <ul class="hazards" aria-label="Watches, warnings, and advisories">
+      {% for h in s.hazards %}<li>{{ h }}</li>{% endfor %}
+    </ul>
+    {% endif %}
+    {% for p in s.summary | paragraphs %}<p>{{ p }}</p>{% endfor %}
+
+    {% if s.timeline %}
+    <h3>Period by period</h3>
+    <dl class="timeline">
+      {% for t in s.timeline %}<dt>{{ t.when }}</dt><dd>{{ t.what }}</dd>{% endfor %}
+    </dl>
+    {% endif %}
+
+    {% if s.confidence %}
+    <h3>How confident forecasters are</h3>
+    <p>{{ s.confidence }}</p>
+    {% endif %}
+
+    {% if s.glossary %}
+    <details class="glossary" open>
+      <summary>Terms in this discussion</summary>
+      <dl>
+        {% for g in s.glossary %}<dt>{{ g.term }}</dt><dd>{{ g.definition }}</dd>{% endfor %}
+      </dl>
+    </details>
+    {% endif %}
+    {% else %}
+    <p class="pending">A plain-language explanation of this discussion has not been generated yet. Read the <a href="{{ latest.url }}">original text</a> or the <a href="{{ nws_url }}">NWS page with glossary links</a>.</p>
+    {% endif %}
+  </div>
+</section>
+
+{% macro period(id, title, data) %}
+<section class="block" aria-labelledby="{{ id }}-h">
+  <h2 class="period" id="{{ id }}-h">{{ title }}</h2>
+  <div class="body">
+    {% if data %}
+    <h2 class="headline small">{{ data.headline }}</h2>
+    {% for p in data.summary | paragraphs %}<p>{{ p }}</p>{% endfor %}
+    {% if data.turning_points %}
+    <h3>When the forecast changed</h3>
+    <dl class="timeline">
+      {% for t in data.turning_points %}<dt>{{ t.date }}</dt><dd>{{ t.what }}</dd>{% endfor %}
+    </dl>
+    {% endif %}
+    {% else %}
+    <p class="pending">This summary has not been generated yet.</p>
+    {% endif %}
+  </div>
+</section>
+{% endmacro %}
+{{ period("week", "The past week", week) }}
+{{ period("month", "The past month", month) }}
+
+<section class="block" aria-labelledby="days-h">
+  <h2 class="period" id="days-h">Day by day</h2>
+  <div class="body">
+    <ol class="days">
+      {% for d in days %}
+      <li>
+        <h3 class="day-label">{{ d.label }}</h3>
+        {% if d.summary %}
+        <p class="day-headline">{{ d.summary.headline }}</p>
+        <p>{{ d.summary.summary }}</p>
+        {% if d.summary.changes %}<p class="changes">{{ d.summary.changes }}</p>{% endif %}
+        {% endif %}
+        <p class="sources">Discussions:
+          {% for x in d.discussions %}<a href="{{ x.url }}" title="{{ x.summary.headline if x.summary else 'Original text' }}">{{ x.time }}</a>{{ ", " if not loop.last }}{% endfor %}
+        </p>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+{% endif %}
+{% endblock %}
