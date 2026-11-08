@@ -10,7 +10,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from .config import MONTH_DAYS, NWS_PRODUCT_PAGE, REPO_URL, Paths
+from .config import MONTH_DAYS, NWS_PRODUCT_PAGE, REPO_URL, SUMMARY_WINDOW_DAYS, Paths
 from .store import list_all
 from .summarize import day_label, local_day, local_label
 
@@ -18,7 +18,7 @@ TEMPLATES = Path(__file__).parent / "templates"
 
 
 def _read(path: Path) -> dict | None:
-    return json.loads(path.read_text()) if path.exists() else None
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
 
 
 def _paragraphs(text: str | None) -> list[str]:
@@ -70,11 +70,12 @@ def build(paths: Paths, status: dict) -> None:
         "days": recent_days,
         "months": months,
         "count": len(discussions),
+        "window_days": SUMMARY_WINDOW_DAYS,
         "repo_url": REPO_URL,
         "nws_url": NWS_PRODUCT_PAGE,
     }
     paths.docs.mkdir(parents=True, exist_ok=True)
-    (paths.docs / "index.html").write_text(env.get_template("index.html.j2").render(**ctx))
-    (paths.docs / "archive.html").write_text(env.get_template("archive.html.j2").render(**ctx))
+    (paths.docs / "index.html").write_text(env.get_template("index.html.j2").render(**ctx), encoding="utf-8")
+    (paths.docs / "archive.html").write_text(env.get_template("archive.html.j2").render(**ctx), encoding="utf-8")
     shutil.copyfile(TEMPLATES / "style.css", paths.docs / "style.css")
     (paths.docs / ".nojekyll").touch()  # serve files as-is; skip GitHub's Jekyll build

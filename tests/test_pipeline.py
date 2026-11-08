@@ -8,7 +8,7 @@ from afd import parse, render, store, summarize
 from afd.__main__ import save_all
 from afd.config import Paths
 
-FIXTURE = (Path(__file__).parent / "fixtures" / "iem_sample.txt").read_text()
+FIXTURE = (Path(__file__).parent / "fixtures" / "iem_sample.txt").read_text(encoding="utf-8")
 
 
 @pytest.fixture
@@ -78,7 +78,8 @@ def test_summaries_are_cached(paths):
     save_all(paths, [FIXTURE])
     now = datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc)
     llm = FakeLLM()
-    assert summarize.run(paths, llm, now=now, log=lambda *_: None) == []
+    p = summarize.run(paths, llm, now=now, log=lambda *_: None)
+    assert p.errors == [] and p.finished and (p.done, p.total) == (2, 2)
     # 2 discussions + 2 days + week + month
     assert llm.calls == 6
     assert (paths.data / "week.json").exists() and (paths.data / "month.json").exists()
@@ -86,18 +87,43 @@ def test_summaries_are_cached(paths):
     assert llm.calls == 6, "a second run with nothing new should make no requests"
 
 
+def test_batches_defer_the_rest_and_hold_back_week_and_month(paths):
+    save_all(paths, [FIXTURE])
+    now = datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc)
+    llm = FakeLLM()
+    p = summarize.run(paths, llm, now=now, log=lambda *_: None, limit=1)
+    assert (p.made, p.done, p.total, p.deferred) == (1, 1, 2, 1) and not p.finished
+    # 1 discussion + its (complete) day; the other day and the week and month wait
+    assert llm.calls == 2
+    assert (paths.day_summaries / "2026-10-31.json").exists()
+    assert not (paths.day_summaries / "2026-11-02.json").exists()
+    assert not (paths.data / "week.json").exists()
+
+    p = summarize.run(paths, llm, now=now, log=lambda *_: None, limit=1)
+    assert p.finished and (p.made, p.done) == (1, 2)
+    assert llm.calls == 2 + 4  # second discussion + its day + week + month
+    assert (paths.data / "week.json").exists()
+
+
+def test_progress_is_shown_while_incomplete(paths):
+    save_all(paths, [FIXTURE])
+    render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True,
+                         "summaries_done": 1, "summaries_total": 2})
+    assert "1 of 2 discussions" in (paths.docs / "index.html").read_text(encoding="utf-8")
+
+
 def test_render_without_and_with_summaries(paths):
     save_all(paths, [FIXTURE])
     status = {"last_check": "2026-11-02T23:30:00+00:00", "ok": True}
     render.build(paths, status)
-    html = (paths.docs / "index.html").read_text()
+    html = (paths.docs / "index.html").read_text(encoding="utf-8")
     assert "has not been generated yet" in html
     assert 'href="archive/2026/11/AFDSEW_202611021100.txt"' in html
     assert "Checked Mon Nov 2, 3:30 PM PST" in html
 
     summarize.run(paths, FakeLLM(), now=datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc), log=lambda *_: None)
     render.build(paths, status)
-    html = (paths.docs / "index.html").read_text()
+    html = (paths.docs / "index.html").read_text(encoding="utf-8")
     assert "Dry weekend, then a wet and windy week." in html
     assert "Wind advisory on the coast" in html
     assert (paths.docs / "archive.html").exists() and (paths.docs / "style.css").exists()
@@ -106,4 +132,4 @@ def test_render_without_and_with_summaries(paths):
 def test_failed_check_is_shown(paths):
     render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": False,
                          "message": "could not reach the NWS API or the IEM archive (ConnectionError)."})
-    assert "failed: could not reach" in (paths.docs / "index.html").read_text()
+    assert "failed: could not reach" in (paths.docs / "index.html").read_text(encoding="utf-8")

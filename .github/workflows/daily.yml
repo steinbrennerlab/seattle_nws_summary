@@ -10,6 +10,9 @@ on:
       backfill_days:
         description: "Days of history to load from the Iowa Environmental Mesonet first (0 = none)"
         default: "0"
+      batch_size:
+        description: "Discussions to explain per batch; each batch is committed before the next starts"
+        default: "10"
 
 permissions:
   contents: write
@@ -18,10 +21,16 @@ concurrency:
   group: daily-update
   cancel-in-progress: false
 
+env:
+  # Scheduled runs have no inputs, so they use the default.
+  BATCH_SIZE: ${{ inputs.batch_size || '10' }}
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # Each batch is pushed as it finishes, so a run that hits this limit keeps everything
+    # but the batch in progress, and the next run picks up where it stopped.
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -32,22 +41,45 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Backfill
         if: github.event_name == 'workflow_dispatch' && inputs.backfill_days != '0'
         run: python -m afd backfill --days "${{ inputs.backfill_days }}"
 
-      - name: Fetch, summarize, rebuild page
+      # The first batch runs with the fetch; further batches repeat until nothing is waiting
+      # (exit code 3 means "more to do"). Progress is listed on the run's summary page, on the
+      # site, and as one commit per batch.
+      - name: Fetch, summarize in batches, rebuild page
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m afd update
+        run: |
+          commit() {
+            git add docs
+            if ! git diff --cached --quiet; then
+              git commit -q -m "$1"
+              git push -q
+            fi
+          }
+          echo "### Summary batches (up to $BATCH_SIZE discussions each)" >> "$GITHUB_STEP_SUMMARY"
+          set +e
+          python -m afd update --batch "$BATCH_SIZE"; code=$?
+          commit "Update $(date -u +%Y-%m-%dT%H:%MZ)"
+          n=1
+          while [ "$code" -eq 3 ]; do
+            n=$((n + 1))
+            python -m afd summarize --batch "$BATCH_SIZE"; code=$?
+            commit "Summaries batch $n, $(date -u +%Y-%m-%dT%H:%MZ)"
+          done
+          exit "$code"
 
-      # Runs even if the update step failed, so the page records the failed check
-      # and any discussions that were saved before the failure are kept.
+      # Runs if the step above failed, so the page records the failed check and anything
+      # saved before the failure is kept.
       - name: Commit
         if: always()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs
           if git diff --cached --quiet; then
             echo "nothing to commit"

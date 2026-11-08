@@ -20,7 +20,7 @@ class Stored:
     path: Path
 
     def text(self) -> str:
-        return self.path.read_text()
+        return self.path.read_text(encoding="utf-8")
 
     def rel_url(self, paths: Paths) -> str:
         """Path relative to docs/, which is also its URL on the Pages site."""
@@ -62,6 +62,6 @@ def save(paths: Paths, text: str, seen: set[str] | None = None) -> str | None:
         candidate, n = f"{pid}_v{n}", n + 1
     path = archive_path(paths, candidate)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(text)
+    path.write_text(text, encoding="utf-8")
     seen.add(fp)
     return candidate

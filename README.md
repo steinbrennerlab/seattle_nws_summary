@@ -56,6 +56,14 @@ instructions tell it to mention them only when they matter to the general public
 Until the key is added, the page lists and links the archived discussions and says the
 explanations have not been generated yet.
 
+Explanations are written in batches (10 discussions by default; set *batch_size* when running
+the workflow by hand). Each batch is committed and pushed before the next starts, so a long
+catch-up can be followed in three places: the run's summary page in Actions lists every batch,
+the commit history shows one commit per batch, and the site shows "N of M discussions" until
+all are done. If a run hits its time limit, only the batch in progress is lost, and the next run
+continues from there. Day summaries wait until all of that day's discussions are explained,
+and the week and month summaries wait until everything is.
+
 To use a different model, set `AFD_MODEL` in the workflow's `env`.
 
 ## Local use
@@ -66,6 +74,7 @@ python3 -m venv .venv
 
 .venv/bin/python -m afd backfill --days 35   # load the past month
 .venv/bin/python -m afd update               # fetch new, summarize (if ANTHROPIC_API_KEY is set), rebuild
+.venv/bin/python -m afd summarize --batch 10  # explain up to 10 discussions; exit code 3 = more waiting
 .venv/bin/python -m afd render               # rebuild the page only
 .venv/bin/python -m pytest                   # offline tests with a fake model
 ```

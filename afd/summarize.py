@@ -16,6 +16,7 @@ import json
 import os
 import re
 from collections import defaultdict
+from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Protocol
@@ -136,12 +137,12 @@ def day_label(d: date) -> str:
 
 
 def _read(path: Path) -> dict | None:
-    return json.loads(path.read_text()) if path.exists() else None
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
 
 
 def _write(path: Path, data: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
 def _signature(parts: list[str]) -> str:
@@ -191,33 +192,63 @@ def summarize_period(llm: LLM, days: list[dict], *, paragraphs: str, max_points:
     return {"start": first.isoformat(), "end": last.isoformat(), **data}
 
 
-def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print) -> list[str]:
-    """Fill in every missing or outdated summary. Returns a list of error messages (empty if none)."""
+@dataclass
+class Progress:
+    errors: list[str] = field(default_factory=list)
+    made: int = 0          # discussion summaries written in this run
+    done: int = 0          # discussions in the window that have a summary
+    total: int = 0         # discussions in the window
+    deferred: int = 0      # left for a later batch because of the limit
+
+    @property
+    def finished(self) -> bool:
+        return self.deferred == 0
+
+
+def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print,
+        limit: int | None = None) -> Progress:
+    """Fill in missing or outdated summaries.
+
+    With `limit`, at most that many discussions are summarized; the rest are deferred to the
+    next call. Days with deferred discussions, and the week and month, wait until nothing is
+    deferred, so they are not written and then rewritten batch after batch.
+    """
     now = now or datetime.now(timezone.utc)
     today = local_day(now)
-    errors: list[str] = []
+    p = Progress()
+    errors = p.errors
     window_start = now - timedelta(days=SUMMARY_WINDOW_DAYS)
 
     # 1. Discussions
     by_day: dict[date, list[dict]] = defaultdict(list)
+    waiting: set[date] = set()
     for item in list_all(paths):
         if item.issued < window_start:
             continue
+        p.total += 1
         out = paths.discussion_summaries / f"{item.id}.json"
         summary = _read(out)
         if summary is None:
+            if limit is not None and p.made >= limit:
+                p.deferred += 1
+                waiting.add(local_day(item.issued))
+                continue
             try:
                 summary = summarize_discussion(llm, item)
                 _write(out, summary)
-                log(f"summarized {item.id}")
+                p.made += 1
+                log(f"summarized {item.id} ({p.made}{f'/{limit}' if limit else ''} this batch)")
             except Exception as e:  # keep going; this one is retried next run
                 errors.append(f"{item.id}: {e}")
                 continue
+        p.done += 1
         by_day[local_day(item.issued)].append(summary)
 
     # 2. Days
     day_summaries: dict[date, dict] = {}
     for d, discs in sorted(by_day.items()):
+        if d in waiting:
+            continue
         sig = _signature([x["id"] for x in discs])
         out = paths.day_summaries / f"{d.isoformat()}.json"
         cached = _read(out)
@@ -236,6 +267,9 @@ def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print) -> list[
                 day_summaries[d] = cached
 
     # 3. Week and month
+    if not p.finished:
+        log(f"{p.deferred} discussions left for the next batch; week and month wait until then")
+        return p
     for name, n_days, paragraphs, max_points in (("week", WEEK_DAYS, "two or three", 5),
                                                   ("month", MONTH_DAYS, "three or four", 8)):
         first = today - timedelta(days=n_days - 1)
@@ -253,4 +287,4 @@ def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print) -> list[
             log(f"summarized {name}")
         except Exception as e:
             errors.append(f"{name}: {e}")
-    return errors
+    return p

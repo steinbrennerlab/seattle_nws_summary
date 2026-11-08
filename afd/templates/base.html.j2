@@ -19,6 +19,9 @@
   {% elif checked %}
   <p class="status">Checked {{ checked }}.{% if latest %} Latest discussion issued {{ latest.label }}.{% endif %}</p>
   {% endif %}
+  {% if status.summaries_total and status.summaries_done < status.summaries_total %}
+  <p class="status">Explanations are being filled in: {{ status.summaries_done }} of {{ status.summaries_total }} discussions from the past {{ window_days }} days so far. The week and month summaries will appear when all are done.</p>
+  {% endif %}
   {% if status.summary_errors %}
   <p class="status status-bad">{{ status.summary_errors }} summaries could not be generated in the last check. They will be retried in the next one.</p>
   {% endif %}
