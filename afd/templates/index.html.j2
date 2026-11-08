@@ -11,6 +11,7 @@
   <div class="body">
     <p class="issued">Issued {{ latest.label }}. <a href="{{ latest.url }}">Original text</a></p>
     {% if s %}
+    <p class="sky-chip k-{{ sky }}"><svg class="icon"><use href="#i-{{ sky }}"/></svg>{{ sky_label }}</p>
     <h1 class="headline">{{ s.headline }}</h1>
     {% if s.hazards %}
     <ul class="hazards" aria-label="Watches, warnings, and advisories">
@@ -71,10 +72,25 @@
 <section class="block" aria-labelledby="days-h">
   <h2 class="period" id="days-h">Day by day</h2>
   <div class="body">
+    {% if tally.of %}
+    <p class="tally">Rain or worse was in the forecast on <strong>{{ tally.rainy }} of the past {{ tally.of }} days</strong>.</p>
+    <ol class="strip" aria-label="The past 30 days, one tile per day, oldest first">
+      {% for t in strip %}
+      <li class="k-{{ t.kind or 'none' }}{{ ' first-of-month' if t.date.day == 1 }}">
+        {% if t.kind %}<a href="#{{ t.anchor }}" title="{{ t.label }}: {{ t.headline }}"><svg class="icon"><use href="#i-{{ t.kind }}"/></svg><span class="sr">{{ t.label }}: {{ t.kind_label }}</span></a>
+        {% else %}<span title="{{ t.label }}: no discussion saved"><span class="sr">{{ t.label }}: no discussion saved</span></span>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+    <p class="strip-ends"><span>{{ strip[0].label }}</span><span>{{ strip[-1].label }}</span></p>
+    <ul class="legend">
+      {% for k, label in legend %}<li class="k-{{ k }}"><svg class="icon"><use href="#i-{{ k }}"/></svg>{{ label }}</li>{% endfor %}
+    </ul>
+    {% endif %}
     <ol class="days">
       {% for d in days %}
-      <li>
-        <h3 class="day-label">{{ d.label }}</h3>
+      <li id="{{ d.anchor }}">
+        <h3 class="day-label">{% if d.kind %}<svg class="icon k-{{ d.kind }}" aria-label="{{ d.kind_label }}" role="img"><use href="#i-{{ d.kind }}"/></svg>{% endif %}{{ d.label }}</h3>
         {% if d.summary %}
         <p class="day-headline">{{ d.summary.headline }}</p>
         <p>{{ d.summary.summary }}</p>

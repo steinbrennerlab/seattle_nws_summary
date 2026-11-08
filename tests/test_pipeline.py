@@ -180,6 +180,28 @@ def test_period_model_and_refresh_intervals(paths):
     assert new_day_then_run(7) == 2   # both due
 
 
+@pytest.mark.parametrize("headline, kind", [
+    ("Strong cold front brings damaging wind and heavy rain tonight.", "storm"),
+    ("Breezy and showery Monday, drier Tuesday.", "wind"),
+    ("Steady rain through Thursday, heaviest in the Olympics.", "rain"),
+    ("Morning fog and low clouds, then afternoon sun.", "fog"),
+    ("Dry and mild under high pressure through the weekend.", "sun"),
+    ("Mostly cloudy and seasonable.", "cloud"),
+])
+def test_sky_kind(headline, kind):
+    assert render.sky_kind(headline) == kind
+
+
+def test_strip_and_scene(paths):
+    save_all(paths, [FIXTURE])
+    summarize.run(paths, FakeLLM(), now=datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc), log=lambda *_: None)
+    render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True})
+    html = (paths.docs / "index.html").read_text(encoding="utf-8")
+    assert 'data-sky="wind"' in html          # fake headline + "Wind advisory on the coast"
+    assert html.count('<li class="k-') >= 30  # one strip tile per day (plus the legend)
+    assert 'id="d-2026-11-02"' in html
+
+
 def test_progress_is_shown_while_incomplete(paths):
     save_all(paths, [FIXTURE])
     render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True,

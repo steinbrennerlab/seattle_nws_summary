@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import shutil
 from collections import defaultdict
 from datetime import date, datetime, timedelta
@@ -23,6 +24,28 @@ def _read(path: Path) -> dict | None:
 
 def _paragraphs(text: str | None) -> list[str]:
     return [p.strip() for p in (text or "").split("\n\n") if p.strip()]
+
+
+# The page's weather "mood": from a headline (plus hazards), the most notable kind of weather
+# forecast. First match wins, so the order is by how much it matters to a reader.
+SKY_KINDS = [
+    ("storm", "Stormy", r"high wind|windstorm|damaging|thunder|gale|storm warning|power outage"),
+    ("snow", "Lowland snow", r"lowland snow|snow (?:in|to|for|across) the lowlands|snow to sea level|winter storm"),
+    ("wind", "Windy", r"wind advisory|gust|windy|breezy|strong wind"),
+    ("rain", "Rain", r"rain|shower|atmospheric river|\bwet\b|drizzle"),
+    ("fog", "Fog and low clouds", r"\bfog|low cloud|marine (?:layer|push)|stratus"),
+    ("sun", "Dry and bright", r"\bdry\b|sun|clear|warm|high pressure|ridge"),
+]
+SKY_LABELS = {k: label for k, label, _ in SKY_KINDS} | {"cloud": "Clouds, little else"}
+RAINY = {"storm", "wind", "rain", "snow"}
+
+
+def sky_kind(*texts: str | None) -> str:
+    text = " ".join(t or "" for t in texts).lower()
+    for kind, _, pattern in SKY_KINDS:
+        if re.search(pattern, text):
+            return kind
+    return "cloud"
 
 
 def build(paths: Paths, status: dict) -> None:
@@ -47,16 +70,32 @@ def build(paths: Paths, status: dict) -> None:
 
     latest = discussions[-1] if discussions else None
     recent_days = []
+    strip = []
+    sky = "cloud"
     if latest:
+        s = latest["summary"] or {}
+        sky = sky_kind(s.get("headline"), " ".join(s.get("hazards") or []))
         cutoff = latest["day"] - timedelta(days=MONTH_DAYS - 1)
         for d in sorted(by_day, reverse=True):
             if d < cutoff:
                 break
+            summary = _read(paths.day_summaries / f"{d.isoformat()}.json")
+            first = next((x["summary"] for x in reversed(by_day[d]) if x["summary"]), None)
+            headline = (summary or first or {}).get("headline")
+            kind = sky_kind(headline) if headline else None
             recent_days.append({
-                "date": d, "label": day_label(d),
-                "summary": _read(paths.day_summaries / f"{d.isoformat()}.json"),
-                "discussions": by_day[d],
+                "date": d, "label": day_label(d), "anchor": f"d-{d.isoformat()}",
+                "summary": summary, "discussions": by_day[d],
+                "kind": kind, "kind_label": SKY_LABELS.get(kind), "headline": headline,
             })
+        # One tile per calendar day, oldest first; a day with no discussion is an empty tile.
+        known = {x["date"]: x for x in recent_days}
+        strip = [known.get(cutoff + timedelta(days=i)) or {"date": cutoff + timedelta(days=i),
+                 "label": day_label(cutoff + timedelta(days=i)), "kind": None}
+                 for i in range(MONTH_DAYS)]
+    rated = [x for x in strip if x["kind"]]
+    tally = {"rainy": sum(x["kind"] in RAINY for x in rated), "of": len(rated)}
+    used = [k for k in [*[k for k, _, _ in SKY_KINDS], "cloud"] if any(x["kind"] == k for x in rated)]
 
     months: dict[str, list[dict]] = defaultdict(list)
     for d in sorted(by_day, reverse=True):
@@ -69,6 +108,11 @@ def build(paths: Paths, status: dict) -> None:
         "week": _read(paths.data / "week.json"),
         "month": _read(paths.data / "month.json"),
         "days": recent_days,
+        "sky": sky,
+        "sky_label": SKY_LABELS[sky],
+        "strip": strip,
+        "tally": tally,
+        "legend": [(k, SKY_LABELS[k]) for k in used],
         "months": months,
         "count": len(discussions),
         "window_days": SUMMARY_WINDOW_DAYS,
