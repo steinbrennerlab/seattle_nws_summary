@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202610242154",
+  "issued": "2026-10-24T21:54:00+00:00",
+  "headline": "Wet, breezy first fall-like storm arrives tonight, with showers into Monday and another rainy system Wednesday.",
+  "summary": "A storm system off the British Columbia coast is moving into Washington's coastal waters and will slowly drift south and east through Monday morning. Light rain from its warm front is already reaching the north Olympic Peninsula and the north inland area this afternoon. That rain should lift north into British Columbia this evening. A cold front then moves onshore overnight and brings steadier, heavier rain than Saturday's light rain. Forecasters call it a fairly typical October storm, but it is the first fall-like system of the season and will feel different.\n\nThrough Sunday evening, forecasters expect about 1 to 2 inches of rain along the coast and on the Olympic Peninsula, and 0.50 to 1 inch from the I-5 corridor eastward. South winds pick up along the coast this evening, spread inland with the front, and stay breezy through Sunday. Peak gusts of 20 to 35 mph are possible in many areas. Showers should linger well into Monday and shift east late Monday afternoon. Highs should be near normal, in the mid to upper 50s, and overnight lows cooler than normal, in the low 30s to low 40s.\n\nThe rest of the month looks seasonal and unsettled, with cooler weather and a series of systems bringing periods of unsettled weather nearly every day. Tuesday looks mostly light and focused south of western Washington. Another low-pressure system then arrives Tuesday night into Wednesday, with a setup similar to this weekend's: cooler temperatures and widespread rain across the Pacific Northwest.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light warm-front rain in the north lifts into British Columbia this evening. The cold front then moves onshore overnight with heavier rain, and south winds increase along the coast and spread inland."
+    },
+    {
+      "when": "Sunday",
+      "what": "Widespread rain and breezy conditions, with gusts of 20 to 35 mph possible in many areas. Rain totals through Sunday evening are about 1 to 2 inches on the coast and Olympic Peninsula and 0.50 to 1 inch from I-5 eastward."
+    },
+    {
+      "when": "Sunday night through Monday",
+      "what": "Scattered but widespread showers linger well into Monday, then shift east late Monday afternoon as the upper-level low moves away."
+    },
+    {
+      "when": "Tuesday",
+      "what": "The bulk of the relatively light precipitation looks to stay mainly south of western Washington."
+    },
+    {
+      "when": "Tuesday night into Wednesday",
+      "what": "A more consolidated low slides down the British Columbia coast into western Washington, bringing cooler temperatures and widespread rain, much like this weekend."
+    },
+    {
+      "when": "Thursday through Saturday",
+      "what": "The pattern stays unsettled but seasonal through the last few days of the month."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the overall pattern: cool, seasonal and unsettled through the end of the month. They are also confident in the upper-level low's track this weekend and in a rainy system arriving Wednesday. They are less sure where the surface low goes on Monday, since one model system takes it farther north, into Grays Harbor, and others take it much farther south. The strength and timing of Tuesday's weak disturbance also vary, and late-week details are less certain, with some scenarios showing a stronger low over California.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for western Washington land areas.",
+    "Gale Warning until 11 PM tonight for the northern outer coastal waters (Cape Flattery to James Island, 10 to 60 nautical miles out).",
+    "Small Craft Advisories for the coastal waters and the Strait of Juan de Fuca, starting this afternoon or evening and running until 5 PM Sunday. These are for winds that are hazardous to small boats."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. Its passage usually brings a period of heavier rain and a wind shift."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass. It typically brings lighter, steadier precipitation, as in the north this afternoon."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, low pressure high in the atmosphere. It often keeps showers going as it passes overhead."
+    },
+    {
+      "term": "Surface low",
+      "definition": "The center of low pressure at ground level. Its track can differ from the upper-level low's, which affects where rain and wind set up."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts started with slightly different conditions. When they agree, confidence is higher; when they differ, the forecast is less certain."
+    },
+    {
+      "term": "REFS / HREF",
+      "definition": "Names of high-resolution ensemble forecast systems. The discussion notes that REFS shows a more northerly surface low track than HREF and the UW system."
+    },
+    {
+      "term": "Shortwave",
+      "definition": "A small, fast-moving disturbance in the upper atmosphere that can bring a burst of clouds and light rain."
+    },
+    {
+      "term": "Positively tilted upper-level trough",
+      "definition": "A broad dip in the jet stream that leans from northeast to southwest. Here it keeps the Western US under unsettled weather."
+    }
+  ]
+}

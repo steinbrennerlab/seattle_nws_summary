@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202611012226",
+  "issued": "2026-11-01T22:26:00+00:00",
+  "headline": "Quiet, cloudy weather through Tuesday, then increasingly wet and breezy systems from Wednesday, possibly heavy rain next weekend.",
+  "summary": "Through Tuesday, western Washington stays mostly cloudy and dry. High pressure aloft is keeping a layer of low cloud over the Puget Sound lowlands, and patchy fog is possible early Monday from leftover moisture from recent rain. Monday evening, light showers move in from the coast, but amounts will be very light. By Tuesday afternoon it turns drier and a bit warmer, though forecasters say sunny skies may be few and far between. Temperatures stay near normal or a few degrees above.\n\nThe pattern turns wetter from Wednesday. A front brings widespread rain and snow at high elevations. The most moisture falls on the Olympic Peninsula and North Cascades. Areas east of the Olympics are sheltered and should get only a few hundredths of an inch. A stronger system follows closely behind and lasts into Friday morning. Forecasters expect about half an inch to an inch of liquid in the mountains and a tenth or two of an inch in the lowlands. Snow levels hover around 5000 feet, which means a few more inches of snow on higher terrain.\n\nNext weekend is the least certain part. Forecasters say western Washington could see some of its heaviest rain of the fall, with 2 to 3 inches of liquid in the mountains and a half inch to an inch in the lowlands. That depends on how a high-pressure ridge to the south behaves, and the heaviest moisture may instead miss the area and go to British Columbia. If the storm does aim at the Pacific Northwest, widespread breezy winds are possible, and waves along the coast could approach High Surf criteria. Models also hint at high winds, heavy rain and heavy snow in the second week of November, but this is highly uncertain.",
+  "timeline": [
+    {
+      "when": "Tonight into Monday morning",
+      "what": "Clouds fill back in over the lowlands. Patchy fog is possible early Monday and could briefly limit visibility on the morning commute in fog-prone spots. Light easterly winds may reduce fog."
+    },
+    {
+      "when": "Monday evening",
+      "what": "Light rain showers move in from offshore. Rainfall amounts will be very light."
+    },
+    {
+      "when": "Monday night through Tuesday night",
+      "what": "Moisture moves out and conditions turn warmer and drier by Tuesday afternoon. Skies stay mostly cloudy, with temperatures near normal or a few degrees above."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A front brings widespread rain and high-elevation snow. The most falls on the Olympic Peninsula and North Cascades. Areas east of the Olympics get only a few hundredths of an inch."
+    },
+    {
+      "when": "After Wednesday, into Friday morning",
+      "what": "A stronger system brings about half an inch to an inch of liquid in the mountains and a tenth or two in the lowlands. Snow levels are near 5000 feet, with a few more inches of snow on higher terrain."
+    },
+    {
+      "when": "Next weekend and beyond",
+      "what": "A possible atmospheric river could bring up to 2 to 3 inches of liquid in the mountains and a half inch to an inch in the lowlands, with breezy winds possible. Models hint at high winds, heavy rain and heavy snow in the second week of November, but this is highly uncertain."
+    }
+  ],
+  "confidence": "Forecasters have good confidence that a series of increasingly strong systems will cross the region from Wednesday through Friday, because the ensemble models agree. Confidence drops for next weekend. The outcome depends on how far north a ridge of high pressure builds, and the heaviest moisture may miss western Washington. The second-week-of-November outlook for high winds, heavy rain and heavy snow is highly uncertain.",
+  "hazards": [
+    "No watches, warnings or advisories are in effect for western Washington on land.",
+    "Small Craft Advisory for the Pacific coastal waters and the west entrance of the Strait of Juan de Fuca, from 1 AM Monday to 1 AM Tuesday, because of building seas (8 to 11 feet by Monday morning). Forecasters say it may need to be extended for the outer coastal waters."
+  ],
+  "glossary": [
+    {
+      "term": "Stratus",
+      "definition": "A low, flat, gray layer of cloud that often blankets the lowlands and can bring fog or drizzle."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere. It usually brings calmer, drier weather and can steer storms away."
+    },
+    {
+      "term": "Cutoff low",
+      "definition": "An area of low pressure that has separated from the main flow of the jet stream and drifts on its own. Here it develops to the south of western Washington."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of weather model runs started with slightly different conditions. When they agree, forecasters are more confident."
+    },
+    {
+      "term": "Rain shadow",
+      "definition": "A drier area on the downwind side of mountains. Here, areas east of the Olympics get much less rain because the mountains wring out the moisture first."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow stream of moist air from the Pacific that can bring heavy, prolonged rain and mountain snow."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas hazardous to small boats. Here it is mainly for rough seas off the coast."
+    }
+  ]
+}

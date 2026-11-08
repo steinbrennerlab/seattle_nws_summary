@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202611031100",
+  "issued": "2026-11-03T11:00:00+00:00",
+  "headline": "Quiet today, then a series of wet, windy systems starts Wednesday, strongest Thursday night into Friday.",
+  "summary": "A weak system is brushing western Washington this morning with light showers. Radar shows a lot of rain echoes, but the air near the ground is dry, so little has reached the surface, only a few hundredths of an inch in spots. Showers should end by this afternoon, with highs in the mid 50s to low 60s. Skies clear this evening and some low-level moisture returns, so fog is possible early Wednesday. Tonight's lows will be in the mid 30s to low 40s, with a few South Sound spots near freezing.\n\nThe pattern turns more active Wednesday as the first of several systems crosses the region. Most of the moisture will go to the Olympic Peninsula and North Cascades. The Pacific Coast should get a quarter to half an inch of rain, while many interior lowlands will be \"rain shadowed\" and get only a few hundredths to a tenth of an inch. Snow levels of 5000 to 6000 feet mean mostly 1 to 3 inches of snow on the highest peaks, with locally more near peaks like Mt. Baker. South winds will pick up Wednesday afternoon on the coast and Wednesday evening inland. Gusts could reach 25 to 35 mph on the coast and about 25 mph inland. Things ease overnight into Thursday, with Thursday highs in the mid to upper 50s.\n\nA stronger system arrives Thursday night into Friday with more wind, lowland rain, high-elevation snow, and a potential for high surf on the Pacific Coast. The North Coast could get 1 to 2 inches of rain into Saturday morning, and lower mountain elevations 1 to 2 inches. Interior lowlands will again see only a couple tenths of an inch. A short break is possible Friday night into Saturday. Another wet system is expected Saturday night into Sunday, and the active pattern continues into early next week.",
+  "timeline": [
+    {
+      "when": "Today (Tuesday)",
+      "what": "Light showers through the morning, with little rain actually reaching the ground. Drying out by afternoon, with highs in the mid 50s to low 60s. Clearing skies this evening."
+    },
+    {
+      "when": "Tonight into early Wednesday",
+      "what": "Lows in the mid 30s to low 40s, with a few South Sound spots near freezing. Fog is possible across the area by early Wednesday."
+    },
+    {
+      "when": "Wednesday",
+      "what": "First system arrives. Rain is heaviest on the Olympic Peninsula and North Cascades, and 1 to 3 inches of snow falls on the highest peaks. South winds pick up on the coast in the afternoon and inland in the evening, with gusts of 25 to 35 mph on the coast and up to about 25 mph inland."
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "Winds ease and rain tapers off, giving a quick break between systems. Thursday highs are in the mid to upper 50s."
+    },
+    {
+      "when": "Thursday night into Friday (rain continues into Saturday morning on the North Coast)",
+      "what": "A stronger system brings gusty winds, rain, high-elevation snow, and possible high surf with beach erosion risk on the Pacific Coast. Snow levels climb from around 5000 feet to 5500-7000 feet on Friday. The North Coast could see 1 to 2 inches of rain."
+    },
+    {
+      "when": "Saturday through early next week",
+      "what": "A brief break is possible early Saturday, though the North Coast and North Cascades could still be clipped by a system passing mostly to the north. Another wet system is expected Saturday night into Sunday, with more systems early next week."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident that the weather turns unsettled starting Wednesday and stays that way, with the Thursday night to Friday system the strongest. Details are less certain: for Friday's winds, the odds of gusts over 40 mph are about 50% on the Pacific Coast and 40-50% from Whidbey Island northward, not a sure thing. The Saturday break is also uncertain, because computer models disagree on how strong the temporary high-pressure ridge will be, which affects how much moisture reaches the north.",
+  "hazards": [
+    "No watches, warnings, or advisories for land areas of western Washington.",
+    "Small Craft Advisory for coastal waters from Cape Flattery to Cape Shoalwater, for rough seas. The advisory list says it ends at 4 AM today, but the marine discussion says it was extended to this afternoon.",
+    "Possible high surf on the Pacific Coast Thursday night into Friday, with risks of beach erosion and hazardous conditions on beaches and jetties. This is a potential hazard, not an issued advisory.",
+    "River flooding is not expected in the next seven days, but repeated rain will begin to saturate soils and raise river flows, which could matter if later storms are heavy."
+  ],
+  "glossary": [
+    {
+      "term": "Rain shadow",
+      "definition": "A drier area on the downwind side of mountains, where the terrain wrings out moisture before it arrives. Here it means the interior lowlands get much less rain than the Olympics and coast."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. A higher snow level means snow is limited to higher peaks."
+    },
+    {
+      "term": "Ridge of high pressure",
+      "definition": "An area of higher pressure that usually brings calmer, drier weather. A \"transient\" ridge is one that passes through quickly, as expected Saturday."
+    },
+    {
+      "term": "Ensemble clusters",
+      "definition": "Groups of computer forecast runs that show similar outcomes. Forecasters use them to see which scenarios are most likely and where models disagree."
+    },
+    {
+      "term": "Probabilistic guidance",
+      "definition": "Forecast tools that give the percent chance of something happening, such as wind gusts over 40 mph, rather than a single yes-or-no answer."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful waves along the coast that can cause beach erosion and make beaches and jetties dangerous."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal background flow of rivers and streams between storms. When soils are wet, base flows rise, so later storms can push rivers up faster."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that are hazardous to small boats."
+    }
+  ]
+}

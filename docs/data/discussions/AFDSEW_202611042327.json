@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202611042327",
+  "issued": "2026-11-04T23:27:00+00:00",
+  "headline": "A series of rainy, windy storms arrives Friday through the weekend, with more wet weather possible next week.",
+  "summary": "A weak front brings a few hours of steadier rain tonight, with gusty south winds along the coast and around Whidbey Island. Thursday is a short break, with a mix of clouds and sunshine. A stronger storm then arrives early Friday with steadier rain, heaviest in the Cascades and Olympic Peninsula, and gusty south winds. The strongest winds are expected along the northern coast and from Whidbey Island northward.\n\nSaturday should be warmer, with highs in the 60s for most areas. Most places should be drier by afternoon, though rain may linger on the Olympic Peninsula and near the Canadian border. A cold front then brings more steady rain and gusty winds Saturday night into Sunday. Winds will likely be a bit stronger across the region than on Friday, with more widespread gusts of 20 to 35 MPH possible. Rough seas are expected on the coast, and snow levels fall enough for mountain snow in the Cascades and Olympics.\n\nA brief dry spell arrives Sunday night into Monday. After that, forecasters see potential for a longer stretch of rain, along with more wind and rough seas at times next week. No river flooding is expected in the next seven days. But repeated rain will soak the ground and raise river flows, which could become a concern with later storms.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "A weak front brings a few hours of steadier rain. Most of Puget Sound gets up to 0.15 inch and the coast gets 0.25 to 0.5 inch. South winds peak around 15 to 30 MPH on the immediate coast and around Whidbey Island this evening."
+    },
+    {
+      "when": "Thursday",
+      "what": "A break in the rain, with a mix of clouds and sunshine. The break is expected to be fairly short."
+    },
+    {
+      "when": "Friday",
+      "what": "Rain increases early and steadier rain continues for most areas, heaviest in the Cascades and Olympic Peninsula. South winds pick up early. Gusts over 40 MPH are likely along the northern coast and from Whidbey Island northward. Elsewhere gusts peak around 20 to 30 MPH, especially near the water. Highs are in the 50s."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "The front weakens, but a warm front lifts north overnight and brings rain at times. Most areas are drier by Saturday afternoon, except the Olympic Peninsula and near the Canadian border. Highs reach the 60s for most areas."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A cold front brings more steady rain, mostly Saturday night, and gusty south winds. Gusts of 20 to 35 MPH may be more widespread than Friday. Rain pulls back to the Cascades by Sunday afternoon, with a few lingering showers elsewhere. Snow levels fall from about 8000 feet to 4000-5000 feet by later Sunday. Coastal seas build to near 20 feet on Sunday."
+    },
+    {
+      "when": "Sunday night through next week",
+      "what": "Drier weather arrives Sunday night into Monday. Later Monday into midweek, more systems may bring a longer rain event, with more rain, wind and rough seas likely at times."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the sequence of storms through Sunday. Details are still open, including whether Friday's winds will reach Wind Advisory level and whether high surf will develop on the coast. Uncertainty grows from later Monday into midweek because the forecast models disagree on whether the main band of moisture will hit western Washington or stay farther north in British Columbia.",
+  "hazards": [
+    "No watches, warnings or advisories are in effect for land areas of western Washington right now.",
+    "A Wind Advisory is possible Friday along the northern coast and from Whidbey Island northward. Forecasters are monitoring it, and none has been issued.",
+    "Forecasters will monitor for high surf on the coast around Sunday.",
+    "Small Craft Advisories (hazardous for small boats) are in effect for the coastal waters and parts of the Strait of Juan de Fuca and Admiralty Inlet. They run until this evening in the coastal waters and until early Thursday morning in the Strait and Admiralty Inlet.",
+    "A Gale Watch (possible gale-force winds on the water) has been issued for the coastal waters, the East Strait and the Northern Inland Waters for Thursday night into Friday."
+  ],
+  "glossary": [
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, meaning the predicted amount of rain or melted snow. Higher QPF means more expected precipitation."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, which combines many weather models into one forecast. Forecasters use it to estimate the chance of events such as strong gusts."
+    },
+    {
+      "term": "REFS",
+      "definition": "The Rapid Refresh Forecast System, a set of computer model runs. Higher probabilities there mean more of those runs show strong winds."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area between a storm's warm front and its cold front. It is usually milder and often drier than areas near the fronts."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. A lower snow level means snow at lower elevations."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of forecast model runs started with slightly different conditions. When they disagree, forecast confidence is lower. ECMWF, CMC and GEFS are different ensemble systems."
+    },
+    {
+      "term": "Moisture plume",
+      "definition": "A narrow stream of very moist air that can bring heavy or prolonged rain where it makes landfall."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful waves along the coast that can be dangerous near the shore, such as on beaches and jetties."
+    }
+  ]
+}

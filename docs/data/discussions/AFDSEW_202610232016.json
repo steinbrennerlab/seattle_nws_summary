@@ -1,0 +1,71 @@
+{
+  "id": "AFDSEW_202610232016",
+  "issued": "2026-10-23T20:16:00+00:00",
+  "headline": "Light rain arrives Saturday night into Sunday, then cool, cloudy, mostly dry weather through next week.",
+  "summary": "Skies are mostly clear this afternoon, with a few scattered clouds around Puget Sound. Clouds will build overnight as a low-pressure system and a front drop south from British Columbia. Rain should reach the coast Saturday afternoon and spread inland Saturday night into Sunday morning. Most of it will fall on the Olympic Peninsula and west of the Cascades.\n\nAmounts should be small for most people. The coast and the Olympics' west-facing slopes could get up to three quarters of an inch. The Puget Sound area should get only a few hundredths to a tenth of an inch. Showers taper off late Sunday morning, leaving cloudy skies and highs in the mid to upper 50s.\n\nNext week looks cooler and cloudier, with the low pressure staying offshore through midweek. A weak disturbance may bring a slight chance of light rain Tuesday afternoon and night. Wednesday through Friday look drier as the system moves inland. Forecasters are also watching for a possibly more active pattern in the days around Halloween and early November.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Mostly clear skies this evening become mostly cloudy overnight. Lows dip to the mid 30s in the Cascades and nearby foothills and the low 40s around Puget Sound."
+    },
+    {
+      "when": "Saturday afternoon into Saturday night",
+      "what": "Rain starts along the coast Saturday afternoon. It then spreads inland overnight, with the most rain on the Olympic Peninsula and generally west of the Cascades."
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain tapers off late in the morning. Skies stay cloudy, with highs in the mid to upper 50s. Rain totals are up to about three quarters of an inch at the coast and on the Olympics' windward slopes, and a few hundredths to a tenth of an inch around Puget Sound."
+    },
+    {
+      "when": "Monday through Tuesday",
+      "what": "Cooler, cloudier weather settles in. There is a slight chance of light rain from Tuesday afternoon through late Tuesday night, adding perhaps a few hundredths of an inch. Overnight lows are in the upper 30s and low 40s."
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "Drier conditions as the low and its weak front move inland and winds blow in from the ocean. Highs stay in the mid to upper 50s through the week."
+    },
+    {
+      "when": "October 31 to November 6",
+      "what": "A longer-range outlook gives a 20-40% chance of heavier rain, stronger winds and possibly mountain snow. Forecasters say more details will come."
+    }
+  ],
+  "confidence": "Forecasters say computer models are lining up better for early next week, with the low staying offshore and the weather cooler and cloudier. The Tuesday rain is only a slight chance and amounts would be tiny. The Halloween-to-early-November outlook is a 20-40% chance, not a firm forecast. Forecasters describe it only as a possibly more active pattern.",
+  "hazards": [
+    "No watches, warnings or advisories are in effect for land areas of western Washington.",
+    "A Small Craft Advisory for boaters is in effect until 5 PM PDT this afternoon on the outer coastal waters (10 to 60 nautical miles offshore) from Cape Flattery to Cape Shoalwater."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses, often bringing clouds and rain as it passes. Here, one is coming south from British Columbia."
+    },
+    {
+      "term": "Troughing",
+      "definition": "A broad dip in the jet stream, which often brings cooler, cloudier, unsettled weather. Here it stays offshore through the middle of next week."
+    },
+    {
+      "term": "Impulse",
+      "definition": "A small, weak disturbance moving through the larger weather pattern. This one could bring a little light rain Tuesday."
+    },
+    {
+      "term": "PoPs",
+      "definition": "Short for probability of precipitation, the chance that rain or snow falls. 'Slight chance PoPs' means a low chance."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Wind blowing from the Pacific toward land. In western Washington it usually brings mild, cloudy or damp air."
+    },
+    {
+      "term": "Windward slopes",
+      "definition": "The side of a mountain facing the oncoming wind. These slopes often get the most rain because air is forced upward."
+    },
+    {
+      "term": "8-14 day hazards outlook",
+      "definition": "A national forecast product that flags the chance of significant weather, such as heavy rain, strong wind or snow, about one to two weeks ahead. It shows odds, not certainty."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or waves that could be hazardous to small boats."
+    }
+  ]
+}

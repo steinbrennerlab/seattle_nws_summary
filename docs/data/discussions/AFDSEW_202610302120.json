@@ -1,0 +1,70 @@
+{
+  "id": "AFDSEW_202610302120",
+  "issued": "2026-10-30T21:20:00+00:00",
+  "headline": "Showers end tonight, then a cool, dry weekend with freezing lows in southwest Washington; mostly dry into next week.",
+  "summary": "Rain showers are moving through western Washington this afternoon, and some areas around Puget Sound are seeing steady rain. Highs are in the low to mid 50s across much of the interior. The showers should weaken overnight as the upper-level low pressure system that brought them moves south and fades.\n\nThat leaves a dry, cool weekend, with afternoon highs staying in the low 50s. Tonight into Saturday morning will be the coldest stretch. Forecasters expect lows in the upper 20s and low 30s in the Southwest Interior, so a Freeze Warning is now in effect there, upgraded from a Freeze Watch. Frost or freezing temperatures can kill crops and sensitive plants, so cover or protect them if needed. Lows Sunday morning are expected to be in the low 30s. The discussion says it should be dry for trick-or-treaters, but cold. Clearing skies and light winds could also bring fog and low clouds late tonight through Saturday morning, and the aviation section expects fog to last through late morning or midday at Sea-Tac.\n\nNext week starts mostly dry under an upper-level ridge of high pressure. A couple of weak systems might bring light rain chances, mainly west of Puget Sound. A stronger front could arrive late in the week, but forecasters are not sure how that will play out.",
+  "timeline": [
+    {
+      "when": "This afternoon and evening",
+      "what": "Showers continue, with some steadier rain around Puget Sound. Highs are in the low to mid 50s across much of the interior."
+    },
+    {
+      "when": "Late tonight into Saturday morning",
+      "what": "Showers decrease in coverage and intensity overnight. The Southwest Interior gets freezing temperatures (upper 20s to low 30s), covered by a Freeze Warning from midnight to 9 AM Saturday. Fog and low clouds are likely as skies clear."
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "Dry and cool, with afternoon highs in the low 50s. Overnight lows are in the low 30s, close to freezing."
+    },
+    {
+      "when": "Monday and early next week",
+      "what": "An upper-level ridge keeps conditions mostly dry. Some forecast model runs bring a weak disturbance through, with a 20-30% chance of light precipitation west of Puget Sound."
+    },
+    {
+      "when": "Midweek",
+      "what": "Another weak disturbance brings similar chances of light precipitation (20-30%)."
+    },
+    {
+      "when": "Late next week",
+      "what": "A stronger front may approach western Washington and shift the pattern. Forecasters are not sure about the details."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the dry, cool weekend and the mostly dry start to next week, since the forecast models mostly agree. Light rain chances next week are low (20-30%) and limited to areas west of Puget Sound. Confidence drops late next week, when the models disagree more about how the pattern will change.",
+  "hazards": [
+    "Freeze Warning from midnight tonight to 9 AM Saturday for the lowlands of Lewis and southern Thurston Counties and the Middle Chehalis River Valley. Temperatures in the upper 20s to low 30s could kill crops and sensitive plants."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, low-pressure air high in the atmosphere. It can bring clouds and showers, and this one is weakening and moving south."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings calmer, drier weather. One is expected to settle over the region early next week."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many forecast model runs started with slightly different conditions. Forecasters compare them to judge how likely different outcomes are."
+    },
+    {
+      "term": "Spread",
+      "definition": "How much the ensemble runs differ from one another. Wide spread means low confidence, and forecasters say spread grows late next week."
+    },
+    {
+      "term": "Weak disturbance",
+      "definition": "A small, weak weather system that can pass through an otherwise steady pattern. Here it could bring light precipitation."
+    },
+    {
+      "term": "Front",
+      "definition": "The leading edge of a moving air mass, often bringing clouds, rain, and a change in the weather. A stronger one may arrive late next week."
+    },
+    {
+      "term": "Freeze Warning",
+      "definition": "An alert that temperatures are expected to fall to freezing or below and could harm crops and sensitive plants. A Freeze Watch is the earlier alert, issued when a freeze is possible."
+    },
+    {
+      "term": "Low stratus",
+      "definition": "A low, flat layer of cloud that forms near the ground. With fog, it can sharply cut visibility, and it is expected late tonight into Saturday morning."
+    }
+  ]
+}

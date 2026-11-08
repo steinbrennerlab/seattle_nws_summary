@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202610250308",
+  "issued": "2026-10-25T03:08:00+00:00",
+  "headline": "Rain and breezy winds arrive tonight and Sunday, then showers Monday, with unsettled, seasonal weather continuing through the week.",
+  "summary": "A storm system off the coast is moving in and will slowly slide south and east through Monday morning. Light rain is already reaching the north Olympic Peninsula this evening. A cold front (the leading edge of cooler air) is expected to move onshore overnight, bringing heavier rain than Saturday's light rain. Forecasters call it a fairly typical October storm, but the first fall-like one of the season, so it should feel different. Over 24 hours through Sunday evening, they expect about 1 to 2 inches of rain along the coast and Olympic Peninsula, and about 0.50 to 1 inch along the I-5 corridor and eastward. South winds will pick up on the coast this evening, spread inland with the front, and stay breezy through Sunday. Gusts of 20 to 35 mph are possible in many areas.\n\nThe upper part of the storm will keep drifting south-southeast Sunday into Monday. That means scattered but widespread showers will linger well into Monday before moving east late Monday afternoon. For the period through Monday night, highs should be near normal, in the mid to upper 50s. Overnight lows should be cooler than normal, from the low 30s to the low 40s.\n\nThe rest of the week stays unsettled but seasonal. A weaker disturbance Tuesday should mostly bring light rain south of western Washington. A stronger system arrives Tuesday night into Wednesday, which forecasters say looks much like this weekend's storm, with cooler temperatures and widespread rain across the Pacific Northwest. Showery, unsettled weather is expected to continue Thursday through Saturday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light rain spreads across the north Olympic Peninsula. The cold front moves onshore overnight with heavier rain, and south winds increase on the coast and then inland."
+    },
+    {
+      "when": "Sunday",
+      "what": "Widespread rain and breezy conditions continue, with gusts of 20 to 35 mph possible in many areas. Rain totals through Sunday evening are about 1 to 2 inches on the coast and Olympic Peninsula and 0.50 to 1 inch along I-5 and eastward."
+    },
+    {
+      "when": "Monday",
+      "what": "Scattered but widespread showers linger well into the day, then shift east late in the afternoon. Highs are near normal, in the mid to upper 50s."
+    },
+    {
+      "when": "Tuesday",
+      "what": "A weaker disturbance moves down the British Columbia coast. The bulk of the relatively light precipitation looks to stay south of western Washington."
+    },
+    {
+      "when": "Tuesday night into Wednesday",
+      "what": "A stronger low moves down the BC coast into western Washington. It looks similar to this weekend's system, with cooler temperatures and widespread rain."
+    },
+    {
+      "when": "Thursday through Saturday",
+      "what": "The unsettled but seasonal pattern continues through the last days of the month."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the overall pattern: rain this weekend, showers Monday, another system Wednesday, and seasonal weather after that. They are less sure about the exact path of the surface low on Monday. One model group (REFS) brings it into Grays Harbor late Monday morning, while others (HREF and the UW system) show a much more southerly track. They are more confident about the path of the upper-level low. The strength and timing of Tuesday's disturbance also vary between model runs, though the message that it stays mostly south is consistent.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Gale Warning for the coastal waters from Cape Flattery to James Island (10 to 60 nautical miles out) until 11 PM tonight. A Small Craft Advisory follows from 11 PM tonight to 5 PM Sunday.",
+    "Gale Warning for the east entrance of the Strait of Juan de Fuca, 2 AM to 5 PM Sunday.",
+    "Small Craft Advisories (rough water for small boats) through 5 PM Sunday for the Grays Harbor Bar, the rest of the coastal waters, the west entrance of the Strait of Juan de Fuca, and Admiralty Inlet and the northern inland waters including the San Juan Islands. Seas are expected to build to 8 to 12 feet tonight."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass. Rain is often heavier as it passes, and winds usually shift."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold, low pressure high in the atmosphere. It can keep showers going in an area as it passes overhead."
+    },
+    {
+      "term": "Surface low",
+      "definition": "The center of low pressure at ground or sea level, which is what drives winds and rain near the surface. Its path can differ from the upper-level low's path."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A set of many computer forecast runs, each started with slightly different conditions. When they agree, confidence is higher. REFS, HREF, and the UW system are different ensembles."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the high-altitude air flow that usually brings cooler, unsettled weather."
+    },
+    {
+      "term": "Shortwave",
+      "definition": "A smaller, faster-moving disturbance within the larger air flow, often bringing a brief round of clouds and showers."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that are hazardous to small boats."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine warning for sustained winds of 34 to 47 knots (about 39 to 54 mph) or frequent gusts at that strength."
+    }
+  ]
+}
