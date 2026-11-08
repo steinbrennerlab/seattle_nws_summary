@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202611030500",
+  "issued": "2026-11-03T05:00:00+00:00",
+  "headline": "Quiet weather tonight and Tuesday gives way to a stormier pattern Wednesday through early next week, with a stronger storm Friday.",
+  "summary": "Tonight and Tuesday are mostly quiet. A weak system will brush the region, with a small chance of light showers along the coast, over the Olympics, and perhaps in the Northwest Interior. Most other places should stay dry. Skies will be cloudy, and Tuesday highs should reach the upper 50s, maybe the low 60s in the Southwest Interior.\n\nThe pattern turns more active on Wednesday. A frontal system (a boundary between air masses that brings rain and wind) arrives Wednesday afternoon with widespread rain and snow on high peaks. The heaviest rain, perhaps a half inch, is expected along the coast, the Olympics, and the North Cascades. The Puget Sound area will likely be \"rain shadowed\" (sheltered by the Olympics) and may see only a shower or two. Snow levels are around 5000 to 5500 feet, so a few inches of snow may fall on the higher Olympic and Cascade peaks. Southerly winds pick up Wednesday evening, with gusts of 25 to 35 mph on the coast and up to 25 mph inland. Wind and rain ease by Thursday morning.\n\nAfter a brief lull Thursday, a stronger storm is possible late Thursday into Friday. It could bring gusty winds, lowland rain, heavy snow in the high mountains, and high surf on the Pacific coast, with a risk of beach erosion and dangerous conditions near beaches and jetties. A short break is possible Friday night into Saturday, but more systems look likely from late in the weekend into the first half of next week. River flooding is not expected in the next seven days, but repeated rain will soak the ground and raise rivers, which could matter for later storms.",
+  "timeline": [
+    {
+      "when": "Tonight through Tuesday",
+      "what": "A weak system brings a small chance of light showers to the coast, the Olympics, and perhaps the Northwest Interior. Most other areas stay dry and cloudy, with Tuesday highs in the upper 50s and maybe low 60s in the Southwest Interior."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A frontal system brings widespread rain and high-elevation snow in the afternoon. Heaviest rain, perhaps a half inch, falls on the coast, Olympics, and North Cascades. Puget Sound may see just a shower or two. Highs are in the mid to upper 50s."
+    },
+    {
+      "when": "Wednesday evening",
+      "what": "Southerly winds increase, with gusts of 25 to 35 mph along the Pacific coast and up to 25 mph at times inland. Wind and rain begin to ease toward Thursday morning."
+    },
+    {
+      "when": "Thursday",
+      "what": "A brief lull in the weather before the more active pattern returns late in the day."
+    },
+    {
+      "when": "Late Thursday into Friday",
+      "what": "A potentially strong frontal system brings gusty winds, lowland rain, heavy high-elevation snow, and high surf on the coast. Forecasters give about a 50% chance of gusts of 40 mph or more on the coast and from Whidbey Island northward."
+    },
+    {
+      "when": "Friday night into next week",
+      "what": "A brief break is possible Friday night into Saturday. More systems are expected from late in the weekend into the first half of next week."
+    }
+  ],
+  "confidence": "Forecasters are confident the pattern turns wetter and windier from Wednesday on, and that Friday's system could be the strongest. Timing becomes less certain over the weekend because computer model runs spread out, mostly over when the next systems arrive and how much a temporary ridge of high pressure blocks them. The Friday wind threat is a probability (about 50%), not a certainty.",
+  "hazards": [
+    "No watches or warnings are in effect for land areas of western Washington.",
+    "A Small Craft Advisory (rough water for small boats) is in effect for the outer Pacific coastal waters until 4 AM Tuesday.",
+    "Expected later in the week: gusty winds, high surf with beach erosion risk on the Pacific coast, and heavy snow in the higher mountains."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings calmer, drier weather. When it weakens or moves away, storms can reach the region."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between different air masses, typically bringing a band of rain, wind, and changing temperatures as it passes."
+    },
+    {
+      "term": "Rain shadow",
+      "definition": "A sheltered area that gets less rain because nearby mountains, here the Olympics, block or weaken the moisture. Puget Sound is often in this position."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain. Here it is about 5000 to 5500 feet."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs with slightly different starting conditions. If they agree, confidence is higher. If they spread out, the forecast is less certain."
+    },
+    {
+      "term": "Probabilistic guidance",
+      "definition": "Forecast tools that give the chance of something happening, such as a 50% chance of 40 mph gusts, rather than a single prediction."
+    },
+    {
+      "term": "Long period swell",
+      "definition": "Large, widely spaced ocean waves generated by distant storms. They can create dangerous surf and erosion on beaches and jetties."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal level of water in rivers and streams. When soils are saturated and base flows are higher, later storms can push rivers toward flooding more easily."
+    }
+  ]
+}

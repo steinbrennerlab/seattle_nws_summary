@@ -1,0 +1,60 @@
+{
+  "id": "AFDSEW_202610312019",
+  "issued": "2026-10-31T20:19:00+00:00",
+  "headline": "Dry, frosty, foggy weather through Monday, then rain returns midweek, with Friday's system looking strongest.",
+  "summary": "A weakening area of low pressure high in the atmosphere (an upper-level low) is moving inland to the south. As it leaves, a ridge of high pressure aloft builds over western Washington. That should dry things out this evening. Skies will stay mostly cloudy, but some sun breaks should bring today's highs to seasonal normals, generally the low to mid 50s.\n\nOvernight lows in the 30s should bring areas of additional frost early Sunday morning. Moisture near the ground should also produce another round of morning fog. Forecasters expect dry, seasonable weather through Monday, with morning fog and afternoon sun breaks. As the ridge shifts east on Monday, there are low chances of rain, mainly along the coast and over the Olympic Peninsula.\n\nLight rain is possible Tuesday as a weather system passes and splits apart. From Wednesday on, conditions turn wetter and more unsettled as a series of systems moves through. The system on Friday looks strongest. It will likely bring breezy winds, widespread rain in the lowlands, and snow in the mountains.",
+  "timeline": [
+    {
+      "when": "Tonight into Sunday morning",
+      "what": "Skies dry out this evening. Lows in the 30s bring areas of additional frost, and another round of morning fog is expected Sunday."
+    },
+    {
+      "when": "Sunday",
+      "what": "Dry and seasonable, with morning fog and some afternoon sun breaks under high pressure."
+    },
+    {
+      "when": "Monday",
+      "what": "Mostly dry and seasonable, with morning fog and afternoon sun breaks. Low chances of rain, generally along the coast and over the Olympic Peninsula."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Chances for light rain continue as a frontal system passes over the region and splits."
+    },
+    {
+      "when": "Wednesday and beyond",
+      "what": "Wetter, more unsettled weather returns as a series of systems moves over western Washington."
+    },
+    {
+      "when": "Friday",
+      "what": "Likely the strongest system of the series, bringing breezy winds, widespread lowland rain, and mountain snow."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, seasonable weather through Monday, with only low rain chances on the coast and Olympic Peninsula. Confidence is lower for details later in the week: the computer model ensembles show a fair amount of variability heading into next weekend, though Friday's system looks the strongest.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere, often with clouds and showers. Here it is weakening as it moves inland to the south."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that generally brings calmer, drier weather. One is building over western Washington and then shifts east on Monday."
+    },
+    {
+      "term": "Split flow",
+      "definition": "A pattern where the winds high in the atmosphere divide into two branches. Here it develops briefly over western Washington as the low departs."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, confidence is higher. When they differ (variability), the forecast is more uncertain."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A weather disturbance along the boundary between air masses, usually bringing clouds and rain. A splitting one breaks apart as it moves in, so rain may be lighter or patchier."
+    },
+    {
+      "term": "Seasonal normals",
+      "definition": "The typical temperatures for this time of year. Highs in the low to mid 50s are normal for now, according to the forecasters."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "AFDSEW_202610310958",
+  "issued": "2026-10-31T09:58:00+00:00",
+  "headline": "Cold, frosty mornings and mostly dry weather through Monday, then rain chances return midweek, with a stronger system possible Friday.",
+  "summary": "This morning is cold and clear across the interior. Lows are expected to approach freezing south of the Sound, especially in the Chehalis River Valley. North of Seattle, temperatures may dip into the mid 30s, enough for frost in some places. Fog has also formed in areas that cleared overnight, and some spots could see dense fog. It should thin out by late morning. A Freeze Warning and a Frost Advisory are in effect until 9 AM.\n\nAn area of low pressure high in the atmosphere, currently off the coast, is weakening and moving inland well to the south. Showers and a few isolated thunderstorms are limited to the coastal waters this morning and will taper off through the day. A ridge of high pressure then builds in, keeping western Washington dry through Monday. Highs will be in the low to mid 50s both today and Sunday. Sunday morning should bring more frost and another round of fog, and Monday morning lows will again be in the 30s.\n\nThe first half of next week stays mostly dry. A weak system could bring light rain to the coast on Monday, and a splitting system might bring some light rain to parts of the area on Tuesday. The pattern turns more unsettled mid to late week. A weak system is expected Wednesday, and a stronger one on Friday looks to bring more notable chances of precipitation. Highs will be in the mid to upper 50s, and lows in the mid 30s to mid 40s.",
+  "timeline": [
+    {
+      "when": "Today (Saturday)",
+      "what": "Showers and isolated thunderstorms fade over the coastal waters. Morning frost and freezing temperatures are possible, along with patchy dense fog that should scatter by late morning. Mostly dry, with highs in the low to mid 50s."
+    },
+    {
+      "when": "Saturday night into Sunday morning",
+      "what": "Lows in the 30s bring more frost, and low-level moisture will likely produce another round of fog."
+    },
+    {
+      "when": "Sunday",
+      "what": "Dry, with a ridge of high pressure overhead. Highs in the low to mid 50s."
+    },
+    {
+      "when": "Monday",
+      "what": "Mostly dry, with morning lows in the 30s and highs in the low to mid 50s. A weak front could bring light rain to the coast, with roughly a 20 to 30% chance."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Conditions remain largely dry, though a splitting system may bring some light rain to parts of the area."
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "The pattern turns more unsettled. A weak system is expected Wednesday, and a stronger one Friday should bring more notable chances of precipitation. Highs in the mid to upper 50s."
+    }
+  ],
+  "confidence": "Forecasters are confident in the dry weather, cold mornings and fog through Sunday and Monday. They are less certain about the second half of next week, since computer model runs still differ quite a bit on how the Wednesday and Friday systems will play out. The light coastal rain chance on Monday is also low, at roughly 20 to 30%.",
+  "hazards": [
+    "Freeze Warning until 9 AM PDT this morning for the lowlands of Lewis and southern Thurston Counties and the Middle Chehalis River Valley.",
+    "Frost Advisory until 9 AM PDT this morning for much of the area north of Seattle and the Cascade foothills. This includes Everett and Marysville, Shoreline, Lynnwood and south Everett, eastern Kitsap County, the Eastside, central King County, and the western Skagit, northwestern Snohomish and western Whatcom lowlands. It also covers the Strait of Juan de Fuca and the Lake Crescent area.",
+    "Patchy dense fog is possible this morning and is likely to return Sunday morning."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level low",
+      "definition": "An area of low pressure high in the atmosphere, often bringing clouds and showers. This one is offshore and weakening."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings dry, calm weather."
+    },
+    {
+      "term": "Ridge axis",
+      "definition": "The centerline of a ridge of high pressure. As it moves inland, the driest weather moves with it."
+    },
+    {
+      "term": "Ensemble members",
+      "definition": "Individual runs of a weather model, each started with slightly different conditions. Forecasters compare them to judge how likely different outcomes are."
+    },
+    {
+      "term": "Ensemble spread",
+      "definition": "How much those model runs disagree. A wide spread means lower confidence in the forecast."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that often brings clouds and rain as it passes."
+    },
+    {
+      "term": "Splitting system",
+      "definition": "A storm system that divides into parts as it approaches, so some areas may get only light rain."
+    },
+    {
+      "term": "Frost Advisory",
+      "definition": "An alert that temperatures are expected to be cold enough for frost, which can damage sensitive plants."
+    },
+    {
+      "term": "Freeze Warning",
+      "definition": "An alert that temperatures are expected to reach freezing or below, which can damage crops and unprotected plants."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202611021749",
+  "issued": "2026-11-02T17:49:00+00:00",
+  "headline": "Dry, foggy start this week; a series of wet, windy systems arrives Wednesday and Friday, with high surf possible on the coast.",
+  "summary": "Today starts with low clouds and fog in the interior lowlands, and some spots may get dense fog with visibility down to about a quarter mile or less. The fog should clear by late morning to early afternoon, and the day stays dry. A weak system passing offshore brings slight chances of light showers tonight into early Tuesday, mainly on the Pacific coast, the Olympic Peninsula, and areas north of Everett. Tuesday looks mostly dry for many places.\n\nThe pattern turns more active midweek. The first system arrives Wednesday with more widespread rain and high-elevation snow, concentrated on the Olympic Peninsula and North Cascades. Rain on the Pacific Coast is expected to total a quarter to half an inch, while many East Puget Sound lowland spots get only a few hundredths of an inch because the Olympics block much of the moisture (a rain shadow). Snow levels near 5,500 ft mean a few inches of snow on the higher peaks. Southerly winds pick up on the coast Wednesday late morning to early afternoon, with gusts of 25-35 mph most likely, and across the interior in the evening, with gusts of 25-30 mph possible. Winds ease overnight into Thursday.\n\nA stronger system follows Thursday night into Friday, with gusty winds, lowland rain, mountain snow, and possible high surf on the Pacific Coast. The North Coast could see half an inch to an inch of rain, and the interior lowlands a couple hundredths to a quarter of an inch. Snow levels of 4,500-5,000 ft bring more snow to the higher peaks. High surf could cause localized beach erosion and hazardous conditions for beachgoers. A brief break is possible Friday night into early Saturday, but another system could arrive by Sunday.",
+  "timeline": [
+    {
+      "when": "This morning through early afternoon (Monday)",
+      "what": "Low clouds and fog in the interior lowlands, locally dense, then clearing by late morning to early afternoon. Dry through the afternoon."
+    },
+    {
+      "when": "Tonight into early Tuesday",
+      "what": "A weak system brings slight chances of light showers, mainly to the coast, Olympic Peninsula, and areas north of Everett."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Drying out by morning; mostly dry for many spots."
+    },
+    {
+      "when": "Wednesday",
+      "what": "First system brings rain and high-elevation snow, mostly to the Olympics and North Cascades. Southerly winds rise on the coast late morning to early afternoon and across the interior in the evening, easing overnight."
+    },
+    {
+      "when": "Thursday through Friday",
+      "what": "Rain tapers Thursday, then a stronger system arrives Thursday night into Friday with gusty winds, rain, mountain snow, and possible high surf on the coast."
+    },
+    {
+      "when": "Friday night through Sunday",
+      "what": "Brief break in unsettled weather Friday night into early Saturday, with the next system possibly arriving by Sunday."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the overall wet, windy pattern from midweek on, with the heaviest moisture aimed at the Olympics and North Cascades. Wind strength with Friday's system is uncertain: the guidance gives about a 50% chance of gusts over 40 mph on the Pacific Coast and 40-50% from Whidbey Island northward. The Friday-night break is also uncertain, because models disagree on how strong the ridge of high pressure will be.",
+  "hazards": [
+    "Small Craft Advisory for the coastal waters and the west entrance of the Strait of Juan de Fuca until 1 AM PST Tuesday, for rough seas of 8 to 11 feet.",
+    "No watches, warnings, or advisories for land areas of western Washington right now.",
+    "Dense fog possible in some interior lowland spots this morning.",
+    "Possible high surf and localized beach erosion on the Pacific Coast around Friday."
+  ],
+  "glossary": [
+    {
+      "term": "Rain shadow",
+      "definition": "An area that gets much less rain because nearby mountains block or dry out the incoming moisture. Here, the Olympics shield many East Puget Sound lowlands."
+    },
+    {
+      "term": "Upper level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings dry, calmer weather."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ensemble clusters",
+      "definition": "Groups of similar results from many computer model runs. Forecasters use them to see which outcomes are most likely and how much the models disagree."
+    },
+    {
+      "term": "Probabilistic guidance",
+      "definition": "Forecast tools that give the chance of something happening, such as a percent chance of wind gusts above 40 mph, rather than a single prediction."
+    },
+    {
+      "term": "High surf",
+      "definition": "Unusually large, powerful waves along the coast that can erode beaches and be dangerous to people on them."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow stream of moisture in the atmosphere that can bring heavy rain and mountain snow when it reaches the coast."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that are hazardous to small boats."
+    }
+  ]
+}

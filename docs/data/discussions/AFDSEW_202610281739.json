@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202610281739",
+  "issued": "2026-10-28T17:39:00+00:00",
+  "headline": "A slow-moving low keeps showers and cool 50s in western Washington through Friday, then a dry spell with morning fog arrives early next week.",
+  "summary": "A pool of cold air high in the atmosphere (an upper-level low) is parked near Vancouver Island and won't move much for a couple of days. It keeps spinning showers into western Washington. Today's highs in the lowlands will be in the lower to mid 50s. This afternoon there is a chance of thunderstorms late in the day. In the Cascades, snow levels are around 3000 to 3500 feet. Most of the heavy snow fell early this morning. This afternoon Mount Rainier could pick up as much as 6 inches, and the rest of the Cascades just a couple more inches. A Winter Weather Advisory for the Cascades stays in effect until 5 PM today.\n\nThrough Thursday and Friday the low drifts south and west, ending up off the Washington coast Friday. It weakens a bit and the winds high above ease, so mountain snow should add up to less even though showers continue and snow levels stay about the same. The lowlands stay showery with highs in the lower to mid 50s. By Saturday the low weakens into a trough, and showers pull back toward the western half of the area before the system moves inland Saturday night.\n\nA ridge of high pressure then builds over western Washington Sunday night through Tuesday, bringing drier weather. With light winds from the east (offshore flow), fog is possible Monday and Tuesday mornings. Forecasters only expect patchy or areas of fog, because high clouds may spread over the ridge. Nights turn colder, with lows in the upper 20s and 30s Monday and Tuesday.",
+  "timeline": [
+    {
+      "when": "Today (Wednesday)",
+      "what": "Showers continue, with a chance of thunderstorms late in the afternoon. Highs in the lower to mid 50s. The Cascades get up to 6 inches near Mount Rainier and a couple of inches elsewhere. The advisory ends at 5 PM."
+    },
+    {
+      "when": "Tonight into Thursday",
+      "what": "Showers continue, but new mountain snow amounts decrease to light additions. Lows from the mid 30s to lower 40s tonight. Highs in the lower to mid 50s Thursday."
+    },
+    {
+      "when": "Thursday night and Friday",
+      "what": "The low drifts south and winds aloft turn southwesterly, which is unfavorable for much new mountain snow. Snow levels stay at 3000 to 3500 feet. Showers are likely or possible in the lowlands. Highs in the lower to mid 50s."
+    },
+    {
+      "when": "Saturday",
+      "what": "The low weakens and showers become confined to the western half of the area by afternoon. It moves inland Saturday night. Lows in the mid 30s to lower 40s."
+    },
+    {
+      "when": "Sunday",
+      "what": "A ridge builds offshore. Lows in the mid 30s to lower 40s. There is a slight chance of rain on the north coast Sunday night into Monday."
+    },
+    {
+      "when": "Monday and Tuesday",
+      "what": "The ridge sits over western Washington. Patchy or areas of fog are possible in the mornings. Highs mostly in the mid 50s, with lows in the upper 20s and 30s."
+    }
+  ],
+  "confidence": "Forecasters say the computer models agree well on the low weakening and drifting south into Saturday. The main uncertainty is early next week: a few model runs show a warm front clipping the north coast Sunday night and Monday, so only a slight chance of rain is included there. High clouds may also limit fog, so forecasters kept it to patchy or areas of fog.",
+  "hazards": [
+    "Winter Weather Advisory until 5 PM PDT today for the Cascades of Whatcom, Skagit, Snohomish, King, Pierce and Lewis Counties."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A pocket of cold air and low pressure high in the atmosphere. It can spin showers around it for days when it moves slowly."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings drier, calmer weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure aloft. As a weakened low, it can still bring clouds and showers as it passes."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Orographics",
+      "definition": "Extra rain or snow produced when wind pushes air up the slopes of mountains. Weaker winds aloft mean less of it."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from land toward the ocean, which in western Washington means light easterly winds. It can allow fog to form under a ridge."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A group of computer forecast runs started with slightly different conditions. Differences among them show how uncertain the forecast is."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass, often bringing clouds and light rain."
+    },
+    {
+      "term": "Pops",
+      "definition": "Probability of precipitation, or the chance that rain or snow will occur. A slight chance means a low probability."
+    }
+  ]
+}

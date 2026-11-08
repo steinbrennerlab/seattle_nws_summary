@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202611022300",
+  "issued": "2026-11-02T23:00:00+00:00",
+  "headline": "Quiet weather tonight and Tuesday gives way to a stormier pattern Wednesday through Friday, with a strong system Friday bringing wind, rain, snow and high surf.",
+  "summary": "Tonight and Tuesday are mostly dry. A weak system will brush the region and could bring a small chance of light showers early Tuesday, mainly along the coast, in the Olympics, and perhaps the Northwest Interior. Most other places should stay dry. Highs today are in the low to mid 50s under clouds, and Tuesday is a touch warmer, in the upper 50s, maybe low 60s in the Southwest Interior.\n\nThe pattern turns more active on Wednesday. A front moves through Wednesday afternoon with widespread rain, mostly along the coast, in the Olympics, and in the North Cascades, where perhaps half an inch of rain could fall. Interior areas including Puget Sound will likely be shielded from the heaviest rain and may see only a shower or two. Snow levels are around 5000 to 5500 feet, so a few inches of snow could fall on the higher peaks of the Olympics and Cascades. Southerly winds pick up Wednesday evening, with gusts around 25 to 35 mph on the Pacific coast and up to 25 mph at times in the interior. Highs are in the mid to upper 50s.\n\nAfter a brief lull Thursday, a potentially strong front arrives late Thursday into Friday. It could bring gusty winds, lowland rain, heavy snow at higher mountain elevations, and high surf on the Pacific coast, with a risk of beach erosion and hazardous conditions on beaches and jetties. Forecasters see about a 50% chance of gusts of 40 mph or more along the coast and from Whidbey Island northward. A possible short break comes Friday night into Saturday, before more wet weather returns late in the weekend and into the first half of next week.",
+  "timeline": [
+    {
+      "when": "Tonight through Tuesday",
+      "what": "Mostly dry and cloudy. A weak system brings a small chance of light showers to the coast, the Olympics, and perhaps the Northwest Interior. Tuesday highs are in the upper 50s, maybe low 60s in the Southwest Interior."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A front brings widespread rain Wednesday afternoon, heaviest along the coast, in the Olympics, and in the North Cascades (perhaps half an inch). Puget Sound may see only a shower or two. A few inches of snow are possible on the highest peaks, with snow levels around 5000 to 5500 feet."
+    },
+    {
+      "when": "Wednesday evening into Thursday morning",
+      "what": "Southerly winds increase, with gusts around 25 to 35 mph on the coast and up to 25 mph at times in the interior. Wind and rain slowly ease toward Thursday morning."
+    },
+    {
+      "when": "Thursday",
+      "what": "A brief lull in the weather."
+    },
+    {
+      "when": "Late Thursday into Friday",
+      "what": "A potentially strong front brings gusty winds, lowland rain, heavy high-elevation snow (snow levels near 5000 feet), and high surf. There is about a 50% chance of 40 mph or stronger gusts along the coast and from Whidbey Island northward."
+    },
+    {
+      "when": "Friday night through early next week",
+      "what": "A brief break is possible Friday night into Saturday. The next round of active weather moves in late in the weekend and continues into the first half of next week."
+    }
+  ],
+  "confidence": "Forecasters are confident that the weather turns more active from midweek through early next week. The strength of the Friday system's winds is less certain, with about a 50% chance of 40 mph or stronger gusts in the northern and coastal areas. By the weekend, forecast models disagree mainly on the timing of later systems, though any break looks short.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "A Small Craft Advisory (hazardous seas and winds for small boats) is in effect for the Pacific coastal waters and the west entrance of the Strait of Juan de Fuca until 1 AM PST Tuesday.",
+    "Expected later this week: high surf on the Pacific coast, with risks of beach erosion and hazardous conditions on beaches and jetties, plus strong winds Friday.",
+    "River flooding is not expected in the next seven days, but repeated rain will soak soils and raise river flows, which could be a concern with later storms."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings calmer, drier weather. When it builds, it can steer storms away from the region."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that usually brings clouds, rain, and shifting winds as it passes."
+    },
+    {
+      "term": "Rain shadow",
+      "definition": "A drier area on the sheltered side of mountains. Here, the Olympics shield parts of the interior, including Puget Sound, from the heaviest rain."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A group of many computer forecast runs with slightly different starting conditions. When they agree, confidence is higher; when they spread out, there is more uncertainty."
+    },
+    {
+      "term": "Probabilistic guidance",
+      "definition": "Forecast tools that give the chance of something happening, such as a 50% chance of 40 mph gusts, instead of a single prediction."
+    },
+    {
+      "term": "Long period swell",
+      "definition": "Large ocean waves generated by distant storms that travel far and arrive spaced well apart. They carry a lot of energy and can make surf dangerous."
+    },
+    {
+      "term": "Northwest Interior and Southwest Interior",
+      "definition": "Forecast zones for the lowlands of western Washington away from the coast. The Northwest Interior is the northern Puget Sound area and the Southwest Interior is the southwest lowlands."
+    }
+  ]
+}

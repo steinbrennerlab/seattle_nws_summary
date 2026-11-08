@@ -1,0 +1,67 @@
+{
+  "id": "AFDSEW_202611010334",
+  "issued": "2026-11-01T03:34:00+00:00",
+  "headline": "Dense fog and frost are expected early Sunday, then a dry start to the week before wetter, windier weather arrives Wednesday through Friday.",
+  "summary": "Tonight into Sunday morning, forecasters expect cold, damp air near the ground to produce frost and widespread dense fog. Overnight lows will be in the 30s. Fog has already started forming in some river valleys and is expected to spread across the lowlands overnight. A Dense Fog Advisory is in effect for parts of Puget Sound and the Southwest Interior, including the Seattle area, Everett, Olympia, and the Chehalis River valleys.\n\nThrough Monday, high pressure keeps things mostly dry with temperatures near normal for the season. Expect periods of morning fog and some afternoon sun breaks. On Monday, as the high pressure shifts east, there are low chances of rain, mainly along the coast and over the Olympic Peninsula. Light rain is possible into Tuesday as a weakening front crosses the region.\n\nWetter, more unsettled weather returns Wednesday and continues beyond, with a series of systems moving in. The system on Friday looks to be the strongest. Forecasters say it will likely bring breezy winds, widespread rain in the lowlands, and snow in the mountains.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Cold lows in the 30s bring frost. Fog expands from river valleys across the lowlands, with a Dense Fog Advisory starting at 1 AM."
+    },
+    {
+      "when": "Sunday morning",
+      "what": "Frost and dense fog are expected, with the advisory lasting until 10 AM PDT."
+    },
+    {
+      "when": "Sunday through Monday night",
+      "what": "Mostly dry with seasonable temperatures, morning fog, and afternoon sun breaks. Low chances of rain on Monday, mainly along the coast and over the Olympic Peninsula."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Chance of light rain as a weakening front passes over the region."
+    },
+    {
+      "when": "Wednesday and beyond",
+      "what": "Wetter, more unsettled weather returns as a series of systems moves through."
+    },
+    {
+      "when": "Friday",
+      "what": "Likely the strongest system of the series, bringing breezy winds, widespread lowland rain, and mountain snow."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the fog and frost tonight and the mostly dry weather through Monday. Details for next weekend are less certain because computer model runs (ensembles) show a fair amount of variability. They are more confident that Friday's system will be the strongest.",
+  "hazards": [
+    "Dense Fog Advisory from 1 AM to 10 AM PDT Sunday for the City of Seattle, Everett/Marysville, Eastern Kitsap County, the Eastside, Lewis and southern Thurston County lowlands, Pierce and southern King County lowlands, Olympia and southern Puget Sound, and the Shoreline/Lynnwood/south Everett area.",
+    "Dense Fog Advisory until 10 AM PDT Sunday for the Lower and Middle Chehalis River Valleys."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere that can bring clouds and showers. This one is weakening as it moves inland to the south."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings dry, calmer weather."
+    },
+    {
+      "term": "Split flow",
+      "definition": "A pattern where the high-altitude winds divide into separate branches, one going north and one south of an area, so systems tend to miss or weaken over it."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they disagree, forecasters are less certain about the outcome."
+    },
+    {
+      "term": "Dense Fog Advisory",
+      "definition": "An alert issued when fog is thick enough to make driving hazardous because visibility drops sharply."
+    },
+    {
+      "term": "Splitting frontal system",
+      "definition": "A weather front that breaks apart as it nears the area, so it brings only light or patchy rain."
+    },
+    {
+      "term": "Lowlands",
+      "definition": "The low-elevation areas of western Washington, such as Puget Sound cities and river valleys, as opposed to the mountains."
+    }
+  ]
+}

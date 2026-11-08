@@ -1,0 +1,72 @@
+{
+  "id": "AFDSEW_202611011745",
+  "issued": "2026-11-01T17:45:00+00:00",
+  "headline": "Dry, cool weather continues through Tuesday with widespread fog likely Monday morning; wetter, windier weather arrives Wednesday and especially Friday.",
+  "summary": "A ridge of high pressure (a large area of sinking air aloft) is moving over western Washington, keeping things dry through Monday. A thick layer of low cloud and some fog is still covering much of the lowlands this morning. Sun breaks should develop by mid to late afternoon, though skies will stay mostly cloudy and visibility at the surface should improve. Nights will be cool, in the 30s, with some additional frost in the early morning hours. Afternoon highs on Sunday and Monday will be seasonable, mainly in the low to mid 50s.\n\nEarly Monday morning, light winds and leftover moisture near the ground will likely bring widespread fog and low cloud again, with areas of greatly reduced visibility. Forecasters were not confident enough to issue a Dense Fog Advisory for Monday morning, but they will keep watching. From Monday night into Tuesday, a weakening system approaching the region may bring some light precipitation to parts of the coast and the Olympic Peninsula. Most of western Washington should stay dry, with temperatures warming a few degrees (lows mid 30s to mid 40s, highs mid 50s to low 60s on Tuesday).\n\nThe second half of the week turns more unsettled as a series of systems approaches. A weak system should cross the area Wednesday. A stronger one on Friday will likely bring gusty winds and more widespread rain in the lowlands and snow in the mountains. A brief break is possible Friday night into early Saturday, but the ridge looks to move inland quickly, which could let more systems arrive by Saturday evening. Temperatures through the period should be near to slightly above normal, with lows in the upper 30s to upper 40s and highs in the mid to upper 50s.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Low cloud and patchy fog slowly improve. Sun breaks are expected by mid to late afternoon, but skies stay cloudy overall. Dry, with highs in the low to mid 50s."
+    },
+    {
+      "when": "Early Monday morning",
+      "what": "Widespread fog and low cloud likely, with areas of greatly reduced visibility. Cold enough for additional frost. No Dense Fog Advisory yet, but forecasters are monitoring."
+    },
+    {
+      "when": "Monday",
+      "what": "Dry across the region with highs in the low to mid 50s. Seas build on the coast, where a Small Craft Advisory begins at 1 AM."
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "A splitting system may bring light precipitation to parts of the coast and Olympic Peninsula. Most of western Washington stays dry and a few degrees warmer, with highs in the mid 50s to low 60s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A weak system moves across the area, bringing increased chances of precipitation."
+    },
+    {
+      "when": "Friday",
+      "what": "A stronger system will likely bring gusty winds, more widespread lowland rain, and mountain snow."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "A brief break is possible as another ridge moves in, but it may push inland quickly, with more systems possibly arriving by Saturday evening."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry start to the week and the wetter pattern later, including the stronger Friday system. They are less certain about fog: they did not have enough confidence to issue a Dense Fog Advisory for Monday morning. They also say the pattern heading into next weekend is still uncertain, including how long the Friday-night break will last.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Small Craft Advisory (for small boats) for the Washington coastal waters and the west entrance of the Strait of Juan de Fuca, from 1 AM Monday to 1 AM Tuesday, because of rough seas.",
+    "Not an official advisory: widespread, possibly dense fog is likely early Monday morning, and forecasters are monitoring it."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level ridge",
+      "definition": "A large area of high pressure high in the atmosphere. It usually brings calmer, drier weather."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat, gray layer of cloud. When it reaches the ground it is fog."
+    },
+    {
+      "term": "Dense Fog Advisory",
+      "definition": "An official alert issued when fog is thick enough to make driving hazardous. None has been issued for Monday morning."
+    },
+    {
+      "term": "Splitting system",
+      "definition": "A weather system that divides as it approaches, so that only part of it reaches an area. That is why most of western Washington stays dry Monday night into Tuesday."
+    },
+    {
+      "term": "Ensemble clusters",
+      "definition": "Groups of computer forecast runs that show similar outcomes. Forecasters use them to see which scenarios are most likely."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas hazardous to small boats."
+    },
+    {
+      "term": "Seas",
+      "definition": "The height of ocean waves, which here is the main concern on the coastal waters."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202610142020",
+  "issued": "2026-10-14T20:20:00+00:00",
+  "headline": "Sunny, warmer weather builds through Friday, then cooler, unsettled weather with light rain returns Saturday and lingers into next week.",
+  "summary": "High pressure is moving in through the end of the week. Skies are clearing this afternoon, and highs should reach the upper 60s to low 70s Thursday and the mid 70s Friday. Forecasters note some Minor HeatRisk on those two days, meaning the warmth could affect a small number of people who are especially sensitive to heat. Because the lower atmosphere is moist and winds are light, stratus (low cloud) and possibly fog could form Thursday morning.\n\nWinds will blow from the east, off the land, and get a little breezy in the Cascades and foothills Thursday night, with gusts of 25 to 30 mph. Humidity could drop to around 35 to 40% in the Cascades and southern Olympics Thursday, and to 35 to 45% more widely on Friday as temperatures climb.\n\nThe high-pressure ridge weakens over the weekend. A weak system should bring rain to western Washington on Saturday, mostly to the North Cascades, with only a few hundredths of an inch in the lowlands. Parts of the Seattle area may stay dry. Highs drop to the low 60s, a sharp fall from Friday. Sunday looks cooler and drier, with morning lows in the low 40s around Puget Sound and mid 30s in the Cascade foothills. Troughing (a dip in the jet stream) continues into early next week, with more chances for light rain, especially Tuesday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Skies keep clearing, with lingering cloud near the coast and southwest interior early on. Winds turn offshore."
+    },
+    {
+      "when": "Thursday",
+      "what": "Possible stratus and fog in the morning. Highs in the upper 60s to low 70s. Breezy east winds in the Cascades and foothills Thursday night, gusting 25 to 30 mph."
+    },
+    {
+      "when": "Friday",
+      "what": "Warmest day, with highs in the mid 70s and Minor HeatRisk. Humidity falls to about 35 to 45% more widely."
+    },
+    {
+      "when": "Saturday",
+      "what": "A system likely brings rain through the day, heaviest in the North Cascades. Lowlands get only a few hundredths of an inch, and Seattle-area spots may stay dry. Highs drop to the low 60s."
+    },
+    {
+      "when": "Sunday",
+      "what": "Cooler and drier. Morning lows in the low 40s around Puget Sound and mid 30s in the Cascade foothills."
+    },
+    {
+      "when": "Early next week",
+      "what": "Troughing continues with chances for light rain, especially Tuesday. The pattern beyond that is unclear."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the warm, clear stretch through Friday and in rain arriving Saturday, though fog on Thursday morning is only a possibility. Models keep the weekend trough offshore, which limits the wind threat, but forecasters will watch for changes in its track. Beyond Tuesday, models disagree about which pattern will take hold.",
+  "hazards": [],
+  "glossary": [
+    {
+      "term": "High pressure",
+      "definition": "A zone of sinking air that usually brings clearer, drier, calmer weather."
+    },
+    {
+      "term": "Minor HeatRisk",
+      "definition": "The lowest level of a heat-risk rating. It means the warmth could affect only people who are especially sensitive to heat, such as those without cooling."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat layer of gray cloud. When it reaches the ground it is fog."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Wind blowing from the land toward the ocean, which in western Washington means from the east. It tends to bring drier, warmer air and can get gusty in the Cascades and foothills."
+    },
+    {
+      "term": "RH (relative humidity)",
+      "definition": "How much moisture is in the air compared with the most it can hold at that temperature. Lower values mean drier air."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the jet stream that usually brings cooler, cloudier, wetter weather."
+    },
+    {
+      "term": "Zonal flow",
+      "definition": "Winds high in the atmosphere blowing mostly west to east, without big dips or bulges. Weather changes tend to be milder."
+    },
+    {
+      "term": "Model guidance",
+      "definition": "Computer forecasts that forecasters use to predict the weather. When different models disagree, confidence in the forecast drops."
+    }
+  ]
+}
