@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202611040346",
+  "issued": "2026-11-04T03:46:00+00:00",
+  "headline": "Dry weather ends Wednesday evening as a series of storms brings rain, gusty winds, and mountain snow from Friday onward.",
+  "summary": "Dry weather continues into Wednesday morning. A weak front then moves in Wednesday evening into Thursday, bringing lowland rain and locally breezy winds from around Whidbey Island northward. Thursday afternoon should be mostly dry in the lowlands, with rain or drizzle lingering in the mountains. Highs are expected in the mid to upper 50s through Thursday.\n\nThe weather turns more active Friday as a string of fronts (the leading edges of incoming storm systems) crosses western Washington. The first brings rain and gusty south winds Friday, strongest along the immediate coast and from Admiralty Inlet northward. Forecasters give 40 to 80% odds of gusts over 40 mph there and are watching whether a wind alert will be needed. A warm front lifts north Saturday, keeping rain going at times on the Olympic Peninsula and near the Canadian border, with a brief drier spell for some of Puget Sound. A cold front follows Saturday night into Sunday with more rain and breezy winds.\n\nBecause many trees still have their leaves, localized power outages are possible during the weekend. Snow levels stay high Friday into Sunday, mainly 5000 to 8000 feet, so snow falls only at high elevations. Seas near the coast build toward 15 to 20 feet on Friday, and forecasters are watching for high surf. Ensembles suggest a brief break in the heavier precipitation Sunday night into Monday, then another front late Monday and a continued active pattern next week. River flooding is not expected in the next seven days, but repeated rain will begin soaking the ground and raising river flows, which could matter for later storms.",
+  "timeline": [
+    {
+      "when": "Tonight into Wednesday morning",
+      "what": "Dry conditions continue."
+    },
+    {
+      "when": "Wednesday evening into Thursday",
+      "what": "A weak front brings lowland rain and locally breezy winds from around Whidbey Island northward. Lingering rain or drizzle in the mountains. Mostly dry in the lowlands by Thursday afternoon, with highs in the mid to upper 50s."
+    },
+    {
+      "when": "Friday",
+      "what": "A stronger front brings lowland rain and gusty south winds, strongest on the immediate coast and from Admiralty Inlet northward (40 to 80% chance of gusts over 40 mph). Wind headlines possible. Coastal seas rise toward 15 to 20 feet, with high surf a concern."
+    },
+    {
+      "when": "Saturday",
+      "what": "A warm front lifts north. Rain continues at times on the Olympic Peninsula and near the Canadian border, with a brief drier period for some of Puget Sound."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A cold front brings more rain and breezy winds. Localized power outages are possible because trees still have leaves. Snow levels stay 5000 to 8000 feet from Friday into Sunday."
+    },
+    {
+      "when": "Sunday night into Monday, and next week",
+      "what": "Possible brief break in heavier precipitation, then another front late Monday. The active pattern continues with more lowland rain, mountain snow, gusty winds, and larger waves."
+    }
+  ],
+  "confidence": "Forecasters are confident in the overall shift to a wetter, windier pattern starting Friday, but details are less certain. They are still monitoring how strong Friday's winds will be, and the timing of the brief break Sunday night into Monday comes from ensemble guidance (a set of computer forecast runs), so it is uncertain.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "Small Craft Advisory for the coastal waters on Wednesday (inner coastal waters 1 PM to 10 PM, outer waters 8 AM to 10 PM PST), for boaters.",
+    "Possible wind headlines for Friday, not yet issued, for the coast and from Admiralty Inlet northward.",
+    "High surf along the coast is a concern Friday and may need to be addressed later.",
+    "Localized power outages are possible over the weekend due to wind and leafy trees."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A storm system whose leading edge, called a front, separates air masses and usually brings rain and wind as it passes."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air moving in, which typically brings steady rain and then milder conditions."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of colder air, usually bringing a band of rain and gusty winds as it passes."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast tool that combines many computer models to estimate the odds of things like strong wind gusts."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecast runs started with slightly different conditions. When they agree, confidence is higher; when they differ, it is lower."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Wind headlines",
+      "definition": "Official wind alerts, such as a Wind Advisory, issued when winds are expected to reach harmful levels."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal level of water in rivers and streams between rain events, which rises as the ground becomes saturated."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "start": "2026-11-01",
+  "end": "2026-11-07",
+  "headline": "Forecasters saw a stormy week coming early, then shifted focus to a Saturday night windstorm, with wet weather expected to continue.",
+  "summary": "At the start of the week, forecasters expected cloudy, foggy weather Monday and then wetter, windier weather from Wednesday through Friday. They also flagged possibly heavy rain the following weekend, though they called the details uncertain. By Monday night, Friday looked like the strongest storm, with about a 50% chance of damaging gusts, high surf and mountain snow. On Tuesday the timing moved later. The weak first front slipped to Wednesday evening into Thursday, and the stronger storms were pushed to Friday. Forecasters also added that, because many trees still have leaves, localized power outages were possible over the weekend.\n\nBy Thursday, Friday's front had Wind Advisories posted for the coast, islands and northern interior, with gusts up to 50 mph possible. Forecasters were fairly confident about those winds because computer models agreed. Attention then moved to a second, stronger cold front (the leading edge of a colder air mass) arriving Saturday night. On Friday evening, forecasters said the Saturday night windstorm was the main concern. They put the coast's chance of gusts above 58 mph at 50 to 75% and posted a High Wind Watch there, with gusts of 30 to 45 mph likely elsewhere. By Saturday afternoon the watch had become a High Wind Warning for the coast. A Wind Advisory covered interior lowlands including Seattle, with gusts of 45 to 50 mph expected at times. Forecasters also added a 20 to 30% chance of coastal thunderstorms (10 to 20% inland) and raised expected beach waves to 22 to 28 feet, which makes razor clam digging dangerous.\n\nSome things held steady all week. Forecasters kept expecting a wet, active, above-normal-temperature pattern, and said river flooding was not expected in the next seven days. They did warn that repeated rain would soak the ground and could matter for later storms. Snow stayed limited to high elevations because snow levels (where rain turns to snow) were high. After Sunday's showers, another system is expected Monday, with more wet, breezy weather through midweek and more systems late in the week. Forecasters called the model guidance for next week \"a bit shaky\" on timing and strength.",
+  " turning_points": [
+    {
+      "date": "Mon Nov 2",
+      "what": "Friday emerged as the likely strongest storm of the week, with about a 50% chance of damaging gusts. Forecasters also added more systems from late in the weekend into early next week."
+    },
+    {
+      "date": "Tue Nov 3",
+      "what": "The active pattern was pushed back: a weak front Wednesday evening into Thursday, with stronger storms starting Friday. Forecasters added a weekend power outage risk from leafy trees and 40 to 80% odds of gusts over 40 mph for the coast and north of Admiralty Inlet."
+    },
+    {
+      "date": "Thu Nov 5",
+      "what": "Wind Advisories were posted for Friday on the coast, islands and northern interior. Forecasters added a second, stronger round of wind Saturday night, and flagged low confidence about Wednesday because models disagreed on whether rain would reach the Olympic Peninsula."
+    },
+    {
+      "date": "Fri Nov 6",
+      "what": "The Saturday night cold front became the main event. Forecasters gave a 50 to 75% chance of gusts above 58 mph on the coast, issued a High Wind Watch there, and said more wind alerts might be needed elsewhere."
+    },
+    {
+      "date": "Sat Nov 7",
+      "what": "The coastal watch became a High Wind Warning, and a Wind Advisory covered Seattle and the interior lowlands. Forecasters added thunderstorm chances and raised expected waves to 22 to 28 feet. They also grew more cautious about next week, calling model guidance \"a bit shaky.\""
+    }
+  ],
+  "signature": "dcdbf1caf6c51b31"
+}

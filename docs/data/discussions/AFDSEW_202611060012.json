@@ -1,0 +1,78 @@
+{
+  "id": "AFDSEW_202611060012",
+  "issued": "2026-11-06T00:12:00+00:00",
+  "headline": "A windy, wet frontal system arrives tonight and Friday, with a stronger wind-and-rain round expected Saturday night into Sunday.",
+  "summary": "Rain moves into western Washington tonight, and the bulk of it falls Friday. Gusty winds come with it, strongest along the coast and in the northwest interior, which includes the islands and western Whatcom and Skagit counties. There, winds could reach 20-30 mph with gusts up to 50 mph. Most lowlands should get about one-tenth to one-quarter of an inch of rain. The higher terrain and the coast could see up to one-half to three-quarters of an inch. Snow levels start around 5000-6000 ft Friday morning and rise to about 9000 ft in the afternoon, so forecasters are not concerned about high-elevation snow.\n\nSaturday brings a lull, though clouds and leftover showers will linger. Temperatures get a boost, with highs in the 60s for most lowlands. A second front arrives Saturday night with another round of strong winds across much of the region. The windiest spots (coast, islands, northwest interior) will likely reach advisory-level conditions, and other places along Puget Sound might too. It is too early to decide on new wind alerts, but forecasters are watching it. Winds ease quickly Sunday, with most breezy conditions ending by mid-morning.\n\nThe active pattern continues into at least the first half of next week. Another system arrives Monday afternoon and continues into Tuesday, with a possible break Wednesday. Temperatures stay a few degrees above normal, with lows mostly in the mid 40s to around 50 through Saturday night. No river flooding is expected in the next seven days. However, repeated rounds of rain will wet the soil and raise river flows, which could become a concern with later storms next week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Dry through the early evening, then rain and gusty winds move in. Wind Advisory areas include the coast and northwest interior."
+    },
+    {
+      "when": "Friday",
+      "what": "Main day of rain and wind. Rain totals are mostly one-tenth to one-quarter inch in lowlands, with up to one-half to three-quarters inch in the mountains and along the coast. Snow levels rise from about 5000-6000 ft to about 9000 ft. The front clears very late Friday night."
+    },
+    {
+      "when": "Saturday",
+      "what": "A relative lull with lingering clouds and a few showers. Lowland highs reach the 60s."
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A second front brings more rain and strong winds to much of western Washington. Advisory-level winds are likely along the coast, islands and northwest interior, and possible elsewhere near Puget Sound. Winds ease by mid-morning Sunday."
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A brief break in the weather until Monday afternoon, when the next system arrives. Snow levels fall to about 4000-5000 ft, then rebound above 6000 ft late Monday."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Rain from Monday's system continues into Tuesday. A break is possible Wednesday, but forecast models disagree on whether rain reaches the area."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the Friday wind and rain, since models have been consistent on wind speeds. They are less sure which areas beyond the usual windy spots will get strong winds Saturday night. By midweek, models disagree on how far west a ridge of high pressure builds, so it is unclear whether Wednesday is dry or has rain, at least on the Olympic Peninsula.",
+  "hazards": [
+    "Wind Advisory, 4 AM to 4 PM Friday: Island County, western Skagit and northwestern Snohomish lowlands, western Whatcom lowlands, and San Juan County.",
+    "Wind Advisory, 1 AM to 1 PM Friday: Northern Washington Coast.",
+    "Wind Advisory, 7 AM to 4 PM Friday: Grays Harbor County Coast.",
+    "Gale Warnings and Small Craft Advisories for coastal waters, the Strait of Juan de Fuca, and the northern inland waters (including the San Juan Islands) through Friday. Seas of 14-20 ft are expected on the coastal waters.",
+    "Rough to severe conditions are possible at times on the Grays Harbor Bar starting Friday."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A boundary between air masses that typically brings clouds, rain and wind as it passes."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air. Its arrival, as expected Saturday, raises temperatures."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of colder air, usually bringing a burst of rain and gusty winds as it passes."
+    },
+    {
+      "term": "Shortwave ridge",
+      "definition": "A small, short-lived area of higher pressure aloft that briefly interrupts the stormy pattern and gives a lull."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Wind Advisory",
+      "definition": "An alert for winds strong enough to cause inconvenience, such as difficulty driving high-profile vehicles or small branches coming down."
+    },
+    {
+      "term": "NW Interior",
+      "definition": "The forecasters' name for the northwest part of the region inland from the coast, including the islands and western Whatcom and Skagit counties."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of many forecast model runs started with slightly different conditions. When they disagree widely, forecast confidence is lower."
+    },
+    {
+      "term": "NBM (National Blend of Models)",
+      "definition": "A forecast tool that blends many weather models into a single starting-point forecast."
+    }
+  ]
+}

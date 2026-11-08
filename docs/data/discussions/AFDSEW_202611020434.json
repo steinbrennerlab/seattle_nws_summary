@@ -1,0 +1,76 @@
+{
+  "id": "AFDSEW_202611020434",
+  "issued": "2026-11-02T04:34:00+00:00",
+  "headline": "Cloudy, patchy-fog Monday gives way to a wetter, windier pattern midweek, with possible heavy rain by next weekend.",
+  "summary": "High pressure overhead keeps western Washington dry but cloudy through Monday morning. Clouds are already filling back in, and leftover moisture from recent rains could produce patchy fog, especially in fog-prone areas. That could limit visibility on the Monday morning commute. Forecasters say it's a tough call between fog and a low cloud deck. Light easterly winds may cut down on fog in some spots. Clearing probably won't come until the afternoon. Because clouds are already over the Southwest Interior, overnight lows were raised to above freezing.\n\nLight showers offshore should move inland Monday evening, but amounts will be very light. By Tuesday afternoon, drier and slightly warmer conditions settle in for most areas, though sunny breaks may be few. Temperatures should be near normal or a few degrees above.\n\nA series of stronger weather systems then arrives. Wednesday brings widespread rain and high-elevation snow, mostly over the Olympic Peninsula and North Cascades, with very little rain east of the Olympics. A stronger system follows into Friday morning, with about a half inch to an inch of water in the mountains, a tenth or two in the lowlands, and a few inches of new snow at higher elevations. Next weekend could bring the heaviest rain of the fall so far, but details are uncertain.",
+  "timeline": [
+    {
+      "when": "Tonight into Monday morning",
+      "what": "Clouds fill back in with patchy fog possible, which may reduce visibility for the morning commute in fog-prone areas. Lows in the Southwest Interior are expected to stay above freezing."
+    },
+    {
+      "when": "Monday",
+      "what": "Clouds and fog are slow to clear, likely not until the afternoon. Light rain showers move in from offshore Monday evening, with very light amounts."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Drier and warmer conditions settle in by afternoon for most areas. Skies stay mostly cloudy, with temperatures near or a few degrees above normal."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A frontal system brings widespread rain and high-elevation snow, focused on the Olympic Peninsula and North Cascades. Areas east of the Olympics see only a few hundredths of an inch of rain."
+    },
+    {
+      "when": "Wednesday night into Friday morning",
+      "what": "A stronger system brings roughly half an inch to an inch of water in the mountains and a tenth or two in the lowlands. Snow levels hover around 5000 feet, with a few more inches of snow on higher terrain."
+    },
+    {
+      "when": "Next weekend and beyond",
+      "what": "A possible atmospheric river could bring 2 to 3 inches of water to the mountains and a half inch to an inch to the lowlands, with breezy winds and high surf along the coast. Forecasters say this is uncertain. Early-to-mid November may bring high winds, heavy rain and heavy snow, but that is highly uncertain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the series of increasingly strong systems Wednesday through Friday because the computer model runs agree well. Confidence drops for next weekend, since it depends on how far north a ridge of high pressure builds, and the second week of November is described as highly uncertain. Monday morning's fog versus low cloud is also a tough call.",
+  "hazards": [
+    "No watches, warnings, or advisories are in effect for land areas of western Washington.",
+    "A Small Craft Advisory is in effect for the coastal waters and the west end of the Strait of Juan de Fuca from 1 AM Monday to 1 AM Tuesday because of building seas of 8 to 11 feet. It may be extended for the outer coastal waters.",
+    "Patchy fog Monday morning may briefly limit visibility in fog-prone areas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that usually brings calmer, drier weather."
+    },
+    {
+      "term": "Subsidence",
+      "definition": "Slowly sinking air, which tends to suppress rain and can help trap clouds and fog near the ground."
+    },
+    {
+      "term": "Stratus",
+      "definition": "A low, flat, gray layer of cloud that often blankets the ground or sits just above it."
+    },
+    {
+      "term": "Temperature dew point spread",
+      "definition": "The gap between the air temperature and the temperature at which fog or cloud forms. A small gap, like 3 degrees or less, makes fog more likely."
+    },
+    {
+      "term": "Cutoff low",
+      "definition": "An area of low pressure that has separated from the main flow of winds high in the atmosphere and drifts on its own."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecasts run with slightly different starting conditions. When they agree, confidence is higher."
+    },
+    {
+      "term": "Rain shadowing",
+      "definition": "When mountains block moisture and leave areas on their sheltered side much drier. Here, areas east of the Olympics get little rain."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow stream of moist air from the Pacific that can bring heavy rain and mountain snow."
+    }
+  ]
+}

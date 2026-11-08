@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202611031725",
+  "issued": "2026-11-03T17:25:00+00:00",
+  "headline": "Quiet today, then a string of wet, breezy systems from Wednesday with the strongest Thursday night into Friday.",
+  "summary": "A weak system is brushing western Washington this morning with spotty light showers, but little rain should reach the ground because the air near the surface is dry. It dries out this afternoon, with highs in the mid 50s to low 60s. Skies clear this evening and moisture returns near the ground, so fog could form by early Wednesday. Lows are expected in the mid 30s to low 40s, with a few South Sound spots approaching freezing.\n\nThe pattern turns more active Wednesday. The first system brings rain, gusty winds, and snow in the high mountains. Most of the moisture is aimed at the Olympic Peninsula and North Cascades. Pacific Coast totals of a quarter to half an inch are expected, while many interior lowlands get only a few hundredths to a tenth of an inch because the mountains block much of the rain. Snow levels of 5000 to 6000 ft mean 1 to 3 inches on the higher peaks, with more possible near Mt. Baker. Southerly winds pick up Wednesday afternoon on the coast and Wednesday evening inland, with gusts of 25 to 35 mph on the coast and up to about 25 mph inland. Things ease overnight into Thursday, with Thursday highs in the mid to upper 50s.\n\nA stronger system arrives Thursday night into Friday. It brings more wind, rain, and high-elevation snow, plus the potential for high surf on the Pacific Coast, which could cause beach erosion and hazardous conditions around beaches and jetties. The North Coast could see 1 to 2 inches of rain into Saturday morning, and the lower mountain elevations 1 to 2 inches as well, while interior lowlands again get only a couple tenths of an inch. A short break is possible Friday night into Saturday, then more wet systems are expected late in the weekend and into early next week.",
+  "timeline": [
+    {
+      "when": "Today (Tuesday)",
+      "what": "Spotty light showers this morning, mostly not reaching the ground. Drying out in the afternoon with highs in the mid 50s to low 60s. Small Craft Advisory on the outer coastal waters until 4 PM."
+    },
+    {
+      "when": "Tonight into early Wednesday",
+      "what": "Clearing skies and returning low-level moisture bring a chance of fog. Lows in the mid 30s to low 40s, with a few South Sound spots near freezing."
+    },
+    {
+      "when": "Wednesday",
+      "what": "First system arrives with rain focused on the Olympic Peninsula and North Cascades, 1 to 3 inches of snow on the higher peaks, and gusty southerly winds (25 to 35 mph on the coast, up to about 25 mph inland)."
+    },
+    {
+      "when": "Thursday",
+      "what": "Winds ease and precipitation tapers overnight into Thursday, a quick break between systems. Highs in the mid to upper 50s."
+    },
+    {
+      "when": "Thursday night into Friday",
+      "what": "Stronger system with gusty winds, rain, high-elevation snow, and potential high surf on the Pacific Coast. Snow levels rise from around 5000 ft to 5500-7000 ft on Friday. North Coast could get 1 to 2 inches of rain into Saturday morning."
+    },
+    {
+      "when": "Friday night through early next week",
+      "what": "A brief break is possible early Saturday, though the North Coast and North Cascades could still be clipped by a system passing to the north. Another wet system is expected Saturday night into Sunday, and the active pattern continues into early next week."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the active pattern and in the Wednesday and Friday systems favoring the Olympics, North Cascades, and coast over the interior lowlands. Wind details for Friday are less certain: there is about a 50% chance of gusts over 40 mph on the Pacific Coast and a 40-50% chance from Whidbey Island northward. The Saturday break is also uncertain, because computer models disagree on how strong the high-pressure ridge will be.",
+  "hazards": [
+    "Small Craft Advisory (dangerous winds and seas for small boats) until 4 PM today on the outer coastal waters from Cape Flattery to Cape Shoalwater.",
+    "No watches, warnings, or advisories for land areas of western Washington right now.",
+    "Possible fog early Wednesday morning, especially in the South Sound.",
+    "Potential high surf, beach erosion, and hazardous conditions at beaches and jetties on the Pacific Coast Thursday night into Friday.",
+    "Gusty winds Wednesday and again Thursday night into Friday.",
+    "No river flooding expected in the next seven days, though repeated rain will soak soils and raise river flows, which could become a concern with later storms."
+  ],
+  "glossary": [
+    {
+      "term": "Rain shadow",
+      "definition": "An area that gets less rain because mountains upwind wring out much of the moisture first. Here, the interior lowlands are shielded by the Olympic Mountains."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ridge of high pressure",
+      "definition": "A zone of higher pressure that usually brings calmer, drier weather. A transient ridge passes through quickly."
+    },
+    {
+      "term": "Ensemble clusters",
+      "definition": "Groups of similar results from many runs of a computer forecast model, used to see how much the forecast could vary."
+    },
+    {
+      "term": "Probabilistic guidance",
+      "definition": "Forecast information that gives the percent chance of something happening, such as wind gusts over 40 mph, rather than a single outcome."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful waves along the coast that can erode beaches and make beaches and jetties dangerous."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The normal level of water in rivers between storms, which rises when the ground is already soaked."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine alert for winds or seas that are hazardous to smaller boats."
+    }
+  ]
+}

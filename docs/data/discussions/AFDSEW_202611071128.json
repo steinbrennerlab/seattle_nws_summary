@@ -1,0 +1,74 @@
+{
+  "id": "AFDSEW_202611071128",
+  "issued": "2026-11-07T11:28:00+00:00",
+  "headline": "A strong cold front brings damaging wind and rain tonight, then calmer Sunday before more mild, wet systems arrive Monday night onward.",
+  "summary": "Today (Saturday) starts mild and foggy in the Puget Sound area and on the Kitsap Peninsula, with highs near 60. Rain starts along the coast this afternoon but is not expected to reach Puget Sound by late afternoon. A strong cold front then arrives: it reaches the coast this evening, moves through the Puget Sound area around midnight, and is into the Cascades by early Sunday morning.\n\nThe main concern is wind. Gusts could reach as high as 60 mph on the coast and 45 to 50 mph in the interior from Seattle northward, including the San Juan Islands. Forecasters note that many leaves are still on the trees after a mild October, which raises the chance of impacts even from wind speeds near advisory level. Ocean seas are forecast to build quickly to 22 to 26 feet along the beaches tonight. That, along with the strong winds, makes conditions dangerous for the clam dig at Mocrocks beach.\n\nSunday brings a break: breezy in the morning, few showers that mostly end by noon, and highs in the mid 50s. Another system arrives Monday night but is not expected to bring winds like tonight's. Then a plume of moisture called an atmospheric river sets up over western Washington Tuesday, with most of its moisture aimed at Vancouver Island. Mild weather continues through the week, with a chance of near-record warmth in some locations Wednesday. River flooding is not expected in the next seven days, but repeated rain will soak the ground, which could raise concern with storms late next week.",
+  "timeline": [
+    {
+      "when": "Today (Saturday)",
+      "what": "Mild, with morning fog around Puget Sound and the Kitsap Peninsula. Highs near 60. Rain begins along the coast in the afternoon but is not expected to reach Puget Sound by late afternoon. Winds pick up along the coast starting late this afternoon."
+    },
+    {
+      "when": "Tonight",
+      "what": "The cold front reaches the coast this evening and moves through the Puget Sound area around midnight. Strong southerly winds and rain; gusts up to 60 mph on the coast and 45 to 50 mph in the interior. Seas rise to 22 to 26 feet on the ocean beaches."
+    },
+    {
+      "when": "Sunday",
+      "what": "Calmer, though breezy in the morning. Showers are minimal and mostly over by noon. Highs in the mid 50s with mostly cloudy skies. Seas stay high; the high surf warning ends at 10 PM."
+    },
+    {
+      "when": "Sunday night through Monday",
+      "what": "Lows in the mid 30s to mid 40s. Rain reaches the coast Monday afternoon, with a chance of rain inland by late afternoon. Winds are not expected to be like tonight's."
+    },
+    {
+      "when": "Monday night through Tuesday",
+      "what": "Another wet, windy system moves through Monday night, with a second front close behind on Tuesday. An atmospheric river sets up Tuesday, with the most moisture aimed at Vancouver Island. Highs near 60 Tuesday."
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "Mild Wednesday (low to mid 60s, possibly near records) and Thursday (near 60), with a chance of rain mainly along the coast. Rain is likely inland Friday as another system arrives, with highs in the mid 50s."
+    }
+  ],
+  "confidence": "Confidence is high for tonight's strong front and its wind and surf, and the models agree well through Tuesday. Confidence drops Wednesday and Thursday, when computer models disagree about whether the trailing front stalls offshore or moves through. Agreement improves for the Friday system.",
+  "hazards": [
+    "High Wind Warning from 4 PM today to 4 AM Sunday for the Grays Harbor County coast and Northern Washington coast, with southerly gusts as high as 60 mph.",
+    "Wind Advisory from 4 PM today to 4 AM Sunday for the Olympic Peninsula foothills, Lake Crescent area including US 101, the Chehalis River Valley, the western Strait of Juan de Fuca, and the Willapa and Black Hills.",
+    "Wind Advisory from 6 PM this evening to 4 AM Sunday for the Seattle area, Everett/Marysville, the Eastside, Island County, the Pierce and southern King County lowlands, the western Skagit, northwestern Snohomish and western Whatcom lowlands, Port Townsend, San Juan County, and Shoreline/Lynnwood/south Everett. Gusts of 45 to 50 mph are expected.",
+    "High Surf Warning from 10 PM this evening to 10 PM Sunday for the Grays Harbor County coast and Northern Washington coast, with seas of 22 to 26 feet. Conditions are dangerous for the clam dig.",
+    "Gale and storm warnings and small craft advisories are in effect for coastal waters, the Strait of Juan de Fuca, Puget Sound, Hood Canal, and the San Juan Islands waters."
+  ],
+  "glossary": [
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and a cold front, where the air is mild and moist. Western Washington is in it today ahead of the cold front."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass. Its passage often brings a burst of rain and wind, followed by cooler, showery weather."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of very moist air moving in from the Pacific that can bring prolonged, heavy rain. This one is expected to aim mostly at Vancouver Island."
+    },
+    {
+      "term": "Stalled front",
+      "definition": "A front that stops moving and hangs in place, keeping clouds and rain in the same area for longer. Forecasters are unsure where the front will stall Wednesday and Thursday."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude air flow that tends to bring unsettled weather. One is expected to dig south offshore Wednesday."
+    },
+    {
+      "term": "925 mb winds",
+      "definition": "Winds about 2,500 feet above the ground, as shown by computer models. Forecasters use them to judge how strong gusts could be at the surface, since some of this wind can mix down."
+    },
+    {
+      "term": "Knots",
+      "definition": "A unit of wind speed. One knot is about 1.15 mph, so 55 to 65 knots is roughly 63 to 75 mph."
+    },
+    {
+      "term": "High surf warning",
+      "definition": "A warning for large, dangerous waves on the beaches that can sweep people off beaches and jetties."
+    }
+  ]
+}

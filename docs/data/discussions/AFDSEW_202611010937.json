@@ -1,0 +1,58 @@
+{
+  "id": "AFDSEW_202611010937",
+  "issued": "2026-11-01T09:37:00+00:00",
+  "headline": "Dense fog this morning, then a dry, cool start to the week before wetter, windier weather arrives Wednesday and especially Friday.",
+  "summary": "Western Washington starts the week dry under high pressure, with a chilly, foggy pattern. Fog has formed widely overnight and is dense in spots, especially along I-5 from Olympia south to Chehalis, where visibility is down to about a quarter of a mile. It should break up late morning into early afternoon, leaving some afternoon sun. Monday morning brings frost in places and another round of fog, with highs in the low to mid 50s both days.\n\nA weak system passing Monday night into Tuesday may bring light precipitation to parts of the coast and the Olympic Peninsula. Most of the region stays dry, and temperatures warm a few degrees. The second half of the week turns more unsettled as a series of systems approaches. A weak one is expected Wednesday, followed by a stronger one Friday that will likely bring gusty winds, more widespread lowland rain and mountain snow.\n\nForecasters see a possible short break Friday night into early Saturday as high pressure briefly returns. It looks likely to move out quickly, which would let more systems arrive by Saturday evening. Temperatures through the period should be near normal to slightly above.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Widespread fog, dense in spots, lingers through the morning, then clears for some afternoon sun. Highs in the low to mid 50s."
+    },
+    {
+      "when": "Tonight and Monday",
+      "what": "Dry. Lows mainly in the 30s with areas of frost, and another round of fog Monday morning. Highs in the low to mid 50s."
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "A weak system may bring light precipitation to parts of the coast and Olympic Peninsula. Most of western Washington stays dry. Lows mid 30s to mid 40s, highs mid 50s to low 60s."
+    },
+    {
+      "when": "Wednesday",
+      "what": "A weak system moves across the area, with increasing chances of precipitation."
+    },
+    {
+      "when": "Friday",
+      "what": "A stronger system will likely bring gusty winds and more widespread lowland rain and mountain snow."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "Possible brief break as high pressure returns, but it may move out quickly, with more systems possible by Saturday evening."
+    }
+  ],
+  "confidence": "Forecasters are confident in the fog and dry weather through Monday. Details for next weekend are less certain: the forecast models still disagree on the pattern, so the timing and length of the Friday night to Saturday break is uncertain.",
+  "hazards": [
+    "Dense Fog Advisory until 10 AM this morning for the Seattle, Everett/Marysville, Eastside, eastern Kitsap, Olympia and southern Puget Sound, Pierce and southern King County lowlands, Lewis and southern Thurston County lowlands, and the Lower and Middle Chehalis River Valley. Visibility is as low as a quarter of a mile in places."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A broad area of high pressure high in the atmosphere that usually brings calm, dry weather."
+    },
+    {
+      "term": "Splitting system",
+      "definition": "A weather system that breaks apart as it nears land, so its rain tends to miss most areas. Here, only the coast and Olympic Peninsula may see a little."
+    },
+    {
+      "term": "Ensemble clusters",
+      "definition": "Groups of computer forecast runs that show similar outcomes. Forecasters use them to see which scenarios are most likely when the models disagree."
+    },
+    {
+      "term": "Dense Fog Advisory",
+      "definition": "A National Weather Service notice that fog is thick enough to make driving hazardous because visibility is very low."
+    },
+    {
+      "term": "Lowlands",
+      "definition": "The low-elevation areas of western Washington, such as the Puget Sound region and river valleys, as opposed to the mountains."
+    }
+  ]
+}
