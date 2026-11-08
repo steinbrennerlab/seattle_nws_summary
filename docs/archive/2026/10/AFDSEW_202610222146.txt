@@ -1,0 +1,129 @@
+FXUS66 KSEW 222146
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+246 PM PDT Thu Oct 22 2026
+
+.SYNOPSIS...
+Generally dry and mild conditions are expected through the end
+of the week, with light precipitation possible over the weekend
+as low pressure moves south from the British Columbia coast.
+Weak ridging and drier conditions are forecast through the last
+week of the month, but a return to a more active weather regime
+is possible as of the first week of November. 
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH SATURDAY NIGHT/...
+The dissipating front has left mostly cloudy skies across
+western Washington this afternoon, with highs in the mid 50s and
+low 60s. Skies will be clearer on Friday and with slightly
+cooler temperatures. A low pressure system will be moving into
+Washington waters Saturday for a chance of showers throughout
+the day. Morning lows on Saturday will be in the upper 30s to
+low 40s. Mountain valley locations could be in the low 30s for
+possible frost and freezes. More of the precipitation will be 
+focused along the Olympic Peninsula with amounts of only a few 
+hundredths of an inch inland through Puget Sound.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+Some shower activity will linger into Sunday but will remain 
+mostly cloudy. Only a few hundredths of an inch are in the
+forecast for Sunday but generally conditions look to become
+drier trending into Sunday afternoon. Some of the ensemble
+guidance takes the aforementioned low pressure system inland
+into Oregon early in the week, which would keep conditions on
+the cooler and cloudier side, other solutions bring in weak high
+pressure. The majority of the week will be dry. However, there
+are extended range solutions indicating that the end of the
+month and into the first week of November may signal a switch to
+a more active pattern. The probabilistic week two hazards have
+portions of the CWA highlighted for slight risks of heavy rain,
+possible mountain snow and some breezier conditions for the
+immediate coast. Stay tuned to the forecast as details evolve. 
+
+21
+
+&&
+
+.AVIATION...
+Generally VFR this afternoon with pockets of MVFR ceilings affecting 
+terminals near the Canada border. Low end VFR clouds are expected to 
+continue to fill in across western Washington this evening, 
+continuing to lower to MVFR/IFR overnight. Calm conditions overnight 
+will result in another round of MVFR to IFR/localized LIFR 
+conditions as low stratus and fog expand over the region early 
+Friday morning, particularly south of the Puget Sound and over the 
+Kitsap Peninsula. Flight conditions are expected to improve to VFR 
+across western Washington Friday afternoon under clear skies.
+
+Surface winds this afternoon generally northerly around 5-12 kt will 
+ease this evening and shift southeasterly early Friday morning, 
+switching back to northerly Friday afternoon.
+
+KSEA...VFR with occasionally breezy NW winds 10-15 kt with gusts to 
+20 kt. Winds will ease later this evening, gradually veering 
+easterly to southerly to westerly overnight, and back to northerly 
+flow Friday afternoon. Confidence is increasing over MVFR ceilings 
+developing over the terminal overnight, with a 35-40% chance of cigs 
+below 3000 feet and a 30% chance of cigs below 2000 feet between 12z-
+18z Friday morning. VFR conditions expected to return by the 
+afternoon under clear skies.
+
+15
+
+&&
+
+.MARINE...
+Northwesterly winds will continue to pick up through the evening and 
+into early Friday in the wake of a weak frontal system. Along with 
+winds, seas will build to 9 to 14 feet over the inner coastal 
+waters, and up to 11 to 17 feet across the outer coastal waters 
+through Friday morning. As a result, a Small Craft Advisory remains 
+across the coastal waters through Friday. While seas will gradually 
+ease along the coast Friday afternoon, seas will come down a little 
+slower further from shore, and the Small Craft goes through Friday 
+afternoon across the outer coastal waters. 
+
+In addition, winds this evening will pick up in the Strait of 
+Georgia west of Whatcom County, and while winds are expected to 
+remain below SCA, will keep an eye on how things evolve this 
+evening. Seas at Grays Harbor Bar will also continue to build into 
+the evening, and while they are expected to stay just under 10 feet, 
+rough seas are not out of the realm of possibility and that will be 
+watched as well.
+
+Winds and seas will ease and subside by late Friday, with a more 
+benign pattern settling in over area waters into Saturday. By 
+Sunday, a low pressure system will move southward over the region, 
+though some uncertainty remains over the storm track. While winds 
+are expected to remain low, seas may build over the outer coastal 
+waters to around 10 feet Sunday morning with this incoming system, 
+then ease into next week where they will remain around 4 to 5 feet.
+
+15
+
+
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory until 11 AM PDT Friday for Coastal Waters 
+     From Cape Flattery To James Island Out 10 Nm-Coastal 
+     Waters From James Island To Point Grenville Out 10 Nm-
+     Coastal Waters From Point Grenville To Cape Shoalwater 
+     Out 10 Nm.
+
+     Small Craft Advisory until 5 PM PDT Friday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From James Island To Point Grenville 10 To 60 Nm-
+     Coastal Waters From Point Grenville To Cape Shoalwater 10 
+     To 60 Nm.
+
+&&
+
+$$

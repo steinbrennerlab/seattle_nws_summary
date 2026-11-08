@@ -1,0 +1,151 @@
+FXUS66 KSEW 012226
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+226 PM PST Sun Nov 1 2026
+
+.SYNOPSIS...
+High pressure overhead will maintain dry conditions, cloudy 
+skies, and areas of patchy fog through Monday morning. A series
+of splitting systems will bring slight chances of rain to 
+western Washington Monday and Tuesday ahead of a series of 
+systems that will bring increasingly more lowland rain, mountain
+snow, and breezy winds through the end of next week.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH TUESDAY NIGHT/...
+Low stratus continues to remain firmly entrenched over the
+interior lowlands this afternoon, with some patches of sun
+breaking through the cloud deck. However, any sun breaks will be
+short lived with clouds filling back in this evening aided by
+high pressure aloft and light winds. Residual moisture from 
+recent rains will also result in patchy fog early Monday 
+morning, which may pose localized visibility limitations during 
+the morning commute for fog-prone areas. However, light 
+easterly winds in the early morning may help to reduce fog 
+formation under the stratus. As the upper level ridge axis
+nudges eastward on Monday, light rain showers offshore will
+slide inland Monday evening, though rainfall amounts will be
+very light. As a cutoff low develops to the south Monday night
+into Tuesday and weak ridging develops offshore, moisture will 
+be nudged out of the area, allowing warmer and drier conditions
+to briefly settle in for most areas by Tuesday afternoon.
+However, sunny skies may be few and far between through Tuesday,
+with temperatures near or a few degrees above normal.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Ensembles continue to show good agreement over a series of
+increasingly stronger systems passing over the region as the
+rest of the week goes on. A frontal system on Wednesday is
+expected to bring a round of widespread rain and high elevation
+snow to western Washington, with the bulk of the moisture
+focused over the Olympic Peninsula and North Cascades. Areas
+east of the Olympic Mountains will likely see a high degree of
+rain shadowing with this system, resulting in only a few
+hundredths of rain accumulation. 
+
+Another weather system will follow closely behind, and will be 
+stronger than Wednesday's system. While shadowing will occur
+once again east of the Olympics, higher elevations will see
+roughly half of an inch to an inch of liquid while the lowlands
+see a tenth or two of rain accumulation into Friday morning.
+Snow levels will hover around 5000 feet as this system passes
+through, resulting in a few inches of additional snow
+accumulation over higher terrain.
+
+Forecast confidence decreases into next weekend, depending on
+how far northward an upper level ridge will build over the
+western US. The ridge could either keep conditions warm or dry,
+or remain too weak to ward off an incoming atmospheric river
+system. While the bulk of the moisture of this system looks
+like it might make landfall over British Columbia, western
+Washington may see some of the heaviest rain so far this fall
+with up to 2 to 3 inches of liquid over the mountains and
+generally a half inch to an inch over the lowlands. The vigorous
+system could also bring widespread breezy winds alongside the 
+precipitation if the storm takes aim at the Pacific Northwest,
+and waves could inch towards High Surf criteria along the
+immediate coastline.
+
+Beyond next weekend, longer range models continue to show
+potential for high winds, heavy rain, and heavy snow across the
+Pacific Northwest during the second week of November. While 
+conditions remain highly uncertain at this time, potential 
+impacts will continue to be monitored as we settle into the 
+month of November.
+
+15
+
+&&
+
+.AVIATION...
+A mix of VFR and MVFR this afternoon, as the stratus continues to 
+slowly erode this afternoon over Puget Sound terminals. Still 
+expecting improvement around 23Z-00Z. Another round of IFR/LIFR 
+stratus and fog is possible Monday morning. Residual moisture from 
+recent rains will result in patchy fog, which may pose localized 
+visibility limitations in fog-prone areas. However, light easterly 
+winds and mid to high clouds moving inland Monday morning may help 
+reduce fog formation, instead resulting in low stratus. Improvement 
+to VFR after 18Z-20Z. Light northerly surface flow, becoming more 
+light and variable tonight. 
+
+KSEA...The stratus continues to slowly burn off this afternoon, with 
+improvement to VFR likely after 23-00Z. Low clouds below 1000 ft are 
+possible (50-55% chance) Monday morning. Additionally, light 
+easterly winds and mid to high cloud cover should limit the 
+potential of fog at the terminal. Clouds expected to lift after 19Z 
+for VFR conditions in the afternoon. Light NW winds this afternoon 
+at 5 kt or less, becoming NE in the evening. 
+
+29
+
+&&
+
+.MARINE...
+High pressure will continue building over the waters through Monday. 
+A weather system will brush the coastal waters Monday morning, 
+leading to an increase in southerly surface winds. Winds gusts may 
+briefly approach 21 kt at times over zones PZZ170 and PZZ173 through 
+the afternoon hours. High pressure will move inland on Tuesday ahead 
+of the next system that arrives on Wednesday. Southerly winds will 
+increase over the coastal waters on Wednesday with a 55-80% chance 
+of small craft winds. A stronger system will arrive on Friday, 
+bringing stronger winds across the coastal waters and the interior 
+waters. Latest guidance suggests a 70% chance or higher for small 
+craft winds and a 25-40% chance of gales. Another system expected on 
+Saturday with the potential (50-75% chance) for small craft winds 
+over the coastal waters and interior waters.  
+
+Seas around 3-5 feet today will continue building to 8-11 feet by 
+Monday morning, for which a Small Craft Advisory has been issued 
+through early Tuesday morning. It is likely that Small Craft 
+Advisory may have to be extended for the outer coastal waters, as 
+seas around 10 feet look to linger through late Monday morning. Seas 
+will decrease below 10 ft late Tuesday, before increasing above 10 
+feet on Thursday. Seas continue to trend higher with the system 
+Friday, with latest guidance now suggesting seas around 15-20 feet. 
+
+29 
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory from 1 AM Monday to 1 AM PST Tuesday for 
+     Coastal Waters From Cape Flattery To James Island 10 To 
+     60 Nm-Coastal Waters From Cape Flattery To James Island 
+     Out 10 Nm-Coastal Waters From James Island To Point 
+     Grenville 10 To 60 Nm-Coastal Waters From James Island To 
+     Point Grenville Out 10 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater 10 To 60 Nm-Coastal Waters 
+     From Point Grenville To Cape Shoalwater Out 10 Nm-West 
+     Entrance U.S. Waters Strait Of Juan De Fuca.
+
+&&
+
+$$

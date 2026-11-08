@@ -1,0 +1,121 @@
+FXUS66 KSEW 240929
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+229 AM PDT Sat Oct 24 2026
+
+.SYNOPSIS...
+A low pressure system will descend from British Columbia tonight 
+into Sunday, bringing precipitation to Western Washington. 
+Conditions look to remain cooler and unsettled next week as 
+additional systems move through the area.
+
+&&
+
+.SHORT TERM /TODAY THROUGH MONDAY/...
+High clouds starting to stream overhead across Western Washington 
+early this morning. Temperatures continue to drop as well, with
+the latest observations showing temperatures in the low 30s to 
+low 40s. A frontal system associated associated with a low 
+pressure system just off the coast of British Columbia will move
+south into Western Washington this evening. Light precipitation
+is expected with this system, with rain reaching the coastline 
+this evening and then filling into the interior by Sunday 
+morning. The bulk of the precipitation is expected along the 
+coast and the Olympics. The parent upper level low is expected 
+to continue its southward track Sunday into Monday. The majority
+of models favor the center of the low pressure system moving into
+Oregon, which should render drier conditions for the region. 
+However, shall center of the low track more towards the 
+Oregon/Washington border, it may keep light showers in the
+forecast for Monday. 
+
+High temperatures in the mid to upper 50s. Low temperatures in the 
+in the low 30s to low 40s increasing to the upper 30s to mid 40s by 
+Monday. 
+
+29
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+Conditions look to remain generally unsettled into Friday. 
+There is general agreement among ensemble guidance a broad upper
+level trough will remain situated over the region Tuesday with 
+a low pressure system to the north. Models are now trending 
+wetter on Wednesday and Thursday, as the low pressure system 
+moves southward. Cooler temperatures expected next week, with 
+the coldest temperatures expected late in the week; high 
+temperatures in the low to mid 50s and low temperatures in the 
+low 30s to low 40s. 
+
+29
+
+&&
+
+.AVIATION...
+Westerly flow aloft will shift southwesterly and increase today 
+as an upper trough digs southward into the Washington offshore 
+waters. Areas of LIFR low clouds and surface visibilities 
+below 3SM along the coast and across the Southwest Interior will 
+dissipate by around 18Z as high and mid level moisture increases 
+areawide ahead of the incoming system. Ceilings will lower to 
+MVFR in light rain at times along the coast and across the far 
+North Interior by around 00Z. After low clouds dissipate 
+this morning, ceilings are expected to remain VFR across the 
+interior from around KPAE southward into this evening. 
+
+KSEA...Confidence in VFR conditions this morning remains fairly high 
+as temp/dew point trend and arrival of high clouds with incoming 
+system limit any low cloud development. High and mid level clouds 
+will lower and thicken through the day, but are expected to remain 
+well within VFR thresholds. Surface winds southeasterly generally 7 
+knots or less this morning are expected to back to a more E/NE 
+direction later this afternoon and evening as offshore system gets a 
+little closer to the region.
+
+27
+
+&&
+
+.MARINE...
+A surface low southwest of Haida Gwaii will shift southward today 
+into tonight and an associated occluded front will clip the coastal 
+waters on Sunday morning. Increasing easterly or southeasterly 
+gradients will lead to small craft advisory winds across the coastal 
+waters as well as the Strait of Juan de Fuca. Seas will build to 10 
+to 12 feet over the coastal waters late today into Sunday. The 
+surface low is expected to move onshore over northwest Oregon 
+Sunday night into Monday with winds easing and seas subsiding back 
+below 10 feet.  Another frontal system will shift southward into 
+area waters on Wednesday.
+
+27
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory from 11 AM this morning to 5 PM PDT 
+     Sunday for Coastal Waters From Cape Flattery To James 
+     Island 10 To 60 Nm-Coastal Waters From Cape Flattery To 
+     James Island Out 10 Nm-Coastal Waters From James Island 
+     To Point Grenville 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater 10 To 60 Nm-West Entrance 
+     U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 5 PM this afternoon to 5 PM PDT 
+     Sunday for Central U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 8 PM this evening to 5 PM PDT Sunday 
+     for East Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 3 PM this afternoon to 5 PM PDT 
+     Sunday for Coastal Waters From James Island To Point 
+     Grenville Out 10 Nm-Coastal Waters From Point Grenville 
+     To Cape Shoalwater Out 10 Nm.
+
+&&
+
+$$

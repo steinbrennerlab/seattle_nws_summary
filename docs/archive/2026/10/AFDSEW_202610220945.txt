@@ -1,0 +1,125 @@
+FXUS66 KSEW 220945
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+245 AM PDT Thu Oct 22 2026
+
+.SYNOPSIS...
+A dissipating frontal system will spread some clouds across
+Western Washington today along with cooler temperatures. High
+pressure briefly rebuilds into the region on Friday before an
+area of low pressure brings a chance of rain to the area over
+the weekend into early next week. Dry conditions return areawide
+by the middle of next week.
+
+&&
+
+.SHORT TERM /TODAY THROUGH SATURDAY/...
+The last time it was this dry in Seattle three weeks into
+October, Michael Jackson, Whitesnake, and Pink Floyd had the top
+three albums in the U.S. (1987). And that statistic is likely to
+hold at least for a few more days. A weak front will fall apart
+as it comes ashore today. We'll see a few clouds and cooler
+temperatures today, but that'll be about the extent of it. High
+pressure briefly rebuilds into the area on Friday for a little
+more in the way of sunshine, but cooler temperatures (really,
+just more seasonal) will remain in place. 
+
+Forecast uncertainty starts to ramp later Saturday and beyond.
+Anomalously strong upper ridging building into southeastern
+Alaska over the weekend will aid in cutting off an upper low 
+sliding southward down the British Columbia coast. And the 
+models continue to really struggle with the path the low. 
+In a general sense, the ECMWF suite of ensembles are more
+aggressive with bringing some precip to the area and the GFS 
+less so. The NBM is something of a compromise and spreads at 
+least a chance of rain to the northwest half of the CWA by 
+Saturday evening. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Most of the forecast area retains at least chance PoPs Sunday
+into Monday as the models keep an upper trough over the region
+before eventually kicking it eastward. Beyond that, eerily 
+quiet conditions are slated to return. Ensemble 500 millibar 
+height plots from the Euro, GFS, and Canadian at days 6 through 
+8 keep anomalously strong upper ridging over the Gulf of Alaska 
+and broad troughing just offshore of California. That's a recipe
+for a pretty quiet period of weather here in Western 
+Washington.
+
+27
+
+&&
+
+.AVIATION...
+Southwesterly flow aloft as a deteriorating front moves through W WA 
+today. In the wake of this system, this flow will shift 
+northwesterly by tonight and remain that way into Friday. Surface 
+winds akin to previous mornings with terminals either reporting 
+light and variable winds or favoring a north to northeasterly 
+direction with speeds generally less than 5 kts. This afternoon, 
+direction is expected to shift more west to southwesterly in the 
+wake of the front with speeds increasing to range 5-10 kts.
+
+As with the prior two mornings, much of W WA remains VFR although 
+patchy fog has already started to develop, giving rise to isolated 
+patches of MVFR, IFR and LIFR conditions. This has already started 
+to impact BLI and OLM with rapidly varying conditions, oscillating 
+between VFR and IFR/LIFR conditions and, as with prior to mornings, 
+cannot rule out that this may impact other terminals on the east 
+side of the Sound. That said, forecasts for these terminals have 
+TEMPO groups to cover this possibility with timing akin to yesterday 
+morning...with the main time of concern between 15-18Z. Although as 
+in any fog situation, additional forecast amendments will likely be 
+needed to cover this better. Any low clouds will scatter out 18-20z, 
+but gradually lowering high and mid clouds through the balance of 
+the day. Low stratus likely returns to the area Thursday night with 
+stronger onshore low-level flow.
+
+KSEA...VFR at the time of this writing with high clouds present. 
+Cannot rule out prospect of a brief arrival of fog and low ceilings 
+toward 15z thanks to high cirrus remaining thin. Any low clouds/fog 
+that develops is expected to scatter out by 18z with VFR ceilings 
+and increasing west surface winds to 10 kt in the afternoon and 
+evening hours.
+
+&&
+
+.MARINE...
+Wind and seas will increase today as a front moves inland. Highest 
+wind and seas will be over the Coastal Waters where a Small Craft 
+Advisory remains in effect. Expect building seas to 10-15 ft 
+Thursday night. An eye will need to be kept on the western two-
+thirds of the Strait, as speeds there may get close to SCA criteria, 
+but expecting that they will remain just under. Also for monitoring, 
+seas at Grays Harbor Bar may also get close to rough, however 
+forecast keeps waves peaking in the 7-9 ft range, again, just shy of 
+criteria. 
+
+Winds and seas will ease and subside on Friday. The flow 
+will turn offshore this weekend as a deeper surface low spins south 
+over the offshore waters. The low will weaken as it moves inland 
+early next week. 18/33
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory from 2 PM this afternoon to 11 AM PDT 
+     Friday for Coastal Waters From Cape Flattery To James 
+     Island Out 10 Nm-Coastal Waters From James Island To 
+     Point Grenville Out 10 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+     Small Craft Advisory from 8 AM this morning to 5 PM PDT Friday 
+     for Coastal Waters From Cape Flattery To James Island 10 
+     To 60 Nm-Coastal Waters From James Island To Point 
+     Grenville 10 To 60 Nm-Coastal Waters From Point Grenville 
+     To Cape Shoalwater 10 To 60 Nm.
+
+&&
+
+$$

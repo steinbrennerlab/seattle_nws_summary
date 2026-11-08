@@ -1,0 +1,129 @@
+FXUS66 KSEW 142020
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+120 PM PDT Wed Oct 14 2026
+
+.SYNOPSIS...
+High pressure will build into the Northwest through the rest of
+the week, before becoming unsettled again as a series of weak
+systems traverse the area over the weekend. The pattern looks to
+remain unsettled into the first half of next week with cooler
+temperatures in the forecast. 
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH FRIDAY NIGHT/...
+Skies have begun to clear early this afternoon with residual
+cloud cover lingering along the coast and southwest interior.
+High pressure is building in earnest today through the end of
+the week, with highs climbing into the upper 60s and low 70s
+tomorrow, and again once more into the mid 70s by Friday. This
+will correspond to some Minor HeatRisk over these two days.
+Given a moist atmosphere in the low levels and a light wind
+gradient, there is potential for some stratus and possibly fog
+on Thursday morning. Offshore flow will get a little breezy, 
+particularly in the Cascades and foothills Thursday night. Gusts
+will be between 25-30 mph. RH values in the Cascades and 
+southern Olympics could see minimums around 35-40%, with a more 
+widespread reduction on Friday as the temperatures climb. 
+Minimums on Friday will range from 35-45%. 
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+High pressure dampens over the weekend, with more southwesterly
+flow aloft. The next system arrives on Saturday, likely bringing
+rain to western Washington throughout the day. More of this rain
+is forecast to fall in the North Cascades with only a few
+hundredths of an inch expected in lowland locations. Areas of
+the Seattle Metro may be shadowed entirely. More notably,
+temperatures drop back into the low 60s which will be a sharp
+drop out of Friday's highs in the mid 70s.
+
+Zonal flow with broad troughing in the NE Pacific keeps
+conditions cooler and drier on Sunday. Morning lows will drop
+into the low 40s for the Puget Sound region, and mid 30s in the
+Cascade foothills. Model guidance is still keeping that trough
+offshore into Sunday for less of a wind threat in western
+Washington, but this track will be monitored for changes.
+Troughing will continue into early next week for additional
+chances for light rain, particularly on Tuesday. Beyond that,
+there is a bit of a discrepancy in what pattern is favored. 
+
+21
+
+&&
+
+.AVIATION...
+High pressure building into the region aloft will allow for 
+northerly flow in the mid levels to become more southerly by 
+Thursday morning. Clouds continue to scatter across the region 
+this afternoon, allowing for conditions to gradually improve 
+across the area terminals. Ceilings are mostly MVFR to VFR, with
+the exception of IFR lingering in thicker cloud cover along the
+coast. Expect ceilings to continue to scatter through the 
+afternoon for a return to mostly VFR conditions by this 
+evening. Southwesterly winds between 4-8 kt will become light 
+and variable through the afternoon hours before switching to 
+northerly around 00Z. Winds will generally remain light, at 6 
+kt or less, through the overnight period. Clearing skies, light 
+winds, and ample low level moisture will allow for low stratus/fog
+development overnight into Thursday morning. IFR/LIFR conditions
+will be likely for terminals in fog, with fog expected to scatter
+by late morning. 
+
+
+KSEA...VFR conditions will continue through this evening. Fog
+will likely move into the terminal early Thursday morning, with
+probabilistic guidance suggesting a 25-35% chance of ceilings 
+and visibilities dropping to LIFR between 9-12Z. Southwesterly
+winds this afternoon will switch to north/northeast between 
+22-01Z and remain light at 6 kt or less. Winds will shift to the
+northeast by Thursday morning and increase to 4-8 kt by the
+afternoon.
+
+14
+
+&&
+
+.MARINE...
+High pressure will build back into the coastal waters tonight,
+while a thermal trough builds northward along the coast. Areas
+of fog will likely develop across portions of the local waters 
+overnight into Thursday morning and may cause visibilities to 
+drop down to 1 NM or less in spots through the early morning hours.
+
+Winds will turn offshore by tonight and will persist through 
+Friday morning, becoming breezy through the gaps in terrain 
+Thursday afternoon and evening. At this time, winds are still 
+favored to remain below small craft criteria, with probabilistic 
+guidance only highlighting a 30-40% chance of gusts exceeding 21
+kt across the west entrance of the Strait of Juan de Fuca and a
+small portion of the northern coastal waters. 
+
+The thermal trough will push inland on Friday as a front 
+approaches the area, bringing the return of onshore flow to the
+waters. Onshore flow will then increase Friday night into 
+Saturday as the system makes its way across the area. Another 
+system may approach the area waters Sunday night into Monday, 
+though there remain discrepancies in regards to its exact track.
+
+Seas will largely persist between 4-7 ft through Friday, but 
+will steadily build towards 8-11 ft over the weekend as systems 
+move through the region. Seas could even build further early 
+next week depending on the track of the systems, with the GEFS 
+still indicating a 40-50% of seas exceeding 12 ft on Monday.
+
+14
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...None.
+
+&&
+
+$$

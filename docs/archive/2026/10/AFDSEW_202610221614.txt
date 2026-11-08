@@ -1,0 +1,121 @@
+FXUS66 KSEW 221614
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+914 AM PDT Thu Oct 22 2026
+
+.SYNOPSIS...
+A dissipating frontal system will spread some clouds across
+Western Washington today along with cooler temperatures. High
+pressure briefly rebuilds into the region on Friday before an
+area of low pressure brings a chance of rain to the area over
+the weekend into early next week. Dry conditions return areawide
+by the middle of next week.
+
+&&
+
+.SHORT TERM /TODAY THROUGH SATURDAY/...
+No major updates have been made to the forecast. Please see
+below for an update to the aviation and marine sections of the
+discussion. 
+
+A weak front will fall apart as it comes ashore today. We'll 
+see a few clouds and cooler temperatures today, but that'll be 
+about the extent of it. High pressure briefly rebuilds into the 
+area on Friday for a little more in the way of sunshine, but 
+cooler temperatures (really, just more seasonal) will remain in 
+place. 
+
+Forecast uncertainty starts to ramp later Saturday and beyond.
+Anomalously strong upper ridging building into southeastern
+Alaska over the weekend will aid in cutting off an upper low 
+sliding southward down the British Columbia coast. And the models 
+continue to really struggle with the path of the low. In a general 
+sense, the ECMWF suite of ensembles are more aggressive with 
+bringing some precip to the area and the GFS less so. The NBM is 
+something of a compromise and spreads at least a chance of rain to 
+the northwest half of the CWA by Saturday evening. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Most of the forecast area retains at least chance PoPs Sunday
+into Monday as the models keep an upper trough over the region
+before eventually kicking it eastward. Beyond that, eerily 
+quiet conditions are slated to return. Ensemble 500 millibar 
+height plots from the Euro, GFS, and Canadian at days 6 through 
+8 keep anomalously strong upper ridging over the Gulf of Alaska 
+and broad troughing just offshore of California. That's a recipe
+for a pretty quiet period of weather here in Western 
+Washington.
+
+27
+
+&&
+
+.AVIATION...
+Areas of IFR to LIFR this morning in lingering fog, with some areas 
+along the central Puget Sound maintaining VFR conditions out of the 
+low stratus and fog. A weak frontal system will bring light showers 
+to the region this morning, with persisting northerly winds 10 kt or 
+less. Conditions will likely improve by the afternoon today after 
+the weak frontal passage, with all terminals expected to return to 
+VFR between 18z-21z. Models suggest MVFR to low end VFR ceilings may 
+linger south and east of the Puget Sound this afternoon, though 
+confidence is low with dry northerly flow. Calm conditions overnight 
+will likely result in another round of MVFR to IFR/localized LIFR in 
+low stratus and fog development early Friday morning. Surface winds 
+early Friday morning expected to shift southeasterly, switching back 
+to northerly Friday afternoon.
+
+KSEA...VFR with a FEW002 cloud deck floating near the terminal. 
+Conditions are expected to remain VFR this morning and into the 
+afternoon. Low end VFR ceilings (4000-5000 feet) may linger after 
+the passage of a weak frontal system this afternoon, though with dry 
+northerly flow, this may not materialize. Surface winds generally 
+northerly around 10 kt today, lightening overnight and switching 
+southeasterly early Friday morning. Fog potential remains low early 
+Friday morning with VFR conditions favored for now.
+
+15
+
+&&
+
+.MARINE...
+Wind and seas will both increase today as a front moves inland. 
+Highest wind and seas will be over the Coastal Waters where a Small 
+Craft Advisory remains in effect. Expect building seas to 10-15 ft 
+Thursday night. An eye will need to be kept on the western two-
+thirds of the Strait, as speeds there may get close to SCA criteria, 
+but expecting that they will remain just under. Also for monitoring, 
+seas at Grays Harbor Bar may also get close to rough, however 
+forecast keeps waves peaking in the 7-9 ft range, again, just shy of 
+criteria. 
+
+Winds and seas will ease and subside on Friday. The flow will turn 
+offshore this weekend as a deeper surface low spins south over the 
+offshore waters. The low will weaken as it moves inland early next 
+week. 
+
+18/33
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory from 2 PM this afternoon to 8 AM PDT 
+     Friday for Coastal Waters From Cape Flattery To James 
+     Island Out 10 Nm-Coastal Waters From James Island To 
+     Point Grenville Out 10 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+     Small Craft Advisory until 5 PM PDT Friday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From James Island To Point Grenville 10 To 60 Nm-
+     Coastal Waters From Point Grenville To Cape Shoalwater 10 
+     To 60 Nm.
+
+&&
+
+$$

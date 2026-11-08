@@ -1,0 +1,166 @@
+FXUS66 KSEW 250308
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+808 PM PDT Sat Oct 24 2026
+
+.SYNOPSIS...
+An offshore storm system moving into area today 
+will very gradually shift south and east through Monday morning.
+This will bring widespread rain and breezy conditions through 
+Sunday morning followed by showery unsettled weather into the 
+start of the week. The pattern looks to remain very seasonal for
+the last week of the month - cooler with a series of systems 
+bringing periods of unsettled weather nearly every day.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH MONDAY NIGHT/...
+Rain remains on track this evening with a minor update to the
+short-term below, and aviation section. -HPR
+
+The offshore system that has been sliding down the British 
+Columbia coast continues to move off the Washington coast, with
+light warm frontal precipitation spreading into the north 
+Olympic Peninsula, and into British Columbia this evening. REFS
+guidance showing the cold front slowly moving onshore overnight
+as the parent system takes it's time moving south and east. 
+Precipitation with the cold front will be heavier that the 
+lighter rain Saturday. While this ultimately is a fairly typical
+October storm system, it is the first fall-like system to move 
+into the area, and will definitely feel different as such. 
+Heavier precipitation amounts are expected along the coast and 
+Olympic Peninsula with 24 hour amounts through Sunday evening in
+the neighborhood of 1-2 inches, and 0.50 to 1 inch along the 
+I-5 corridor eastward. In addition to the rainfall, increasing 
+south winds along the coast this evening will spread inland 
+ahead of and with the front, remaining breezy through Sunday. 
+Peak wind gusts of 20 to 35 mph are possible for many areas. 
+
+The parent upper level system is expected to continue its slow 
+south-southeast track through the day Sunday into Monday.
+Ensembles showing more agreement in the track of the upper level
+low than the surface low. The higher resolution REFS ensemble
+hinting at a more northerly track with the ensemble mean showing
+the surface low moving into Grays Harbor late Monday morning,
+while many of the other higher resolution ensembles like the
+HREF and UW ensemble systems show a much more southerly track.  
+In any case, with the upper level low over the area Sunday into
+Monday morning, scattered, but widespread showers will 
+linger well into Monday before shifting east with the upper
+level support late Monday afternoon. 
+
+High temperatures will trend near normal in the mid to upper 
+50s, while overnight lows will trend cooler than normal in the 
+in the low 30s to low 40s.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+The grand ensemble remains generally consistent early in the 
+week with the upper level trough associated with the weekend 
+system shifting into the northern Intermountain area Tuesday 
+morning. Ensembles all hint at a trailing shortwave sliding down
+the British Columbia coast, with variability in the strength 
+and timing. The consistent message is that the bulk of the 
+relatively light precipitation looks to be focused mainly south 
+of western Washington Tuesday. Ensembles very consistently 
+showing a more consolidated upper level low sliding down the BC 
+coast Tuesday night and into western Washington Wednesday. This 
+looks scenario very similar in many ways to this weekend's 
+system, with cooler temperatures and widespread rain over much 
+of the Pacific Northwest. The pattern looks to remain unsettled 
+Thursday into Saturday with a broad positively tilted upper 
+level trough along the Western US. Some scenarios showing a more
+consolidate upper level low over California. For the Pacific 
+Northwest the pattern looks to remain unsettled - but seasonal -
+through the last few days of the month.
+
+&&
+
+.AVIATION...
+Southwest flow aloft increases into Sunday, becoming more 
+southerly by Sunday afternoon as an upper trough digs offshore. 
+Widespread VFR mid and high clouds this evening across western 
+Washington ahead of a frontal system. However, MVFR has been 
+observed along the coast and BLI as rain continues to slowly 
+spread eastwards. Low-end VFR to high-end MVFR cigs expected for
+most southern and central Puget Sound terminals by early 
+Sunday. Lower VFR cigs for interior, with continued MVFR for 
+portions of the Olympic Peninsula on Sunday afternoon. Vsby 
+reductions possible in areas of steadier rain into Sunday, 
+dropping to 3 to 6SM, lowest along the coast. Increasing S/SE 
+winds for the coast, and E/NE winds for BLI into tonight, 
+remaining light for KPAE to KTCM into Sunday. 
+
+KSEA...VFR continues through tonight with mid and high clouds. Cigs 
+slowly lowering towards MVFR by Sunday AM. At this time, the 
+probability for MVFR cigs peaks between 13 to 18z Sunday as rain 
+arrives, with probabilities around 25 to 30%. Rain at times into 
+Sunday PM, with brief reductions to vsbys possible. VFR for Sunday 
+afternoon with continued OVC mid clouds. Light west winds this 
+afternoon, with a light E/NE component tonight into Sunday. 
+
+&&
+
+.MARINE...
+A surface low offshore of Vancouver Island will continue to 
+slowly shift southwards along the offshore waters through this 
+weekend before weakening and moving onshore in the vicinity of 
+NW Oregon on Monday. East to southeast winds will increase 
+tonight ahead of the approaching system. Small Craft Advisory 
+southerly winds continue for a longer duration over the Coastal 
+Waters through at least Sunday afternoon. Gale force wind gusts 
+are also expected at times for the northern outer Coastal Waters
+through this evening. Southeast winds also increase for the 
+eastern Strait of Juan de Fuca, northern inland waters, and 
+Admiralty Inlet early Sunday. The SCA has been upgraded to a 
+Gale Warning for the east Strait given the higher confidence in 
+gale force wind gusts, along with SCA winds for northern inland 
+waters and Admiralty Inlet. Otherwise, east winds remain 
+elevated for the eastern and western Strait of Juan de Fuca into
+Sunday. Will need to monitor any additional upgrades to gales, 
+mainly for the far eastern segment of the central Strait. Winds 
+remain light for Puget Sound into Sunday. Winds subside Monday 
+into Tuesday with another system expected to move through the 
+area on Wednesday.
+
+Seas will build to 8 to 12 feet tonight before subsiding below 10 
+feet by early Sunday night. Seas will then remain in the 4 to 7 foot 
+range for the majority of the week. JD
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory from 2 AM to 5 PM PDT Sunday for Grays 
+     Harbor Bar.
+
+     Small Craft Advisory until 5 PM PDT Sunday for Central U.S. 
+     Waters Strait Of Juan De Fuca-Coastal Waters From Cape 
+     Flattery To James Island Out 10 Nm-Coastal Waters From 
+     James Island To Point Grenville 10 To 60 Nm-Coastal 
+     Waters From James Island To Point Grenville Out 10 Nm-
+     Coastal Waters From Point Grenville To Cape Shoalwater 10 
+     To 60 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater Out 10 Nm-West Entrance U.S. Waters Strait Of 
+     Juan De Fuca.
+
+     Gale Warning from 2 AM to 5 PM PDT Sunday for East Entrance 
+     U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 5 AM to 5 PM PDT Sunday for 
+     Admiralty Inlet-Northern Inland Waters Including The San 
+     Juan Islands.
+
+     Gale Warning until 11 PM PDT this evening for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm.
+
+     Small Craft Advisory from 11 PM this evening to 5 PM PDT 
+     Sunday for Coastal Waters From Cape Flattery To James 
+     Island 10 To 60 Nm.
+
+&&
+
+$$

@@ -1,0 +1,156 @@
+FXUS66 KSEW 030500
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+900 PM PST Mon Nov 2 2026
+
+.UPDATE...
+Radar has plenty of echoes along the coast but almost all of 
+that is not reaching the ground. No rain reported at Hoquiam and
+Astoria and only 0.01 inches at Quillayute this evening. Under
+cloudy to mostly cloudy skies temperatures at 8 PM/04Z were in
+the 40s. Main story tonight is the shift to a much more active 
+weather pattern later in the week into next week with multiple 
+systems moving through Western Washington. In the short term
+current forecast in good shape. Previous discussion follows with
+updated aviation and marine sections. 
+
+&&
+
+.SYNOPSIS...
+A weak system will brush the region tonight, bringing chances 
+of light rain to the coast tonight and the interior early 
+Tuesday. The pattern introduces more active weather mid to late 
+week as a series of systems brings lowland rain, mountain snow, 
+gusty winds, and the potential for high surf to western 
+Washington. A brief break in the unsettled weather is possible 
+Friday night into Saturday, before the next round of active 
+weather moves in late in the weekend into the first half of next
+week.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH WEDNESDAY NIGHT/...
+An upper level ridge will continue to push inland western 
+Washington this afternoon with dry conditions expected the 
+remainder of the day. A cloudy day with high temperatures in the
+low to mid 50s across much of the area. A weak system will 
+brush over the region tonight into Tuesday, bringing a small 
+chance of showers. The areas that may receive showers would be 
+locations along the coast, the Olympics, and perhaps the 
+Northwest Interior. Elsewhere, conditions should remain dry 
+throughout the day on Tuesday. High temperatures will be a touch
+warmer in the upper 50s, maybe low 60s for areas in the 
+Southwest Interior. 
+
+The weather pattern will shift to more active, with a series of
+weather systems starting to approach the area starting on
+Wednesday. A frontal system looks to move over the area
+Wednesday afternoon, bringing widespread rain and high elevation
+snow. Most of the rain activity will be focused in along the
+coast, Olympics, and the North Cascades with these areas seeing
+perhaps a half of inch of rain. Locations in the interior will
+likely get rain shadowed and may see a shower or two,
+especially areas like the Puget Sound. Snow levels will be
+generally around 5000 to 5500, with moisture bringing a few
+inches of snow in the higher peaks of the Olympics and Cascades.
+Heading into Wednesday evening, we will also see an uptick in
+southerly winds, primarily along the Pacific coast, with
+gusts around 25 to 35 mph. Locations in the interior could see
+gust up to 25 mph at times through the evening. Wind and
+precipitation will begin to slowly decrease heading into
+Thursday morning. Temps on Wednesday staying in the mid to upper
+50s. 
+
+Mazurkiewicz
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+Ensemble guidance continues to favor a brief lull on Thursday before 
+the more active pattern takes hold over the region late Thursday 
+into Friday. This is shaping up to potentially bring a strong 
+frontal system with multiple hazards including gusty winds, lowland 
+rain, and high elevation snow, as well as high surf for the Pacific 
+coastline. Snow levels around 5000 ft will support heavy snow across 
+the higher mountain elevations, with 1-2 inches of rain in the lower 
+mountain elevations. In addition, probabilistic guidance continues 
+to indicate around a 50% chance of 40 mph or stronger wind gusts 
+along the coast and areas from Whidbey Island northward. High surf 
+potential also increases as a large, long period swell moves through 
+the waters to the coastline, bringing risks for beach erosion and 
+hazardous conditions along beaches and jetties.
+
+Guidance begins to depict a wider range of potential outcomes toward 
+the weekend, but these are largely centered around differences in 
+timing of subsequent systems. If the upper ridge builds a bit more, 
+this would direct more of the moisture into the B.C. coast. However, 
+any ridge looks to be rather transient, allowing the next surge of 
+moisture to return to the region by the end of the weekend. In any 
+event, it's clear that we're entering into a more active period of 
+weather late this week through the start of next week.    Cullen
+
+&&
+
+.AVIATION...
+VFR conditions continue this evening and should continue for most 
+area terminals overnight and into Tuesday with a thick layer of high 
+clouds moving across the area. This will help to limit fog potential 
+overnight, but the more sheltered terminals (such as OLM and PWT) 
+may see localized periods of fog. Winds have become mostly calm with 
+light offshore flow overnight. N/NE winds 5 kt or less continue into 
+the day on Tuesday. Cloud cover will also begin to decrease Tuesday 
+evening.
+
+KSEA...VFR conditions this evening with high OVC clouds over the 
+terminal. Expect this trend to continue overnight, with cloud cover 
+limiting any fog development. Light NE winds 5 kt or less, 
+calm/variable at times.
+
+Mazurkiewicz/62
+
+&&
+
+.MARINE...
+The primary marine issue remains the larger seas associated with the 
+long period swell working through the coastal waters. Seas will 
+remain around 8-10 feet, largest over the outer zones through 
+tonight. Seas will continue to ease on Tuesday. Otherwise, attention 
+turns to a shift to a much more active pattern beginning mid week. 
+Expect widespread advisory winds across the coastal waters with 
+probabilities greater than 75% on Wednesday as a frontal system 
+moves through. Seas will also build late Wednesday into Thursday 
+over the coastal waters, reaching around 12 to 14 ft. A stronger 
+frontal system Friday will bring widespread advisory winds and 
+around a 35% chance of gales to the coastal waters and the eastern 
+Strait of Juan de Fuca. Expect seas to build more significantly with 
+this system, bringing around a 20-30% chance of 20 ft seas over the 
+coastal waters. Additional frontal systems may follow this weekend, 
+maintaining an active pattern into the start of next week. 
+
+Cullen/62 
+
+&&
+
+.HYDROLOGY...
+River flooding is not expected through the next seven days. However, 
+a series of increasingly moist weather systems will bring rain 
+(and high mountain snow) to the region this week, especially 
+Friday onward. While current forecasts are not expected to cause
+flooding, this will begin to saturate soils and raise base 
+flows that could bring a concern with subsequent storms systems.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory until 4 AM PST Tuesday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From James Island To Point Grenville 10 To 60 Nm-
+     Coastal Waters From Point Grenville To Cape Shoalwater 10 
+     To 60 Nm.
+
+&&
+
+$$

@@ -1,0 +1,123 @@
+FXUS66 KSEW 050354
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+854 PM PDT Sun Oct 4 2026
+
+.UPDATE...
+Satellite imagery shows stratus along the coast already moving
+into Lower Chehalis Valley at 04z/9 pm. Clear skies over the
+rest of the area. 
+
+Surface gradients turning light onshore this evening. While the
+gradients do not look strong enough to advect the stratus east
+of Puget Sound Monday morning the light flow combined with some
+low level moisture will once again have the stratus/fog form in
+place over the Puget Sound area. The switch to light onshore
+flow brings up the possibility of a slightly deeper marine layer
+Monday morning. Slightly deeper marine layer means later
+breakout into the sunshine and a little cooler high
+temperatures. Light low level onshore flow pattern continuing
+through the middle of the week. Current forecast on track. No
+update this evening. Previous discussion follows. Felton
+
+&&
+
+.SYNOPSIS...
+Upper level ridging over western Washington will flatten out as a 
+system passes to the north with near zonal flow aloft expected by 
+Monday. This will keep temperatures near seasonable normals as well 
+as return onshore flow to the area. The pattern of morning clouds 
+giving way to afternoon sun will persist at least through mid-week. 
+An approaching frontal system for the end of the week could bring 
+the next chances for precipitation, however some uncertainty exists.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH TUESDAY NIGHT/...
+
+Forecast remains consistent in that the upper ridge will continue to 
+shift eastward today with the ridge axis making it to the Rockies by 
+this evening. Coupled with a trough passing to the north, zonal flow 
+aloft will set up overnight, helping to bring a return to onshore 
+flow at the surface. Forecast dilemma for the immediate short term 
+is will the return of onshore flow exacerbate the morning fog issues 
+the area has been having. Currently agreeing with NBM that potential 
+for widespread fog likely to be mitigated by the clouds that will 
+move in overnight. Sure, they will be stratus-y, but with the ridge 
+gone, they should not make it all the way to the ground. Otherwise, 
+dry conditions remain in place for the short term.
+
+The import of cooler marine air will shave a handful of degrees off 
+of daytime highs, making them a bit more seasonable. Highs both 
+Monday and Tuesday are expected to range from the low to upper 60s, 
+with a few isolated spots in the SW interior shaking hands with 70.
+
+18
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+A building upper level ridge off the coast of California mid-week 
+will nudge zonal flow to a little more northwesterly by Wednesday 
+evening. This will give daytime highs a bump of about a degree or 
+two, ranging in the mid 60s to lower 70s. More widespread 70-plus 
+temps can be found on Thursday as this minor ridging gets a little 
+more time to work. Coastal sites may not see much change in 
+temperatures, however interior lowland spots will range from the 
+upper 60s to mid 70s, with the SW interior being on the higher end 
+of that scale.
+
+Models remain in agreement about a frontal system moving its way 
+through W WA Friday...but all the details remain up in the air. 
+Deterministic GFS has pushed FROPA back to Friday evening or Friday 
+night while deterministic ECMWF remains consistent, bringing the 
+system through Friday afternoon and evening. Most ensemble members 
+favoring the ECMWF timing...providing enough sway to cause the NBM 
+to reflect this thinking in its forecast. This seems reasonable 
+enough for now, but no matter the timing, models seem to be in 
+hearty agreement that this front looks to fall apart as it moves 
+through. While higher elevations should still see something with 
+PoPs coming in at 60-70 pct for the event, PoPs in the lowlands are 
+considerably lower, still largely ranging 20-40 pct. It is still 
+some time out though, and plenty of opportunity for additional 
+variances to emerge. This system will cool temperatures regardless 
+if it rains, with daytime highs for Friday and the weekend in the 
+mid 50s to lower 60s...with some mid 60s possible, mainly on Friday.
+
+18
+
+&&
+
+.AVIATION...
+High pressure continues over the West with dry and stable conditions 
+across western Washington. The flow aloft is westerly. Low clouds 
+and fog will likely reform overnight with LIFR to VLIFR ceilings and 
+visibility across the interior lowlands. Low clouds and fog will 
+scatter out 18-21z with VFR conditions expected thereafter. 33
+
+KSEA...VFR this evening with low clouds returning overnight and
+Monday morning. Light N winds becoming S to 5 kt 09-12z. 33
+
+&&
+
+.MARINE...
+A thermal trough east of the waters tonight. Light low level
+onshore flow already in place this evening. Highest wind and 
+waves will be through the Strait of Juan de Fuca - a Small Craft
+Advisory is in effect. Another push down the Strait is forecast
+Monday evening. Onshore flow will continue through the week 
+with another strong push on Friday as a front moves inland. 33
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory until 5 AM PDT Monday for Central U.S. 
+     Waters Strait Of Juan De Fuca-East Entrance U.S. Waters 
+     Strait Of Juan De Fuca.
+
+&&
+
+$$

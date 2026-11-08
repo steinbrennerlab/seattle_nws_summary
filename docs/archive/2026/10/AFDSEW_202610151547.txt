@@ -1,0 +1,135 @@
+FXUS66 KSEW 151547
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+847 AM PDT Thu Oct 15 2026
+
+.SYNOPSIS...
+A ridge will bring dry and warm conditions through
+Friday. Wetter and cooler weather arrives on Saturday. Sunday
+remains cool with more wet weather headed our way on Monday.
+Another front may reach us midweek. 
+
+&&
+
+.SHORT TERM /TODAY THROUGH SATURDAY/...
+The Dense Fog Advisory has been extended until 10AM this morning
+as there are still quite a few locations throughout the Puget
+Sound region where visibilities are at a quarter mile or less.
+Otherwise, afternoon sun is still expected with highs around 70.
+The rest of the previous discussion can be found below with an
+update to the aviation and marine sections. 
+
+Forecast highs will track warmer than normal with lower 70s 
+expected today. Areas near the water will be in the 60s. 
+Offshore flow will peak overnight with gusty east winds along 
+the Cascade crest and in the gaps (gusts to 20-30 MPH). Friday 
+will be slightly warmer with interior temperatures reaching the 
+mid 70s.
+
+Saturday's weather will be cooler and wetter as the ridge shifts
+east and a front/trough move in from the west. Rain will mostly
+fall during the morning hours with highest chances of seeing
+wetting rains along the coast and north part. The Seattle area
+on south may only see a trace to a few hundredths. Onshore flow
+will increase Saturday afternoon with showers and a convergence
+zone over Snohomish County. 33
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+We're in between weather systems on Sunday but the air mass 
+will remain cool. Sunday's morning lows will be in the 30s to 
+mid 40s with temperatures near freezing across the south sound. 
+Highs will be around 60 degrees. An upper low will spin offshore
+early next week keeping the weather cool and unsettled through 
+Monday. The upper low will shift farther south on Tuesday for 
+generally dry weather across western WA. Rain chances increase 
+again on Wednesday as a weak front tracks down from B.C. 33
+
+&&
+
+.AVIATION...
+Areas of fog and low stratus are bringing IFR to LIFR conditions to 
+many of the interior terminals this morning. Fog will scatter 
+through the morning hours, with conditions expected to improve at 
+the area terminals between 17-19Z. A return to VFR conditions is 
+expected by this afternoon with mostly clear skies and high clouds 
+streaming in overhead. High cloud cover will persist through 
+tonight. High cloud cover and continued offshore flow in the low 
+levels tonight will likely limit widespread fog development on 
+Friday morning, with high-res guidance showing little to no fog 
+development expected for the area terminals. However, NBM LAMP 
+guidance suggests some development by Friday morning. Given the 
+current discrepancy, will maintain fog for the more fog-prone 
+locations across the south Sound for Friday morning at this time.
+
+Winds remain north/northeasterly 5 to 10 kt through the period.
+Easterly winds will persist through the Cascades with gusts up to 20-
+25 kt through the gaps this afternoon and into this evening.
+
+KSEA...LIFR conditions at the terminal this morning. Stratus and fog 
+look to scatter around 18-19Z followed by VFR conditions with high 
+clouds through this evening. Fog/stratus development is possible 
+Friday morning but high clouds should keep it less widespread. 
+Latest guidance continues to show divergent solutions. Winds 
+north/northeasterly 5-10 kt through this afternoon. Winds may turn 
+east/southeasterly briefly as early as 20-22Z, but more likely 
+around 00Z Fri before winds shift more to the south/southwest Friday 
+morning.
+
+62/14
+
+&&
+
+.MARINE...
+Areas of fog have have developed across portions of the interior 
+waters and along the Strait of Juan de Fuca this morning and have 
+become dense in spots. Fog may bring visibilities down to 1 nautical 
+mile or less through the mid-morning hours, before scattering by 
+late morning/early afternoon. 
+
+Offshore flow will increase this morning as a thermal trough 
+develops along the coast. Winds will peak this morning, but remain 
+offshore through early Friday as the trough gets pushed inland by an 
+incoming frontal system. This system will force winds to switch to 
+onshore on Friday and increase Friday night into Saturday. The 
+strongest winds will be most likely through the Strait of Juan de 
+Fuca where there is a 35-45% chance of seeing up to low-end gale 
+force gusts, but other locations such as the outer coastal waters 
+and through Puget Sound and Hood Canal have 40-70% chances of seeing 
+wind gusts over 20 kt. Winds look to decrease as the system departs 
+Saturday evening. Winds look to remain relatively benign Sunday 
+through early next week as systems are favored to pass by well 
+offshore.
+
+Seas remain 4 to 6 ft through tonight, increasing to around 8 to 
+near 10 ft Friday through the weekend. The forecast gets more 
+uncertain on Monday as a low pressure system moves through well 
+offshore, but could generate and send larger waves to the coastal 
+waters. The most likely forecast remains in the 8 to 10 ft range, 
+but waves could get as large as 13 to 16 ft depending on the exact 
+track of this system. EPS and GEFS show a 20-30% chance of seas 
+exceeding 12 ft Monday into Tuesday.
+
+62/14
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Dense Fog Advisory until 10 AM PDT this morning for City of 
+     Seattle-Downtown Everett / Marysville Area-Eastern Kitsap 
+     County-Lowlands of Lewis and Southern Thurston Counties-
+     Lowlands of Pierce and Southern King Counties-Lowlands of 
+     Western Skagit and Northwestern Snohomish Counties-
+     Lowlands of Western Whatcom County-Olympia and Southern 
+     Puget Sound-Shoreline / Lynnwood / South Everett Area.
+
+PZ...Dense Fog Advisory until 10 AM PDT this morning for Northern 
+     Inland Waters Including The San Juan Islands-Puget Sound 
+     and Hood Canal.
+
+&&
+
+$$

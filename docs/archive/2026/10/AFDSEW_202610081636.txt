@@ -1,0 +1,168 @@
+FXUS66 KSEW 081636
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+936 AM PDT Thu Oct 8 2026
+
+.UPDATE...
+Fog is showing no signs of stopping this morning with satellite
+and webcams still showing dense fog across portions of the area.
+Advisories for both land and marine have been extended through
+the remainder of the morning.
+
+&&
+
+.SYNOPSIS...
+High pressure will nose into the area today for warmer afternoon
+temperatures and sunny skies. The next chance for rain will be
+on Friday and Saturday as a frontal system moves through the
+region. Cooler temperatures will linger in the wake of this
+system into early next week.
+
+&&
+
+.SHORT TERM /TODAY THROUGH SATURDAY/...
+Areas of fog and stratus are present on the satellite imagery
+early this morning from King County north along the water and
+along the Pacific coast. The fog and stratus should be less
+extensive this morning compared to the last few days. Once this
+dissipates later this morning, afternoon high temperatures will
+climb to the low to mid 70s. 
+
+The warm conditions are short lived as a weak frontal system
+will be arriving Friday into Saturday and will usher in a
+pattern change. The front isn't expected to be strong, but will
+bring about a round of rain to western Washington as well as
+breezy southwesterly winds throughout the Puget Sound region.
+Westerly wind will also be elevated through the Strait of Juan
+de Fuca. The QPF is expected to be around a quarter to half 
+inch in the Cascades, with a few hundredths to a tenth 
+elsewhere. This is going to be a cooler system, so the snow 
+levels will fall to around 4,500-5,000 ft Friday night into 
+Saturday and bring an inch of snow or less primarily to the 
+North Cascades. Saturday morning lows will be in the low 40s for
+much of the Puget Sound area, but in the Cascades and adjacent
+foothills, lows in the mid to upper 30s are expected.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Drier but cooler conditions are expected Saturday night into
+Sunday. Sunday morning lows will be a bit cooler than Saturday
+with much of the area seeing the upper 30s and low 40s. Sinking
+cold air in the Cascade valleys could drop the lows down to
+around freezing. The probabilities for seeing lows 32 degrees or
+less for Sunday morning are about 30%, most notably in the
+Cascade valleys of Snohomish and Skagit Counties as well as the
+Mount Rainier area. This will be of note for frost and freeze 
+impacts for the agricultural realm and for those with sensitive 
+vegetation. The lows increase into Monday and beyond, but the
+afternoon highs through the middle of the week will be in the
+low to mid 60s. 
+
+The ensembles generally favor west CONUS troughing through
+Wednesday, with another chance at some light rain come Tuesday.
+Things start diverging in the models a little bit after 
+Wednesday in a competition between the trough lingering and high
+pressure attempting to return to the area. 
+
+21
+
+&&
+
+.AVIATION...
+Northwesterly flow aloft will become more westerly by this
+evening as an upper ridge over the area flattens and an upper 
+trough drops down into British Columbia. Another round of fog/ 
+low stratus will be the main concern for area terminals
+throughout this morning, with latest satellite imagery already 
+showing fog present along the Pacific Coast, portions of the 
+central Sound, and across the North Interior. Conditions 
+continue to remain IFR/LIFR for any terminals in fog. With the 
+layer of moisture being shallower than previous days, expect fog
+and low clouds to scatter out by 18Z. VFR conditions will then 
+prevail this afternoon and evening, with only high clouds 
+streaming in overhead ahead of a frontal system on Friday. Light
+and variable winds this morning will pick up from the N/NW and 
+persist between 4 to 8 knots this afternoon and evening. 
+
+KSEA...LIFR conditions continue this morning with fog at the 
+terminal. Conditions will gradually improve through the morning 
+hours, with fog expected to scatter by 18Z for a return to VFR 
+conditions for the remainder of the day. Winds are light and 
+variable this morning, but will pick up from the N/NW generally 
+around 4 to 8 knots this afternoon and evening.
+
+14/Mazurkiewicz
+
+&&
+
+.MARINE...
+Fog is the primary marine impact over the area waters early 
+this morning as areas of dense fog have developed along the
+Pacific Coast and across much of the inner waters. Expect areas
+of fog to reduce visibilities down to 1NM or less. Visibilities
+will then improve as fog scatters this afternoon.
+
+High pressure will remain situated over the coastal waters 
+today while a thermal trough pushes inland. The return of 
+onshore flow will bring small craft westerlies to the central 
+and eastern Strait of Juan de Fuca this afternoon and evening. A
+frontal system will then move across the area waters on Friday,
+bringing gusty winds and building seas. The northern and 
+central coastal waters and the Strait of Juan de Fuca will 
+likely see the strongest winds, with latest REFS guidance 
+indicating roughly a 50-75% chance of gusts exceeding 34 kt 
+across the coastal waters and a 30-50% chance of gusts exceeding
+34 kt along the central and eastern Strait. As guidance has 
+continued to trend upward, have gone ahead and issued Gale 
+Watches for these areas. Seas will build in the system's wake, 
+with latest GEFS probabilities indicating a 60-80% likelihood of
+seas exceeding 12 ft across the coastal waters by Friday night.
+
+Winds will ease and seas will gradually subside through the day
+on Saturday as the system exits the area. High pressure will 
+then build back into the coastal waters by Sunday, while a 
+thermal trough expands northward along the coast. This pattern 
+will persist into Monday, bringing periods of offshore flow back
+to the area waters. Seas will persist between 5-8 ft. The next 
+frontal system then looks to move into the area waters on 
+Tuesday.
+
+14/62
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Dense Fog Advisory until 1 PM PDT this afternoon for Downtown 
+     Everett / Marysville Area-Lowlands of Western Skagit and 
+     Northwestern Snohomish Counties.
+
+     Dense Fog Advisory until 1 PM PDT this afternoon for Grays 
+     Harbor County Coast-Northern Washington Coast.
+
+PZ...Small Craft Advisory from 2 PM this afternoon to 3 AM PDT 
+     Friday for Central U.S. Waters Strait Of Juan De Fuca-
+     East Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Watch from late tonight through Friday evening for 
+     Central U.S. Waters Strait Of Juan De Fuca-Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-East Entrance U.S. Waters Strait Of Juan De 
+     Fuca.
+
+     Dense Fog Advisory until noon PDT today for Admiralty Inlet-
+     Coastal Waters From Cape Flattery To James Island Out 10 
+     Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater Out 10 Nm-East Entrance U.S. Waters Strait Of 
+     Juan De Fuca-Northern Inland Waters Including The San 
+     Juan Islands-Puget Sound and Hood Canal.
+
+&&
+
+$$

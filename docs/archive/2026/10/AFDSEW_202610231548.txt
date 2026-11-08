@@ -1,0 +1,117 @@
+FXUS66 KSEW 231548
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+848 AM PDT Fri Oct 23 2026
+
+.SYNOPSIS...
+High pressure aloft will provide another day of dry conditions
+for Western Washington today. An area of low pressure moving
+southward from the British Columbia coast will bring some rain 
+to the region later Saturday into the early portion of next 
+week. Drier conditions are expected to return by the middle of 
+next week as the low pressure system moves eastward. 
+
+&&
+
+.SHORT TERM /TODAY THROUGH SUNDAY/...
+No major updates to the forecast have been made this morning.
+See below for an updated aviation discussion. 
+
+High pressure aloft will briefly rebuild into Western Washington
+today for a dry day ahead and near seasonal temperatures. An
+area of low pressure sliding south from the British Columbia 
+coast is still slated to begin to affect the area later 
+Saturday into Sunday. Models still remain at odds with respect
+to its track, but there's enough consensus to warrant likely to
+categorical PoPs for the coast and Olympic Peninsula Saturday 
+night into Sunday. Some QPF is expected to make it into Puget 
+Sound on Sunday, but present thinking is that it will remain 
+rather light. Temperatures through the short term period will 
+hover within a couple degrees of normal for the final week of 
+October. 
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Upper troughing remains over the Pacific Northwest Sunday night
+into Monday for a lingering chance of precip...mostly focused on
+the southern half of the CWA. The upper trough is expected to
+shift eastward on Tuesday, but confidence in the forecast trails
+off by the middle of the coming week as ensembles begin to
+diverge somewhat from what they featured just a day ago. The GFS
+suite of solutions have a stronger influence of upper troughing
+over the region while the ECMWF height anomalies would keep
+broad upper troughing just offshore of California. To be clear,
+neither of these is a particularly wet scenario for Western
+Washington, but it lends enough uncertainty to retain some 
+generic low chance PoPs for much of the CWA...and that's 
+exactly what the NBM is using in the forecast. Temperatures are
+expected to remain generally seasonal, but chances for some 
+sub-freezing overnight lows in the Southwest Interior and 
+outlying areas increase toward the middle/later portion of next 
+week.
+
+27
+
+&&
+
+.AVIATION...
+Generally low end VFR to MVFR in mid level clouds, which are slowly 
+beginning to scatter out this morning with widespread VFR expected 
+by the afternoon. Northwesterly flow aloft in the wake of an exiting 
+trough expected to remain that way throughout the day and into 
+Saturday. Surface winds at all terminals light and variable this 
+morning with northerly winds expected to develop by this afternoon 
+with speeds ranging 4-8 kts. Light and variable winds expected again 
+tonight.
+
+KSEA...Cigs hovering right around 3000 feet this morning should 
+scatter out by 18z, revealing clear skies. Increasing high clouds 
+later tonight expected to hinder chances of degraded ceilings 
+developing overnight into Saturday morning. Surface winds generally 
+light at the terminal this morning becoming northerly 5 to 10 kt in 
+the afternoon, and light and variable overnight.
+
+18/15
+
+&&
+
+.MARINE...
+Northwesterly winds will ease throughout the day, although SCA level 
+winds still expected throughout this morning. Seas expected to 
+behave similarly. That said, SCA looks on track with no alterations 
+to end time needed. Nearshore seas will take a little longer to 
+ease, so rough bar SCA for Grays Harbor also on track.
+
+Winds and seas will ease and subside by this evening/tonight, with a 
+more benign pattern settling in over area waters into Saturday. By 
+Sunday, a low pressure system will move southward over the region, 
+though some uncertainty remains over the storm track. Winds and seas 
+look to potentially ramp up again with waves once again encroaching 
+on 10 ft or a little higher Sunday. Will wait for current headlines 
+to expire before contemplating next round, if needed. Seas expected 
+to ease next week where they will remain around 4 to 5 feet.
+
+18/15
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory until 11 AM PDT this morning for Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville Out 
+     10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater Out 10 Nm-Grays Harbor Bar.
+
+     Small Craft Advisory until 5 PM PDT this afternoon for Coastal 
+     Waters From Cape Flattery To James Island 10 To 60 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm.
+
+&&
+
+$$

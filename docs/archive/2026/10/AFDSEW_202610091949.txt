@@ -1,0 +1,171 @@
+FXUS66 KSEW 091949
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+1249 PM PDT Fri Oct 9 2026
+
+.SYNOPSIS...
+Showers continue tonight into tomorrow as low pressure moves
+through the area. Winds and seas will slowly ease tonight into
+Saturday. Overnight lows over the weekend may be enough for 
+localized frost and freeze potential. The next front to impact 
+the area looks to arrive late Tuesday into Wednesday for more 
+rain and breezy winds.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH SUNDAY NIGHT/...
+Rain has mostly ended across western Washington with the
+exception of a post-frontal convergence zone centered over
+Seattle and extending east into the Cascades. This feature will
+slowly shift south and eastward and weaken this evening as the
+winds slowly ease. Winds across the area remain in the 10-20 mph
+range with gusts between 20-35 mph. Winds are peaking now and
+will slowly ease this evening. High temperatures today in the 
+upper 50s to low 60s will cool into the upper 30s to mid 40s.
+
+Another weak low pressure system will move across the area on
+Saturday, keeping chances for scattered showers in the forecast
+through tomorrow afternoon. High temperatures remain seasonably
+cool, into the mid to upper 50s. Skies look to clear out 
+Saturday evening. As the low moves south, offshore flow will 
+begin to pick up Saturday evening with breezy northeasterly 
+winds from western Whatcom county and through the San Juans with
+gusts up to around 25 mph. Elsewhere, across southwestern 
+Washington, clear skies and mostly light winds Saturday night 
+will promote efficient cooling, with lows reaching from the mid
+40s in the metro area to mid 30s in the sheltered valley 
+locations. Our first frost advisory for the season has been 
+issued for portions of the SW WA Cascades and the middle 
+Chehalis river valley. The upper reaches near Olympia and 
+Chehalis could potentially get fog, so there is greater 
+uncertainty there. The winds would be the limiting factor for 
+the foothills and valleys farther north into King and Snohomish 
+counties, but trends will have to be monitored for expansion of 
+the frost advisory.
+
+Sunday looks to be drier and sunnier as high pressure builds
+back in over the area. Breezy north/northeasterly winds look to
+continue with gusts up to 20 mph, especially over the waters.
+Highs in the upper 50s to low 60s. Cool conditions continue
+Sunday night with the potential for more frost.
+
+62
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+Ensembles continue to highlight drier but cooler conditions
+into Monday. Morning lows Monday will likely reflect the
+previous couple of nights, in the mid to upper 30s for most
+areas. Could see potentially another round of frost and freeze
+potential, particularly in the Cascade valley and southwest
+interior locations. Otherwise, Monday will be mostly dry with 
+high temperatures in the low 60s. A weak system looks to cross 
+over the area Tuesday into Wednesday for a round of light rain. 
+Beyond the middle of the week, there is uncertainty in the 
+pattern but generally, guidance indicates that a return to high 
+pressure and mild conditions is favored. 
+
+Mazurkiewicz
+
+&&
+
+.AVIATION...
+Southwesterly flow aloft becoming northwesterly this afternoon
+as a frontal system leaves the area. A mixed bag of conditions
+early this afternoon as a convergence zone continues over
+Snohomish and King counties. Conditions maintaining MVFR/IFR
+this afternoon and in areas within the convergence zone will
+continue to see deteriorated conditions (likely PAE, SEA).
+Conditions will see improvement later this afternoon with 
+ceilings lifting to VFR lasting into overnight. Southerly winds
+will slowly shift to the north for terminals KSEA northward, 
+while areas south of KSEA will continue to see S/SW winds, 
+remaining around 8 to 12 knots. MVFR likely to return Saturday
+morning for most areas. 
+
+KSEA...MVFR conditions this afternoon with S/SW 9 to 14 knots.
+Will continue to see periodic gusts up to 20 knots this
+afternoon, with winds easing past 00z. Winds will turn N/NE at 
+times throughout the afternoon due to a convergence zone near 
+the terminal that will start to dissipate by this evening. 
+Additionally, conditions will gradually return to VFR around 
+21z-00z and continue through the evening. MVFR conditions look 
+to return Saturday morning 12z-17z along with southerly winds.
+
+Mazurkiewicz
+
+&&
+
+.MARINE...
+Strong onshore flow continues this evening behind a frontal
+passage that occurred early this morning. Small Craft 
+Advisories remain in effect most of the interior waters except 
+Puget Sound, and the Central/Eastern Strait of Juan de Fuca 
+where Gale Warnings remain in effect. Winds through the interior
+waters are peaking now and will ease below thresholds this 
+evening.
+
+Over the coastal waters, Small Craft Advisories continue through
+mid-day Saturday. Winds will slowly ease overnight into Saturday
+morning, but seas look to remain above 10 feet through mid-day
+Saturday. Seas will remain choppy and locally-wind driven with 
+the dominant period being in the 8-10 second range.
+
+A weak low pressure system will move through on Saturday, behind
+which winds will turn offshore Saturday evening. Winds will
+briefly be enhanced slightly in the Northern Inland Waters near
+the San Juans and off the coast in the central and southern
+coastal waters zones, with potential for wind gusts to approach
+Small Craft criteria overnight into early Sunday morning.
+
+Winds ease next week as high pressure builds back in from well
+offshore. The next low pressure system look to move across the
+area Tuesday night into Wednesday, but there remains some
+uncertainty in timing as this is later than previously 
+forecast.
+
+After Saturday, seas look to remain in the 5-8 ft range Sunday
+through the first part of next week.
+
+62
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Frost Advisory from midnight Saturday night to 8 AM PDT Sunday 
+     for Foothills and Valleys of Pierce and Southern King 
+     Counties-Foothills and Valleys of Thurston and Lewis 
+     Counties-Middle Chehalis River Valley.
+
+PZ...Small Craft Advisory until 5 AM PDT Saturday for Grays Harbor 
+     Bar.
+
+     Small Craft Advisory until 8 PM PDT this evening for Admiralty 
+     Inlet-West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Warning until 11 PM PDT this evening for Central U.S. 
+     Waters Strait Of Juan De Fuca-Coastal Waters From Cape 
+     Flattery To James Island 10 To 60 Nm-Coastal Waters From 
+     Cape Flattery To James Island Out 10 Nm-Coastal Waters 
+     From James Island To Point Grenville 10 To 60 Nm-Coastal 
+     Waters From James Island To Point Grenville Out 10 Nm-
+     Coastal Waters From Point Grenville To Cape Shoalwater 10 
+     To 60 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater Out 10 Nm-East Entrance U.S. Waters Strait Of 
+     Juan De Fuca.
+
+     Small Craft Advisory until 11 PM PDT this evening for Northern 
+     Inland Waters Including The San Juan Islands.
+
+     Small Craft Advisory from 11 PM this evening to 6 PM PDT 
+     Saturday for Coastal Waters From Cape Flattery To James 
+     Island 10 To 60 Nm-Coastal Waters From James Island To 
+     Point Grenville 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater 10 To 60 Nm.
+
+&&
+
+$$

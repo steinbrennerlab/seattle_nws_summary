@@ -1,0 +1,128 @@
+FXUS66 KSEW 070333
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+833 PM PDT Tue Oct 6 2026
+
+.SYNOPSIS...
+Mostly zonal flow will persist over western Washington as high
+pressure amplifies over the Great Basin region to the south.
+Warm conditions are expected throughout the week, with morning 
+clouds and patchy fog, giving way to sunny afternoons. Rain 
+chances increase into Friday as a front moves through. Cooler 
+conditions arrive this weekend through early next week.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH THURSDAY NIGHT/...
+Evening update: Remaining fog/stratus in the east Strait of 
+Juan de Fuca area is beginning to increase in coverage this 
+evening, with a shallow fog bank moving down Puget Sound. A few 
+areas (particularly around Mukilteo) have already dropped down 
+to a quarter of a mile in spots. Fog development will be 
+monitored overnight for potential headlines. The remainder of
+the short-term discussion below is valid for the evening update.
+
+High pressure at the surface remains offshore with lower pressure 
+inland. A zonal flow pattern with a weak ridge overhead and a jet 
+streak in southern Canada will continue to funnel the onshore 
+pattern through midweek. Another round of fog and stratus will
+form tonight into Wednesday morning. The north/south interior 
+and Olympics are the favored areas to see the lowest cloud 
+decks/visibilities in the morning. and will clear by early 
+afternoon. Probabilities for fog on Thursday morning are 
+considerably less, but can't rule out a few valley areas seeing 
+development. Temperatures in this period will continue to remain
+mild, and slowly increase up to Thursday with a few spots even 
+seeing highs into the low 70s. Overnight lows will range from 
+the upper 40s to low 50s. Winds will remain out of the northwest
+at around 5-10 mph for most areas.
+
+HPR
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+The next frontal system will sweep across the region later
+Friday through Saturday. While still some spread within the
+ensemble guidance, around 60-70% of members suggest a fairly
+deep upper trough moving through the region. This will bring
+some increased winds across the area ahead of the system on
+Friday, with rain continuing into Saturday. That said, rainfall
+amounts aren't looking too impressive with totals around a tenth
+to a quarter of an inch through late Saturday. Colder air then
+settles into the region this weekend. Two things to consider
+with this for the weekend into the start of next week: 1) Any 
+additional showers could bring some light snow accumulations 
+above around 4,500 ft or so. 2) For the foothills and outlying 
+locations, overnight lows could begin to dip down into the 30s. 
+While confidence isn't high, those with agricultural concerns 
+should keep an close eye on the forecast for potential frost 
+headlines for the start of next week.           Cullen
+
+&&
+
+.AVIATION...
+A flat upper ridge remains over region with westerly flow aloft. The 
+low level flow is light northerly or weakly offshore. Stratus never 
+fully cleared across the northern portions of Puget Sound and is 
+expanding southward this evening. With weak surface gradients and 
+already narrow temperature dew point spreads, the low levels are 
+primed for widespread (albeit shallow) formation of LIFR low cloud 
+and restricted surface visibility overnight into Wednesday morning.
+These conditions will persist into late morning before VFR returns 
+across the area 18Z-20Z.   
+
+KSEA...LIFR clouds are spreading southward across Puget Sound this 
+evening and, as such, timing for LIFR conditions has been moved 
+forward several hours. Conditions will be favorable for additional 
+fog and low clouds to form in place as a light northerly surface 
+gradient weakens overnight. Predominant LIFR ceilings are expected 
+by around 08Z or 09Z with surface visibilities falling below 1SM at 
+times. These conditions are expected to hang around through 18Z 
+before gradually lifting and scattering out Wednesday afternoon. 
+Surface winds light northerly becoming N/NW 6 to 8 knots Wednesday 
+afternoon.
+
+27
+
+&&
+
+.MARINE...
+High pressure over the waters will remain for the next few days.
+In the short term, the primary marine impact will be continued
+fog over portions of the waters. Improvement over the eastern
+Strait of Juan de Fuca and adjacent waters has been quite slow,
+which will likely result in widespread visibility less than 3 NM
+again late tonight through early tomorrow morning. Confidence
+remains a little lower in how widespread the dense fog will be,
+so will continue to evaluate the need for an advisory as it
+expands tonight.
+
+Otherwise, a building thermal trough along the Oregon coast will
+make its way north to the Washington coast, bringing northerly
+winds to the coastal waters. The strongest winds look to remain
+south of the local area, but there's around a 20-30% chance of 
+some gusts to 25 kt across the inner coastal waters off of Grays
+Harbor on Wednesday and especially Thursday afternoon. 
+Similarly, some marginal advisory gusts through the central 
+Strait may develop Thursday as winds return onshore. Chances
+remain too low for any advisories at this time, but it remains
+worth watching. More significant marine weather is expected
+Friday as the next frontal system reaches the coastal waters,
+pushing inland through early Saturday. This will likely (>80%
+chance) bring widespread advisory winds to the coastal waters
+and the Strait of Juan de Fuca, with seas building to at least
+8-9 ft over the coastal waters. Current probabilities of 
+reaching 10 ft remain around 60% for the end of the week. Cullen
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...None.
+
+&&
+
+$$

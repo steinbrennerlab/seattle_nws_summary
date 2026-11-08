@@ -1,0 +1,203 @@
+FXUS66 KSEW 050430
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+830 PM PST Wed Nov 4 2026
+
+.UPDATE...
+A front is currently working its way throughout the region this
+evening as light rainfall spreads across western WA. Steadier 
+rainfall will break into the showers overnight before conditions
+trend drier into Thursday morning. Precip amounts are not 
+expected to be impactful with less than 0.25" expected for the 
+interior lowlands and 0.25-0.50" for coastal areas. Overnight 
+lows are to range throughout the 40s. The previous discussion is
+below along with an updated marine/aviation section. 
+
+&&
+
+.SYNOPSIS...
+A weak frontal system moves across the area through
+tonight. A stronger system arrives Friday bringing steadier rain
+and locally gusty winds. Warm front moves northwards on Saturday
+with an associated cold front bringing another round of rain and
+gusty winds late Saturday into Sunday. A brief break early
+Monday before additional systems arrive into midweek.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH FRIDAY NIGHT/...
+A front is approaching the coast this afternoon with increasing
+mid and high clouds over western Washington. The front moves 
+onshore late this afternoon and moves into Puget Sound this 
+evening into tonight. A few hours of steadier rain is expected 
+with this system. In addition, south winds will peak around 15 
+to 30 MPH along the immediate coast and Whidbey Island region 
+this evening. Otherwise, this will be a weaker system with 
+rainfall amounts up to 0.15" for most of Puget Sound, and 
+0.25-0.5" along the coast. Temperatures peak in the 50s today.
+
+There will be a break in the precipitation on Thursday, with 
+even a mix of clouds and sunshine. However, the break will be 
+relatively short as the next frontal system approaches the
+region Thursday night with increasing rain early Friday.
+Steadier rain continues on Friday for most areas, with the
+heaviest QPF amounts focused in the Cascades and Olympic
+Peninsula. South winds also increase early Friday. Winds are
+expected to be strongest along the northern coast and from
+Whidbey Island northwards. NBM probabilities for gusts over 40
+MPH range 50-90% for the majority of these areas, with higher
+probabilities on the REFS. Will need to monitor the potential
+for any Wind Advisory in these aforementioned regions on
+Friday. Winds elsewhere will be locally breezy, with gusts
+peaking between 20 to 30 MPH, especially near the water. The
+front weakens Friday night, but a warm front lifts northwards
+overnight, resulting in continued rain at times. Highs will
+reach the 50s again Friday.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+The majority of western Washington will be positioned in the 
+warm sector on Saturday as the warm front lifts into BC during 
+the morning. Most areas are expected to remain drier by Saturday
+afternoon, with exception being the Olympic Peninsula and near 
+the BC border where there remains lingering precip potential. 
+Otherwise, highs will be warmer on Saturday, peaking in the 60s 
+for most areas. 
+
+A cold front progresses eastward Saturday night into Sunday
+bringing additional steadier rain and gusty winds. The bulk of
+the precip will be Saturday night, with precipitation more
+confined to the Cascades by Sunday afternoon, other than a few
+lingering showers. Another round of breezy south winds Saturday
+night with the front, with the strongest winds again along the
+coast and Whidbey Island northwards. However, winds will likely
+be a bit stronger elsewhere with this front compared to Friday,
+and thus more widespread gusts of 20 to 35 MPH may occur. In
+addition, seas build to near 20 ft along the immediate coast on
+Sunday, and will monitor for high surf conditions. Snow levels
+initially around 8000 feet Saturday fall towards 4000-5000 feet
+by later Sunday for higher elevation snow in the Cascades and
+Olympics. A brief period of drier weather then arrives Sunday
+night into Monday.
+
+Uncertainty increases in ensembles later Monday into midweek.
+However, there is potential for a longer duration rain event
+during this period. Mean of ECMWF/CMC ensembles focus the 
+moisture plume towards western Washington, with GEFS focused 
+more into British Columbia. This will be something to monitor 
+over the next few days with additional rain, winds, and 
+increased waves likely at times next week. JD
+
+&&
+
+.AVIATION...
+Generally VFR this evening with areas of MVFR/IFR as rain showers 
+continue to push inland with a cold frontal passage. Ceilings are 
+expected to continue to lower this evening as heavier rain showers 
+move inland, with a chance (30-35%) of IFR conditions over the 
+Kitsap Peninsula and south of the Puget Sound. By early Thursday 
+morning, the rain will have pushed east of the Cascades with MVFR 
+ceilings expected to stick around across the region through much of 
+Thursday morning. Models suggest VFR conditions returning by 
+Thursday afternoon. Breezy south to southwest winds this evening 
+from Puget Sound to the northern interior generally 5-12 kt, with 
+gusts up to 20 kt possible between 04z-09z as the frontal system 
+moves through the area. 
+
+KSEA...VFR this evening, with heavier showers expected this evening 
+that will likely bring MVFR ceilings. While showers are expected to 
+move east after midnight, MVFR ceilings are favored to hang on 
+through Thursday morning with a slight chance (15%) for brief IFR 
+ceilings between 14z-19z. Improvement to VFR is expected by 20z. 
+Surface winds will generally stay south to southwest, with briefly 
+breezy winds up to 18 kt between 06z-10z with the frontal passage. 
+
+29/15
+
+&&
+
+.MARINE...
+An active marine pattern will continue into next week with multiple 
+weather systems expected to move over area waters. Increased 
+south/southwesterly winds over the coastal waters will continue to 
+ease this evening as a frontal system moves eastward. Winds expected 
+to also increase across the interior waters with the passage of the 
+front, with small craft conditions continuing for portions of the 
+Strait of Juan de Fuca and Admiralty Inlet into early Thursday 
+morning. 
+
+A stronger system will move over the waters Thursday night into 
+Friday, bringing elevated winds and seas. Winds will increase area-
+wide overnight. A Gale Watch has been issued for the coastal waters, 
+East Strait, and Northern Inland Waters due to increasing 
+probabilities for gale force winds gusts. Winds will ease towards 
+Friday evening. Seas will also increase Thursday night, climbing to 
+15-19 feet by Friday afternoon. 
+
+The weekend will remain active, with an even stronger frontal system 
+moving through the area. Widespread gale gusts are possible across 
+the waters Saturday afternoon through Sunday afternoon. The highest 
+chances for gales are for the coastal waters with a 60-85% chance, 
+while the interior waters have a 50-60% chance. Additionally, seas 
+will build through the day on Saturday and peak Sunday afternoon 
+towards 20 feet. There is a 40-50 chance for seas to exceed 20 feet. 
+Seas will start to ease late Sunday into Monday. 
+
+Conditions look to remain hazardous going into next week, as 
+additional frontal systems move near or through area waters. These 
+frontal systems will bring additional chances for strong to gale-
+force winds.
+
+29/15
+
+&&
+
+.HYDROLOGY...
+River flooding is not expected through the next 
+seven days. However, a series of increasingly wet weather 
+systems will bring rain (and high mountain snow) to the region,
+especially from Friday onward. While current forecasts are not 
+expected to cause flooding, this will begin to saturate soils 
+and raise base flows that could bring a concern with subsequent 
+storms systems into next week.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory until 1 AM PST Thursday for West Entrance 
+     U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory until 2 AM PST Thursday for Admiralty 
+     Inlet-East Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Watch from late Thursday night through Friday afternoon 
+     for East Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Watch from Friday morning through Friday afternoon for 
+     Northern Inland Waters Including The San Juan Islands.
+
+     Small Craft Advisory until 10 PM PST Thursday for Coastal 
+     Waters From Cape Flattery To James Island 10 To 60 Nm-
+     Coastal Waters From Cape Flattery To James Island Out 10 
+     Nm-Coastal Waters From James Island To Point Grenville 10 
+     To 60 Nm-Coastal Waters From James Island To Point 
+     Grenville Out 10 Nm-Coastal Waters From Point Grenville 
+     To Cape Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+     Gale Watch from Thursday evening through Friday afternoon for 
+     Coastal Waters From Cape Flattery To James Island 10 To 
+     60 Nm-Coastal Waters From Cape Flattery To James Island 
+     Out 10 Nm-Coastal Waters From James Island To Point 
+     Grenville 10 To 60 Nm-Coastal Waters From James Island To 
+     Point Grenville Out 10 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater 10 To 60 Nm-Coastal Waters 
+     From Point Grenville To Cape Shoalwater Out 10 Nm.
+
+&&
+
+$$

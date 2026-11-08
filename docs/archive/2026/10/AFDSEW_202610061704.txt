@@ -1,0 +1,117 @@
+FXUS66 KSEW 061704
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+1004 AM PDT Tue Oct 6 2026
+
+.SYNOPSIS...
+Mostly zonal flow will persist over western Washington as high
+pressure amplifies over the Great Basin region to the south.
+Seasonably warm conditions are expected throughout the week,
+with morning clouds and patchy fog, giving way to sunny
+afternoons. Rain chances increase into Friday, but the incoming
+system doesn't appear to be particularly strong. 
+
+&&
+
+.SHORT TERM /TODAY THROUGH THURSDAY/...
+Stratus and fog are expected this morning again as temperatures
+and dewpoints near one another and lightly onshore flow
+persists. Early morning observations across the region indicate
+visibilities as low as a quarter of a mile along the coast and
+through the Strait of Juan de Fuca. This will continue inland
+throughout the morning, with in-situ development in the Puget 
+Sound region. Stratus and fog that develops will likely burn 
+off by the early afternoon. Gradients become more northerly by
+this afternoon into Wednesday, dampening the widespread stratus
+and fog potential through the middle of the week, though the
+threat of patchy fog development will continue. 
+
+Given the zonal flow to weakly amplified high pressure in
+Washington, temperatures will remain on the mild to warm side.
+Through midweek, temperatures will be in the upper 60s, with a
+bump in temperatures come Thursday where the low 70s are
+expected due to weakly offshore flow. 
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+By late in the week, the influence of the western CONUS ridge
+weakens slightly and may allow for broad troughing over the NE
+Pacific. The ensembles generally keeping the ridge in place
+through Thursday, with some deviation toward a trough by Friday
+and the weekend. There is a bit more consensus on broader
+troughing over the weekend, but low placement is not generally
+agreed upon. For sensible weather in western Washington, this
+brings a weak system into the area on Friday, with light rain
+amounts expected into Saturday. At this time, Sunday looks
+drier. 
+
+Accompanying the troughing will be a dip in the low temperatures
+over the weekend. Lows will be in the low to mid 40s throughout
+Puget Sound, dipping into the upper 30s in the Cascades and
+adjacent foothills.
+
+21 
+
+&&
+
+.AVIATION...
+An upper level ridge remains across the Pacific Northwest 
+through Wednesday with westerly flow aloft. Widespread LIFR/IFR 
+conditions continue this morning across the majority of Puget 
+Sound and portions of the Olympic Peninsula. Slow improvements 
+are expected late morning into early afternoon to VFR for most 
+locations with a few high clouds this afternoon. Another round 
+of LIFR/IFR low clouds and fog are expected late tonight into 
+Wednesday morning, with the highest probabilities west of Puget 
+Sound. Light north winds for most terminals through tonight. 
+
+KSEA...VFR conditions are expected to continue through this 
+afternoon. A brief period of LIFR/IFR stratus may drift over the 
+terminal this morning (through 18-19z), otherwise, high clouds are 
+expected at times this afternoon. Another round of LIFR/IFR cigs, 
+along with a reduction in vsbys, are possible after 09-10z Wednesday 
+morning. North winds through the TAF period ranging 5-10 kts, 
+peaking this afternoon and evening. JD
+
+&&
+
+.MARINE...
+High pressure will remain situated over the coastal waters with
+lower pressure inland over the next several days. Areas of fog 
+are likely to develop over the waters again this morning and 
+will continue to be likely over the next few days. Latest HREF 
+guidance indicates the the greatest probabilities (between 45-65%)
+of visibilities dropping below 1 NM this morning are along the 
+central and eastern Strait of Juan de Fuca, Admiralty Inlet, and
+the Puget Sound waters. Expect visibilities to improve again into
+the afternoon as fog slowly dissipates.
+
+A thermal trough expanding northward along the Oregon coast 
+today and along the Washington coast Wednesday will turn flow 
+more northerly across the waters through Thursday. Periods of 
+gusty northerly winds may develop across the southern coastal 
+water zones at times this evening into Wednesday, but expect the
+winds to primarily remain between 15-20 kt at this time. Seas 
+will largely range between 4-8 ft through Thursday. 
+
+Onshore flow will then resume Thursday night into Friday. A 
+frontal system approaching the area waters from the north Friday
+into Saturday will likely bring small craft strength winds to 
+the coastal waters and the Strait of Juan de Fuca. Seas will 
+build in the system's wake Friday night into Saturday, with GEFS
+guidance showing a 50-60% probability of seas exceeding 9 ft.
+
+14
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...None.
+
+&&
+
+$$

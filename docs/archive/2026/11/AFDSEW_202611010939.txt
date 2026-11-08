@@ -1,0 +1,148 @@
+FXUS66 KSEW 010939
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+139 AM PST Sun Nov 1 2026
+
+.SYNOPSIS...
+Dry conditions will continue across western Washington through
+Monday as an upper level ridge moves over the Pacific Northwest.
+The first half of the week will largely remain dry across the
+area, with chances of precipitation increasing the second half
+of the week as a series of systems approaches the Pacific 
+Northwest. A brief break in the unsettled pattern is possible 
+Friday night into Saturday as another ridge moves over the 
+region.
+
+&&
+
+.SHORT TERM /TODAY THROUGH TUESDAY/...
+Latest satellite imagery shows widespread fog development across
+the East Puget Sound Lowlands and Chehalis River Valley early 
+this morning. Fog is also starting to develop along Hood Canal 
+and expanding westward across the Southwest Interior as of 08Z. 
+Observations show that fog has become dense in spots, especially
+along the I-5 corridor from Olympia southward to Chehalis, where
+widespread visibilities of a quarter of a mile are being reported.
+Fog will continue to expand across the area through the early 
+morning hours and will linger a little longer today, before 
+scattering between 18-21Z for some afternoon sun.
+
+An upper level ridge will move into the region today and push 
+inland on Monday, maintaining dry conditions across western 
+Washington for the start of the week. Overnight lows will remain
+cool, mainly dipping down into the 30s, and will bring areas of
+additional frost development during the early morning hours. Ample
+moisture in the low levels will also promote another round of 
+fog development across the western Washington on Monday morning.
+Afternoon highs will be seasonable, mainly in the low to mid 
+50s both days. 
+
+A splitting system approaching the region Monday night into 
+Tuesday may bring some light precipitation to portions of the 
+coast and the Olympic Peninsula. The majority of western Washington
+will remain dry, however, with temperatures warming a few degrees.
+Morning lows will be in the mid 30s to mid 40s across the area,
+with afternoon highs expected to be in the mid 50s to low 60s.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SATURDAY/...
+Chances for precipitation will increase the second half of the
+week as a series of systems looks to approach the Pacific Northwest.
+At this time, a weak system looks to move across the area on 
+Wednesday, followed by a stronger system on Friday. The stronger
+system on Friday will likely bring gusty winds and more widespread
+lowland rain and mountain snow to the area. Discrepancy still 
+exists with the pattern heading into next weekend, but ensemble
+clusters hint at a brief break in the parade of systems Friday
+night into early Saturday as a ridge of high pressure temporarily
+moves back over the region. The ridge looks to push inland 
+rather quickly however, which would open the door for additional
+systems to move into the area by Saturday evening.
+
+Temperatures will be near to just slightly above normal through
+the period, with morning lows expected to be in the upper 30s 
+to upper 40s and afternoon highs expected to be in the mid to 
+upper 50s.
+
+14
+
+&&
+
+.AVIATION... 
+High pressure will build over the terminals today into Monday. Low-
+end MVFR stratus has filled in from Everett, down through Puget 
+Sound and into the south interior. The lowest visibilities have been 
+around Olympia, Hoquiam, and Arlington with visibilities down to a 
+quarter of a mile. The model guidance maintains ceilings lowering 
+down to LIFR conditions (both ceilings and visibilities) for the 
+previously mentioned areas covered by stratus by 14Z, and lasting 
+through 18-21Z. Skies will clear this afternoon and evening. Another 
+round of LIFR conditions is likely Monday for a majority of 
+terminals in the Puget Sound/south interior. Winds are calm this 
+morning/Monday morning, and will pick up to 3-5 kt this afternoon 
+from the north, and southeast this evening.
+
+KSEA...Stratus currently over the terminal this morning with 
+ceilings just above 1,000 ft. Expectation remains that this will 
+lower down to LIFR criteria during the morning (14-18Z is where the 
+probabilities for fog and/or LIFR stratus peak). Skies will clear 
+going into the afternoon, and redevelopment of LIFR conditions is 
+likely again tonight/Monday morning. Northeast winds at around 5 kt 
+will decrease this morning before increasing again this afternoon, 
+switching to the southeast in the evening, and becoming calm again 
+overnight.
+
+HPR
+
+&&
+
+.MARINE...
+High pressure rebuilds over the coastal waters today with dry 
+conditions finishing the weekend over the waters. Couple patches of 
+fog may affect portions of the Puget Sound waters this morning. A 
+weak system will brush the coastal waters Monday into Tuesday with 
+the chance of showers. While winds will pick up in the outer coastal 
+waters (with winds gusting up to 20 kt), the main concern for the 
+first part of the week will be seas, as swells of 17 seconds 
+increase out of the southwest, and seas increasing to 8-11 ft going 
+into tonight/Monday. A small craft advisory was issued to cover the 
+threat, which will likely continue into Tuesday with seas returning 
+to 6-8 ft Wednesday.
+
+The second half of the week is more active with trough dropping out 
+of Alaska, and a couple of systems likely to affect the waters 
+finishing the week into next weekend. Best chance of winds greater 
+than 20 kt is with a system Wednesday/Thursday, Friday, and this 
+weekend, affecting the coastal and interior waters. Seas will 
+increase going towards the end of the week, peaking Friday with 
+heights up to 15 to 17 ft at 17 seconds. 
+
+HPR
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Dense Fog Advisory until 10 AM PST this morning for City of 
+     Seattle-Downtown Everett / Marysville Area-Eastern Kitsap 
+     County-Eastside-Lower Chehalis River Valley-Lowlands of 
+     Lewis and Southern Thurston Counties-Lowlands of Pierce 
+     and Southern King Counties-Middle Chehalis River Valley-
+     Olympia and Southern Puget Sound-Shoreline / Lynnwood / 
+     South Everett Area.
+
+PZ...Small Craft Advisory from 1 AM Monday to 1 AM PST Tuesday for 
+     Coastal Waters From Cape Flattery To James Island 10 To 
+     60 Nm-Coastal Waters From Cape Flattery To James Island 
+     Out 10 Nm-Coastal Waters From James Island To Point 
+     Grenville 10 To 60 Nm-Coastal Waters From James Island To 
+     Point Grenville Out 10 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater 10 To 60 Nm-Coastal Waters 
+     From Point Grenville To Cape Shoalwater Out 10 Nm-West 
+     Entrance U.S. Waters Strait Of Juan De Fuca.
+
+&&
+
+$$

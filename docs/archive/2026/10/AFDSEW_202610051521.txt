@@ -1,0 +1,140 @@
+FXUS66 KSEW 051521
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+821 AM PDT Mon Oct 5 2026
+
+.UPDATE...
+Areas of dense fog continue to move through parts of western 
+Washington this morning. Based on satellite and webcams, no 
+changes were made to the advisory areas yet this morning. 
+Ceilings look to remain around 100-300 ft, so the areas closest 
+to sea level may no longer see dense fog. Guidance continues to 
+indicate fog starting to lift around 10-11 AM, with more 
+clearing shortly thereafter with high clouds continuing to 
+stream overhead. See below for updates the the aviation 
+discussion. 62
+
+&&
+
+.SYNOPSIS...
+Near-zonal flow aloft and onshore flow at the surface will
+maintain seasonable conditions across western Washington through
+much of the week, with morning clouds and afternoon sun breaks.
+Chances for rain increase towards the end of the week alongside
+cooler temperatures as troughing develops over the Pacific 
+Northwest.
+
+&&
+
+.SHORT TERM /TODAY THROUGH WEDNESDAY/...
+An upper level ridge over the Great Basin has weakened and
+flattened, allowing for zonal flow to develop aloft over the
+Pacific Northwest with a return to onshore flow at the surface.
+The pattern is set to remain steady throughout the short-term,
+resulting in little change day to day through Wednesday. Daily
+marine pushes will result in expanding stratus across the
+lowlands each morning, with potential for patchy fog to develop
+in fairly stagnant overnight conditions. The fog and stratus
+will erode for most lowland areas by the afternoon each day,
+although areas along the coast may stay socked in with little
+sunshine. The cooler marine air will allow for seasonable fall
+temperatures, with highs generally in the 60s to lower 70s, and
+lows in the mid 40s to lower 50s. The upper level ridge over the
+southwestern US will rebound slightly on Wednesday, resulting in
+little more than temperatures a degree or two warmer across the
+region.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+The upper level high pressure ridge over the southwestern US
+will continue to nudge into the Pacific Northwest slightly on
+Thursday, resulting in continued warming with high temperatures
+in the mid 60s to lower 70s. However, conditions on Thursday will
+feel similar to past days with another potential round of low 
+stratus in the morning and sunny skies in the afternoon.
+
+Forecast models remain in good agreement of troughing developing
+over the region on Friday into the weekend, but the details
+still remain fairly uncertain. Models have continued to back off
+on incoming rainfall on Friday with a frontal system splitting
+as it moves into western Washington, though ensembles hint at a
+potential Puget Sound convergence zone developing into Saturday.
+A cutoff low is also expected to develop overhead by Saturday, 
+bringing cooler temperatures and chances for light showers 
+lingering into Sunday. The exact details remain uncertain at
+this time, but next weekend looks to be cooler and unsettled
+with highs peaking in the mid 50s to lower 60s.
+
+15
+
+&&
+
+.AVIATION...
+Onshore flow this morning has led to widespread areas of fog this 
+morning, primarily from central Puget Sound southward, and north of 
+Everett. The areas of fog/mist will likely begin lifting as early as 
+18Z, and then fully scatter out for all except the coast/Strait of 
+Juan de Fuca by 20-22Z. The two coasts likely retain MVFR ceilings 
+into the afternoon/evening. Given the continuing/stagnant onshore 
+pattern with high pressure offshore, another round of fog/mist is 
+likely to develop Tuesday morning. Light and variable winds this 
+morning will increase out of the north around 4-6 kt this afternoon, 
+becoming calm/light and variable again tonight.
+
+KSEA...Fog/LIFR conditions will continue at the terminal through 
+18Z, with conditions improving from 18-21Z this afternoon to VFR. 
+Another round of lower ceilings/fog is likely Tuesday morning, 
+although uncertainty exists as to how far fog will make it up to the 
+terminal. Calm/light and variable winds will be present this 
+morning/Tuesday morning, with winds picking up out of the northeast 
+at around 4-6 kt both Monday/Tuesday afternoon.
+
+HPR
+
+&&
+
+.MARINE...
+Onshore flow has returned into today as low pressure shifts inland 
+and surface high pressure builds offshore. Areas of fog continue 
+across portions of Puget Sound, the Strait of Juan de Fuca, and the 
+Northern Inland Waters where dense fog advisories continue through 
+11 AM this morning. Fog will be likely over portions of the waters 
+next few mornings. Westerly pushes are favored throughout the 
+upcoming week of varying strength. A more organized system appears 
+favorable towards Friday with a better chance of widespread 
+headlines.
+
+Seas through Wednesday hold at 4-6 ft, and increase to 6-10 ft late 
+this week with the late week systems passing through.
+
+41/HPR
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Dense Fog Advisory until noon PDT today for City of Seattle-
+     Downtown Everett / Marysville Area-Eastern Strait of Juan 
+     de Fuca-Eastside-Foothills and Valleys of Pierce and 
+     Southern King Counties-Foothills and Valleys of Thurston 
+     and Lewis Counties-Grays Harbor County Coast-Island 
+     County-Lower Chehalis River Valley-Lowlands of Lewis and 
+     Southern Thurston Counties-Lowlands of Pierce and 
+     Southern King Counties-Lowlands of Western Skagit and 
+     Northwestern Snohomish Counties-Middle Chehalis River 
+     Valley-Olympia and Southern Puget Sound-San Juan County-
+     Shoreline / Lynnwood / South Everett Area-Western Strait 
+     of Juan de Fuca-Willapa and Black Hills.
+
+PZ...Dense Fog Advisory until 11 AM PDT this morning for Admiralty 
+     Inlet-Central U.S. Waters Strait Of Juan De Fuca-East 
+     Entrance U.S. Waters Strait Of Juan De Fuca-Northern 
+     Inland Waters Including The San Juan Islands-Puget Sound 
+     and Hood Canal-West Entrance U.S. Waters Strait Of Juan 
+     De Fuca.
+
+&&
+
+$$

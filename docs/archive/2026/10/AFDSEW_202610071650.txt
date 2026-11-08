@@ -1,0 +1,130 @@
+FXUS66 KSEW 071650
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+950 AM PDT Wed Oct 7 2026
+
+.SYNOPSIS...
+Zonal flow aloft continues as high pressure remains parked over
+the Great Basin. Morning fog and stratus will continue likely
+until Thursday morning, where it will become less widespread.
+Sunny afternoons are expected, with seasonably warm temperatures.
+The next chance for rain appears to be Friday as a weak front 
+arrives.
+
+&&
+
+.SHORT TERM /TODAY THROUGH FRIDAY/...
+Fog and low stratus continues this morning across portions of 
+Western Washington. There is going to be a light offshore gradient 
+today, which should lend itself to a slightly earlier dissipation 
+time than the previous few days. This offshore gradient will also 
+cause a minor dip in the relative humidity this afternoon in the 
+Cascades and valleys. Today's highs will be in the upper 60s, 
+climbing to the low 70s on Thursday. 
+
+The system moving in on Friday will be weak, and the expected QPF is 
+minimal around a few hundredths of an inch across the Cascades and 
+northern portions of Puget Sound. While the precipitation won't last 
+very long, the pattern change will usher in cooler temperatures, 
+with highs on Friday knocked back down to the low 60s. Snow levels 
+drop to around 5000 ft late Friday night, so the higher terrain 
+particularly in the North Cascades may see a dusting of snow. Expect 
+breezy winds along the coast, Strait of Juan de Fuca and waterfront 
+areas of Puget Sound on Friday. 
+
+21
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Overnight lows will be decreasing over the weekend as the
+pattern becomes focused on low pressure over the NW. Saturday
+morning lows will be in the upper 30s across the Cascade passes,
+and low 40s in the foothills. The lows decrease a few degrees
+more come Sunday morning. Stay tuned to the forecast as it
+relates to frost and freeze potential for agricultural concerns
+and sensitive vegetation.
+
+Cooler temperatures look to continue into early next week as low
+pressure churns in the Gulf of Alaska. Some of the models depict
+another chance at rain on Tuesday into Wednesday, but the
+ensembles are mixed on exact placement of the low and resultant
+weather systems. 
+
+21
+
+&&
+
+.AVIATION...
+LIFR/IFR conditions continue this morning across the majority of 
+terminals. Visibility has improved this morning due to increased NE 
+winds across most terminals. However, terminals such as BLI and PAE 
+continue to see visibility at 1/4SM or less. Slow improvement 
+expected throughout the morning, with VFR conditions expected by
+the afternoon after 18Z-20Z. Northerly surface winds 5-8 kt 
+today. Guidance hints at IFR/LIFR fog and ceilings returning 
+Thursday morning. 
+
+KSEA...LIFR ceilings continue this morning. Ceilings will be slow to 
+lift this morning. Expecting to see ceilings slowly lift around 18Z 
+and scatter out by 20Z.  Northeasterly winds have remained elevated 
+around 7-10 kt this morning and are expected to hinder any dense fog 
+from developing. Northeasterly winds will transition more 
+northwesterly this afternoon at 7-10 kt, then transition 
+northeasterly again in the evening at 5 kt or less. LIFR ceilings 
+are possible (30-50% chance) Thursday morning. 
+
+29
+
+&&
+
+.MARINE...
+Fog remains the primary marine impact over the area waters 
+early this morning. Visibility has improved over the coastal
+waters, so have cancelled the advisory for these zones. Expect 
+areas of fog to continue to reduce visibilities down to 1NM or 
+less through the morning, so the advisory remains in place for
+much of the Salish Sea from the north inland waters and  
+Admiralty Inlet south through Puget Sound and Hood Canal zones 
+through noon. Visibilities will then improve as fog slowly lifts
+and scatters into this afternoon. 
+
+High pressure will remain situated over the coastal waters the 
+next few days, while a thermal trough builds northward along the
+Washington coast today. This will continue to promote northerly
+winds across the coastal waters into Thursday. Northerly winds
+may become gusty to 25 kt at times across the inner and outer 
+coastal waters off of Grays Harbor this afternoon and again 
+Thursday afternoon, but expect the stronger, more sustained 
+winds to generally remain south of the area. Onshore flow will 
+return by Thursday evening, with guidance indicating a 30-50% 
+chance of westerly winds exceeding small craft strength along 
+the central and eastern Strait of Juan de Fuca. A frontal system
+will then move into the area waters Friday into Saturday, bringing
+the likelihood (>80% chance) of small craft strength winds to 
+the coastal waters and the Strait of Juan de Fuca. Seas will 
+build in the system's wake, with latest GEFS probabilities 
+indicating a 60-80% chance of seas exceeding 10 ft across the 
+coastal waters by Friday night. 
+
+Winds will ease and seas will gradually subside through the day
+on Saturday as the system exits the area. High pressure will 
+then build back into the coastal waters by Sunday, while a 
+thermal trough expands northward along the coast again.
+
+14/12
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Dense Fog Advisory until noon PDT today for Admiralty Inlet-
+     East Entrance U.S. Waters Strait Of Juan De Fuca-Northern 
+     Inland Waters Including The San Juan Islands-Puget Sound 
+     and Hood Canal.
+
+&&
+
+$$
