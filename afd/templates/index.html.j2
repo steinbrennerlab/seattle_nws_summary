@@ -6,7 +6,13 @@
 </section>
 {% else %}
 {% set s = latest.summary %}
-<section class="block now" aria-labelledby="now-h">
+<nav class="jump" aria-label="On this page">
+  <a href="#now">Now</a>
+  <a href="#week"{% if week %} title="{{ week.headline }}"{% endif %}>Past week</a>
+  <a href="#month"{% if month %} title="{{ month.headline }}"{% endif %}>Past month</a>
+  <a href="#days">Day by day</a>
+</nav>
+<section class="block now" id="now" aria-labelledby="now-h">
   <h2 class="period" id="now-h">Current discussion</h2>
   <div class="body">
     <p class="issued">Issued {{ latest.label }}. <a href="{{ latest.url }}">Original text</a></p>
@@ -46,13 +52,30 @@
   </div>
 </section>
 
+{# One tile per day, oldest first. "month" tiles are labeled with the date, "week" tiles with the
+   weekday. A dot marks days with a watch, warning, or advisory. #}
+{% macro daystrip(tiles, mode, label) %}
+<ol class="strip strip-{{ mode }}" aria-label="{{ label }}">
+  {% for t in tiles %}
+  {% set haz = t.hazards | join("; ") %}
+  {% set tip = t.label ~ ": " ~ (t.headline or "no discussion saved") ~ (" (" ~ haz ~ ")" if haz) %}
+  <li class="k-{{ t.kind or 'none' }}{{ ' first-of-month' if mode == 'month' and t.date.day == 1 }}{{ ' hazard' if t.hazards }}">
+    {% if t.kind %}<a class="tile" href="#{{ t.anchor }}" title="{{ tip }}"><svg class="icon"><use href="#i-{{ t.kind }}"/></svg>{% if t.hazards %}<span class="haz-dot"></span>{% endif %}<span class="sr">{{ t.label }}: {{ t.kind_label }}{{ "; " ~ haz if haz }}</span></a>
+    {% else %}<span class="tile" title="{{ tip }}"><span class="sr">{{ t.label }}: no discussion saved</span></span>{% endif %}
+    <span class="num" aria-hidden="true">{% if mode == 'week' %}{{ t.date.strftime('%a') }}{% elif loop.first or t.date.day == 1 %}{{ t.date.day }}<b>{{ t.date.strftime('%b') }}</b>{% else %}{{ t.date.day }}{% endif %}</span>
+  </li>
+  {% endfor %}
+</ol>
+{% endmacro %}
+
 {% macro period(id, title, data) %}
-<section class="block" aria-labelledby="{{ id }}-h">
+<section class="block" id="{{ id }}" aria-labelledby="{{ id }}-h">
   <h2 class="period" id="{{ id }}-h">{{ title }}</h2>
   <div class="body">
     {% if data %}
     <h2 class="headline small">{{ data.headline }}</h2>
     {% if data.start %}<p class="issued">Covers {{ data.start | daylabel }} to {{ data.end | daylabel }}.</p>{% endif %}
+    {% if id == "week" and strip %}{{ daystrip(strip[-7:], "week", "The past seven days, oldest first") }}{% endif %}
     {% for p in data.summary | paragraphs %}<p>{{ p }}</p>{% endfor %}
     {% if data.turning_points %}
     <h3>When the forecast changed</h3>
@@ -69,22 +92,15 @@
 {{ period("week", "The past week", week) }}
 {{ period("month", "The past month", month) }}
 
-<section class="block" aria-labelledby="days-h">
+<section class="block" id="days" aria-labelledby="days-h">
   <h2 class="period" id="days-h">Day by day</h2>
   <div class="body">
     {% if tally.of %}
     <p class="tally">Rain or worse was in the forecast on <strong>{{ tally.rainy }} of the past {{ tally.of }} days</strong>.</p>
-    <ol class="strip" aria-label="The past 30 days, one tile per day, oldest first">
-      {% for t in strip %}
-      <li class="k-{{ t.kind or 'none' }}{{ ' first-of-month' if t.date.day == 1 }}">
-        {% if t.kind %}<a href="#{{ t.anchor }}" title="{{ t.label }}: {{ t.headline }}"><svg class="icon"><use href="#i-{{ t.kind }}"/></svg><span class="sr">{{ t.label }}: {{ t.kind_label }}</span></a>
-        {% else %}<span title="{{ t.label }}: no discussion saved"><span class="sr">{{ t.label }}: no discussion saved</span></span>{% endif %}
-      </li>
-      {% endfor %}
-    </ol>
-    <p class="strip-ends"><span>{{ strip[0].label }}</span><span>{{ strip[-1].label }}</span></p>
+    {{ daystrip(strip, "month", "The past 30 days, one tile per day, oldest first") }}
     <ul class="legend">
       {% for k, label in legend %}<li class="k-{{ k }}"><svg class="icon"><use href="#i-{{ k }}"/></svg>{{ label }}</li>{% endfor %}
+      {% if strip | selectattr("hazards") | list %}<li class="legend-haz"><span class="haz-dot"></span>Watch, warning, or advisory</li>{% endif %}
     </ul>
     {% endif %}
     <ol class="days">

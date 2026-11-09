@@ -74,7 +74,13 @@
   </div>
 </header>
 <main>
-<section class="block now" aria-labelledby="now-h">
+<nav class="jump" aria-label="On this page">
+  <a href="#now">Now</a>
+  <a href="#week" title="Forecasters saw a stormy week coming early, then narrowed it to Friday&#39;s wind and a stronger Saturday night windstorm.">Past week</a>
+  <a href="#month" title="Forecasts shifted from frosty, dry autumn calm to a strong windstorm expected Saturday night, November 7.">Past month</a>
+  <a href="#days">Day by day</a>
+</nav>
+<section class="block now" id="now" aria-labelledby="now-h">
   <h2 class="period" id="now-h">Current discussion</h2>
   <div class="body">
     <p class="issued">Issued Sat Nov 7, 3:07 PM PST. <a href="archive/2026/11/AFDSEW_202611072307.txt">Original text</a></p>
@@ -98,17 +104,48 @@
   </div>
 </section>
 
-<section class="block" aria-labelledby="week-h">
+
+<section class="block" id="week" aria-labelledby="week-h">
   <h2 class="period" id="week-h">The past week</h2>
   <div class="body">
     <h2 class="headline small">Forecasters saw a stormy week coming early, then narrowed it to Friday&#39;s wind and a stronger Saturday night windstorm.</h2>
-<p class="issued">Covers Sun Nov 1 to Sat Nov 7.</p><p>On Sunday, Nov 1, the forecast was fog and clouds Monday, then wetter, windier weather from Wednesday. Forecasters also flagged a possible heavy-rain event for the next weekend, though they said it was uncertain. By Monday night they were calling a Friday storm possibly the strongest, with about a 50% chance of damaging gusts. On Tuesday, the stronger storm&#39;s start moved from Thursday night to Friday, and they added the risk of power outages because many trees still have leaves. The odds of gusts over 40 mph on the northern coast and from Whidbey Island northward rose to as high as 80%.</p><p>The biggest change came midweek. On Wednesday, forecasters added a second, separate storm for Saturday night into Sunday. By Thursday, Friday&#39;s wind was fairly well pinned down, and Wind Advisories were issued for the coast, islands and northern interior. Saturday night&#39;s wind went from a 50% chance of 50 mph gusts on the coast and in the north to likely advisory-level winds, possibly reaching Puget Sound. On Friday, forecasters put a 50 to 75% chance on gusts above 58 mph, the High Wind Warning threshold, and issued a High Wind Watch and a High Surf Advisory. By Saturday, the watch had become a High Wind Warning for the coast. Seattle and the interior lowlands were under a Wind Advisory for gusts of 45 to 50 mph at times. Forecasters also added a 10-20% chance of thunderstorms in the interior and a warning about clogged storm drains from heavy rain during the wind.</p><p>Some things barely changed all week. Snow levels stayed high, so snow was limited to the upper mountains. River flooding was not expected in the following seven days, though repeated rain will soak the ground and raise rivers. An active, wet pattern for the week of Nov 9 appeared in nearly every discussion. The details never firmed up. On Saturday, forecasters called the computer-model guidance for next week &#34;a bit shaky&#34; on timing and strength.</p>    <h3>When the forecast changed</h3>
+<p class="issued">Covers Sun Nov 1 to Sat Nov 7.</p><ol class="strip strip-week" aria-label="The past seven days, oldest first">
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-11-01" title="Sun Nov 1: Cloudy with patchy fog Monday, then wetter, windier weather from Wednesday; next weekend could bring heavy rain but is uncertain. (Dense Fog Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Sun Nov 1: Rain; Dense Fog Advisory</span></a>
+    <span class="num" aria-hidden="true">Sun</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-11-02" title="Mon Nov 2: Quiet Tuesday, then a wetter, windier pattern from Wednesday, with the strongest storm likely Friday bringing wind, rain, mountain snow and high surf."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Mon Nov 2: Rain</span></a>
+    <span class="num" aria-hidden="true">Mon</span>
+  </li>
+  <li class="k-sun">
+<a class="tile" href="#d-2026-11-03" title="Tue Nov 3: Dry through Wednesday morning, then a weak front, with a stronger, windier storm series starting Friday and continuing into next week."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Tue Nov 3: Dry and bright</span></a>
+    <span class="num" aria-hidden="true">Tue</span>
+  </li>
+  <li class="k-wind">
+<a class="tile" href="#d-2026-11-04" title="Wed Nov 4: Light rain tonight, then stormy Friday and Saturday night with gusty south winds; more wet weather likely next week, details uncertain."><svg class="icon"><use href="#i-wind"/></svg><span class="sr">Wed Nov 4: Windy</span></a>
+    <span class="num" aria-hidden="true">Wed</span>
+  </li>
+  <li class="k-storm hazard">
+<a class="tile" href="#d-2026-11-05" title="Thu Nov 5: Windy, rainy front hits Friday; a stronger windstorm is possible Saturday night, with more storms continuing into next week. (Wind Advisory)"><svg class="icon"><use href="#i-storm"/></svg><span class="haz-dot"></span><span class="sr">Thu Nov 5: Stormy; Wind Advisory</span></a>
+    <span class="num" aria-hidden="true">Thu</span>
+  </li>
+  <li class="k-storm hazard">
+<a class="tile" href="#d-2026-11-06" title="Fri Nov 6: Saturday is mild and mostly dry, then a strong windstorm and heavy rain arrive Saturday night, with high surf on the coast Sunday. (Wind Advisory; High Wind Watch; High Surf Advisory)"><svg class="icon"><use href="#i-storm"/></svg><span class="haz-dot"></span><span class="sr">Fri Nov 6: Stormy; Wind Advisory; High Wind Watch; High Surf Advisory</span></a>
+    <span class="num" aria-hidden="true">Fri</span>
+  </li>
+  <li class="k-storm hazard">
+<a class="tile" href="#d-2026-11-07" title="Sat Nov 7: Strong cold front brings damaging wind, heavy rain and dangerous surf tonight into Sunday; more wet systems follow next week. (High Wind Warning; Wind Advisory; High Surf Warning)"><svg class="icon"><use href="#i-storm"/></svg><span class="haz-dot"></span><span class="sr">Sat Nov 7: Stormy; High Wind Warning; Wind Advisory; High Surf Warning</span></a>
+    <span class="num" aria-hidden="true">Sat</span>
+  </li>
+</ol>
+<p>On Sunday, Nov 1, the forecast was fog and clouds Monday, then wetter, windier weather from Wednesday. Forecasters also flagged a possible heavy-rain event for the next weekend, though they said it was uncertain. By Monday night they were calling a Friday storm possibly the strongest, with about a 50% chance of damaging gusts. On Tuesday, the stronger storm&#39;s start moved from Thursday night to Friday, and they added the risk of power outages because many trees still have leaves. The odds of gusts over 40 mph on the northern coast and from Whidbey Island northward rose to as high as 80%.</p><p>The biggest change came midweek. On Wednesday, forecasters added a second, separate storm for Saturday night into Sunday. By Thursday, Friday&#39;s wind was fairly well pinned down, and Wind Advisories were issued for the coast, islands and northern interior. Saturday night&#39;s wind went from a 50% chance of 50 mph gusts on the coast and in the north to likely advisory-level winds, possibly reaching Puget Sound. On Friday, forecasters put a 50 to 75% chance on gusts above 58 mph, the High Wind Warning threshold, and issued a High Wind Watch and a High Surf Advisory. By Saturday, the watch had become a High Wind Warning for the coast. Seattle and the interior lowlands were under a Wind Advisory for gusts of 45 to 50 mph at times. Forecasters also added a 10-20% chance of thunderstorms in the interior and a warning about clogged storm drains from heavy rain during the wind.</p><p>Some things barely changed all week. Snow levels stayed high, so snow was limited to the upper mountains. River flooding was not expected in the following seven days, though repeated rain will soak the ground and raise rivers. An active, wet pattern for the week of Nov 9 appeared in nearly every discussion. The details never firmed up. On Saturday, forecasters called the computer-model guidance for next week &#34;a bit shaky&#34; on timing and strength.</p>    <h3>When the forecast changed</h3>
     <dl class="timeline">
 <dt>Mon Nov 2</dt><dd>Forecasters pointed to a Friday storm as potentially the strongest, with about a 50% chance of damaging gusts. They also said more systems looked likely from late in the weekend into early next week.</dd><dt>Tue Nov 3</dt><dd>The stronger storm&#39;s start moved from Thursday night to Friday. Forecasters added the outage risk from leafy trees and raised the odds of gusts over 40 mph to as high as 80% in the north.</dd><dt>Wed Nov 4</dt><dd>A second storm was added for Saturday night into Sunday, with snow levels falling. Forecasters were also unsure whether next week&#39;s main band of moisture would hit western Washington or stay farther north in British Columbia.</dd><dt>Thu Nov 5</dt><dd>Wind Advisories were issued for Friday. Saturday night&#39;s wind outlook strengthened to likely advisory-level winds, possibly reaching Puget Sound.</dd><dt>Fri Nov 6</dt><dd>Forecasters gave a 50 to 75% chance of gusts above 58 mph Saturday night and issued a High Wind Watch for parts of the coast. They also issued a High Surf Advisory for Sunday.</dd>    </dl>
   </div>
 </section>
 
-<section class="block" aria-labelledby="month-h">
+<section class="block" id="month" aria-labelledby="month-h">
   <h2 class="period" id="month-h">The past month</h2>
   <div class="body">
     <h2 class="headline small">Forecasts shifted from frosty, dry autumn calm to a strong windstorm expected Saturday night, November 7.</h2>
@@ -119,105 +156,135 @@
 </section>
 
 
-<section class="block" aria-labelledby="days-h">
+<section class="block" id="days" aria-labelledby="days-h">
   <h2 class="period" id="days-h">Day by day</h2>
   <div class="body">
     <p class="tally">Rain or worse was in the forecast on <strong>26 of the past 30 days</strong>.</p>
-    <ol class="strip" aria-label="The past 30 days, one tile per day, oldest first">
-      <li class="k-rain">
-<a href="#d-2026-10-09" title="Fri Oct 9: Showers end Saturday evening, then clear, cold nights bring the season&#39;s first frost; light rain returns Tuesday into Wednesday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Fri Oct 9: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-10" title="Sat Oct 10: Showers end tonight, then dry, sunny, frosty mornings through Monday; uncertain midweek rain, then warmer, lower-70s weather by Friday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sat Oct 10: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-11" title="Sun Oct 11: Frost and patchy fog expected early Monday, then mostly dry and warming through Friday, with cooler, rainier weather likely by Saturday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sun Oct 11: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-12" title="Mon Oct 12: Light showers clip the northwest Tuesday, warm dry weather Thursday and Friday, then wetter, breezier weather returns Sunday into Monday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Mon Oct 12: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-13" title="Tue Oct 13: Light rain tonight, then warm and dry Thursday and Friday, before cooler, wetter weather returns Saturday and lasts into Tuesday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Tue Oct 13: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-14" title="Wed Oct 14: Warm, dry weather through Friday with possible morning fog, then cooler, unsettled weather with light rain Saturday and early next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Wed Oct 14: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-15" title="Thu Oct 15: Warm, dry Friday with highs in the mid to upper 70s, then a weak, light-rain system Saturday and cooler weather."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Thu Oct 15: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-16" title="Fri Oct 16: Rain arrives late tonight into Saturday morning, then cooler, mostly dry weather follows into early next week, with a weak front possible midweek."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Fri Oct 16: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-17" title="Sat Oct 17: Dry weather with morning fog and frost lasts through Wednesday; light rain chances return Thursday into late next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sat Oct 17: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-18" title="Sun Oct 18: Quiet, chilly weather with possible frost early in the week; only light rain and mountain flurries possible Thursday into Friday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sun Oct 18: Rain</span></a>
-      </li>
-      <li class="k-sun">
-<a href="#d-2026-10-19" title="Mon Oct 19: Dry, mild weather continues through Wednesday, a weak front arrives Thursday, and a possible weekend system is uncertain but will lower snow levels."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Mon Oct 19: Dry and bright</span></a>
-      </li>
-      <li class="k-sun">
-<a href="#d-2026-10-20" title="Tue Oct 20: Dry through Friday apart from a weak Thursday system; a possible weak weekend system is a toss-up in track and timing."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Tue Oct 20: Dry and bright</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-21" title="Wed Oct 21: Mostly dry through Friday, then a cooler pattern brings frost chances Saturday morning and returning showers from Saturday into next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Wed Oct 21: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-22" title="Thu Oct 22: Mostly dry, mild weather through Friday, then light weekend showers, a mostly dry week, and a possible wetter pattern by early November."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Thu Oct 22: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-23" title="Fri Oct 23: Light rain arrives Saturday night into Sunday, then cool, cloudy, mostly dry weather next week; an active pattern is possible around Halloween."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Fri Oct 23: Rain</span></a>
-      </li>
-      <li class="k-wind">
-<a href="#d-2026-10-24" title="Sat Oct 24: Heavier rain and breezy winds arrive overnight and Sunday, showers linger Monday, and unsettled seasonal weather continues through the week."><svg class="icon"><use href="#i-wind"/></svg><span class="sr">Sat Oct 24: Windy</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-25" title="Sun Oct 25: Showers Monday, then a Tuesday night–Wednesday front brings lowland rain, first notable Cascade snow, and a cooler, drier weekend."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sun Oct 25: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-26" title="Mon Oct 26: Showers Tuesday, then steadier rain Tuesday night and the season&#39;s first widespread Cascade snow Wednesday, with a Winter Weather Advisory in effect."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Mon Oct 26: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-27" title="Tue Oct 27: Steady rain and the season&#39;s first widespread Cascade snow arrive tonight into Wednesday, then cool showers linger before drying this weekend."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Tue Oct 27: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-28" title="Wed Oct 28: A lingering offshore low keeps showers and cool weather through Friday, then a mostly dry, chilly weekend and midweek follow."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Wed Oct 28: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-29" title="Thu Oct 29: Showers fade Saturday; Freeze Watch for parts of southwest Washington Friday night, then a quiet, mild, mostly cloudy week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Thu Oct 29: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-10-30" title="Fri Oct 30: Showers end tonight, then a cold, dry weekend with frost and freezing lows early Saturday and mostly dry weather into next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Fri Oct 30: Rain</span></a>
-      </li>
-      <li class="k-fog">
-<a href="#d-2026-10-31" title="Sat Oct 31: Frost and dense fog early Sunday, mostly dry through Monday, then wetter, windier weather Wednesday through Friday, with Friday strongest."><svg class="icon"><use href="#i-fog"/></svg><span class="sr">Sat Oct 31: Fog and low clouds</span></a>
-      </li>
-      <li class="k-rain first-of-month">
-<a href="#d-2026-11-01" title="Sun Nov 1: Cloudy with patchy fog Monday, then wetter, windier weather from Wednesday; next weekend could bring heavy rain but is uncertain."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sun Nov 1: Rain</span></a>
-      </li>
-      <li class="k-rain">
-<a href="#d-2026-11-02" title="Mon Nov 2: Quiet Tuesday, then a wetter, windier pattern from Wednesday, with the strongest storm likely Friday bringing wind, rain, mountain snow and high surf."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Mon Nov 2: Rain</span></a>
-      </li>
-      <li class="k-sun">
-<a href="#d-2026-11-03" title="Tue Nov 3: Dry through Wednesday morning, then a weak front, with a stronger, windier storm series starting Friday and continuing into next week."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Tue Nov 3: Dry and bright</span></a>
-      </li>
-      <li class="k-wind">
-<a href="#d-2026-11-04" title="Wed Nov 4: Light rain tonight, then stormy Friday and Saturday night with gusty south winds; more wet weather likely next week, details uncertain."><svg class="icon"><use href="#i-wind"/></svg><span class="sr">Wed Nov 4: Windy</span></a>
-      </li>
-      <li class="k-storm">
-<a href="#d-2026-11-05" title="Thu Nov 5: Windy, rainy front hits Friday; a stronger windstorm is possible Saturday night, with more storms continuing into next week."><svg class="icon"><use href="#i-storm"/></svg><span class="sr">Thu Nov 5: Stormy</span></a>
-      </li>
-      <li class="k-storm">
-<a href="#d-2026-11-06" title="Fri Nov 6: Saturday is mild and mostly dry, then a strong windstorm and heavy rain arrive Saturday night, with high surf on the coast Sunday."><svg class="icon"><use href="#i-storm"/></svg><span class="sr">Fri Nov 6: Stormy</span></a>
-      </li>
-      <li class="k-storm">
-<a href="#d-2026-11-07" title="Sat Nov 7: Strong cold front brings damaging wind, heavy rain and dangerous surf tonight into Sunday; more wet systems follow next week."><svg class="icon"><use href="#i-storm"/></svg><span class="sr">Sat Nov 7: Stormy</span></a>
-      </li>
-    </ol>
-    <p class="strip-ends"><span>Fri Oct 9</span><span>Sat Nov 7</span></p>
+    <ol class="strip strip-month" aria-label="The past 30 days, one tile per day, oldest first">
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-09" title="Fri Oct 9: Showers end Saturday evening, then clear, cold nights bring the season&#39;s first frost; light rain returns Tuesday into Wednesday. (Frost Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Fri Oct 9: Rain; Frost Advisory</span></a>
+    <span class="num" aria-hidden="true">9<b>Oct</b></span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-10" title="Sat Oct 10: Showers end tonight, then dry, sunny, frosty mornings through Monday; uncertain midweek rain, then warmer, lower-70s weather by Friday. (Frost Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Sat Oct 10: Rain; Frost Advisory</span></a>
+    <span class="num" aria-hidden="true">10</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-11" title="Sun Oct 11: Frost and patchy fog expected early Monday, then mostly dry and warming through Friday, with cooler, rainier weather likely by Saturday. (Frost Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Sun Oct 11: Rain; Frost Advisory</span></a>
+    <span class="num" aria-hidden="true">11</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-12" title="Mon Oct 12: Light showers clip the northwest Tuesday, warm dry weather Thursday and Friday, then wetter, breezier weather returns Sunday into Monday. (Frost Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Mon Oct 12: Rain; Frost Advisory</span></a>
+    <span class="num" aria-hidden="true">12</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-13" title="Tue Oct 13: Light rain tonight, then warm and dry Thursday and Friday, before cooler, wetter weather returns Saturday and lasts into Tuesday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Tue Oct 13: Rain</span></a>
+    <span class="num" aria-hidden="true">13</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-14" title="Wed Oct 14: Warm, dry weather through Friday with possible morning fog, then cooler, unsettled weather with light rain Saturday and early next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Wed Oct 14: Rain</span></a>
+    <span class="num" aria-hidden="true">14</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-15" title="Thu Oct 15: Warm, dry Friday with highs in the mid to upper 70s, then a weak, light-rain system Saturday and cooler weather. (Dense Fog Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Thu Oct 15: Rain; Dense Fog Advisory</span></a>
+    <span class="num" aria-hidden="true">15</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-16" title="Fri Oct 16: Rain arrives late tonight into Saturday morning, then cooler, mostly dry weather follows into early next week, with a weak front possible midweek."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Fri Oct 16: Rain</span></a>
+    <span class="num" aria-hidden="true">16</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-17" title="Sat Oct 17: Dry weather with morning fog and frost lasts through Wednesday; light rain chances return Thursday into late next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sat Oct 17: Rain</span></a>
+    <span class="num" aria-hidden="true">17</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-18" title="Sun Oct 18: Quiet, chilly weather with possible frost early in the week; only light rain and mountain flurries possible Thursday into Friday."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sun Oct 18: Rain</span></a>
+    <span class="num" aria-hidden="true">18</span>
+  </li>
+  <li class="k-sun">
+<a class="tile" href="#d-2026-10-19" title="Mon Oct 19: Dry, mild weather continues through Wednesday, a weak front arrives Thursday, and a possible weekend system is uncertain but will lower snow levels."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Mon Oct 19: Dry and bright</span></a>
+    <span class="num" aria-hidden="true">19</span>
+  </li>
+  <li class="k-sun">
+<a class="tile" href="#d-2026-10-20" title="Tue Oct 20: Dry through Friday apart from a weak Thursday system; a possible weak weekend system is a toss-up in track and timing."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Tue Oct 20: Dry and bright</span></a>
+    <span class="num" aria-hidden="true">20</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-21" title="Wed Oct 21: Mostly dry through Friday, then a cooler pattern brings frost chances Saturday morning and returning showers from Saturday into next week."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Wed Oct 21: Rain</span></a>
+    <span class="num" aria-hidden="true">21</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-22" title="Thu Oct 22: Mostly dry, mild weather through Friday, then light weekend showers, a mostly dry week, and a possible wetter pattern by early November."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Thu Oct 22: Rain</span></a>
+    <span class="num" aria-hidden="true">22</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-23" title="Fri Oct 23: Light rain arrives Saturday night into Sunday, then cool, cloudy, mostly dry weather next week; an active pattern is possible around Halloween."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Fri Oct 23: Rain</span></a>
+    <span class="num" aria-hidden="true">23</span>
+  </li>
+  <li class="k-wind">
+<a class="tile" href="#d-2026-10-24" title="Sat Oct 24: Heavier rain and breezy winds arrive overnight and Sunday, showers linger Monday, and unsettled seasonal weather continues through the week."><svg class="icon"><use href="#i-wind"/></svg><span class="sr">Sat Oct 24: Windy</span></a>
+    <span class="num" aria-hidden="true">24</span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-10-25" title="Sun Oct 25: Showers Monday, then a Tuesday night–Wednesday front brings lowland rain, first notable Cascade snow, and a cooler, drier weekend."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Sun Oct 25: Rain</span></a>
+    <span class="num" aria-hidden="true">25</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-26" title="Mon Oct 26: Showers Tuesday, then steadier rain Tuesday night and the season&#39;s first widespread Cascade snow Wednesday, with a Winter Weather Advisory in effect. (Winter Weather Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Mon Oct 26: Rain; Winter Weather Advisory</span></a>
+    <span class="num" aria-hidden="true">26</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-27" title="Tue Oct 27: Steady rain and the season&#39;s first widespread Cascade snow arrive tonight into Wednesday, then cool showers linger before drying this weekend. (Winter Weather Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Tue Oct 27: Rain; Winter Weather Advisory</span></a>
+    <span class="num" aria-hidden="true">27</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-28" title="Wed Oct 28: A lingering offshore low keeps showers and cool weather through Friday, then a mostly dry, chilly weekend and midweek follow. (Winter Weather Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Wed Oct 28: Rain; Winter Weather Advisory</span></a>
+    <span class="num" aria-hidden="true">28</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-29" title="Thu Oct 29: Showers fade Saturday; Freeze Watch for parts of southwest Washington Friday night, then a quiet, mild, mostly cloudy week. (Freeze Watch)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Thu Oct 29: Rain; Freeze Watch</span></a>
+    <span class="num" aria-hidden="true">29</span>
+  </li>
+  <li class="k-rain hazard">
+<a class="tile" href="#d-2026-10-30" title="Fri Oct 30: Showers end tonight, then a cold, dry weekend with frost and freezing lows early Saturday and mostly dry weather into next week. (Freeze Watch; Freeze Warning; Frost Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Fri Oct 30: Rain; Freeze Watch; Freeze Warning; Frost Advisory</span></a>
+    <span class="num" aria-hidden="true">30</span>
+  </li>
+  <li class="k-fog hazard">
+<a class="tile" href="#d-2026-10-31" title="Sat Oct 31: Frost and dense fog early Sunday, mostly dry through Monday, then wetter, windier weather Wednesday through Friday, with Friday strongest. (Freeze Warning; Frost Advisory; Dense Fog Advisory)"><svg class="icon"><use href="#i-fog"/></svg><span class="haz-dot"></span><span class="sr">Sat Oct 31: Fog and low clouds; Freeze Warning; Frost Advisory; Dense Fog Advisory</span></a>
+    <span class="num" aria-hidden="true">31</span>
+  </li>
+  <li class="k-rain first-of-month hazard">
+<a class="tile" href="#d-2026-11-01" title="Sun Nov 1: Cloudy with patchy fog Monday, then wetter, windier weather from Wednesday; next weekend could bring heavy rain but is uncertain. (Dense Fog Advisory)"><svg class="icon"><use href="#i-rain"/></svg><span class="haz-dot"></span><span class="sr">Sun Nov 1: Rain; Dense Fog Advisory</span></a>
+    <span class="num" aria-hidden="true">1<b>Nov</b></span>
+  </li>
+  <li class="k-rain">
+<a class="tile" href="#d-2026-11-02" title="Mon Nov 2: Quiet Tuesday, then a wetter, windier pattern from Wednesday, with the strongest storm likely Friday bringing wind, rain, mountain snow and high surf."><svg class="icon"><use href="#i-rain"/></svg><span class="sr">Mon Nov 2: Rain</span></a>
+    <span class="num" aria-hidden="true">2</span>
+  </li>
+  <li class="k-sun">
+<a class="tile" href="#d-2026-11-03" title="Tue Nov 3: Dry through Wednesday morning, then a weak front, with a stronger, windier storm series starting Friday and continuing into next week."><svg class="icon"><use href="#i-sun"/></svg><span class="sr">Tue Nov 3: Dry and bright</span></a>
+    <span class="num" aria-hidden="true">3</span>
+  </li>
+  <li class="k-wind">
+<a class="tile" href="#d-2026-11-04" title="Wed Nov 4: Light rain tonight, then stormy Friday and Saturday night with gusty south winds; more wet weather likely next week, details uncertain."><svg class="icon"><use href="#i-wind"/></svg><span class="sr">Wed Nov 4: Windy</span></a>
+    <span class="num" aria-hidden="true">4</span>
+  </li>
+  <li class="k-storm hazard">
+<a class="tile" href="#d-2026-11-05" title="Thu Nov 5: Windy, rainy front hits Friday; a stronger windstorm is possible Saturday night, with more storms continuing into next week. (Wind Advisory)"><svg class="icon"><use href="#i-storm"/></svg><span class="haz-dot"></span><span class="sr">Thu Nov 5: Stormy; Wind Advisory</span></a>
+    <span class="num" aria-hidden="true">5</span>
+  </li>
+  <li class="k-storm hazard">
+<a class="tile" href="#d-2026-11-06" title="Fri Nov 6: Saturday is mild and mostly dry, then a strong windstorm and heavy rain arrive Saturday night, with high surf on the coast Sunday. (Wind Advisory; High Wind Watch; High Surf Advisory)"><svg class="icon"><use href="#i-storm"/></svg><span class="haz-dot"></span><span class="sr">Fri Nov 6: Stormy; Wind Advisory; High Wind Watch; High Surf Advisory</span></a>
+    <span class="num" aria-hidden="true">6</span>
+  </li>
+  <li class="k-storm hazard">
+<a class="tile" href="#d-2026-11-07" title="Sat Nov 7: Strong cold front brings damaging wind, heavy rain and dangerous surf tonight into Sunday; more wet systems follow next week. (High Wind Warning; Wind Advisory; High Surf Warning)"><svg class="icon"><use href="#i-storm"/></svg><span class="haz-dot"></span><span class="sr">Sat Nov 7: Stormy; High Wind Warning; Wind Advisory; High Surf Warning</span></a>
+    <span class="num" aria-hidden="true">7</span>
+  </li>
+</ol>
+
     <ul class="legend">
-<li class="k-storm"><svg class="icon"><use href="#i-storm"/></svg>Stormy</li><li class="k-wind"><svg class="icon"><use href="#i-wind"/></svg>Windy</li><li class="k-rain"><svg class="icon"><use href="#i-rain"/></svg>Rain</li><li class="k-fog"><svg class="icon"><use href="#i-fog"/></svg>Fog and low clouds</li><li class="k-sun"><svg class="icon"><use href="#i-sun"/></svg>Dry and bright</li>    </ul>
+<li class="k-storm"><svg class="icon"><use href="#i-storm"/></svg>Stormy</li><li class="k-wind"><svg class="icon"><use href="#i-wind"/></svg>Windy</li><li class="k-rain"><svg class="icon"><use href="#i-rain"/></svg>Rain</li><li class="k-fog"><svg class="icon"><use href="#i-fog"/></svg>Fog and low clouds</li><li class="k-sun"><svg class="icon"><use href="#i-sun"/></svg>Dry and bright</li><li class="legend-haz"><span class="haz-dot"></span>Watch, warning, or advisory</li>    </ul>
     <ol class="days">
       <li id="d-2026-11-07">
         <h3 class="day-label"><svg class="icon k-storm" aria-label="Stormy" role="img"><use href="#i-storm"/></svg>Sat Nov 7</h3>

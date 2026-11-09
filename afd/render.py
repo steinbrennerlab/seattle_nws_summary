@@ -48,6 +48,25 @@ def sky_kind(*texts: str | None) -> str:
     return "cloud"
 
 
+# Hazards in the summaries are free text ("No watches...", "Possible high surf...", "Small Craft
+# Advisory for the coastal waters..."). For the day tiles, keep only the names of products in
+# effect for land, such as "Wind Advisory" or "High Wind Warning".
+PRODUCT_NAME = re.compile(r"\b((?:[A-Z][a-z]+(?:[ -]| and ))*?(?:[A-Z][a-z]+ )(?:Warning|Watch|Advisory|Statement))\b")
+MARINE = re.compile(r"small craft|gale|hazardous seas|hurricane force|^storm (?:warning|watch)|brisk wind|special marine", re.I)
+NOT_ISSUED = re.compile(r"^\s*no\b|not yet|not an official|possible|potential|may need|could|monitor", re.I)
+
+
+def land_products(hazards: list[str]) -> list[str]:
+    names = []
+    for text in hazards:
+        if NOT_ISSUED.search(text):
+            continue
+        for name in PRODUCT_NAME.findall(text):
+            if not MARINE.search(name):
+                names.append(name)
+    return list(dict.fromkeys(names))
+
+
 def build(paths: Paths, status: dict) -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html", "j2"]),
                       trim_blocks=True, lstrip_blocks=True)
@@ -83,7 +102,10 @@ def build(paths: Paths, status: dict) -> None:
             first = next((x["summary"] for x in reversed(by_day[d]) if x["summary"]), None)
             headline = (summary or first or {}).get("headline")
             kind = sky_kind(headline) if headline else None
+            # Land watches, warnings, and advisories named in any of the day's discussions.
+            hazards = land_products([h for x in by_day[d] for h in (x["summary"] or {}).get("hazards") or []])
             recent_days.append({
+                "hazards": hazards,
                 "date": d, "label": day_label(d), "anchor": f"d-{d.isoformat()}",
                 "summary": summary, "discussions": by_day[d],
                 "kind": kind, "kind_label": SKY_LABELS.get(kind), "headline": headline,
@@ -91,7 +113,7 @@ def build(paths: Paths, status: dict) -> None:
         # One tile per calendar day, oldest first; a day with no discussion is an empty tile.
         known = {x["date"]: x for x in recent_days}
         strip = [known.get(cutoff + timedelta(days=i)) or {"date": cutoff + timedelta(days=i),
-                 "label": day_label(cutoff + timedelta(days=i)), "kind": None}
+                 "label": day_label(cutoff + timedelta(days=i)), "kind": None, "hazards": []}
                  for i in range(MONTH_DAYS)]
     rated = [x for x in strip if x["kind"]]
     tally = {"rainy": sum(x["kind"] in RAINY for x in rated), "of": len(rated)}

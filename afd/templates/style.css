@@ -193,6 +193,22 @@ main, footer, .masthead-text {
   .wx, .wx-2 { animation: none !important; }
 }
 
+/* ---------- jump links ---------- */
+.jump {
+  display: flex; flex-wrap: wrap; gap: 0.5rem;
+  padding: 1.25rem 0 0;
+  font: 600 0.85rem/1 var(--sans);
+}
+.jump a {
+  padding: 0.5rem 0.85rem;
+  border: 1px solid var(--rule); border-radius: 999px;
+  background: var(--card); color: var(--fir-ink); text-decoration: none;
+}
+.jump a:hover { border-color: var(--fir-ink); }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+.block { scroll-margin-top: 0.5rem; }
+
 /* ---------- content blocks ---------- */
 /* Each block: a narrow column naming the time span, then the reading column. */
 .block {
@@ -261,18 +277,38 @@ p { margin: 0 0 1rem; }
 .tally { font: 400 1rem/1.5 var(--sans); color: var(--muted); margin-bottom: 0.75rem; }
 .tally strong { color: var(--ink); }
 .strip {
-  list-style: none; padding: 0; margin: 0;
+  list-style: none; padding: 0; margin: 0 0 0.75rem;
   display: grid; grid-template-columns: repeat(30, minmax(0, 1fr)); gap: 3px;
 }
-.strip li { aspect-ratio: 1 / 2; border-radius: 4px; position: relative; }
-.strip li > a, .strip li > span { position: absolute; inset: 0; display: grid; place-items: end center; padding-bottom: 18%; border-radius: 4px; }
-.strip li:not(.k-none) { background: linear-gradient(to top, color-mix(in srgb, currentColor 42%, var(--bg)), color-mix(in srgb, currentColor 12%, var(--bg))); }
-.strip li:not(.k-none):hover { background: color-mix(in srgb, currentColor 55%, var(--bg)); }
-.strip li:not(.k-none):hover .icon { color: var(--bg); }
+.strip li { display: flex; flex-direction: column; min-width: 0; }
+.strip .tile {
+  position: relative; aspect-ratio: 1 / 2; border-radius: 4px;
+  display: grid; place-items: end center; padding-bottom: 18%;
+}
+.strip li:not(.k-none) .tile { background: linear-gradient(to top, color-mix(in srgb, currentColor 42%, var(--bg)), color-mix(in srgb, currentColor 12%, var(--bg))); }
+.strip li:not(.k-none) .tile:hover { background: color-mix(in srgb, currentColor 55%, var(--bg)); }
+.strip li:not(.k-none) .tile:hover .icon { color: var(--bg); }
 .strip .icon { width: 78%; height: auto; aspect-ratio: 1; stroke-width: 2.4; }
-.strip .first-of-month { box-shadow: -3px 0 0 -1px var(--muted); }
-.strip .k-none { border: 1px dashed var(--rule); }
-.strip-ends { display: flex; justify-content: space-between; font: 400 0.75rem/1.4 var(--sans); color: var(--muted); margin: 0.35rem 0 0.75rem; }
+.strip .k-none .tile { border: 1px dashed var(--rule); }
+.strip .first-of-month .tile { box-shadow: -3px 0 0 -1px var(--muted); }
+/* Hazard days: an amber dot at the top of the tile and a matching ring. */
+.haz-dot {
+  display: inline-block; width: 0.5rem; height: 0.5rem; border-radius: 50%;
+  background: var(--k-sun); box-shadow: 0 0 0 2px var(--bg);
+}
+.strip .haz-dot { position: absolute; top: 0.3rem; left: 50%; translate: -50% 0; width: 32%; max-width: 0.6rem; height: auto; aspect-ratio: 1; }
+.strip .hazard .tile { outline: 2px solid color-mix(in srgb, var(--k-sun) 70%, transparent); outline-offset: -2px; }
+.strip .num {
+  font: 400 0.65rem/1.2 var(--sans); color: var(--muted); text-align: center;
+  margin-top: 0.25rem; white-space: nowrap;
+}
+.strip .num b { display: block; font-weight: 600; color: var(--ink); }
+
+/* The week strip: seven wider, shorter tiles labeled by weekday. */
+.strip-week { grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 6px; max-width: 26rem; margin-bottom: 1.25rem; }
+.strip-week .tile { aspect-ratio: 3 / 4; place-items: center; padding-bottom: 0; }
+.strip-week .icon { width: 55%; }
+.strip-week .num { font-size: 0.75rem; }
 .legend { list-style: none; padding: 0; margin: 0 0 2rem; display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; font: 400 0.8rem/1.4 var(--sans); }
 .legend li { display: inline-flex; align-items: center; gap: 0.3rem; }
 .legend li { color: var(--muted); }
@@ -281,6 +317,7 @@ p { margin: 0 0 1rem; }
 .legend .k-rain .icon { color: var(--k-rain); } .legend .k-snow .icon { color: var(--k-snow); }
 .legend .k-fog .icon { color: var(--k-fog); } .legend .k-sun .icon { color: var(--k-sun); }
 .legend .k-cloud .icon { color: var(--k-cloud); }
+.legend .legend-haz { gap: 0.45rem; }
 
 /* ---------- day list and archive ---------- */
 .days { list-style: none; padding: 0; margin: 0; }
