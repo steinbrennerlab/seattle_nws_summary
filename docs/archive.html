@@ -23,6 +23,8 @@
     <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></symbol>
     <symbol id="fir" viewBox="0 0 20 60"><path d="M10 0l3 10h-2l4 10h-3l5 12h-4l6 14h-8v10h-2V46H1l6-14H3l5-12H5l4-10H7z"/></symbol>
     <symbol id="needle" viewBox="0 0 20 80"><path d="M9.5 0h1v13h-1zM1 13h18l-3 5H4zM8 18h4l1.6 62h-2L10 30l-1.6 50h-2z"/></symbol>
+    <symbol id="puff" viewBox="0 0 100 34"><ellipse cx="22" cy="24" rx="20" ry="10"/><ellipse cx="45" cy="16" rx="22" ry="14"/><ellipse cx="70" cy="20" rx="20" ry="12"/><ellipse cx="84" cy="27" rx="14" ry="7"/><rect x="8" y="24" width="84" height="10" rx="5"/></symbol>
+    <radialGradient id="sunglow"><stop class="glow-a" offset="0"/><stop class="glow-b" offset="1"/></radialGradient>
   </defs>
 </svg>
 
@@ -35,38 +37,104 @@
 
   <div class="scene" aria-hidden="true">
     <svg viewBox="0 0 1200 220" preserveAspectRatio="xMidYMax slice">
+      <g class="stars">
+        <circle cx="60" cy="18" r="0.9" style="animation-delay: -0.7s"/>
+        <circle cx="150" cy="40" r="1.3" style="animation-delay: -1.4s"/>
+        <circle cx="230" cy="12" r="0.9" style="animation-delay: -2.0999999999999996s"/>
+        <circle cx="410" cy="30" r="1.3" style="animation-delay: -2.8s"/>
+        <circle cx="470" cy="8" r="0.9" style="animation-delay: -3.5s"/>
+        <circle cx="560" cy="36" r="1.3" style="animation-delay: -4.199999999999999s"/>
+        <circle cx="690" cy="14" r="0.9" style="animation-delay: -4.8999999999999995s"/>
+        <circle cx="760" cy="44" r="1.3" style="animation-delay: -5.6s"/>
+        <circle cx="850" cy="20" r="0.9" style="animation-delay: -6.3s"/>
+        <circle cx="1010" cy="32" r="1.3" style="animation-delay: -7.0s"/>
+        <circle cx="1090" cy="10" r="0.9" style="animation-delay: -7.699999999999999s"/>
+        <circle cx="1160" cy="46" r="1.3" style="animation-delay: -8.399999999999999s"/>
+        <circle cx="300" cy="58" r="0.9" style="animation-delay: -9.1s"/>
+        <circle cx="640" cy="60" r="1.3" style="animation-delay: -9.799999999999999s"/>
+      </g>
+      <g class="sun">
+        <circle class="sun-glow" cx="330" cy="46" r="70" fill="url(#sunglow)"/>
+        <circle class="sun-disk" cx="330" cy="46" r="15"/>
+      </g>
+      <g class="clouds clouds-more">
+        <use href="#puff" x="-10" y="4" width="170" height="54"/><use href="#puff" x="330" y="12" width="150" height="46"/>
+        <use href="#puff" x="520" y="-2" width="190" height="58"/><use href="#puff" x="900" y="8" width="160" height="50"/>
+        <use href="#puff" x="1070" y="30" width="130" height="40"/>
+      </g>
+      <path class="bolt" d="M432 16l-10 30h9l-13 34 7-2-9 30"/>
+      <path class="ridge-farthest" d="M0 140 40 118 70 124 110 96 160 74 186 92 214 80 250 90 300 104 360 112 420 124 500 136 640 146V220H0z"/>
       <path class="ridge-far" d="M0 150 30 128 58 136 92 104 118 120 146 86 170 108 196 92 222 114 254 98 288 126 330 118 372 136 430 132 520 146 640 150 1200 152V220H0z"/>
+      <path class="snow-far" d="M136 98 146 86 157 99 151 96 147 100 142 95zM188 101 196 92 204 102 199 99 195 103zM86 111 92 104 99 112 94 110zM246 103 254 98 263 107 257 104 253 106z"/>
+      <g class="clouds clouds-few">
+        <use href="#puff" x="110" y="24" width="110" height="36"/><use href="#puff" x="740" y="44" width="84" height="27"/>
+      </g>
       <path class="ridge-mid" d="M640 162 760 140C812 122 852 100 892 86c18-5 36-4 54 4 42 20 92 46 150 62l104 12V220H640z"/>
+      <path class="shade" d="M930 85c6 1 11 3 16 5 42 20 92 46 150 62l104 12V220H990C975 170 952 122 930 85z"/>
       <path class="snowcap" d="M838 112c22-12 38-22 54-26 18-5 36-4 54 4 18 9 34 18 48 27l-20-3-12 8-18-11-14 9-20-10-16 9-18-10-16 9z"/>
+      <path class="snowcap glaciers" d="M858 116l-7 16 11-15zM887 118l-2 20 8-20zM922 118l4 22 4-22zM958 120l10 18 2-17zM992 126l13 13-1-12z"/>
+      <g class="wisps">
+        <ellipse cx="300" cy="142" rx="130" ry="5"/><ellipse cx="780" cy="140" rx="95" ry="4"/>
+        <ellipse cx="1010" cy="152" rx="120" ry="5"/><ellipse cx="520" cy="156" rx="80" ry="3"/>
+      </g>
       <path class="ridge-near" d="M0 172 70 162 140 168 230 158 320 166 420 160 520 170 600 166 700 172 820 164 940 170 1060 162 1200 168V220H0z"/>
       <rect class="water" x="0" y="180" width="1200" height="40"/>
       <path class="water-glint" d="M380 192h70M470 200h40M560 194h90M700 204h60M330 206h50"/>
+      <path class="water-glint glint-2" d="M300 198h30M420 208h55M520 188h30M640 210h70M780 196h45M860 208h35"/>
       <g class="city">
+        <rect x="586" y="170" width="8" height="10"/><rect x="596" y="155" width="10" height="25"/>
         <rect x="610" y="168" width="10" height="12"/><rect x="622" y="162" width="8" height="18"/>
         <rect x="632" y="170" width="12" height="10"/><rect x="664" y="164" width="9" height="16"/>
+        <rect x="675" y="167" width="8" height="13"/><rect x="685" y="171" width="12" height="9"/>
         <use href="#needle" x="645" y="118" width="16" height="62"/>
       </g>
+      <g class="windows">
+        <rect x="598.5" y="159" width="1.6" height="1.6" style="animation-delay: -1.3s"/>
+        <rect x="602" y="165" width="1.6" height="1.6" style="animation-delay: -2.6s"/>
+        <rect x="598.5" y="171" width="1.6" height="1.6" style="animation-delay: -3.9000000000000004s"/>
+        <rect x="613" y="172" width="1.6" height="1.6" style="animation-delay: -5.2s"/>
+        <rect x="624.5" y="166" width="1.6" height="1.6" style="animation-delay: -6.5s"/>
+        <rect x="627" y="173" width="1.6" height="1.6" style="animation-delay: -7.800000000000001s"/>
+        <rect x="635" y="174" width="1.6" height="1.6" style="animation-delay: -9.1s"/>
+        <rect x="667" y="168" width="1.6" height="1.6" style="animation-delay: -10.4s"/>
+        <rect x="670" y="174" width="1.6" height="1.6" style="animation-delay: -11.700000000000001s"/>
+        <rect x="677.5" y="171" width="1.6" height="1.6" style="animation-delay: -13.0s"/>
+        <rect x="688" y="174" width="1.6" height="1.6" style="animation-delay: -14.3s"/>
+        <rect x="692" y="174" width="1.6" height="1.6" style="animation-delay: -15.600000000000001s"/>
+      </g>
+      <g class="ferry"><g class="ferry-bob">
+        <path class="ferry-wake" d="M-6 13h52"/>
+        <path class="ferry-hull" d="M0 8h40l-3 4H3z"/>
+        <rect class="ferry-stripe" x="2" y="8" width="36" height="1.5"/>
+        <rect class="ferry-hull" x="7" y="3" width="26" height="5"/>
+        <rect class="ferry-hull" x="16" y="0" width="8" height="3"/>
+        <rect class="ferry-stripe" x="19" y="-3" width="2" height="3"/>
+        <path class="ferry-lights" d="M9 5h22"/>
+      </g></g>
+      <g class="gulls">
+        <path d="M0 0q3-3 6 0q3-3 6 0"/><path d="M22 8q2.5-2.5 5 0q2.5-2.5 5 0"/><path d="M40 -4q2-2 4 0q2-2 4 0"/>
+      </g>
       <g class="firs">
-        <use href="#fir" x="-6" y="130" width="35.4" height="92"/>
-        <use href="#fir" x="10" y="102" width="46.2" height="120"/>
-        <use href="#fir" x="28" y="138" width="32.3" height="84"/>
-        <use href="#fir" x="44" y="114" width="41.5" height="108"/>
-        <use href="#fir" x="60" y="150" width="27.7" height="72"/>
-        <use href="#fir" x="78" y="126" width="36.9" height="96"/>
-        <use href="#fir" x="96" y="158" width="24.6" height="64"/>
-        <use href="#fir" x="150" y="164" width="22.3" height="58"/>
-        <use href="#fir" x="172" y="148" width="28.5" height="74"/>
-        <use href="#fir" x="232" y="172" width="19.2" height="50"/>
-        <use href="#fir" x="936" y="162" width="23.1" height="60"/>
-        <use href="#fir" x="980" y="146" width="29.2" height="76"/>
-        <use href="#fir" x="1016" y="164" width="22.3" height="58"/>
-        <use href="#fir" x="1046" y="126" width="36.9" height="96"/>
-        <use href="#fir" x="1070" y="98" width="47.7" height="124"/>
-        <use href="#fir" x="1092" y="136" width="33.1" height="86"/>
-        <use href="#fir" x="1112" y="110" width="43.1" height="112"/>
-        <use href="#fir" x="1132" y="82" width="53.8" height="140"/>
-        <use href="#fir" x="1158" y="122" width="38.5" height="100"/>
-        <use href="#fir" x="1180" y="94" width="49.2" height="128"/>
+        <use href="#fir" x="-6" y="130" width="35.4" height="92" style="animation-delay: -0.37s"/>
+        <use href="#fir" x="10" y="102" width="46.2" height="120" style="animation-delay: -0.74s"/>
+        <use href="#fir" x="28" y="138" width="32.3" height="84" style="animation-delay: -1.11s"/>
+        <use href="#fir" x="44" y="114" width="41.5" height="108" style="animation-delay: -1.48s"/>
+        <use href="#fir" x="60" y="150" width="27.7" height="72" style="animation-delay: -1.85s"/>
+        <use href="#fir" x="78" y="126" width="36.9" height="96" style="animation-delay: -2.22s"/>
+        <use href="#fir" x="96" y="158" width="24.6" height="64" style="animation-delay: -2.59s"/>
+        <use href="#fir" x="150" y="164" width="22.3" height="58" style="animation-delay: -2.96s"/>
+        <use href="#fir" x="172" y="148" width="28.5" height="74" style="animation-delay: -3.33s"/>
+        <use href="#fir" x="232" y="172" width="19.2" height="50" style="animation-delay: -3.7s"/>
+        <use href="#fir" x="936" y="162" width="23.1" height="60" style="animation-delay: -4.07s"/>
+        <use href="#fir" x="980" y="146" width="29.2" height="76" style="animation-delay: -4.44s"/>
+        <use href="#fir" x="1016" y="164" width="22.3" height="58" style="animation-delay: -4.81s"/>
+        <use href="#fir" x="1046" y="126" width="36.9" height="96" style="animation-delay: -5.18s"/>
+        <use href="#fir" x="1070" y="98" width="47.7" height="124" style="animation-delay: -5.55s"/>
+        <use href="#fir" x="1092" y="136" width="33.1" height="86" style="animation-delay: -5.92s"/>
+        <use href="#fir" x="1112" y="110" width="43.1" height="112" style="animation-delay: -6.29s"/>
+        <use href="#fir" x="1132" y="82" width="53.8" height="140" style="animation-delay: -6.66s"/>
+        <use href="#fir" x="1158" y="122" width="38.5" height="100" style="animation-delay: -7.03s"/>
+        <use href="#fir" x="1180" y="94" width="49.2" height="128" style="animation-delay: -7.4s"/>
       </g>
     </svg>
     <div class="wx"></div>
