@@ -236,13 +236,6 @@ main, footer, .masthead-text {
 .glint-2 { opacity: 0.5; animation-duration: 7s; animation-direction: alternate-reverse; }
 @keyframes shimmer { from { transform: translateX(-8px); stroke-opacity: 0.45; } to { transform: translateX(8px); stroke-opacity: 1; } }
 
-/* Trees sway in wind, harder in a storm. */
-.firs use { transform-box: fill-box; transform-origin: 50% 100%; }
-[data-sky="wind"] .firs use { animation: sway 2.6s ease-in-out infinite alternate; }
-[data-sky="storm"] .firs use { animation: sway-hard 1.5s ease-in-out infinite alternate; }
-@keyframes sway { from { transform: rotate(-1deg); } to { transform: rotate(2.5deg); } }
-@keyframes sway-hard { from { transform: rotate(-1.5deg); } to { transform: rotate(4.5deg); } }
-
 /* Weather overlay: two layers at different speeds for depth. */
 .wx { position: absolute; inset: 0; pointer-events: none; z-index: 1; }
 [data-sky="rain"] .wx, [data-sky="wind"] .wx, [data-sky="storm"] .wx {
