@@ -60,6 +60,11 @@ def run_summaries(paths: Paths, status: dict, limit: int | None) -> int:
         print(f"summary error: {e}", file=sys.stderr)
     status.update(summaries_enabled=True, summary_errors=p.failing,
                   summaries_done=p.done, summaries_total=p.total)
+    # The run log needs a GitHub login to read; status.json is public, so keep the messages here.
+    if p.errors:
+        status["errors"] = [e[:400] for e in p.errors[:10]]
+    else:
+        status.pop("errors", None)
     line = (f"Explained {p.made} discussions in this batch; {p.done} of {p.total} done, "
             f"{p.deferred} waiting, {len(p.errors)} failed in this batch, "
             f"{p.failing} failing in total (see docs/data/failures.json).")
@@ -67,6 +72,8 @@ def run_summaries(paths: Paths, status: dict, limit: int | None) -> int:
     if summary_file := os.environ.get("GITHUB_STEP_SUMMARY"):  # shows on the Actions run page
         with open(summary_file, "a") as f:
             f.write(f"- {datetime.now(timezone.utc):%H:%M}Z: {line}\n")
+            for e in p.errors:
+                f.write(f"  - error: {e}\n")
     if not p.finished:
         return MORE_TO_DO
     return 1 if p.errors else 0
