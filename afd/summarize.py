@@ -93,9 +93,14 @@ class AnthropicLLM:
         self.client = anthropic.Anthropic()
         self.model = model
 
+    # Current models (Haiku 5.5, Sonnet 5.5) think before answering by default, and thinking
+    # counts toward max_tokens. Callers size max_tokens for the visible reply, so add room for
+    # thinking on top; only tokens actually generated are billed.
+    THINKING_ROOM = 8000
+
     def complete(self, system: str, user: str, max_tokens: int) -> str:
         msg = self.client.messages.create(
-            model=self.model, max_tokens=max_tokens, system=system,
+            model=self.model, max_tokens=max_tokens + self.THINKING_ROOM, system=system,
             messages=[{"role": "user", "content": user}],
         )
         text = "".join(b.text for b in msg.content if b.type == "text")
