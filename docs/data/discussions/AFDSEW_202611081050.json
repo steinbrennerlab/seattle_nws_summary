@@ -1,0 +1,79 @@
+{
+  "id": "AFDSEW_202611081050",
+  "issued": "2026-11-08T10:50:00+00:00",
+  "headline": "Showers ease today, then a series of fronts arrives, with an atmospheric river likely Friday and Saturday.",
+  "summary": "Western Washington is in a brief break between weather systems. Showers from a cold front that has already passed are drying up this afternoon, and skies should be mostly cloudy to partly sunny. Winds have eased, though it is still breezy in some spots, and the coast is still dangerous because of high surf.\n\nThe next system reaches the area Monday. Its parent low is far north in the Gulf of Alaska, which stretches the front out so it lies north to south and moves slowly east. Rain arrives at the coast Monday afternoon and reaches the interior by the afternoon commute, ending after midnight. A warm front follows Tuesday, and then a trailing cold front stalls offshore Wednesday. Western Washington would sit in the warm air ahead of that front, which could bring record highs. The front weakens as a deep trough of low pressure digs south offshore, and what remains moves inland Thursday into Thursday night.\n\nLater in the week, a moisture-rich plume called an atmospheric river sets up over the region Friday. Another trough could pivot that plume directly over Western Washington, keeping rain going Friday night into Saturday. Snow is expected only in the higher mountains, well above the passes. River flooding is not expected in the next seven days, though saturated soils and higher base flows are likely.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Post-frontal showers dry up this afternoon. Winds ease but are still breezy in some spots. Highs in the mid 50s. High surf warning remains in effect for the coast, and seas are forecast to reach 20 to 25 feet this afternoon."
+    },
+    {
+      "when": "Tonight",
+      "what": "Skies clear somewhat. Colder locations drop into the mid 30s, and most places fall to around 40. Seas ease to about 15 to 18 feet."
+    },
+    {
+      "when": "Monday",
+      "what": "Rain reaches the coast early afternoon and the interior by the afternoon commute. Winds are windy along the coast and in the Northwest Interior, though not as strong as Saturday. Highs in the mid 50s. Rain ends after midnight."
+    },
+    {
+      "when": "Tuesday",
+      "what": "Rain returns during the day as a warm front approaches, with a long moisture feed from far out in the Pacific. Highs in the mid 50s. Winds and seas increase again overnight Monday and through Tuesday."
+    },
+    {
+      "when": "Wednesday",
+      "what": "The trailing cold front stalls offshore and Western Washington is in the warm air behind the warm front. Record highs in the lower to mid 60s are possible."
+    },
+    {
+      "when": "Thursday into Friday night",
+      "what": "The weakened remains of the front move inland Thursday into Thursday night. Flow aloft consolidates offshore Friday and an atmospheric river sets up over Western Washington for more rain."
+    },
+    {
+      "when": "Friday night into Saturday",
+      "what": "A trough digging south offshore could pivot the atmospheric river directly over Western Washington, keeping rain going. If the river stalls, the Skokomish River is the one to watch."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the timing of Monday's front and the warm front Tuesday night, since extended models agree well on those. They are less certain about the Friday and Saturday atmospheric river, because the trough that could pivot it sits farther east than earlier systems, and its exact position will decide how much rain falls where. The possible record highs Wednesday are also tentative, since they depend on how the front stalls.",
+  "hazards": [
+    "High surf warning for the Grays Harbor County Coast and Northern Washington Coast until 10 PM tonight.",
+    "Small craft advisory for the Grays Harbor Bar until 4 AM Monday.",
+    "Gale warnings for several Washington coastal waters, the Strait of Juan de Fuca, Admiralty Inlet and northern inland waters including the San Juan Islands, and Puget Sound and Hood Canal, ending between 4 AM and 10 AM this morning.",
+    "Small craft advisory for coastal waters from Cape Flattery to Point Grenville and Cape Shoalwater from 7 AM this morning until 4 AM Monday.",
+    "Gale watch for the coastal waters from late tonight through Monday evening, where gale-force gusts have a 50 to 80 percent chance.",
+    "Gale watch for the east entrance of the Strait of Juan de Fuca Monday morning through Monday evening, where gale-force gusts have a 50 to 80 percent chance."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow corridor of concentrated moisture in the atmosphere that can carry heavy rain into a region. It is often tied to the systems that push it onto land."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "An elongated area of low pressure high in the atmosphere. Troughs often bring cooler, unsettled weather to the surface below as they move."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass advancing into colder air. It typically brings steady rain and a gradual rise in temperature."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area of relatively warm air between a warm front and a trailing cold front. Weather there is usually mild, and it is often where record highs occur."
+    },
+    {
+      "term": "Integrated vapor transport (IVT)",
+      "definition": "A measure of how much water vapor is moving through the atmosphere, with higher values signaling a stronger atmospheric river. Forecasters cite values in the 800 to 1000 range as among the highest this season."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow. An elevated snow level means snow stays in the mountains and rain falls in the lowlands."
+    },
+    {
+      "term": "Base flows",
+      "definition": "The steady flow of water in rivers and streams that comes from groundwater and saturated soils, rather than from recent rain. Raising base flows makes streams more responsive to future rain."
+    },
+    {
+      "term": "High surf warning",
+      "definition": "A National Weather Service alert that large, dangerous waves are expected along the coast. It warns people to stay off beaches and jetties."
+    }
+  ]
+}

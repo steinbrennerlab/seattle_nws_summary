@@ -1,0 +1,66 @@
+{
+  "id": "AFDSEW_202611081626",
+  "issued": "2026-11-08T16:26:00+00:00",
+  "headline": "Mostly calmer weather today, a front Monday, possible record warmth Wednesday, and an atmospheric river Friday into Saturday.",
+  "summary": "Today is a break between weather systems. Showers are tapering off, winds are easing, and the day will be mostly cloudy with some sun and highs in the mid 50s. Beach hazards from the recent storm remain, so the high surf warning stays in effect until 10 PM tonight.\n\nMonday brings a new front, with rain reaching the coast early in the afternoon and the interior by the afternoon commute. The front moves slowly because the storm system behind it is far to the north in the Gulf of Alaska, which stretches the front out and slows its march east. Rain ends after midnight Monday night. Winds will be gusty along the coast and in northwest interior areas, but forecasters say they will not be as strong as Saturday's.\n\nThe rest of the week is warmer and wetter. A warm front lifts north Tuesday night, and a cold front stalls offshore Wednesday, which keeps western Washington in warm air. Possible record highs in the lower to mid 60s are forecast for Wednesday. The front weakens later in the week. A stronger atmospheric river, a long band of moisture from the subtropics, sets up over the region Friday and Saturday, with rain continuing into Saturday. Snow will stay confined to the higher mountains.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Showers taper off and winds ease. Mostly cloudy with some sun and highs in the mid 50s. High surf warning remains in effect until 10 PM."
+    },
+    {
+      "when": "Tonight through Monday",
+      "what": "Some clearing overnight, with lows in the mid 30s in colder spots and most places near 40. Rain arrives Monday, reaching the coast early afternoon and the interior by the afternoon commute. Highs in the mid 50s."
+    },
+    {
+      "when": "Monday night through Tuesday night",
+      "what": "The front moves through Monday evening, and rain ends after midnight. Lows in the mid 40s to lower 50s. Rain returns Tuesday with highs in the mid 50s. The warm front lifts north Tuesday night."
+    },
+    {
+      "when": "Wednesday",
+      "what": "Warm air settles over western Washington as the cold front stalls offshore. Possible record highs in the lower to mid 60s."
+    },
+    {
+      "when": "Thursday through Thursday night",
+      "what": "The cold front, now weakened and stretched out, moves inland later Thursday into Thursday night."
+    },
+    {
+      "when": "Friday through Saturday",
+      "what": "An atmospheric river sets up over western Washington, bringing rain Friday. A second upper-level trough may keep the rain going into Saturday. Snow stays in the higher mountains."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the warm front and the warm spell Tuesday through Wednesday, since the longer-range computer models agree well. They are less sure about Friday into Saturday. Where the atmospheric river sets up and whether it stalls could change how much rain falls and whether flooding becomes a concern on the Skokomish River.",
+  "hazards": [
+    "High Surf Warning until 10 PM PST tonight for the Grays Harbor County Coast and the Northern Washington Coast, meaning dangerous surf along beaches.",
+    "Gale Warning until 10 AM PST this morning for the west entrance of the Strait of Juan de Fuca, meaning strong winds on the water.",
+    "Small Craft Advisory until 4 AM PST Monday for coastal waters, the west entrance of the Strait of Juan de Fuca, and Grays Harbor bar.",
+    "Gale Watch late tonight through Monday evening for outer coastal waters, meaning strong winds may develop.",
+    "Gale Watch Monday morning through Monday evening for the east entrance of the Strait of Juan de Fuca."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of moisture in the sky that can carry heavy rain or snow over a region. It often comes from the subtropical Pacific."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cold air mass pushing into warmer air. It often brings a line of showers and a shift to cooler, windier weather."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warm air mass pushing into colder air. It often brings steady rain followed by milder temperatures."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "An elongated dip in the high-altitude winds that often brings unsettled weather and cooler air to the region beneath it."
+    },
+    {
+      "term": "Post-frontal",
+      "definition": "The period right after a front has passed. Winds and showers often linger, then gradually ease."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow. A high snow level means snow is limited to high mountain terrain."
+    }
+  ]
+}

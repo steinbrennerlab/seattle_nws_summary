@@ -1,0 +1,178 @@
+FXUS66 KSEW 082305
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+305 PM PST Sun Nov 8 2026
+
+.SYNOPSIS...
+A brief break in the weather this afternoon with some showers
+around. Multiple systems look to cross over the area through
+Tuesday, bringing rounds of widespread lowland rain, gusty 
+winds, and high elevation mountain snow. Active weather 
+continues through the end of the week with additional systems 
+passing into the area.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH TUESDAY/...
+Recent radar imagery shows some scattered showers across the
+Northern Interior and Cascades. Expect this trend to continue
+throughout the evening hours, with a slight chance (10-20%) of 
+thunderstorms north of Everett. An upper level ridge will move
+through the area tonight, with drying overnight. Another frontal
+system will start to move over the area by Monday morning, with
+rain reaching the coast by the afternoon. Rain will slowly move
+through the interior by the late afternoon and early evening
+hours. Additionally, southerly winds will increase once again,
+with widespread gusts of 20 to 30 mph possible at times
+throughout much of the area (less strong than the previous days
+wind). Areas along the coast and Whidbey Island could see gusts
+up to 35 mph. High temperatures in the mid to upper 50s. 
+
+Heading into Tuesday, a long fetch of moisture being aimed at
+Vancouver Island slightly moves down through western Washington.
+We'll see another round of widespread rain, with a bulk of the
+QPF being aimed right at the coast and the Olympic Peninsula.
+Southerly winds will increase in the afternoon and be slightly
+stronger than Mondays, with widespread gusts of 35 to 45 mph
+along the coast, and areas Whidbey Island northward. Rain and
+wind will continue into Wednesday morning.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+Upper level troughing continues Wednesday into Thursday for some
+scattered shower activity over the region, keeping conditions 
+unsettled. Additionally, minor coastal flooding may be possible
+on Wednesday morning due to high astronomical tides, primarily
+along the shorelines of San Juans and Whatcom county. High 
+temps warm up slightly on Wednesday, in the low 60s. 
+
+Latest ensemble guidance shows an upper level low around BC that
+is funneling a plume of moisture towards BC and western 
+Washington Friday into Saturday. At this time, looks like active
+weather will continue, with widespread rain and breezy winds 
+into the weekend. We'll continue to monitor this system as it 
+gets closer.
+
+Mazurkiewicz
+
+&&
+
+.AVIATION...
+Scattered showers will taper across the area into this evening
+for a brief break in between weather systems. Terminals are
+largely VFR and will remain so through tonight. Winds have 
+remained breezy to 20 kt this afternoon, but will continue to 
+ease over the next few hours, persisting at 5-10 kt through 
+this evening. Winds will then become light and shift more easterly
+after 06Z. Despite high cloud cover streaming in overhead, a few
+patchy areas of fog may develop at the more fog-prone terminals
+across the southern Sound (like KOLM) overnight. Should fog 
+develop, it may briefly bring a few hours of IFR to LIFR conditions
+to terminals on Monday morning. Another frontal system will 
+move across the area on Monday, bringing another round of rain
+and breezy winds to the area terminals. Latest hi-res shows rain 
+starting to move inland along the coast between 19-21Z, before 
+spreading into the interior between 21-23Z. Conditions will
+likely drop down to MVFR as the rain pushes inland. Winds will 
+pick up to 8-12 kt along the coastal terminals in the morning, 
+before picking up across the interior terminals in the
+afternoon. Gusts to 25 kt will be possible as the system moves
+through.
+
+KSEA...VFR conditions will persist through Monday morning at the
+terminal. Southerly winds persisting at 8-12 kt with some gusts
+to 20 kt this afternoon will continue to ease through this evening.
+Winds will become light overnight, shifting to the east after 06Z.
+Another round of rain will move into the terminal Monday afternoon,
+likely between 21-23Z. There is a 40-50% chance of conditions 
+dropping down to MVFR Monday afternoon as the rain moves in.
+Southerly winds will increase Monday afternoon as the system
+approaches, persisting at 8-12 kts, with gusts to 20 kt. 
+
+14
+
+&&
+
+.MARINE...
+High pressure building back over the area this evening will 
+bring a brief period of calmer winds to the waters through late 
+tonight. The next frontal system will move across the coastal 
+waters on Monday, with winds starting to increase across the
+coastal waters again by early Monday morning and across the
+interior waters by late morning. Winds will peak in the 
+afternoon, before easing Monday night. Gale warnings are in 
+effect for the Coastal Waters and the Eastern Strait, where 
+probabilities continue to highlight roughly a 60-80% chance of 
+gusts reaching 34 kt. Elsewhere, southerly winds will be breezy,
+with winds gusting to small craft strength through the afternoon
+and early evening. There will be a brief lull in winds on 
+Monday night, before another system moves into the region on 
+Tuesday and brings a stronger round of southerlies to the area 
+waters and likely another round of widespread headlines. The 
+weather will remain active through the end of the week as 
+additional frontal systems move through the waters.
+
+Seas between 19-24 ft this afternoon will gradually subside
+towards 10-12 ft on Monday before the next system brings seas 
+back to the 16-18 ft range on Tuesday. Seas will largely remain
+above 13 ft through much of the week. The next best chance for 
+seas to build to 20 ft will be by next weekend, with the GEFS 
+highlighting a 30-40% chance of seas exceeding 20 ft off the
+Washington coast.
+
+14
+
+&&
+
+.HYDROLOGY...
+River flooding is not expected the next seven days. Multiple 
+weather systems moving through the area in the next week. While 
+current precipitation forecasts are not expected to cause 
+flooding, this will saturate soils and raise base flows. If the 
+atmospheric river stalls over the area late next week into next
+weekend we might need to keep an eye on our old friend the 
+Skokomish River. Felton
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...High Surf Warning until 10 PM PST this evening for Grays 
+     Harbor County Coast-Northern Washington Coast.
+
+PZ...Small Craft Advisory until 4 PM PST Monday for Grays Harbor 
+     Bar-West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Warning from 10 AM to 10 PM PST Monday for East Entrance 
+     U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 10 AM to 10 PM PST Monday for 
+     Admiralty Inlet-Northern Inland Waters Including The San 
+     Juan Islands.
+
+     Small Craft Advisory from 1 PM Monday to 4 AM PST Tuesday for 
+     Puget Sound and Hood Canal.
+
+     Small Craft Advisory until 4 AM PST Monday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+     Gale Warning from 4 AM to 7 PM PST Monday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+&&
+
+$$

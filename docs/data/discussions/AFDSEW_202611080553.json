@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202611080553",
+  "issued": "2026-11-08T05:53:00+00:00",
+  "headline": "Strong wind and heavy rain tonight into Sunday morning, then more wet systems through the week.",
+  "summary": "A cold front is moving across western Washington tonight, bringing widespread rain and gusty southerly winds. Gusts have already reached 69 mph at Hoquiam Bowerman on the coast, and winds are expected to spread inland and peak overnight into early Sunday. The strongest winds are forecast for the coast, where forecasters say there is a 50 to 70 percent chance of gusts over 55 mph. Because trees still have leaves, power outages are possible, and storm drains may clog where gusty winds overlap with steady rain. Very large waves, with seas building to 22 to 28 feet along the beaches, are also expected, and the coast is under a High Surf Warning.\n\nThe cold air behind the front is making the atmosphere unstable, so lightning has already been detected over the ocean. Forecasters give a 20 to 30 percent chance of isolated thunderstorms along the coast and a 10 to 20 percent chance inland. The Storm Prediction Center has western Washington in a general to marginal risk of severe weather. Rain turns to showers on Sunday, mostly over the North Cascades and Olympics, and the snow level drops from about 7,000 to 7,500 feet to around 4,500 feet, so the higher mountains may pick up some snow. Sunday evening is a brief break before another wet and breezy system arrives Monday, with most of its rain again aimed at the Olympics.\n\nThe pattern stays active through the week. A steady flow of moisture is expected to focus on Vancouver Island and western Washington from Tuesday into Wednesday, bringing more widespread rain, milder temperatures, and breezy conditions. Additional systems are expected near the end of the week. Forecasters say river flooding is not expected over the next seven days, but repeated rain will saturate soils and raise river base flow, which could make later storms more of a concern by late next week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "The cold front crosses with widespread rain and gusty winds. Winds peak overnight, and isolated thunderstorms are possible, mainly along the coast. Seas build to 22 to 28 feet."
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain becomes showers, focused on the North Cascades and Olympics. Snow levels fall from 7,000 to 7,500 feet to about 4,500 feet. Winds ease through the afternoon, but high surf continues along the coast."
+    },
+    {
+      "when": "Sunday evening",
+      "what": "A brief break in the weather before the next system."
+    },
+    {
+      "when": "Monday",
+      "what": "Another round of widespread rain arrives with locally breezy conditions. Most of the heaviest rain is expected in the Olympics."
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "A steady moisture plume brings more widespread rain, warmer temperatures, and breezy conditions. Rain is most focused on the Olympics and North Cascades, with showers at times over most of the interior. Forecasters note timing and strength are uncertain."
+    },
+    {
+      "when": "End of the week",
+      "what": "More systems bring additional rain and breezy conditions. Forecasters say the timing and strength of these systems are less certain."
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about tonight's and Sunday's wind and rain, since the front is already moving through and wind guidance agrees. They are less sure about the thunderstorm chances, which are described as low to moderate and depend on where heavier showers form. Confidence drops for the Monday through end-of-week systems, because ensemble guidance, which runs many model versions to show the range of outcomes, is inconsistent on timing and strength.",
+  "hazards": [
+    "Wind Advisory until 4 AM Sunday for many western Washington lowlands, including Seattle, Everett, Olympia, Tacoma area, Bremerton area, Port Townsend, the San Juan Islands, and the Chehalis River valleys.",
+    "High Wind Warning until 4 AM Sunday for the Grays Harbor County coast and the northern Washington coast.",
+    "High Surf Warning until 10 PM Sunday for the Grays Harbor County coast and the northern Washington coast.",
+    "Gale Warnings on Puget Sound, Hood Canal, the Strait of Juan de Fuca, and northern inland waters, lasting into Sunday morning.",
+    "Storm Warning until 10 AM Sunday for the coastal waters from Cape Flattery to Point Grenville and Cape Shoalwater.",
+    "Small Craft Advisory until 10 PM Sunday for the Grays Harbor bar."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a colder air mass that pushes into warmer air, often bringing a line of rain, a wind shift, and a temperature drop."
+    },
+    {
+      "term": "Post-frontal",
+      "definition": "The period after a cold front has passed, when showers and cooler, unstable air often follow the main rain band."
+    },
+    {
+      "term": "Lapse rate",
+      "definition": "How fast air temperature drops with height. A steep drop means unstable air, which can produce showers and thunderstorms."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where snow is falling. Forecasters use it to show how far down into the hills or mountains snow will reach."
+    },
+    {
+      "term": "QPF (quantitative precipitation forecast)",
+      "definition": "A forecast of how much liquid precipitation, usually rain or melted snow, will fall over a given area and time."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of computer forecast runs with slightly different starting conditions. When the runs disagree, forecasters have less confidence in the outlook."
+    },
+    {
+      "term": "Base flow",
+      "definition": "The steady flow of water in a river that comes from groundwater and saturated soil, rather than from direct runoff during a storm."
+    },
+    {
+      "term": "SPC severe weather risk (general and marginal)",
+      "definition": "The Storm Prediction Center's outlook for severe thunderstorms. A marginal risk is the lowest level, and a general risk means storms are possible but not expected to be widespread or strong."
+    }
+  ]
+}
