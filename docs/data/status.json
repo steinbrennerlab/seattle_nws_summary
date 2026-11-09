@@ -1,9 +1,12 @@
 {
-  "last_check": "2026-11-09T02:11:55+00:00",
+  "last_check": "2026-11-09T02:18:18+00:00",
   "ok": true,
-  "new_discussions": 4,
+  "new_discussions": 0,
   "summaries_enabled": true,
   "summary_errors": 0,
   "summaries_done": 143,
-  "summaries_total": 143
+  "summaries_total": 143,
+  "errors": [
+    "day 2026-11-07: model did not return valid JSON (reply began: '{\"headline\": \"Strong cold front brings strong winds and heavy rain tonight into Sunday morning, with more wet systems through the week.\", \"summary\": \"', ended: 'Warning is in effect and the clam dig is dangerous. Lightning has been detected over the ocean, with a 20 to 30 percent chance of isolated thunderstor')"
+  ]
 }
