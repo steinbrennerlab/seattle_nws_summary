@@ -61,7 +61,8 @@ DAY_TASK = """Below are explanations of every forecast discussion issued on {day
 
 Return JSON with exactly these keys:
 "headline": one sentence, at most 20 words, stating what forecasters expected as of the end of the day.
-"summary": one paragraph describing the forecast as it stood at the end of the day.
+"summary": one paragraph of 120 to 220 words describing the forecast as it stood at the end of the day. \
+Keep to the main points, even on a busy day.
 "changes": one or two sentences on how the forecast changed between this day's discussions. \
 Use "" if there was only one discussion or nothing meaningful changed.
 
@@ -114,8 +115,9 @@ def available() -> bool:
 def ask_json(llm: LLM, user: str, max_tokens: int = 2000) -> dict:
     """Ask for JSON and parse it, tolerating fences or stray text around the object.
 
-    Retries once: with twice the token budget if the reply was cut off, otherwise with a
-    reminder to reply with only the JSON object.
+    Retries once: if the reply was cut off, with twice the token budget and a request to be
+    shorter (more room alone lets a rambling reply ramble further); otherwise with a reminder
+    to reply with only the JSON object.
     """
     prompt, raw = user, ""
     for attempt in range(2):
@@ -124,6 +126,8 @@ def ask_json(llm: LLM, user: str, max_tokens: int = 2000) -> dict:
         except CutOff as e:
             raw = str(e)
             max_tokens *= 2
+            prompt = (user + "\n\nYour previous reply was too long and was cut off before the JSON "
+                      "was complete. Write noticeably shorter text, within the stated limits.")
             continue
         start, end = raw.find("{"), raw.rfind("}")
         if start != -1 and end > start:
