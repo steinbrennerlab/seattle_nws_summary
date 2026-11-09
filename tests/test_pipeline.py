@@ -63,7 +63,7 @@ class FakeLLM:
             return "```json\n" + json.dumps({
                 "headline": "Dry weekend, then a wet and windy week.",
                 "summary": "First paragraph.\n\nSecond paragraph.",
-                "timeline": [{"when": "Tonight", "what": "Fog."}],
+                "timeline": [{"when": "Tonight", "what": "Fog.", "source": "short_term"}],
                 "confidence": "Rain amounts are uncertain.",
                 "hazards": ["Wind advisory on the coast"],
                 "glossary": [{"term": "Atmospheric river", "definition": "A long band of moist air."}],
@@ -230,3 +230,58 @@ def test_failed_check_is_shown(paths):
     render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": False,
                          "message": "could not reach the NWS API or the IEM archive (ConnectionError)."})
     assert "failed: could not reach" in (paths.docs / "index.html").read_text(encoding="utf-8")
+
+
+@pytest.mark.parametrize("body, expected", [
+    ("Rain tonight.\n\n27", ["27"]),
+    ("Rain tonight.\n\n33/41", ["33", "41"]),
+    ("Rain tonight.\n\nHPR", ["HPR"]),
+    ("Rain tonight.\n\n14/Mazurkiewicz", ["14", "Mazurkiewicz"]),
+    ("since 2022 and 2020. Felton", ["Felton"]),
+    ("peaking this evening. JD", ["JD"]),
+    ("No changes needed.  18\n\nFrom Previous Discussion...\nOlder text.", ["18"]),
+    ("looms offshore. The\nprevious discussion remains below.", []),
+    ("Showers ease by 06Z this evening.", []),
+])
+def test_section_signature(body, expected):
+    assert parse.section_signature(body) == expected
+
+
+def test_desk_signatures_and_byline():
+    text = """.SHORT TERM /TODAY THROUGH MONDAY/...
+Sunny.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Rain returns.
+
+15
+
+&&
+
+.AVIATION...
+VFR.
+
+33/41
+
+&&
+
+.MARINE...
+Calm.
+
+41
+
+&&
+"""
+    desks = parse.desk_signatures(text)
+    assert desks == {"short_term": ["15"], "long_term": ["15"], "aviation": ["33", "41"], "marine": ["41"]}
+    assert render.byline(desks) == [("Forecast", ["15"]), ("Aviation", ["33", "41"]), ("Marine", ["41"])]
+
+
+def test_forecaster_pills_and_page(paths):
+    save_all(paths, [FIXTURE])
+    summarize.run(paths, FakeLLM(), now=datetime(2026, 11, 2, 23, 30, tzinfo=timezone.utc), log=lambda *_: None)
+    render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True})
+    assert (paths.docs / "forecasters.html").exists()
+    assert 'href="forecasters.html"' in (paths.docs / "index.html").read_text(encoding="utf-8")

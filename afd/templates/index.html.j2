@@ -1,4 +1,5 @@
 {% extends "base.html.j2" %}
+{% from "_forecasters.html.j2" import fc with context %}
 {% block main %}
 {% if not latest %}
 <section class="block">
@@ -11,11 +12,18 @@
   <a href="#week"{% if week %} title="{{ week.headline }}"{% endif %}>Past week</a>
   <a href="#month"{% if month %} title="{{ month.headline }}"{% endif %}>Past month</a>
   <a href="#days">Day by day</a>
+  <a href="forecasters.html">The forecasters</a>
 </nav>
 <section class="block now" id="now" aria-labelledby="now-h">
   <h2 class="period" id="now-h">Current discussion</h2>
   <div class="body">
     <p class="issued">Issued {{ latest.label }}. <a href="{{ latest.url }}">Original text</a></p>
+    {% if latest.byline %}
+    <p class="crew"><span class="crew-label">Written by</span>
+      {% for label, ids in latest.byline %}<span class="crew-row">{{ label }} {{ fc(ids) }}</span>{% endfor %}
+      <a class="crew-more" href="forecasters.html">Who are they?</a>
+    </p>
+    {% endif %}
     {% if s %}
     <p class="sky-chip k-{{ sky }}"><svg class="icon"><use href="#i-{{ sky }}"/></svg>{{ sky_label }}</p>
     <h1 class="headline">{{ s.headline }}</h1>
@@ -29,7 +37,16 @@
     {% if s.timeline %}
     <h3>Period by period</h3>
     <dl class="timeline">
-      {% for t in s.timeline %}<dt>{{ t.when }}</dt><dd>{{ t.what }}</dd>{% endfor %}
+      {# The writer's pill appears where the writer changes, not on every row. #}
+      {% set run = namespace(prev=none) %}
+      {% for t in s.timeline %}
+      {% set ids = latest.desks.get(t.source) if t.source else none %}
+      {% set p = people.get(ids[0]) if ids else none %}
+      <dt>{{ t.when }}</dt>
+      {% if ids %}<dd class="by fc-s{{ p.slot if p else 0 }}"><span class="by-text">{{ t.what }}</span>{% if ids != run.prev %} {{ fc(ids, "small") }}{% endif %}</dd>
+      {% else %}<dd>{{ t.what }}</dd>{% endif %}
+      {% set run.prev = ids %}
+      {% endfor %}
     </dl>
     {% endif %}
 

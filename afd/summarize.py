@@ -48,8 +48,10 @@ Return JSON with exactly these keys:
 "headline": one sentence, at most 20 words, stating the main forecast point.
 "summary": two or three short paragraphs separated by a blank line, explaining what forecasters \
 expect and why, in plain language.
-"timeline": a list of 3 to 6 objects {{"when": "...", "what": "..."}} covering the forecast period \
-in order, using the discussion's own time ranges ("Tonight", "Monday", "Late next week").
+"timeline": a list of 3 to 6 objects {{"when": "...", "what": "...", "source": "..."}} covering the \
+forecast period in order, using the discussion's own time ranges ("Tonight", "Monday", "Late next week"). \
+"source" names the section the row mostly draws on: "short_term" (including an UPDATE section), \
+"long_term", "aviation", or "marine".
 "confidence": one or two sentences on where forecasters are confident or uncertain, and why.
 "hazards": a list of active or expected watches, warnings, and advisories in plain words; [] if none.
 "glossary": a list of 3 to 8 objects {{"term": "...", "definition": "..."}} for terms from this \

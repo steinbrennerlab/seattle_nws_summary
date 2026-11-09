@@ -11,7 +11,8 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from .config import MONTH_DAYS, NWS_PRODUCT_PAGE, REPO_URL, SUMMARY_WINDOW_DAYS, Paths
+from .config import MONTH_DAYS, REGULAR_MIN, NWS_PRODUCT_PAGE, REPO_URL, SUMMARY_WINDOW_DAYS, Paths
+from . import forecasters
 from .store import list_all
 from .summarize import day_label, local_day, local_label
 
@@ -67,13 +68,29 @@ def land_products(hazards: list[str]) -> list[str]:
     return list(dict.fromkeys(names))
 
 
+def byline(desks: dict[str, list[str]]) -> list[tuple[str, list[str]]]:
+    """Who signed what, for the line under "Issued": [("Forecast", ["33"]), ("Aviation", ["27", "29"])].
+
+    The short and long term are one row when the same forecaster wrote both."""
+    rows = []
+    short, long = desks.get("short_term"), desks.get("long_term")
+    if short and short == long:
+        rows.append(("Forecast", short))
+    else:
+        rows += [(forecasters.SOURCE_LABELS[k], v) for k, v in (("short_term", short), ("long_term", long)) if v]
+    rows += [(forecasters.SOURCE_LABELS[k], desks[k]) for k in ("aviation", "marine") if desks.get(k)]
+    return rows
+
+
 def build(paths: Paths, status: dict) -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html", "j2"]),
                       trim_blocks=True, lstrip_blocks=True)
     env.filters["paragraphs"] = _paragraphs
     env.filters["daylabel"] = lambda iso: day_label(date.fromisoformat(iso))
+    env.filters["localday"] = lambda dt: day_label(local_day(dt))
 
     items = list_all(paths)
+    people, signed = forecasters.build(items)
     discussions = []
     for s in items:
         summary = _read(paths.discussion_summaries / f"{s.id}.json")
@@ -81,6 +98,7 @@ def build(paths: Paths, status: dict) -> None:
             "id": s.id, "issued": s.issued, "label": local_label(s.issued),
             "time": local_label(s.issued).split(", ", 1)[1], "url": s.rel_url(paths),
             "day": local_day(s.issued), "summary": summary,
+            "desks": signed.get(s.id, {}), "byline": byline(signed.get(s.id, {})),
         })
 
     by_day: dict[date, list[dict]] = defaultdict(list)
@@ -123,7 +141,13 @@ def build(paths: Paths, status: dict) -> None:
     for d in sorted(by_day, reverse=True):
         months[f"{d:%B %Y}"].append({"label": day_label(d), "discussions": by_day[d]})
 
+    leads = sorted((p for p in people.values() if p.discussions), key=lambda p: (-p.discussions, p.id))
     ctx = {
+        "people": people,
+        "regulars": [p for p in leads if p.regular],
+        "occasional": [p for p in leads if not p.regular],
+        "latest_issued": latest["issued"] if latest else None,
+        "regular_min": REGULAR_MIN,
         "status": status,
         "checked": local_label(datetime.fromisoformat(status["last_check"])) if status.get("last_check") else None,
         "latest": latest,
@@ -143,6 +167,7 @@ def build(paths: Paths, status: dict) -> None:
     }
     paths.docs.mkdir(parents=True, exist_ok=True)
     (paths.docs / "index.html").write_text(env.get_template("index.html.j2").render(**ctx), encoding="utf-8")
-    (paths.docs / "archive.html").write_text(env.get_template("archive.html.j2").render(**ctx), encoding="utf-8")
+    for page in ("archive", "forecasters"):
+        (paths.docs / f"{page}.html").write_text(env.get_template(f"{page}.html.j2").render(**ctx), encoding="utf-8")
     shutil.copyfile(TEMPLATES / "style.css", paths.docs / "style.css")
     (paths.docs / ".nojekyll").touch()  # serve files as-is; skip GitHub's Jekyll build

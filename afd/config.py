@@ -77,3 +77,9 @@ class Paths:
 
 
 DEFAULT_ROOT = Path(__file__).resolve().parent.parent
+
+# Forecasters (see afd/forecasters.py). Anyone who led at least REGULAR_MIN discussions gets a
+# profile card. Colors are pinned to IDs so they never shift as people come and go: slots 1-8
+# of the validated palette in style.css (--fc-1 ... --fc-8). Others are shown in gray.
+REGULAR_MIN = 15
+FORECASTER_COLORS = {"Felton": 1, "27": 2, "33": 3, "14": 4, "21": 5, "18": 6, "29": 7, "HPR": 8}

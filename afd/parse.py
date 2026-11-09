@@ -92,3 +92,57 @@ def sections(text: str) -> list[tuple[str, str]]:
 
 def is_lower_priority(section_name: str) -> bool:
     return section_name.upper().startswith(LOWER_PRIORITY)
+
+
+# Forecasters sign each section with an office ID: a number ("27"), initials ("HPR"), or a
+# surname ("Cullen"). Two or more joined by slashes ("33/41") mean the first updated text the
+# others wrote earlier.
+_ID = r"(?:\d{1,3}|[A-Z]{2,3}|[A-Z][a-z]+(?:[A-Z][a-z]+)?)"
+SIGNATURE_LINE = re.compile(rf"^{_ID}(?:/{_ID})*$")
+# An update paragraph is often signed at the end of its last sentence: "...see below.  18"
+TRAILING_SIGNATURE = re.compile(rf"[.!?]\s+({_ID}(?:/{_ID})*)\s*$")
+# The forecast desk writes the short and long term; the other two desks are their own shifts.
+DESKS = {"SHORT TERM": "short_term", "LONG TERM": "long_term", "UPDATE": "short_term",
+         "DISCUSSION": "short_term", "AVIATION": "aviation", "MARINE": "marine"}
+# State and marine prefixes from the advisories list, and words that can end a wrapped line
+# ("...looms offshore. The\nprevious discussion remains below.").
+NOT_IDS = {"WA", "PZ", "OR", "ID", "The", "This", "That", "See", "Please", "Otherwise", "None"}
+
+
+def _signature_in(line: str) -> list[str]:
+    m = SIGNATURE_LINE.match(line) or TRAILING_SIGNATURE.search(line)
+    if not m:
+        return []
+    ids = (m.group(1) if m.re is TRAILING_SIGNATURE else m.group(0)).split("/")
+    return [] if any(i in NOT_IDS for i in ids) else ids
+
+
+def section_signature(body: str) -> list[str]:
+    """The signing IDs at the end of a section body, current author first; [] if unsigned."""
+    lines = [ln.strip() for ln in body.strip().splitlines() if ln.strip()]
+    if not lines:
+        return []
+    if ids := _signature_in(lines[-1]):
+        return ids
+    # An update written on top of an earlier discussion is signed just before the older text.
+    for i, line in enumerate(lines[1:], start=1):
+        if re.match(r"(?i)^(?:from )?(?:the )?previous discussion", line):
+            return _signature_in(lines[i - 1])
+    return []
+
+
+def desk_signatures(text: str) -> dict[str, list[str]]:
+    """Who signed each desk's part of a discussion: {"short_term": ["18"], "aviation": ["33", "41"], ...}.
+
+    An unsigned short term is covered by the long term's signature, which then signs both.
+    When a desk appears twice (an UPDATE and a SHORT TERM), the first signed one wins.
+    """
+    out: dict[str, list[str]] = {}
+    for name, body in sections(text):
+        key = re.split(r"\s*/", name, maxsplit=1)[0].strip()
+        desk = DESKS.get(key)
+        if desk and desk not in out and (sig := section_signature(body)):
+            out[desk] = sig
+    if "short_term" not in out and "long_term" in out:
+        out["short_term"] = out["long_term"]
+    return out

@@ -1,0 +1,69 @@
+{% extends "base.html.j2" %}
+{% from "_forecasters.html.j2" import fc with context %}
+{% block title %}The forecasters behind the Seattle discussion{% endblock %}
+{% block main %}
+<nav class="jump" aria-label="Pages">
+  <a href="./">Back to the forecast</a>
+</nav>
+<section class="block" aria-labelledby="who-h">
+  <h1 class="period" id="who-h">The forecasters</h1>
+  <div class="body">
+    <p class="lede">Each part of a forecast discussion is signed by the forecaster who wrote it. Most sign with an office ID number, a few with initials or a surname. A signature like <span class="fc fc-s0 fc-static"><span class="fc-dot"></span>33<span class="fc-prev">/41</span></span> means 33 updated text that 41 wrote earlier.</p>
+    <p>The office does not publish which person uses which number, and this page does not guess. Everything here comes from the {{ count }} archived discussions: which parts each person signed, when, and with whom. The notes on writing style are impressions from reading their sections.</p>
+    <p class="fine">Discussions have three desks. The <strong>forecast</strong> desk writes the short term (the next two or three days) and the long term (the rest of the week). The <strong>aviation</strong> and <strong>marine</strong> desks write for pilots and boaters. The {{ regulars | selectattr("slot") | list | length }} most active forecasters have their own colors; everyone else is gray.</p>
+
+    <ol class="cards">
+      {% for p in regulars %}
+      {% set peak = p.hours | max %}
+      {% set quiet = latest_issued and (latest_issued - p.last).days >= 7 %}
+      <li class="card fc-s{{ p.slot }}" id="{{ p.anchor }}">
+        <h2 class="card-head">{{ fc([p.id], "big") }}<span class="card-count">{{ p.discussions }} discussions</span></h2>
+        <p class="card-dates">{{ p.first | localday }} to {{ p.last | localday }}{% if quiet %} <span class="card-quiet">· not seen since {{ p.last | localday }}</span>{% endif %}</p>
+        {% if p.note %}<p class="card-note">{{ p.note }}</p>{% endif %}
+
+        <h3>Desks</h3>
+        <dl class="desks">
+          {% for label, n in p.desk_rows() %}
+          <dt>{{ label }}</dt>
+          <dd><span class="desk-bar" style="width: {{ (100 * n / p.discussions) | round(1) }}%"></span><span class="desk-n">{{ n }}</span></dd>
+          {% endfor %}
+        </dl>
+
+        <h3>When they post <span class="h-note">(Pacific time)</span></h3>
+        <svg class="hours" viewBox="0 0 240 48" role="img" aria-label="Discussions by hour of issue, Pacific time">
+          {% for n in p.hours %}
+          {% set h = (40 * n / peak) if peak else 0 %}
+          {% set label = ((loop.index0 % 12) or 12) ~ (" AM" if loop.index0 < 12 else " PM") %}
+          <g>
+            <title>{{ label }}: {{ n }} discussion{{ "" if n == 1 else "s" }}</title>
+            <rect class="hit" x="{{ loop.index0 * 10 }}" y="0" width="10" height="44"/>
+            {% if n %}<rect class="bar" x="{{ loop.index0 * 10 + 1 }}" y="{{ 44 - h }}" width="8" height="{{ h }}" rx="1.5"/>{% endif %}
+          </g>
+          {% endfor %}
+          <line class="base" x1="0" y1="44.5" x2="240" y2="44.5"/>
+        </svg>
+        <div class="hours-axis" aria-hidden="true"><span>Midnight</span><span>6 AM</span><span>Noon</span><span>6 PM</span></div>
+
+        {% set handoffs = p.partners.most_common(3) | selectattr(1, "ge", 2) | list %}
+        {% if handoffs %}
+        <h3>Hands off most with</h3>
+        <p class="card-partners">{% for other, n in handoffs %}{{ fc([other], "small") }} <span class="h-note">{{ n }}×</span>{{ " " if not loop.last }}{% endfor %}</p>
+        {% endif %}
+
+        {% if p.words %}
+        <h3>Words they use more than colleagues</h3>
+        <p class="card-words">{{ p.words | join(", ") }}</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+
+    {% if occasional %}
+    <h2 class="month" id="occasional">Occasional signers</h2>
+    <p>Fewer than {{ regular_min }} discussions each so far:
+      {% for p in occasional %}{{ fc([p.id]) }} <span class="h-note">{{ p.discussions }}</span>{{ " " if not loop.last }}{% endfor %}
+    </p>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}

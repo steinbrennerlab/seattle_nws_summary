@@ -1,0 +1,9 @@
+{# A forecaster pill: a dot in their color and their ID. For a hand-off ("33/41") the earlier
+   writers follow in muted text. Links to their card, or to the list of occasional signers. #}
+{% macro fc(ids, size="") %}
+{% set p = people.get(ids[0]) %}
+{% set slot = p.slot if p else 0 %}
+{% set href = "forecasters.html#" ~ (p.anchor if p and p.regular else "occasional") %}
+{% set tip = (p.tip() if p else "Forecaster " ~ ids[0]) ~ ((". Updated text first written by " ~ ids[1:] | join(" and ")) if ids | length > 1 else "") %}
+<a class="fc fc-s{{ slot }}{{ ' fc-' ~ size if size }}" href="{{ href }}" title="{{ tip }}"><span class="fc-dot" aria-hidden="true"></span>{{ ids[0] }}{% if ids | length > 1 %}<span class="fc-prev">/{{ ids[1:] | join("/") }}</span>{% endif %}</a>
+{%- endmacro %}
