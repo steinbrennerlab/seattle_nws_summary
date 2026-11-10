@@ -1,0 +1,61 @@
+{
+  "id": "AFDSEW_202611090537",
+  "issued": "2026-11-09T05:37:00+00:00",
+  "headline": "Brief dry spell tonight, then wet, windy systems through Tuesday and into the weekend.",
+  "summary": "A brief ridge of high pressure, a dome of settling air, is moving over western Washington tonight, giving a short break between weather systems. Behind it, a series of Pacific fronts is lining up to cross the region through Tuesday. A long plume of moisture, the kind forecasters call an atmospheric river, is aimed toward Vancouver Island and our area, and a low-pressure system near British Columbia may keep the wet pattern going into the weekend.\n\nTonight should be mostly dry, with fog likely in spots and lows in the upper 30s to mid 40s. Rain reaches the coast Monday afternoon and spreads inland later. Tuesday brings the wettest and windiest stretch, with gusts up to 35 to 45 mph along the coast and north of Whidbey Island, plus snow in the high mountains. Highs stay in the 50s and low 60s. River flooding isn't expected, though soils will become saturated. Wednesday morning, high tides may bring minor coastal flooding to the San Juans and Whatcom County.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Mostly dry, with patchy fog likely and lows in the upper 30s to mid 40s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Rain reaches the coast in the afternoon and spreads inland later, with gusts of 20 to 30 mph and up to 35 on the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "The wettest and windiest day, with widespread rain, gusts of 35 to 45 mph on the coast and north, and mountain snow.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Rain and wind ease by morning, scattered showers continue, and highs warm to the low 60s.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday into the weekend",
+      "what": "A moisture plume brings widespread rain and breezy winds, though details may still shift.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the next few days, but the system arriving Friday into the weekend is still far enough out that they are watching it closely, and the timing and strength could change.",
+  "hazards": [
+    "High surf warning on the Grays Harbor and northern Washington coasts until 10 PM tonight.",
+    "Gale warnings Monday for the east entrance of the Strait of Juan de Fuca and the outer coastal waters.",
+    "Small craft advisories Monday and Tuesday for Puget Sound, Hood Canal, the San Juan Islands, and coastal waters."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high-pressure air high in the atmosphere that typically brings drier, calmer weather to the surface below. Its passage here is what gives tonight a brief break."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of moisture moving through the sky from the subtropics, which can deliver heavy rain or snow when it reaches land."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A cold, low-pressure system high in the atmosphere that can steer storms and keep unsettled weather going for days."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of forecast model runs with slightly different starting conditions, used to gauge how confident forecasters can be about a future weather pattern."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "The highest tides that occur when the sun and moon line up, which can push water further onto shorelines, especially when storms add to the effect."
+    }
+  ]
+}

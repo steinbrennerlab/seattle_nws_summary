@@ -1,0 +1,61 @@
+{
+  "id": "AFDSEW_202611091703",
+  "issued": "2026-11-09T17:03:00+00:00",
+  "headline": "Windy, wet Tuesday, possibly record-warm Wednesday, then a strong atmospheric river Friday into Saturday.",
+  "summary": "A busy Pacific storm track is sending a series of weather systems toward western Washington, with little time to dry out between them. Each one arrives as a front riding in off the ocean. A warm front follows Tuesday, then the pattern settles a mild air mass over the region midweek before the trailing cold front fades out. Later in the week, a large, moisture-rich plume of air called an atmospheric river aims at the region and stalls.\n\nExpect rain and gusty winds Tuesday, especially on the coast and in the northwest interior, with a good chance of wind advisories. Wednesday turns unusually mild, with Seattle possibly reaching 65 degrees, which would tie a record. Thursday is a lull, then heavy rain arrives Friday and lingers into Saturday, with a flooding threat for the Skokomish River. Snow levels drop as low as 4,000 feet by Sunday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "A front brings rain that ends by midnight, with a brief increase in wind.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Rain returns with a warm front, and winds increase, possibly strong enough for advisories on the coast and in the northwest interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Western Washington sits in a mild warm sector, with highs in the 60s, possible record highs, and rain mostly limited to the coast and northwest interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "A brief lull as the cold front fades inland, with winds easing.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "An atmospheric river stalls over the area, bringing heavy rain to the Olympics and a flooding threat for the Skokomish River, with high waves offshore.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters have good model agreement on the pattern through Thursday and high confidence in strong waves late this week, but the Tuesday advisories are described as a good chance rather than a certainty, and the late-week rain totals are based on current forecasts that could still shift.",
+  "hazards": [
+    "Gale warnings and small craft advisories for coastal and inland marine waters, including Puget Sound and the Strait of Juan de Fuca, through at least Tuesday.",
+    "Possible wind advisories for the coast and northwest interior on Tuesday and possibly Wednesday; not yet issued.",
+    "Flooding threat for the Skokomish River Friday into Saturday; river flooding is not expected on other area rivers through Sunday."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of concentrated moisture in the atmosphere that can produce heavy, prolonged rain when it hits land."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass that slowly replaces colder air, usually bringing steady rain and clouds."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area of mild, moist air found between a warm front and the trailing cold front of a storm system."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds that often steers storms and can bring cooler, showery weather to the surface."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain, which rises and falls with the air temperature."
+    }
+  ]
+}

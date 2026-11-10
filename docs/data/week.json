@@ -1,0 +1,26 @@
+{
+  "start": "2026-11-03",
+  "end": "2026-11-09",
+  "headline": "A stormy Pacific pattern set in, and each forecast added more wind, rain, and storms",
+  "summary": "Forecasters began the week expecting a quiet few days, then a stormier stretch starting Friday. Over the next few days the picture sharpened. A strong front was set to bring a windy, rainy Friday, especially on the north coast and from Whidbey Island northward. Forecasters then added a second, stronger system for Saturday night into Sunday. Confidence in that one grew each day until it was called a significant windstorm. High winds were expected on the coast, and leafy trees raised the risk of scattered power outages. Snow stayed in the high mountains through most of this stretch because of unusually high snow levels.\n\nBy the weekend, the focus had moved to the pattern behind the windstorm. A steady line of Pacific storms and a moisture plume (an atmospheric river) were expected to keep western Washington wet and breezy through Tuesday, with only brief dry spells between systems. As of Monday, forecasters were fairly confident about gusty winds through Wednesday and were watching three stronger storms from Friday through Sunday. Those storms could bring strong coastal gusts, very rough seas, and heavy rain that might push one river near minor flood stage. The timing and strength of those late-week storms are still uncertain.",
+  "turning_points": [
+    {
+      "date": "Wed Nov 4",
+      "what": "A second storm for Saturday night into Sunday was added to the forecast, and forecasters grew more confident of strong Friday winds in the north."
+    },
+    {
+      "date": "Thu Nov 5",
+      "what": "Saturday night's wind forecast went from a possible strong-wind event to likely advisory-level winds, possibly reaching Puget Sound."
+    },
+    {
+      "date": "Fri Nov 6",
+      "what": "Forecasters became confident that Saturday night would be a significant windstorm, and a High Wind Watch was issued for the coast."
+    },
+    {
+      "date": "Mon Nov 9",
+      "what": "The late-week outlook changed to three stronger storms Friday through Sunday, with a river flood risk, and a wind advisory was issued."
+    }
+  ],
+  "signature": "331d7056bd27ae56",
+  "written": "2026-11-09"
+}

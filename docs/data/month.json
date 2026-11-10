@@ -1,0 +1,34 @@
+{
+  "start": "2026-10-11",
+  "end": "2026-11-09",
+  "headline": "Autumn's quiet, dry ridge gave way to a stormy Pacific pattern, with strong storms now expected through next weekend.",
+  "summary": "Mid-October began with a ridge of high pressure aloft (a zone of warm, dry air) that forecasters expected to bring a warm, dry stretch, peaking around Friday the 16th. They kept that call steady even as they trimmed the first cooler, wetter system arriving Saturday to mostly light rain. Late October turned cool and mostly dry, with fog and frost and several weak systems that forecasters kept downgrading. They stayed unsure about weekend details and kept the weather quiet. The first fall-like storm arrived on the 24th, and a front on the 27th and 28th brought the season's first widespread Cascade snow and a Winter Weather Advisory. A cold, clear stretch followed, with a freeze and frost around Halloween.\n\nThe big shift came in early November. Forecasters first saw only hints of a more active pattern, then grew steadily more confident in a run of Pacific storms. Friday the 6th and Saturday night the 7th were expected to be the strongest so far. Wind Advisories were issued and the forecast grew more worried about damaging gusts on the coast and north of Whidbey Island. Trees still hold many leaves, so forecasters flagged possible power outages. Later forecasts pointed to a persistent stream of moisture (an atmospheric river) and a low near British Columbia keeping the pattern wet into the following week.\n\nNow forecasters expect gusty south winds, rain and high-mountain snow through Wednesday, with a wind advisory for the coast, the northern lowlands and the San Juans. Three stronger storms are then likely from Friday through Sunday, with coastal gusts possibly over 50 mph and very high seas. Heavy rain could push the Skokomish River near minor flood stage. They are fairly confident about this week's wind and rain, but the timing and strength of the late-week storms remain uncertain.",
+  "turning_points": [
+    {
+      "date": "Oct 16",
+      "what": "The warm, dry ridge ended on schedule, and the Monday system was trimmed to barely clip the area, leaving a cool, mostly dry week."
+    },
+    {
+      "date": "Oct 24",
+      "what": "A forecast of light rain became a wetter, breezier storm, the first fall-like one of the season, with a Wednesday system to follow."
+    },
+    {
+      "date": "Oct 26",
+      "what": "A Winter Weather Advisory was issued for the Cascades, with pass-by-pass snow totals for the season's first widespread mountain snow."
+    },
+    {
+      "date": "Oct 30",
+      "what": "The freeze threat rose from a Watch to a Warning, and a Frost Advisory was added north of Seattle ahead of a cold Halloween weekend."
+    },
+    {
+      "date": "Nov 3",
+      "what": "The stronger storm was moved to Friday, with odds of 40 to 80% for gusts over 40 mph and a power outage risk from leafy trees."
+    },
+    {
+      "date": "Nov 6",
+      "what": "Confidence grew that Saturday night would bring a significant windstorm, and a High Wind Watch covered the coast."
+    }
+  ],
+  "signature": "f7da76b2a87e9877",
+  "written": "2026-11-09"
+}

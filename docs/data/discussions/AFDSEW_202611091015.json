@@ -1,0 +1,63 @@
+{
+  "id": "AFDSEW_202611091015",
+  "issued": "2026-11-09T10:15:00+00:00",
+  "headline": "Windy, wet Tuesday, possibly record warmth Wednesday, then a heavy atmospheric river Friday into Saturday.",
+  "summary": "A busy Pacific storm track is sending a string of weather systems across western Washington this week. A brief break this morning gives way to a front tonight, then a fast warm front brings more rain and strong winds Tuesday. A mild, warm air mass settles in Wednesday as a cold front stalls offshore, and that front fizzles out Thursday. The bigger concern is a moist, river-like plume of air called an atmospheric river, which is expected to park over the region Friday and Saturday before a trough high in the atmosphere pushes it east.\n\nExpect a windy, wet Tuesday, especially on the coast and in the northwest interior. Wednesday should be unusually warm, with highs in the lower to mid 60s, and Seattle could tie a 1990 record of 65 degrees. Friday through Saturday brings the heaviest rain, with flooding possible on the Skokomish River at the end of the week. Showers continue Sunday, and snow levels drop to around 4,000 feet.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "A front brings rain and brief stronger winds, with the rain ending by midnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Rain returns and winds build, with wind advisories likely on the coast and in the northwest interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Western Washington sits in warm air with highs in the lower to mid 60s and possible record heat, while rain is limited to the coast and northwest interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday into Saturday",
+      "what": "An atmospheric river stalls over the region, bringing heavy rain to the Olympics and a flooding threat to the Skokomish River.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "A trough high in the atmosphere keeps showers in the forecast, and snow levels drop to around 4,000 feet.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are most confident about the timing of the systems and the strong winds in the next few days, and the extended models agree well on the overall setup. They are less certain about exact record temperatures and how much rain falls Friday through Sunday.",
+  "hazards": [
+    "No land watches or warnings are in effect right now.",
+    "Wind advisories are likely on the coast and in the northwest interior Tuesday, possibly continuing into Wednesday.",
+    "Small craft advisories and gale warnings cover area waters through Tuesday morning, with gale-force winds likely on coastal waters into Wednesday.",
+    "Possible flooding on the Skokomish River at the end of the week.",
+    "Large waves, possibly above 20 feet on coastal waters, are expected Friday night into Saturday."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of moisture moving through the sky from the Pacific that can produce heavy rain when it reaches land."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area behind a warm front and ahead of a cold front, where the air is noticeably warmer than before."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds, often bringing unsettled weather to the surface below."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Gale warning",
+      "definition": "A marine alert for sustained winds of about 34 to 47 knots, meaning strong winds that make boating dangerous."
+    }
+  ]
+}

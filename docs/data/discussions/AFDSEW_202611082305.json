@@ -1,0 +1,65 @@
+{
+  "id": "AFDSEW_202611082305",
+  "issued": "2026-11-08T23:05:00+00:00",
+  "headline": "Wet, windy week ahead, with a brief dry lull tonight and the strongest winds Monday and Tuesday.",
+  "summary": "A brief break from the rain is ending as a series of Pacific weather systems moves across the region through midweek. An upper-level ridge, a stretch of high pressure high in the atmosphere, moves out tonight, and the next front follows right behind it. Forecasters expect an active pattern through the end of the week, with new systems passing through one after another.\n\nExpect rain in lowlands and mountains on and off all week, with the heaviest rain on the coast and Olympic Peninsula on Tuesday. Southerly winds pick up Monday and Tuesday, strongest along the coast and north Puget Sound, with gusts of 35 to 45 mph possible Tuesday. Highs stay in the 50s and low 60s, and the high mountains will see snow. River flooding is not expected, but the soil will become saturated.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Showers taper off and the air dries out, with a brief lull before the next system.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A front brings rain to the coast by afternoon and to the interior later, with gusty south winds.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "A stronger plume of moisture brings widespread rain, heaviest on the coast and Olympics, with the strongest gusts of the week.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "Rain eases to scattered showers under a trough, keeping things unsettled, with minor coastal flooding possible Wednesday morning in the far north.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday through the weekend",
+      "what": "A moisture plume from a low near British Columbia brings widespread rain and breezy winds.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the timing of the next two days, but the late-week system is less certain because its track and how long it lingers are still being worked out.",
+  "hazards": [
+    "High surf warning on the Grays Harbor and northern Washington coasts until 10 PM tonight.",
+    "Gale warnings Monday for the coastal waters and the eastern Strait of Juan de Fuca.",
+    "Small craft advisories Monday and Tuesday for Puget Sound, Hood Canal, the San Juans, and most other marine waters, with more headlines likely Tuesday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings drier, calmer weather at the surface while it passes."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow corridor of concentrated moisture flowing from the subtropical Pacific, often producing heavy rain and mountain snow when it reaches land."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of computer forecast runs with slightly different starting conditions, used to show the range of possible outcomes and how confident forecasters can be."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "The highest tides, which occur when the sun and moon align to pull the water hardest, and which can push water onto shorelines during storms."
+    },
+    {
+      "term": "Gale warning",
+      "definition": "A marine alert that sustained winds or frequent gusts of about 34 knots, roughly 39 mph, are expected, which is dangerous for most boats."
+    },
+    {
+      "term": "Small craft advisory",
+      "definition": "A marine alert that winds or seas are strong enough to be hazardous for smaller boats, though usually less severe than a gale warning."
+    }
+  ]
+}
