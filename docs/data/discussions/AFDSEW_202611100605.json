@@ -1,0 +1,89 @@
+{
+  "id": "AFDSEW_202611100605",
+  "issued": "2026-11-10T06:05:00+00:00",
+  "headline": "Strong Pacific storms bring gusty winds and rain; the strongest arrive Friday through Sunday.",
+  "summary": "Several Pacific storms are lining up one after another, with a deep low-pressure system over the northeast Pacific feeding fronts toward western Washington. Each brings rain and strong south winds, and the pattern builds in strength: a stronger system Tuesday and Wednesday, then a trio of strong storms from Friday through Sunday, with things easing Sunday night into Monday.\n\nFor most people this means a wet, windy week. Winds gust 30 to 35 mph tonight, then 40 to 50 mph on the coast and in the north interior Tuesday and Wednesday, with wind advisories in effect. Later, heavy rain on the coast and the Olympics could push the Skokomish River toward minor flooding. Snow levels stay high, around 5,000 to 6,500 feet, and large swells may bring seas over 20 feet to the coast Friday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain spreads inland with a slight chance of thunderstorms in southwest Washington, and south winds gust to 30 to 35 mph on the coast and north interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Another deep low brings wind, lowland rain, and high-elevation snow, with the strongest gusts of 40 to 50 mph on the coast and north interior before winds ease Wednesday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "The first of three strong systems arrives, with large swells reaching the coast and gusts possibly over 50 mph there.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "More heavy rain and wind arrive, with possible minor coastal flooding Saturday and a chance of minor flooding on the Skokomish River.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Weather eases from Sunday night into Monday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the next few days' wind and rain, but the Friday-to-Sunday systems are farther out and still being refined, so flooding and storm-tide impacts there are less settled.",
+  "hazards": [
+    "Wind Advisory from 1 PM Tuesday to 7 PM Wednesday for the outer coast, Grays Harbor, Island County, lowlands of Skagit, Snohomish, and Whatcom counties, and San Juan County.",
+    "Gale warning for coastal waters until 4 PM Wednesday, and small craft advisories for parts of the inland waters and Strait of Juan de Fuca.",
+    "Small craft advisory for Puget Sound and Hood Canal until 4 AM Tuesday.",
+    "Possible minor coastal flooding around high tide Wednesday morning in the San Juans and western Whatcom County.",
+    "Possible minor coastal flooding Saturday in a few locations, and a flooding threat to the Skokomish River at the end of the week."
+  ],
+  "glossary": [
+    {
+      "term": "Pacific frontal system",
+      "definition": "A storm system with a front, the boundary between warm and cold air, that moves in from the Pacific Ocean and usually brings rain and wind."
+    },
+    {
+      "term": "Deep low",
+      "definition": "A low-pressure center with unusually low air pressure, which usually means stronger winds and more active weather around it."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow. A high snow level means snow only falls in the higher mountains."
+    },
+    {
+      "term": "Storm tide",
+      "definition": "The water level during a storm, combining the normal tide with storm surge and waves, which can flood low-lying coastal areas."
+    },
+    {
+      "term": "Gale warning",
+      "definition": "A marine alert for winds of about 34 knots or higher, which are dangerous for boats."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The strong winds on Friday through Sunday will be most intense on the coast, with gusts that could top 50 mph.",
+      "about": "Friday through Sunday",
+      "stance": "possible",
+      "quote": "especially over the coast where gusts may exceed 50 MPH",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "Heavy rain from the atmospheric river could bring a flooding threat to the Skokomish River by the end of the week.",
+      "about": "end of the week",
+      "stance": "possible",
+      "quote": "this amount of rain will bring a flooding threat to the Skokomish River at the end of the week",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "A few coastal spots could see minor flooding during Saturday's high tides.",
+      "about": "Saturday",
+      "stance": "possible",
+      "quote": "a few locations may see minor coastal flooding on Saturday",
+      "source": "long_term",
+      "signer": "33"
+    }
+  ]
+}

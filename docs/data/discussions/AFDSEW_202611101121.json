@@ -1,0 +1,89 @@
+{
+  "id": "AFDSEW_202611101121",
+  "issued": "2026-11-10T11:21:00+00:00",
+  "headline": "Wet, windy, and mild through Thursday; more wet, windy systems likely Friday through Sunday.",
+  "summary": "A very moist flow of air from the Pacific is streaming into western Washington today, bringing a front and a rainy, breezy day. The front lifts north tonight, then stalls offshore midweek before being pushed inland later in the week. Forecasters have shifted their thinking: an earlier idea of one long, stuck band of moisture has given way to two separate wet, windy frontal systems, one Friday and another Saturday night into Sunday. An upper-level trough, a dip in the jet stream that brings cooler air, arrives Sunday night and Monday.\n\nFor most people, today means a rainy, windy day, with gusts up to about 50 mph possible along the coast and north interior and minor flooding on ocean beaches at high tide. Midweek stays mild, with rain mostly confined to the coast and Olympics. The bigger concern is flooding in the Olympics and Mason County, where the Skokomish River may rise to flood stage, and the weekend storms could bring more rain and strong winds. Snow levels should fall to around the passes by Sunday night.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Rain and gusty south winds arrive, with the strongest gusts on the coast and in the north interior and minor flooding on ocean beaches at high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "The front lifts north, leaving rain mainly west of Puget Sound, with a mild night and windy conditions near the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday through Thursday",
+      "what": "The front stalls offshore, keeping rain on the coast and Olympics, with breezy, mild days and possible record highs.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday through Sunday",
+      "what": "Two wet and windy frontal systems move through, one Friday and another Saturday night into Sunday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday night and Monday",
+      "what": "An upper-level trough brings colder air and lowers snow levels to the 3,500 to 4,000 foot range.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the broad pattern because models agree the stalled front moves inland Thursday night, but they are less sure of the exact tracks of the weekend lows, and small shifts could change where the strongest winds, seas, and rain land.",
+  "hazards": [
+    "Wind advisory for coastal beaches, the north interior, and some lowlands through Wednesday evening, with gusts to 50 mph.",
+    "Coastal flood advisory for the Grays Harbor and northern outer coast through this afternoon.",
+    "High surf advisory for the Grays Harbor and northern outer coast through Wednesday morning.",
+    "Flood watch for the Olympics, southern Puget Sound, southern Hood Canal, and nearby foothills and river valleys through Wednesday evening, with the Skokomish River possibly reaching flood stage.",
+    "Gale warning and small craft advisories for coastal and inland waters through Wednesday evening."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of concentrated moisture in the atmosphere that can deliver heavy rain when it reaches land."
+    },
+    {
+      "term": "Integrated vapor transport (IVT)",
+      "definition": "A measure of how much water vapor is moving through the atmosphere, used to judge how strong a moisture plume is."
+    },
+    {
+      "term": "Rain shadow",
+      "definition": "A dry area on the leeward side of mountains, where the mountains block much of the rain from reaching the ground."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds that usually brings cooler, unsettled weather to the surface below."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Forecasters no longer expect one long, stuck atmospheric river and now favor two separate wet, windy frontal systems.",
+      "about": "Friday through Sunday",
+      "stance": "expected",
+      "quote": "instead of an atmospheric river the solutions now favor a pair of wet and windy frontal systems Friday and again Saturday night and Sunday.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Snow levels are expected to drop to the mountain pass range once the upper-level trough arrives.",
+      "about": "Sunday night",
+      "stance": "expected",
+      "quote": "lowering the snow level down to the 3500 to 4000 foot range.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "The Skokomish River has a good chance of reaching flood stage as the rain arrives.",
+      "about": "Tonight and early Wednesday",
+      "stance": "expected",
+      "quote": "there is a good chance the Skokomish river will reach flood stage this evening or in the early morning hours Wednesday.",
+      "source": "short_term",
+      "signer": "Felton"
+    }
+  ]
+}
