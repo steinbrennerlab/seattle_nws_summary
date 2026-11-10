@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611101736",
+  "issued": "2026-11-10T17:36:00+00:00",
+  "headline": "Wet, windy stretch: a rainy day today, then more rain and wind Friday through Sunday.",
+  "summary": "A active storm track is aimed at western Washington this week. Today's system carries a plume of very moist air from the Pacific, and a front lingers offshore Wednesday and Thursday before weakening. Starting Thursday night, the upper-level winds are expected to push that front inland. Models have shifted from one long atmospheric river to two separate wet, windy frontal systems, one Friday and another Saturday night into Sunday. A cooler upper-level trough follows Sunday night.\n\nToday is rainy, with gusty south winds along the coast and in the north interior. Nights stay mild and days reach the 50s and 60s through Thursday, with some record warmth possible. The Olympics get heavy rain, and the Skokomish River may reach flood stage. Friday through Sunday look wet and breezy, with snow levels above the passes until Sunday night, when they drop to around 3,500 to 4,000 feet.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Rain spreads across the region, with gusty south winds rising along the coast and north interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Rain eases in most of the region but continues on the coast and Olympics, with breezy south winds and mild highs.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday night",
+      "what": "The stalled front moves inland, bringing more rain to the area.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday through Sunday",
+      "what": "Two wet, windy frontal systems move through, with the strongest winds and seas along the coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday night and Monday",
+      "what": "An upper-level trough brings colder air and snow levels down to around 3,500 to 4,000 feet.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident the weekend will be wet and windy because the models now agree, but the exact track of the lows is still uncertain, and that track will decide where the winds and high seas hit hardest.",
+  "hazards": [
+    "Wind advisory until 7 PM Wednesday for gusts up to about 50 mph along the coast, in parts of the north interior, and in San Juan County.",
+    "Flood watch from 7 PM tonight through Wednesday evening for the Olympics and their foothills, Olympia and southern Puget Sound, Hood Canal, and parts of southwest Washington, including the Skokomish River in Mason County.",
+    "Coastal flood advisory until 3 PM today on the Grays Harbor and north coasts, with minor ocean-beach flooding possible around high tide.",
+    "High surf advisory until 10 AM Wednesday on the Grays Harbor and north coasts.",
+    "Small craft advisories and a gale warning cover the local waters through Wednesday evening.",
+    "Possible storm-force winds and seas above 20 feet on coastal waters Friday and Saturday; this is not yet an issued warning."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of concentrated moisture in the atmosphere that can produce heavy rain when it hits land."
+    },
+    {
+      "term": "Integrated vapor transport (IVT)",
+      "definition": "A measure of how much water vapor is moving through the atmosphere, used to judge how strong an atmospheric river is."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the jet stream high in the atmosphere that often brings cooler air and unsettled weather at the surface."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Orographic enhancement",
+      "definition": "The extra rain or snow that falls when moist air is forced up over mountains, often heaviest on windward slopes."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Skokomish River will likely reach flood stage this evening or early Wednesday.",
+      "about": "this evening or early Wednesday morning",
+      "stance": "possible",
+      "quote": "a good chance the Skokomish river will reach flood stage this evening or in the early morning hours Wednesday",
+      "source": "short_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "The pattern has shifted from one atmospheric river to two separate wet, windy frontal systems.",
+      "about": "Friday through Sunday",
+      "stance": "expected",
+      "quote": "now favor a pair of wet and windy frontal systems Friday and again Saturday night and Sunday",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Seas are expected to rise above 20 feet on Friday, though the largest waves may land farther south.",
+      "about": "Friday",
+      "stance": "expected",
+      "quote": "remains very confident (60-80%) in seas building above 20 ft on Friday",
+      "source": "marine",
+      "signer": "62"
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "date": "2026-11-10",
-  "headline": "Rainy and breezy today, mild midweek, with two wet, windy systems Friday through Sunday.",
-  "summary": "A moist Pacific flow is bringing a front and a rainy, breezy day to western Washington. The front stalls offshore midweek, keeping things mild, with rain mostly along the coast and Olympics. Later in the week it moves inland, and forecasters now expect two separate wet, windy systems, one Friday and another Saturday night into Sunday. A dip in the jet stream, called an upper-level trough, then brings cooler air Sunday night and Monday, with snow levels falling toward the passes. The main worry is flooding in the Olympics and Mason County, where the Skokomish River may reach flood stage. Forecasters are fairly confident in the broad pattern but less sure of the weekend storm tracks, so where the strongest winds and rain land could shift.",
-  "changes": "",
-  "signature": "9986289291d34360",
+  "headline": "Wet, windy stretch: rainy today, then more rain and wind Friday through Sunday.",
+  "summary": "A moist flow off the Pacific brings a rainy, breezy day today. A front stalls offshore midweek, then gets pushed inland late in the week. The bigger story is the weekend, with two separate wet, windy frontal systems expected: one Friday, another Saturday night into Sunday. Strong winds are possible, and coastal waters could see storm-force gusts and seas above 20 feet Friday and Saturday, though no warning has been issued. Midweek stays mild, with record warmth possible and rain mostly confined to the coast and Olympics. The main flooding worry is the Olympics and Mason County, where the Skokomish River could reach flood stage. Snow levels should drop to around the passes by Sunday night as cooler air arrives behind the system.",
+  "changes": "Forecasters are now more confident the weekend will be wet and windy because the models agree, though the exact track of the lows is still uncertain. The later discussion also flags possible storm-force winds and high seas on coastal waters Friday and Saturday.",
+  "signature": "0efa05dac1997ec3",
   "discussions": [
-    "AFDSEW_202611101121"
+    "AFDSEW_202611101121",
+    "AFDSEW_202611101736"
   ]
 }

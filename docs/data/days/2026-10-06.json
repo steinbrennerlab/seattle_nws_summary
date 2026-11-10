@@ -1,12 +1,10 @@
 {
   "date": "2026-10-06",
-  "headline": "Mild days and foggy mornings to Thursday, then wind and light rain Friday, cooler weekend.",
-  "summary": "Mild, mostly dry weather holds through Thursday. Each morning brings low clouds and patchy fog, densest in the north and south interior and around the Olympics, and it usually clears to sunny afternoons. Highs reach the low 70s by Thursday, with lows in the upper 40s to low 50s. A weak system arrives Friday with gusty winds ahead of it, then light rain into Saturday, with only a tenth to a quarter inch expected. Colder air follows over the weekend and early next week, bringing light snow on mountains above about 4,500 feet and possible frost in outlying areas, though forecasters have low confidence in the frost. Strong winds and rough seas are likely on the coast and Strait Friday.",
-  "changes": "Frost was added to the outlook after the morning discussion, and forecasters began weighing a fog advisory for tonight into Wednesday morning. Thursday morning fog was also described as much less likely by the afternoon update.",
-  "signature": "3f56149a69dc1bd6",
+  "headline": "Foggy mornings, mild afternoons through Thursday, then wind and light rain Friday-Saturday.",
+  "summary": "A mild pattern dominates through Thursday. Each night and morning brings low clouds and fog, densest inland and around the Olympics, and a fog advisory is possible tonight. Afternoons turn sunny, warming slowly to the low 70s in a few spots by Thursday. A weather system arrives Friday, with gusty winds ahead of it and light rain into Saturday, amounts only a tenth to a quarter inch. Forecasters are fairly confident in the mild pattern but less sure about the system, as models only partly agree on a trough, a dip in the jet stream, moving through. Colder air follows this weekend into early next week, with light snow possible on mountains above about 4,500 feet and possible frost in the foothills, though frost confidence is low.",
+  "changes": "",
+  "signature": "a6e4aa22b865dd6c",
   "discussions": [
-    "AFDSEW_202610061704",
-    "AFDSEW_202610062151",
     "AFDSEW_202610070333"
   ]
 }
