@@ -32,9 +32,15 @@ When the discussion uses a technical term (for example: upper-level ridge, short
 atmospheric river, onshore flow, Puget Sound convergence zone, QPF, ensemble spread, snow level), \
 either replace it with plain words or keep it and explain it, and list it in the glossary.
 
-Stay faithful to the source. Do not add temperatures, amounts, times, or places the forecasters did \
-not give. Keep their stated uncertainty: if they say a detail is unlikely or uncertain, say so. \
-Use the day names and Pacific local times the discussion uses.
+Lead with the big picture. Forecasters spend much of each discussion on the larger pattern behind \
+the weather: ridges and troughs aloft, the jet stream, fronts and lows coming off the Pacific, onshore \
+and offshore flow, atmospheric rivers. Explain that pattern and what it means for the weather, \
+rather than listing every detail. Keep it short.
+
+Precision is not the goal. Round and generalize ("highs in the 50s", "a wet, breezy few days", \
+"windy on the coast"), and leave out exact times, amounts, percentages, and lists of places unless \
+one is central to the story. Stay faithful to the source: do not add anything the forecasters did \
+not say, and keep their stated uncertainty. Use the day names the discussion uses.
 
 Focus on weather that people in the Seattle area and western Washington notice: lowlands, mountains, \
 and passes. Aviation and marine details matter less to this audience. Mention them only when they \
@@ -45,16 +51,17 @@ Respond with one JSON object and nothing else: no Markdown fences, no text befor
 DISCUSSION_TASK = """Explain this discussion, issued {issued}.
 
 Return JSON with exactly these keys:
-"headline": one sentence, at most 20 words, stating the main forecast point.
-"summary": two or three short paragraphs separated by a blank line, explaining what forecasters \
-expect and why, in plain language.
-"timeline": a list of 3 to 6 objects {{"when": "...", "what": "...", "source": "..."}} covering the \
+"headline": one sentence, at most 15 words, stating the main forecast point.
+"summary": two short paragraphs separated by a blank line, about 120 words in all. The first explains \
+the larger weather pattern forecasters are watching and how it is changing; the second, what that \
+means for the weather people will notice.
+"timeline": a list of 3 to 5 objects {{"when": "...", "what": "...", "source": "..."}} covering the \
 forecast period in order, using the discussion's own time ranges ("Tonight", "Monday", "Late next week"). \
-"source" names the section the row mostly draws on: "short_term" (including an UPDATE section), \
+Each "what" is one short sentence. "source" names the section the row mostly draws on: "short_term" (including an UPDATE section), \
 "long_term", "aviation", or "marine".
-"confidence": one or two sentences on where forecasters are confident or uncertain, and why.
+"confidence": one sentence on where forecasters are confident or uncertain, and why.
 "hazards": a list of active or expected watches, warnings, and advisories in plain words; [] if none.
-"glossary": a list of 3 to 8 objects {{"term": "...", "definition": "..."}} for terms from this \
+"glossary": a list of 3 to 6 objects {{"term": "...", "definition": "..."}} for terms from this \
 discussion a reader may not know. Definitions are one or two sentences.
 
 {body}"""
@@ -62,9 +69,9 @@ discussion a reader may not know. Definitions are one or two sentences.
 DAY_TASK = """Below are explanations of every forecast discussion issued on {day}, in order.
 
 Return JSON with exactly these keys:
-"headline": one sentence, at most 20 words, stating what forecasters expected as of the end of the day.
-"summary": one paragraph of 120 to 220 words describing the forecast as it stood at the end of the day. \
-Keep to the main points, even on a busy day.
+"headline": one sentence, at most 15 words, stating what forecasters expected as of the end of the day.
+"summary": one paragraph of 70 to 130 words describing the forecast as it stood at the end of the day: \
+the larger pattern first, then what it means. Keep to the main points, even on a busy day.
 "changes": one or two sentences on how the forecast changed between this day's discussions. \
 Use "" if there was only one discussion or nothing meaningful changed.
 
@@ -74,10 +81,12 @@ PERIOD_TASK = """Below are day-by-day summaries of the Seattle forecast discussi
 
 These describe what forecasters expected each day, not what weather actually happened. \
 Write about the forecasting: what forecasters expected at the start, what they changed their \
-minds about and when, which forecasts held steady, and what they expect now.
+minds about and when, which forecasts held steady, and what they expect now. Tell it through the \
+larger weather patterns (a ridge that held, a stormy pattern that set in, a trough that kept stalling) \
+rather than day-by-day details.
 
 Return JSON with exactly these keys:
-"headline": one sentence, at most 20 words.
+"headline": one sentence, at most 15 words.
 "summary": {paragraphs} short paragraphs separated by a blank line.
 "turning_points": a list of 2 to {max_points} objects {{"date": "...", "what": "..."}} marking the days \
 the forecast changed most, in order. Use dates as written below.
