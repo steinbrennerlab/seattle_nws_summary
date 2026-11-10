@@ -63,6 +63,12 @@ Each "what" is one short sentence. "source" names the section the row mostly dra
 "hazards": a list of active or expected watches, warnings, and advisories in plain words; [] if none.
 "glossary": a list of 3 to 6 objects {{"term": "...", "definition": "..."}} for terms from this \
 discussion a reader may not know. Definitions are one or two sentences.
+"calls": a list of 0 to 3 objects for the most important forward-looking claims the forecasters make \
+that go beyond restating model output: pattern changes, hazards, doubts about what models favor. \
+Ignore text under "Previous discussion". Each is {{"claim": "one plain sentence", \
+"about": "the day(s) it concerns, as written", "stance": "expected", "possible", "doubtful", or \
+"uncertain", "quote": "their exact words, copied character for character, at most 30 words", \
+"source": "short_term", "long_term", "aviation", or "marine"}}.
 
 {body}"""
 
@@ -202,9 +208,39 @@ def discussion_body(text: str) -> str:
 
 # ---------- the three levels ----------
 
+def _squash(text: str) -> str:
+    """Lowercase with whitespace collapsed, for matching a quote against wrapped NWS text."""
+    return " ".join(text.lower().split())
+
+
+def attribute_calls(text: str, calls: list) -> list[dict]:
+    """Keep calls whose quote really is in the discussion, and record who wrote it.
+
+    The signer comes from the section the quote is found in, not from the model. A quote from
+    text carried over from an earlier discussion ("Previous discussion...") is dropped, since
+    the person signing now did not write it.
+    """
+    desks = parse.desk_signatures(text)
+    kept = []
+    for call in calls if isinstance(calls, list) else []:
+        if not isinstance(call, dict) or not (quote := _squash(str(call.get("quote", "")))):
+            continue
+        for name, body in parse.sections(text):
+            own = parse.PREVIOUS_RE.split(body)[0]
+            if quote in _squash(own):
+                key = name.split(" /")[0].strip()
+                sig = parse.section_signature(body) or desks.get(parse.DESKS.get(key, ""))
+                if sig:
+                    kept.append({**call, "signer": sig[0]})
+                break
+    return kept
+
+
 def summarize_discussion(llm: LLM, item: Stored) -> dict:
+    text = item.text()
     data = ask_json(llm, DISCUSSION_TASK.format(issued=local_label(item.issued),
-                                                body=discussion_body(item.text())), 4000)
+                                                body=discussion_body(text)), 4000)
+    data["calls"] = attribute_calls(text, data.get("calls"))
     return {"id": item.id, "issued": item.issued.isoformat(), **data}
 
 
@@ -354,4 +390,8 @@ def run(paths: Paths, llm: LLM, now: datetime | None = None, log=print,
             log(f"summarized {per.name}")
         except Exception as e:
             errors.append(f"{per.name}: {e}")
+
+    # 4. Credits, judged a week at a time once enough later discussions are in (see credits.py)
+    from . import credits  # imported here: credits builds on this module
+    errors += credits.run(paths, period_llm, today, log)
     return p

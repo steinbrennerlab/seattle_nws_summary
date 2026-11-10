@@ -106,6 +106,8 @@ DESKS = {"SHORT TERM": "short_term", "LONG TERM": "long_term", "UPDATE": "short_
          "DISCUSSION": "short_term", "AVIATION": "aviation", "MARINE": "marine"}
 # State and marine prefixes from the advisories list, and words that can end a wrapped line
 # ("...looms offshore. The\nprevious discussion remains below.").
+# Where an updated section starts quoting the discussion it updated.
+PREVIOUS_RE = re.compile(r"(?i)(?:from )?(?:the )?previous discussion")
 NOT_IDS = {"WA", "PZ", "OR", "ID", "The", "This", "That", "See", "Please", "Otherwise", "None"}
 
 
@@ -126,7 +128,7 @@ def section_signature(body: str) -> list[str]:
         return ids
     # An update written on top of an earlier discussion is signed just before the older text.
     for i, line in enumerate(lines[1:], start=1):
-        if re.match(r"(?i)^(?:from )?(?:the )?previous discussion", line):
+        if PREVIOUS_RE.match(line):
             return _signature_in(lines[i - 1])
     return []
 

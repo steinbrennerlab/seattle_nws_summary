@@ -512,6 +512,17 @@ a.fc:hover { border-color: var(--fc); background: color-mix(in srgb, var(--fc) 2
 .hours .base { stroke: var(--rule); stroke-width: 1; }
 .hours-axis { display: grid; grid-template-columns: repeat(4, 1fr); font-size: 0.7rem; color: var(--muted); margin-top: 0.15rem; }
 
+/* Credits: the month's notable calls and the tally on each card. */
+.credits { list-style: none; padding: 0; margin: 0 0 0.5rem; }
+.credits li { margin-bottom: 0.6rem; line-height: 1.5; }
+.credit-kind { font: 600 0.75rem/1 var(--sans); letter-spacing: 0.04em; text-transform: uppercase; color: var(--fir-ink); margin-right: 0.25rem; }
+.credits a { font: 400 0.8rem/1 var(--sans); white-space: nowrap; }
+.card-credits { list-style: none; padding: 0; margin: 0; }
+.card-detail { margin-top: 0.4rem; }
+.card-detail summary { cursor: pointer; color: var(--accent); font-size: 0.8rem; }
+.card-detail p { margin: 0.5rem 0 0; font-size: 0.85rem; }
+.card-detail q { font-family: var(--serif); font-style: italic; }
+
 @media (max-width: 760px) {
   body { font-size: 1.0625rem; }
   .block { grid-template-columns: 1fr; padding: 2rem 0; }

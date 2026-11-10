@@ -177,7 +177,9 @@ def test_period_model_and_refresh_intervals(paths):
 
     assert new_day_then_run(1) == 0   # week 1 day old, month 1 day old: both wait
     assert new_day_then_run(2) == 1   # week is 2 days old: rewritten; month waits
-    assert new_day_then_run(7) == 2   # both due
+    # Both due, plus the first week's credits: no calls in the fake summaries, so only the
+    # clarity request is made.
+    assert new_day_then_run(7) == 3
 
 
 @pytest.mark.parametrize("headline, kind", [
@@ -285,3 +287,76 @@ def test_forecaster_pills_and_page(paths):
     render.build(paths, {"last_check": "2026-11-02T23:30:00+00:00", "ok": True})
     assert (paths.docs / "forecasters.html").exists()
     assert 'href="forecasters.html"' in (paths.docs / "index.html").read_text(encoding="utf-8")
+
+
+SIGNED = """.SHORT TERM /TONIGHT THROUGH MONDAY/...
+Updated for fog. Dense fog lingers into midday.  18
+
+From Previous Discussion...A ridge holds through Monday.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+A deep low may bring damaging wind Thursday.
+
+27
+
+&&
+"""
+
+
+def test_attribute_calls_checks_quotes_and_finds_the_writer():
+    calls = [{"quote": "dense fog lingers into  MIDDAY"},          # case and spacing differ: kept
+             {"quote": "A ridge holds through Monday"},             # carried-over text: dropped
+             {"quote": "may bring damaging wind Thursday"},
+             {"quote": "a quote the forecasters never wrote"}]      # not in the text: dropped
+    kept = summarize.attribute_calls(SIGNED, calls)
+    assert [c["signer"] for c in kept] == ["18", "27"]
+
+
+class CreditLLM(FakeLLM):
+    """Adds a call to each discussion and answers the two credit requests."""
+
+    def complete(self, system, user, max_tokens):
+        import re
+        if user.startswith("Explain this discussion"):
+            data = summarize.ask_json(FakeLLM(), user)
+            data["calls"] = [{"claim": "Rain totals are uncertain.", "about": "Wednesday", "stance": "uncertain",
+                              "quote": "QPF remains uncertain; the heaviest totals favor the Olympics",
+                              "source": "long_term"}]
+            return json.dumps(data)
+        if user.startswith("Below are forward-looking calls"):
+            self.calls += 1
+            first = re.search(r"ID (\S+#0)", user).group(1)
+            return json.dumps({"credits": [
+                {"category": "uncertainty", "call_id": first, "why": "Totals came in well below guidance."},
+                {"category": "early", "call_id": "made-up#9", "why": "Not a real call."}]})
+        if user.startswith("Below are the short- and long-term"):
+            self.calls += 1
+            first = re.search(r"=== (\S+)", user).group(1)
+            return json.dumps({"credits": [
+                {"discussion": first, "quote": "Ensembles agree on a moist southwest flow", "why": "Plain."},
+                {"discussion": first, "quote": "words nobody wrote", "why": "Invented."}]})
+        return super().complete(system, user, max_tokens)
+
+
+def test_credits_are_judged_once_per_week_and_shown(paths, monkeypatch):
+    from afd import forecasters
+    monkeypatch.setattr(forecasters, "REGULAR_MIN", 1)  # so the test's forecaster gets a card
+    signed = FIXTURE.replace("favor the Olympics.", "favor the Olympics.\n\n15")
+    save_all(paths, [signed])
+    llm = CreditLLM()
+    summarize.run(paths, llm, now=datetime(2026, 11, 12, 23, 30, tzinfo=timezone.utc), log=lambda *_: None)
+    ledger = json.loads((paths.data / "credits.json").read_text(encoding="utf-8"))
+    assert ledger["judged_through"] == "2026-11-06"
+    kinds = sorted((c["category"], c["signer"]) for c in ledger["credits"])
+    assert kinds == [("clear", "15"), ("uncertainty", "15")]  # the invented call and quote are dropped
+
+    before = llm.calls
+    summarize.run(paths, llm, now=datetime(2026, 11, 12, 23, 30, tzinfo=timezone.utc), log=lambda *_: None)
+    assert llm.calls == before, "a judged week is never judged again"
+
+    render.build(paths, {"last_check": "2026-11-12T23:30:00+00:00", "ok": True})
+    assert "Notable calls" in (paths.docs / "index.html").read_text(encoding="utf-8")
+    cards = (paths.docs / "forecasters.html").read_text(encoding="utf-8")
+    assert "Honest about uncertainty" in cards and "Totals came in well below guidance." in cards

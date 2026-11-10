@@ -65,6 +65,13 @@ class Profile:
     words: list[str] = field(default_factory=list)
     slot: int = 0                                     # color slot 1-8; 0 means no color of their own
     regular: bool = False
+    credits: list[dict] = field(default_factory=list)  # from credits.json, filled in by render
+
+    def credit_counts(self) -> list[tuple[str, str, int]]:
+        """(category, label, count) for each category they have credits in."""
+        from .credits import CATEGORIES
+        return [(k, v, n) for k, v in CATEGORIES.items()
+                if (n := sum(c["category"] == k for c in self.credits))]
 
     @property
     def note(self) -> str | None:
@@ -102,7 +109,7 @@ def _authored_text(text: str) -> dict[str, str]:
         sig = parse.section_signature(body)
         if not sig:
             continue
-        body = re.split(r"(?i)(?:from )?(?:the )?previous discussion", body)[0]
+        body = parse.PREVIOUS_RE.split(body)[0]
         out[sig[0]].append(body)
     return {k: " ".join(v) for k, v in out.items()}
 

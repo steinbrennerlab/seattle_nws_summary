@@ -100,6 +100,16 @@
       {% for t in data.turning_points %}<dt>{{ t.date }}</dt><dd>{{ t.what }}</dd>{% endfor %}
     </dl>
     {% endif %}
+    {% if id == "month" and month_credits %}
+    <h3>Notable calls</h3>
+    <ul class="credits">
+      {% for c in month_credits %}
+      <li>{{ fc([c.signer], "small") }} <span class="credit-kind">{{ c.label }}</span> {{ c.why }}
+        {% if c.url %}<a href="{{ c.url }}" title="&ldquo;{{ c.quote }}&rdquo;">{{ c.when }}</a>{% endif %}</li>
+      {% endfor %}
+    </ul>
+    <p class="fine">Judged a week at a time, once later discussions show how things turned out. Credits only, never demerits. <a href="forecasters.html">The tally</a>.</p>
+    {% endif %}
     {% else %}
     <p class="pending">This summary has not been generated yet.</p>
     {% endif %}

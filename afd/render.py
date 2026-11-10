@@ -13,6 +13,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from .config import MONTH_DAYS, REGULAR_MIN, NWS_PRODUCT_PAGE, REPO_URL, SUMMARY_WINDOW_DAYS, Paths
 from . import forecasters
+from .credits import CATEGORIES as CREDIT_LABELS
 from .store import list_all
 from .summarize import day_label, local_day, local_label
 
@@ -141,6 +142,21 @@ def build(paths: Paths, status: dict) -> None:
     for d in sorted(by_day, reverse=True):
         months[f"{d:%B %Y}"].append({"label": day_label(d), "discussions": by_day[d]})
 
+    # Credits (credits.py): each one on its forecaster's card, and this month's in the month section.
+    by_id = {d["id"]: d for d in discussions}
+    ledger = (_read(paths.data / "credits.json") or {}).get("credits", [])
+    credits = []
+    for c in sorted(ledger, key=lambda c: c["issued"]):
+        d = by_id.get(c["discussion"])
+        c = {**c, "label": CREDIT_LABELS.get(c["category"], c["category"]),
+             "url": d["url"] if d else None, "when": d["label"] if d else c["issued"][:10]}
+        credits.append(c)
+        if c["signer"] in people:
+            people[c["signer"]].credits.append(c)
+    month = _read(paths.data / "month.json")
+    month_credits = [c for c in credits if month and by_id.get(c["discussion"])
+                     and month["start"] <= by_id[c["discussion"]]["day"].isoformat() <= month["end"]]
+
     leads = sorted((p for p in people.values() if p.discussions), key=lambda p: (-p.discussions, p.id))
     ctx = {
         "people": people,
@@ -152,7 +168,9 @@ def build(paths: Paths, status: dict) -> None:
         "checked": local_label(datetime.fromisoformat(status["last_check"])) if status.get("last_check") else None,
         "latest": latest,
         "week": _read(paths.data / "week.json"),
-        "month": _read(paths.data / "month.json"),
+        "month": month,
+        "month_credits": month_credits,
+        "credit_labels": CREDIT_LABELS,
         "days": recent_days,
         "sky": sky,
         "sky_label": SKY_LABELS[sky],

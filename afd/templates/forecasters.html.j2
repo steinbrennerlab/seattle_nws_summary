@@ -11,6 +11,7 @@
     <p class="lede">Each part of a forecast discussion is signed by the forecaster who wrote it. Most sign with an office ID number, a few with initials or a surname. A signature like <span class="fc fc-s0 fc-static"><span class="fc-dot"></span>33<span class="fc-prev">/41</span></span> means 33 updated text that 41 wrote earlier.</p>
     <p>The office does not publish which person uses which number, and this page does not guess. Everything here comes from the {{ count }} archived discussions: which parts each person signed, when, and with whom. The notes on writing style are impressions from reading their sections.</p>
     <p class="fine">Discussions have three desks. The <strong>forecast</strong> desk writes the short term (the next two or three days) and the long term (the rest of the week). The <strong>aviation</strong> and <strong>marine</strong> desks write for pilots and boaters. The {{ regulars | selectattr("slot") | list | length }} most active forecasters have their own colors; everyone else is gray.</p>
+    <p class="fine"><strong>Credits</strong> recognize notable forecasting in three ways: <em>called it early</em> (first to flag something that later happened), <em>honest about uncertainty</em> (flagged doubt that proved justified), and <em>clear explanation</em> (explained the reasoning especially well). An AI model judges each week once later discussions show how things turned out, at most two per kind per week, and each credit quotes the forecaster's own words. They are a running tally of good calls, not a ranking, and there are no demerits.</p>
 
     <ol class="cards">
       {% for p in regulars %}
@@ -50,6 +51,22 @@
         <p class="card-partners">{% for other, n in handoffs %}{{ fc([other], "small") }} <span class="h-note">{{ n }}×</span>{{ " " if not loop.last }}{% endfor %}</p>
         {% endif %}
 
+        {% if p.credits %}
+        <h3>Credits</h3>
+        <ul class="card-credits">
+          {% for key, label, n in p.credit_counts() %}
+          <li><strong>{{ label }}</strong>: {{ n }} <span class="h-note">in {{ p.desks.forecast if key == "clear" else p.discussions }} {{ "forecast-desk " if key == "clear" }}discussions</span></li>
+          {% endfor %}
+        </ul>
+        <details class="card-detail">
+          <summary>The calls</summary>
+          {% for c in p.credits | reverse %}
+          <p><span class="credit-kind">{{ c.label }}</span> {% if c.url %}<a href="{{ c.url }}">{{ c.when }}</a>{% else %}{{ c.when }}{% endif %}:
+            <q>{{ c.quote }}</q> {{ c.why }}</p>
+          {% endfor %}
+        </details>
+        {% endif %}
+
         {% if p.words %}
         <h3>Words they use more than colleagues</h3>
         <p class="card-words">{{ p.words | join(", ") }}</p>
@@ -61,7 +78,7 @@
     {% if occasional %}
     <h2 class="month" id="occasional">Occasional signers</h2>
     <p>Fewer than {{ regular_min }} discussions each so far:
-      {% for p in occasional %}{{ fc([p.id]) }} <span class="h-note">{{ p.discussions }}</span>{{ " " if not loop.last }}{% endfor %}
+      {% for p in occasional %}{{ fc([p.id]) }} <span class="h-note">{{ p.discussions }}{% if p.credits %}, {{ p.credits | length }} credit{{ "" if p.credits | length == 1 else "s" }}{% endif %}</span>{{ " " if not loop.last }}{% endfor %}
     </p>
     {% endif %}
   </div>
