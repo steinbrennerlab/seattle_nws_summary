@@ -1,0 +1,63 @@
+{
+  "id": "AFDSEW_202611070026",
+  "issued": "2026-11-07T00:26:00+00:00",
+  "headline": "Strong windstorm Saturday night, then a wetter, milder pattern into next week.",
+  "summary": "A busy Pacific storm track is in control. A front moves east over the Cascades tonight, and a warm front lifts north Saturday, bringing a brief dry, mild break. A stronger cold front arrives Saturday night, followed by more systems. A short lull comes Sunday night into Monday, but the active pattern returns and holds into next week.\n\nThe main event is Saturday night into Sunday. Gusts may reach 58 mph along the coast and in northern areas, risking scattered power outages and clogged storm drains. Rain turns to showers Sunday, with mountain snow and high surf on the coast. Next week brings more rain and milder air, heaviest in the Olympics and North Cascades.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "The front moves east over the Cascades, rain tapers off in the south, and winds ease.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Mostly dry and mild in the 60s through the afternoon, then a strong cold front brings rain and gusty south winds in the evening.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Steadier rain becomes showers, mountain snow falls, cooler 50s, and high surf builds along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A brief drier spell Monday, then another front brings more rain and breezy conditions, with a wetter, warmer day Tuesday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "Warm, with the best chance of rain over the Olympics, and more widespread rain returning Thursday into late week.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the strong wind event Saturday night, though the gust odds are only 50 to 75 percent, and they are less sure how strong the surf will be and how long it will last. Confidence drops for next week, when the exact track of moisture and the timing of rain are uncertain.",
+  "hazards": [
+    "High Wind Watch for the Grays Harbor and northern Washington coast, Saturday afternoon through late Saturday night.",
+    "Wind Advisory for parts of the coast and northern lowlands through 4 PM today.",
+    "High Surf Advisory for the Grays Harbor and northern Washington coast on Sunday.",
+    "Storm Warning for coastal waters Saturday morning through Sunday morning, with gale watches for the inland waters.",
+    "Small Craft Advisories and a Gale Warning on the water through this evening."
+  ],
+  "glossary": [
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, which is the forecast amount of rain or melted precipitation expected over an area."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where snow is expected to fall, which helps show which mountain areas will get snow."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A set of forecast model runs with slightly different starting conditions, used to see how much uncertainty there is in a forecast."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air pushing into colder air, usually bringing steady, light rain and gradual warming."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of colder air pushing under warmer air, often bringing a shorter burst of heavier rain and gusty winds."
+    }
+  ]
+}

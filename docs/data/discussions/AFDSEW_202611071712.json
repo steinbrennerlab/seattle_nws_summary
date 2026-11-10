@@ -1,0 +1,58 @@
+{
+  "id": "AFDSEW_202611071712",
+  "issued": "2026-11-07T17:12:00+00:00",
+  "headline": "Windy, rainy cold front tonight, then a calmer Sunday and more wet systems next week.",
+  "summary": "A cold front crosses western Washington tonight after a mild day, and it is part of a busy run of Pacific storms. Forecasters expect a series of systems over the next week, with an atmospheric river aimed mostly at Vancouver Island Tuesday night. Midweek, an upper-level trough digs offshore, and the models disagree on whether the trailing front stalls near the coast or moves through.\n\nTonight is the main event, with rain and strong south winds, strongest along the coast and near Puget Sound around midnight. Sunday starts breezy, then turns quieter and cloudy with highs in the mid 50s. Monday's system is weaker. Midweek stays mild, possibly near record highs on Wednesday, with rain chances returning Thursday and Friday.",
+  "timeline": [
+    {
+      "when": "Today (Saturday)",
+      "what": "A mild day with highs near 60, and rain starts along the coast this afternoon but has not reached Puget Sound yet.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "The cold front brings rain, strong south winds, and high surf to the coast, with the strongest winds around midnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Winds ease but stay breezy in the morning, showers end by noon, and highs reach the mid 50s under cloudy skies.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A weaker front brings rain to the coast Monday, then another front follows Monday night and Tuesday, with an atmospheric river setting up Tuesday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "Mild weather with highs near 60, possibly near records Wednesday, then rain chances Wednesday and Thursday and likely rain inland Friday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about tonight's strong winds and the calmer Sunday, but less sure about midweek, because the models disagree on whether the trailing front stalls near the coast or moves through, so the rain chances for Wednesday and Thursday are general.",
+  "hazards": [
+    "High wind warning for the north and Grays Harbor coasts until early Sunday morning.",
+    "Wind advisories tonight into early Sunday for much of the Seattle area lowlands, the Strait of Juan de Fuca, the Olympic foothills, and the Chehalis River valley.",
+    "High surf warning for the north and Grays Harbor coasts until 10 PM Sunday, making clam digging dangerous.",
+    "Gale and small craft advisories and warnings on local waters through Sunday."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of concentrated moisture moving from the subtropical Pacific toward the coast, which can produce heavy rain."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass, which often brings a line of rain and a shift in wind direction as it passes."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "An elongated area of low pressure high in the atmosphere, which steers storms and often brings cooler, unsettled weather."
+    },
+    {
+      "term": "High surf warning",
+      "definition": "A National Weather Service alert for large, dangerous waves along the coast, expected to be a serious hazard for beachgoers."
+    }
+  ]
+}

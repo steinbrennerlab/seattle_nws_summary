@@ -1,0 +1,58 @@
+{
+  "id": "AFDSEW_202611071128",
+  "issued": "2026-11-07T11:28:00+00:00",
+  "headline": "Windy, rainy cold front tonight; more wet weather through Friday.",
+  "summary": "A mild, humid air mass sits over western Washington today, ahead of a strong storm system that is deepening over the Pacific. A cold front from that storm arrives tonight. Behind it, the pattern stays active: a short break Sunday, another front Monday night, and a moist atmospheric river setting up Tuesday before it shifts north. Forecasters are less sure about the middle of next week, when a front may stall near the coast, and then another system arrives Friday.\n\nTonight's front will bring rain and strong southerly winds, strongest on the coast and around midnight inland, and high surf on the ocean beaches. Leaves are still on the trees after a dry October, so breezy conditions could cause some tree damage. Sunday turns calmer, with showers ending by midday. Rain returns Monday night and is likely Tuesday. Wednesday looks mild, with temperatures near record levels, and Friday brings rain inland.",
+  "timeline": [
+    {
+      "when": "Today (Saturday)",
+      "what": "Mild and mostly cloudy, with morning fog in the Puget Sound area and rain starting on the coast by afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "A cold front brings rain and strong southerly winds, with gusts up to 60 mph on the coast and high surf.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Winds ease but stay breezy in the morning, showers end by midday, and highs reach the mid 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday night through Tuesday night",
+      "what": "Another front brings rain, followed by a moist atmospheric river Tuesday that shifts north Tuesday night.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "Wednesday is mild and near record highs, rain is possible Thursday, and another system brings rain Friday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about tonight's front and the Monday-to-Tuesday system, since models agree on those. They are uncertain about Wednesday and Thursday, because models disagree on whether a front moves through or stalls near the coast, and agree better on the Friday system.",
+  "hazards": [
+    "Wind advisories tonight into early Sunday for Seattle, Everett, the Eastside, the San Juans, Port Townsend, Island County, and other lowlands, plus parts of the Olympic foothills and southwest Washington.",
+    "High wind warning tonight into early Sunday for the Grays Harbor and northern Washington coasts.",
+    "High surf warning from 10 PM tonight to 10 PM Sunday for the Grays Harbor and northern coasts, with seas of 22 to 26 feet. Forecasters say conditions will be dangerous for clam digging.",
+    "Gale and small craft advisories on area waters through Sunday."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass that pushes into warmer air, often bringing a line of rain and a shift in wind direction."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area of relatively warm air between a warm front and a cold front in a storm system."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that follow behind a cold front as the cooler air moves in."
+    },
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of concentrated moisture in the atmosphere that can bring heavy, sustained rain when it reaches land."
+    }
+  ]
+}

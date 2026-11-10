@@ -1,0 +1,63 @@
+{
+  "id": "AFDSEW_202611080553",
+  "issued": "2026-11-08T05:53:00+00:00",
+  "headline": "Strong windstorm tonight, then a wet, breezy stretch through much of next week.",
+  "summary": "A deep low-pressure system far out over the Pacific is pushing a strong cold front across western Washington tonight. Behind the front, cold air aloft keeps the atmosphere unstable, and forecasters expect a series of Pacific storm systems to keep arriving through the end of the week, a typical active pattern for November.\n\nTonight brings widespread rain and gusty winds that peak overnight into early Sunday, with a slight chance of thunderstorms, mostly near the coast. The coast faces the biggest threats from wind and high surf. Sunday brings a lull in the wind and showers that taper off, while snow falls in the higher mountains as snow levels drop. A brief break Sunday evening gives way to another wet, breezy system on Monday, and a steadier moisture stream brings more rain and milder temperatures from Tuesday into Wednesday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "The cold front brings widespread rain, gusty winds, and a slight chance of thunderstorms, mainly along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Winds ease late in the day, showers taper off, high surf continues on the coast, and snow falls in the higher mountains.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A brief break Sunday evening gives way to another wet, breezy system.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "A steady moisture plume brings more widespread rain, milder temperatures, and breezy conditions.",
+      "source": "long_term"
+    },
+    {
+      "when": "End of the week",
+      "what": "More systems bring additional rain and breezy conditions, though their timing and strength are uncertain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about tonight's front and its winds, but the timing and strength of the systems later in the week are less certain because the ensemble model runs disagree on the details.",
+  "hazards": [
+    "High Wind Warning for the northern and Grays Harbor coasts until early Sunday, with gusts possibly reaching 55 mph or more.",
+    "Wind Advisory for much of the interior lowlands until early Sunday, with gusts of 45 to 50 mph at times and possible power outages.",
+    "High Surf Warning for the northern and Grays Harbor coasts until Sunday night, with waves of 22 to 28 feet.",
+    "Gale and storm warnings over the coastal and inland waters through Sunday morning.",
+    "Isolated thunderstorms possible tonight, and a marginal risk of severe weather in western Washington."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cold air mass that pushes into warmer air, often bringing a band of heavy rain and gusty winds."
+    },
+    {
+      "term": "Low-pressure system (low)",
+      "definition": "An area of falling air pressure that rotates and brings clouds, wind, and rain. A deep low has especially low central pressure and usually means stronger winds."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that follow the main band of rain after a cold front passes, typically lighter and more scattered."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of computer forecast runs with slightly different starting conditions. When the runs disagree, forecasters have less confidence in the details."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202611061007",
+  "issued": "2026-11-06T10:07:00+00:00",
+  "headline": "Strong, gusty storm today, then a mild Saturday before another windy, rainy front Saturday night.",
+  "summary": "A series of strong Pacific storms is crossing western Washington, and forecasters expect the pattern to stay active into next week. A warm front moves north Saturday, bringing a dry, mild day, before a deep low off the coast pushes a cold front into the region Saturday night.\n\nToday brings strong south winds with gusts near 50 mph on the coast and in the north interior, and rain reaches Seattle this afternoon. Saturday starts dry with highs in the 60s. Saturday night brings more rain and wind, with gusts of 30 to 40 mph inland and strong coastal winds possible. Sunday is a brief break, but large swells will build seas to 20 to 25 feet offshore and could bring high surf to beaches. Next week looks wet and windy, especially on the coast, with more lowland rain and mountain snow.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Strong south winds with gusts near 50 mph on the coast and north interior, and rain filling into Seattle this afternoon before tapering after midnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A dry, mild start with highs in the 60s, followed by a cold front approaching western Washington later in the day.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "Another round of rain and wind, with gusts of 30 to 40 mph inland and strong winds along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "A brief break between systems, but large swells bring seas of 20 to 25 feet and possible high surf at the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night through Thursday",
+      "what": "More Pacific storms track through, with windy spells (mainly on the coast), lowland rain, and high mountain snow, and little break between them.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are most confident about today and Saturday, while Saturday night's system is described as having the potential for strong winds, and the details for next week's storms are less specific.",
+  "hazards": [
+    "Wind Advisory today for Island County, western Skagit and northwest Snohomish lowlands, western Whatcom lowlands, and San Juan County, until 4 PM.",
+    "Wind Advisory today for the northern Washington coast, until 1 PM, and the Grays Harbor coast, until 4 PM.",
+    "Gale Warnings on many inland and coastal waters today, with gales and small craft advisories continuing into Saturday.",
+    "Storm Watch for the coastal waters from Saturday morning through Sunday morning, meaning storm-force gusts are possible.",
+    "Gale Watches for the Strait of Juan de Fuca, Puget Sound, and northern inland waters from Saturday through Sunday.",
+    "Rough to severe bar conditions at Grays Harbor, expected to continue until further notice."
+  ],
+  "glossary": [
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air moving in, usually bringing steady rain and a gradual rise in temperature."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of cooler air pushing in under warmer air, often bringing a shorter burst of heavier rain and gusty wind."
+    },
+    {
+      "term": "Deep low",
+      "definition": "A low-pressure area with very low central pressure, usually linked to strong winds and rough seas."
+    },
+    {
+      "term": "Swell train",
+      "definition": "A series of long-period ocean waves generated far out at sea, which can produce large surf on beaches even when local winds are light."
+    },
+    {
+      "term": "Gale",
+      "definition": "Sustained wind of roughly 34 to 47 knots (about 39 to 54 mph) over water, dangerous for boats."
+    }
+  ]
+}

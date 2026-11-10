@@ -1,0 +1,62 @@
+{
+  "id": "AFDSEW_202611072307",
+  "issued": "2026-11-07T23:07:00+00:00",
+  "headline": "Strong wind and rain tonight, then more wet, breezy systems through next week.",
+  "summary": "A strong Pacific cold front, linked to a deepening storm low off British Columbia, crosses western Washington tonight into Sunday morning. Forecasters expect a brief break Sunday evening before another system arrives Monday into Tuesday, and an active pattern of storms continues through the end of the week. Computer model guidance is less certain about the timing and strength of these later systems.\n\nThe biggest impact for most people is tonight's wind, with gusts of 45 to 50 mph inland and stronger on the coast. Trees still have leaves, so localized power outages are possible. Rain spreads across the lowlands, snow falls in the mountains, and surf builds to 22 to 28 feet on the beaches. Highs reach the mid 50s Sunday. Tuesday into Wednesday brings a milder, wetter, breezy spell. River flooding isn't expected, but soils will become saturated.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "The cold front brings steady rain, strong southerly winds that peak overnight, and surf that builds along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain turns to showers, winds ease in the afternoon, mountain snow levels drop to around 4,500 feet, and highs reach the mid 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A brief break Sunday evening gives way to another wet system with locally breezy conditions.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday through Wednesday",
+      "what": "A plume of moisture brings more widespread rain, milder temperatures, and breezy conditions.",
+      "source": "long_term"
+    },
+    {
+      "when": "End of the week",
+      "what": "More systems bring additional rain and breezy conditions.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about tonight's front and its strong winds, but the ensemble guidance is described as a bit shaky on the timing and strength of the systems after Monday, so details later in the week could change.",
+  "hazards": [
+    "High Wind Warning for the Grays Harbor and northern Washington coasts until 4 AM Sunday.",
+    "Wind Advisory for Seattle, Everett, the Eastside, the Pierce and southern King County lowlands, Skagit, Whatcom, Island, and San Juan counties, the Olympic foothills, and the Chehalis River valleys until early Sunday.",
+    "High Surf Warning for the Grays Harbor and northern Washington coasts until 10 PM Sunday.",
+    "Gale and storm warnings on Puget Sound, the Strait of Juan de Fuca, and coastal waters through Sunday morning, plus a small craft advisory at the Grays Harbor bar until 4 PM Sunday."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass that pushes into warmer air, often bringing a band of rain and gusty winds."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer model runs with slightly different starting conditions, used to gauge how confident forecasters can be."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that follow the passage of a cold front, usually lighter and more scattered than the steady rain ahead of it."
+    },
+    {
+      "term": "Plume of moisture",
+      "definition": "A narrow band of moist air flowing in from the ocean, which can produce steady rain when it reaches land."
+    }
+  ]
+}

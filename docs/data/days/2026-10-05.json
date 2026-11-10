@@ -1,19 +1,10 @@
 {
   "date": "2026-10-05",
-  "headline": "Foggy mornings and sunny, mild afternoons continue through Thursday; a cooler, breezier, mostly dry system arrives Friday into the weekend.",
-  "summary": "As of Monday evening, western Washington stays in a steady routine through Thursday. Winds are light, so low clouds and fog form overnight around Puget Sound and burn off around noon, give or take an hour, leaving sun with some high clouds in the afternoon. Areas of dense fog are possible tonight, and forecasters added more morning cloud and fog to Tuesday and Wednesday. Slightly stronger winds on those days may turn mornings toward low cloud with less fog, though patchy fog is still possible in sheltered valleys. Some spots around 700 feet up sit above the shallow cloud layer and get morning sunshine. Highs are in the mid 60s to low 70s and lows in the upper 40s to mid 50s. Thursday should be the warmest day, with highs in the upper 60s to mid 70s, when high pressure aloft is strongest. From Friday into the weekend, a dip in the jet stream (a trough) is expected to bring more clouds, more wind, and cooler weather, with highs in the upper 50s to low 60s and lows in the upper 30s to mid 40s. Showers are only a slight chance in parts of the area, with Friday into Saturday the best chance, and widespread rain does not look very likely. Most models agree on the trough, but its exact timing is uncertain.",
-  "changes": "A morning Dense Fog Advisory expired by midday, and later discussions kept the fog theme, adding more morning cloud and fog for Tuesday and Wednesday. The weekend outlook shifted from light showers and a possible convergence zone to a cooler, breezier, mostly dry pattern with only slight shower chances, and Thursday was pegged as the warmest day, with highs up to the mid 70s.",
-  "glossary": {
-    "trough": "A dip in the jet stream that typically brings cooler, cloudier, more unsettled weather.",
-    "ridge": "A bulge of high pressure aloft that tends to bring warmer, calmer weather.",
-    "convergence zone": "A narrow band where winds meet around Puget Sound and can produce a stripe of showers; forecasters earlier said it was uncertain whether one would form.",
-    "Dense Fog Advisory": "A National Weather Service notice that fog is thick enough to cut visibility sharply, which can make driving hazardous."
-  },
-  "signature": "5928b2dcbcddd14f",
+  "headline": "Mild, foggy mornings and sunny afternoons through Thursday, then cooler, breezier, mostly dry weather Friday.",
+  "summary": "A steady high-pressure setup keeps winds light and the pattern largely unchanged through Thursday. Low clouds and fog form overnight over Puget Sound and usually burn off around noon, followed by sunny afternoons. Highs stay mostly in the 60s to low 70s, with Thursday the warmest day. On Tuesday and Wednesday, slightly stronger winds may bring more morning clouds and less fog, and dense fog is possible tonight. From Friday into the weekend, a dip in the jet stream brings more clouds, wind, and cooler weather, with highs in the upper 50s to low 60s. Showers are possible, mostly Friday into Saturday, but widespread rain does not look likely, and the timing of the dip is still uncertain.",
+  "changes": "",
+  "signature": "386db8c07ed89eb6",
   "discussions": [
-    "AFDSEW_202610050931",
-    "AFDSEW_202610051521",
-    "AFDSEW_202610052116",
     "AFDSEW_202610060338"
   ]
 }

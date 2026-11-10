@@ -1,0 +1,60 @@
+{
+  "id": "AFDSEW_202611081050",
+  "issued": "2026-11-08T10:50:00+00:00",
+  "headline": "Drying today, then a wet, breezy run of systems, with an atmospheric river Friday.",
+  "summary": "A quiet spell follows Saturday's cold front, but it won't last. Forecasters expect a series of systems moving in from a deep low over the Gulf of Alaska. A warm front arrives Tuesday, and the cold front behind it stalls offshore Wednesday, which could bring record warmth. Later in the week, an upper-level trough off the coast is expected to steer a river of moisture, an atmospheric river, over western Washington Friday and Saturday.\n\nFor most people, that means breezy, showery days Monday and Tuesday with highs in the mid-50s, and windier conditions on the coast. Wednesday could be the mildest day of the stretch, with highs possibly in the lower to mid 60s. The weekend rain is the one to watch. It could keep falling for a while and soak the ground further, but river flooding is not expected in the next seven days. Snow stays confined to the high mountains.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Showers taper off this afternoon, leaving mostly cloudy skies and highs in the mid-50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A cold front arrives, with rain reaching the coast early afternoon and the interior by the evening commute.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "A warm front lifts north, bringing more rain back to the area with highs in the mid-50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "The area sits in the warm sector, with possible record highs in the lower to mid 60s.",
+      "source": "long_term"
+    },
+    {
+      "when": "Thursday through Saturday",
+      "what": "What's left of a weakening front reaches land Thursday, then an atmospheric river sets up Friday and continues into Saturday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the overall pattern of several systems in a row and the warm spell Wednesday, since the models agree well on those. They are less sure about how long and how intense the weekend atmospheric river will be, and whether it stalls over the area, because the timing of the upper-level trough can still shift.",
+  "hazards": [
+    "High surf warning on the Grays Harbor and northern Washington coasts until 10 PM tonight, with dangerous surf at the beaches.",
+    "Gale warnings and advisories for coastal and inland waters through this morning and early Monday, with a gale watch for much of Monday, meaning strong winds on the water."
+  ],
+  "glossary": [
+    {
+      "term": "Atmospheric river",
+      "definition": "A long, narrow band of concentrated moisture moving from the subtropics toward the coast. When it hits land, it often brings prolonged, heavy rain."
+    },
+    {
+      "term": "Upper-level trough",
+      "definition": "An elongated dip in the high-altitude winds, which steers weather systems and often brings cooler, unsettled conditions beneath it."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and a trailing cold front, where warmer, moist air sits before the cold front passes."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain. A high snow level means snow only falls well up in the mountains."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that follow the passage of a cold front, often scattered and short-lived as the air behind the front settles."
+    }
+  ]
+}

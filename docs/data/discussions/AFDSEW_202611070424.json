@@ -1,0 +1,62 @@
+{
+  "id": "AFDSEW_202611070424",
+  "issued": "2026-11-07T04:24:00+00:00",
+  "headline": "Dry, warm Saturday morning, then a strong windstorm and rain Saturday night into Sunday.",
+  "summary": "A Pacific frontal system has pushed east over the Cascades, and its showers should fade overnight as a brief ridge of high pressure aloft builds in. A warm front lifts through on Saturday, then a stronger cold front arrives Saturday night, driven by strong southerly winds. A short drier spell on Monday gives way to more systems, and the stormy pattern continues into next week.\n\nSaturday should be mostly dry and mild, with highs in the 60s. The evening front will bring steadier rain and strong gusts, which could cause scattered power outages, since trees still have leaves, and clogged storm drains. Sunday brings showers, cooler 50s, and snow in the high mountains. The coast faces dangerous surf. Rain and breezy weather return Monday night and Tuesday, with more rain likely later in the week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Showers taper off and skies clear from the south as winds ease and lows drop into the 40s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Mostly dry and mild with highs in the 60s, then a strong cold front brings rain and gusty winds Saturday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain turns to showers, temperatures fall into the 50s, and dangerous surf builds along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday through Tuesday",
+      "what": "A brief drier spell Monday, then another warm front brings rain and breezy conditions Monday night and Tuesday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "More widespread rain returns Thursday into late week, with forecasters less certain about details.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about Saturday night's windstorm, since the strength of the winds is well supported by guidance, though exact gust speeds remain uncertain. Confidence drops for next week, where forecasters say uncertainty increases and rainfall locations and amounts could shift.",
+  "hazards": [
+    "High Wind Watch for the northern and Grays Harbor coasts from Saturday afternoon through Saturday night; gusts could reach warning levels.",
+    "High Surf Advisory for the northern and Grays Harbor coasts from 4 AM to 10 PM Sunday, with waves up to about 20 to 28 feet offshore; a higher-level warning is possible.",
+    "Gale Watches and a Storm Warning for coastal and inland waters Saturday into Sunday, with Small Craft Advisories also in effect.",
+    "Small Craft Advisory for Puget Sound and Hood Canal until 11 PM tonight."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass that pushes into warmer air, often bringing a sharp band of rain and gusty winds."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warmer air mass moving over cooler air, usually bringing steady rain followed by milder temperatures."
+    },
+    {
+      "term": "Ridge (of high pressure aloft)",
+      "definition": "An elongated area of high pressure in the upper atmosphere that usually brings drier, calmer weather at the surface."
+    },
+    {
+      "term": "QPF (quantitative precipitation forecast)",
+      "definition": "The forecast amount of liquid precipitation expected over a given area and time, used to show where rain will be heaviest."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which snow is expected to fall, which shifts as temperatures change."
+    }
+  ]
+}
