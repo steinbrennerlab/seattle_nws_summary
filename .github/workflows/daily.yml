@@ -2,9 +2,13 @@ name: Daily update
 
 on:
   schedule:
-    # 23:30 UTC is 3:30 PM PST / 4:30 PM PDT, after the afternoon discussion is usually out.
-    # GitHub often starts scheduled runs 10-30 minutes late.
-    - cron: "30 23 * * *"
+    # Four times a day, each shortly after one of Seattle's usual discussions (UTC; Pacific is
+    # 7-8 hours behind): 04:47 after the evening one, 11:47 after the early morning one,
+    # 17:47 after the morning update, 23:47 after the afternoon one. Each run only summarizes
+    # what is new, so extra runs cost little. Odd minutes, because GitHub delays or drops
+    # scheduled runs most often on the hour and half hour; with four a day, a late or skipped
+    # run matters less.
+    - cron: "47 4,11,17,23 * * *"
   workflow_dispatch:
     inputs:
       backfill_days:
