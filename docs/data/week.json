@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-03",
-  "end": "2026-11-09",
-  "headline": "A stormy Pacific pattern set in, and each forecast added more wind, rain, and storms",
-  "summary": "Forecasters began the week expecting a quiet few days, then a stormier stretch starting Friday. Over the next few days the picture sharpened. A strong front was set to bring a windy, rainy Friday, especially on the north coast and from Whidbey Island northward. Forecasters then added a second, stronger system for Saturday night into Sunday. Confidence in that one grew each day until it was called a significant windstorm. High winds were expected on the coast, and leafy trees raised the risk of scattered power outages. Snow stayed in the high mountains through most of this stretch because of unusually high snow levels.\n\nBy the weekend, the focus had moved to the pattern behind the windstorm. A steady line of Pacific storms and a moisture plume (an atmospheric river) were expected to keep western Washington wet and breezy through Tuesday, with only brief dry spells between systems. As of Monday, forecasters were fairly confident about gusty winds through Wednesday and were watching three stronger storms from Friday through Sunday. Those storms could bring strong coastal gusts, very rough seas, and heavy rain that might push one river near minor flood stage. The timing and strength of those late-week storms are still uncertain.",
+  "start": "2026-11-05",
+  "end": "2026-11-11",
+  "headline": "A stormy Pacific pattern held all week, with the wettest, windiest storms now expected into next week.",
+  "summary": "From the start, forecasters saw an active stretch with one Pacific storm after another crossing western Washington, and that call never wavered. What changed was the strength and timing of individual storms. Early in the week the focus was a Friday front and a stronger windstorm Saturday night. Confidence in that windstorm grew, and a High Wind Watch went up for the coast. By the weekend, forecasters were adding a slight chance of thunderstorms near the coast and expecting steadier rain midweek. They also started describing an atmospheric river, a long, narrow stream of moist air aimed at the region, which can keep rain going for days.\n\nBy midweek the discussions looked past the first storms to a stronger round late in the week. Wind advisories were issued for the coast and north interior, and heavy rain on the Olympics pushed the Skokomish River into flood. A deep dip in the jet stream, the fast band of high-altitude winds, over the Gulf of Alaska is now steering the next storms toward us. Forecasters expect a mild, soggy weekend, a brief break Monday, and another wetter, possibly windy front Tuesday. They are still unsure of the exact wind tracks and the strength of the weekend storms.",
   "turning_points": [
     {
-      "date": "Wed Nov 4",
-      "what": "A second storm for Saturday night into Sunday was added to the forecast, and forecasters grew more confident of strong Friday winds in the north."
-    },
-    {
-      "date": "Thu Nov 5",
-      "what": "Saturday night's wind forecast went from a possible strong-wind event to likely advisory-level winds, possibly reaching Puget Sound."
-    },
-    {
       "date": "Fri Nov 6",
-      "what": "Forecasters became confident that Saturday night would be a significant windstorm, and a High Wind Watch was issued for the coast."
+      "what": "Forecasters grew confident that Saturday night would bring a significant windstorm, and a High Wind Watch covered the coast."
+    },
+    {
+      "date": "Sun Nov 8",
+      "what": "A brief dry spell was expected, but forecasters now described an atmospheric river aimed at the area and flagged a Friday-to-weekend system to watch."
     },
     {
       "date": "Mon Nov 9",
-      "what": "The late-week outlook changed to three stronger storms Friday through Sunday, with a river flood risk, and a wind advisory was issued."
+      "what": "Wind advisories took effect for the coast and northern lowlands, and the late-week outlook shifted to stronger storms, large coastal swells, and possible minor river flooding."
+    },
+    {
+      "date": "Tue Nov 10",
+      "what": "The Skokomish River flood watch became a flood warning, and storm timing was refined: Thursday night, around Sunday, then a Tuesday front after a likely Monday lull."
     }
   ],
-  "signature": "331d7056bd27ae56",
-  "written": "2026-11-09"
+  "signature": "3536bf22bf7dde72",
+  "written": "2026-11-11"
 }

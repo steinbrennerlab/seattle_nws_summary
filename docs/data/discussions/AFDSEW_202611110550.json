@@ -1,0 +1,98 @@
+{
+  "id": "AFDSEW_202611110550",
+  "issued": "2026-11-11T05:50:00+00:00",
+  "headline": "Wet, windy stretch through the weekend, with a brief break Monday and another front Tuesday.",
+  "summary": "A warm front is lifting north into British Columbia tonight, bringing strong, moist southwest winds and rain to western Washington. A cold front then stalls offshore and weakens through Thursday. After that, a series of Pacific storm systems takes over, with one arriving Thursday night and another Sunday. A brief lull is expected Monday before a new front arrives Tuesday.\n\nFor most people, this means mild, mostly wet weather, with the heaviest rain along the coast and Olympics and snow in the high mountains. Gusty south winds of 20 to 30 mph, with gusts near 50 mph, hit the coast and north interior tonight and ease Wednesday afternoon. Wednesday is mild, in the 60s. The Friday storm brings strong coastal winds and more lowland rain, and the Skokomish River, already running high, could flood.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "A warm front lifts north, giving the interior a break from rain while strong south winds and heavy rain hit the coast and north interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Mild, in the 60s; winds ease in the afternoon, while the coast and Olympics stay wet as the cold front stalls offshore.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The cold front weakens offshore, bringing light rain to the coast and Olympics and a brief break for the interior and Cascades.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday night into Friday",
+      "what": "A strong Pacific storm brings lowland rain, mountain snow, and gusty winds, strongest on the coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday through Sunday",
+      "what": "The storm weakens inland Saturday, then a second system brings more wind and rain Sunday, keeping river flooding possible.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday and Tuesday",
+      "what": "A brief break Monday, then breezy winds and rain return Tuesday as the next front arrives.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the overall pattern of repeated wet, windy systems, but the exact track of the Friday low pressure system is uncertain, which could shift where the strongest waves and winds land, and the Monday break is only described as appearing likely.",
+  "hazards": [
+    "Wind Advisory until 7 PM Wednesday for the Grays Harbor coast, islands, and lowlands of Skagit, Snohomish, Whatcom, and San Juan counties.",
+    "Coastal Flood Advisory from 5 to 11 AM Wednesday for lowland western Whatcom and San Juan counties, near high tide.",
+    "High Surf Advisory until 10 AM Wednesday for the Grays Harbor and northern Washington coasts.",
+    "River flood warning for the Skokomish River, which is rising after heavy rain in Mason County.",
+    "Gale Warning on coastal and northern inland waters until 7 PM Wednesday."
+  ],
+  "glossary": [
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warm air mass pushing into cooler air, usually bringing steady rain and mild temperatures behind it."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cold air mass pushing under warmer air, often bringing a line of showers and wind shifts."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area of mild, moist air between a warm front and the following cold front."
+    },
+    {
+      "term": "Southwest flow",
+      "definition": "Winds blowing from the southwest, which carry moist Pacific air toward the Washington coast and Cascades."
+    },
+    {
+      "term": "High Surf Advisory",
+      "definition": "A National Weather Service notice that large, dangerous waves are expected along the coast."
+    },
+    {
+      "term": "GEFS and ECMWF",
+      "definition": "Two sets of computer weather models that run many slightly different forecasts, and whose agreement or disagreement shows how confident the forecast can be."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A strong Pacific storm is expected to arrive Thursday night into Friday, bringing lowland rain and gusty winds.",
+      "about": "Thursday night into Friday",
+      "stance": "expected",
+      "quote": "there's another strong Pacific storm system moving in for more lowland rain",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "The Monday break in the weather may happen, but forecasters are not fully sure it will.",
+      "about": "Monday",
+      "stance": "possible",
+      "quote": "Moving forward, there appears to be a brief break in the pattern on Monday.",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "The track of the Friday low pressure system could shift, changing where the largest waves and strongest winds occur, and waves near 30 feet remain possible.",
+      "about": "Friday into early Saturday",
+      "stance": "uncertain",
+      "quote": "Subtle shifts in the low pressure may change waves and where the largest waves generate",
+      "source": "marine",
+      "signer": "Mazurkiewicz"
+    }
+  ]
+}

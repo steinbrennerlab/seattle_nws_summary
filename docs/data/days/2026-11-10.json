@@ -1,12 +1,13 @@
 {
   "date": "2026-11-10",
-  "headline": "Wet, windy, and mild; a break Thursday, then more storms Friday through Sunday.",
-  "summary": "Moist air from the Pacific has brought rain and high-elevation snow to western Washington, and a warm front is lifting north out of the region tonight. A cold front will stall offshore Wednesday into Thursday, and then a series of Pacific storms moves in from Friday through Sunday, with a brief break Monday before another front arrives Tuesday. For the Seattle area, Wednesday is mild, in the 60s, with strong south winds along the coast and in the north. The interior gets a break from rain Thursday. Friday through Sunday brings more lowland rain, mountain snow, and gusty winds, strongest on the coast. The Skokomish River in Mason County is running high and could flood again. Forecasters are fairly confident in the overall pattern, but the exact track of the storms could still shift.",
-  "changes": "The weekend is now described as a series of Pacific storms rather than two separate systems, and the latest discussion adds a brief Monday break followed by another front Tuesday. The interior is also now expected to get a rain break on Thursday.",
-  "signature": "cd9d0e9b1da93a52",
+  "headline": "Mild, wet, windy weather through the weekend; brief Monday break, front Tuesday.",
+  "summary": "A warm front is lifting north into British Columbia tonight, pulling in strong, moist southwest winds and rain. A cold front stalls offshore and weakens through Thursday, and a series of Pacific storm systems follows, with one arriving Thursday night and another around Sunday. A brief Monday lull is only likely, before another front arrives Tuesday. For most people this means mild, mostly wet weather, with the heaviest rain on the coast and Olympics and snow in the high mountains. Gusty south winds, with gusts near 50 mph, hit the coast and north interior tonight and ease Wednesday afternoon. Wednesday is mild, in the 60s. The Friday storm brings strong coastal winds and more lowland rain, and the Skokomish River, already running high, could flood.",
+  "changes": "Compared with the afternoon discussion, the storm timing has been refined: one system now arrives Thursday night, another comes around Sunday, and a Tuesday front follows a likely Monday lull. The flood watch for the Skokomish River has been upgraded to a river flood warning because the river is rising after heavy rain.",
+  "signature": "abe7565e98e995b3",
   "discussions": [
     "AFDSEW_202611101121",
     "AFDSEW_202611101736",
-    "AFDSEW_202611102247"
+    "AFDSEW_202611102247",
+    "AFDSEW_202611110550"
   ]
 }

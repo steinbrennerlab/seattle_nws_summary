@@ -1,0 +1,193 @@
+FXUS66 KSEW 110950
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+150 AM PST Wed Nov 11 2026
+
+.SYNOPSIS...
+A warm front has introduced a very mild air mass to Western
+Washington with near record high temperatures expected today. 
+A cold front will stall offshore into Thursday with mainly dry 
+conditions for interior areas and light rain at times near the 
+coast. A series of frontal systems will bring a return of
+widespread rain and occasionally windy conditions Friday into 
+early next week.
+
+&&
+
+.SHORT TERM /TODAY THROUGH FRIDAY/...
+Rain has ended for most areas except for a few showers near the
+coast early this morning. Temperatures are extraordinarily mild
+across the region in the wake of a warm front that lifted north
+across Western Washington late yesterday. Windy conditions will
+continue along the coast and across the north interior, but are
+expected to ease late today. A cold front will stall offshore 
+today into Thursday. Areas of light rain will occasionally skirt
+the coast and Olympic Peninsula ahead of this boundary, but the
+remainder of the area is expected to be largely dry with high 
+temperatures, especially today, threatening some daily records. 
+
+A fairly deep upper trough moving across the Gulf of Alaska will
+push an occluded front onshore into the region during the day 
+on Friday. Fortunately, this system looks like it will be 
+vertically stacked upon arrival...thereby losing a lot of its 
+punch before coming ashore. Nonetheless, it will bring another 
+round of rain along with breezy to locally windy conditions. It 
+will also churn up some pretty large surf during its offshore 
+journey with seas of 20+ feet reaching coastal areas again by 
+Friday night.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+A trailing upper trough is expected to quickly swing onshore
+Friday night. Another potent front approaches the region on 
+Saturday night. Though this system is also vertically stacked,
+the path of the surface low gives it better wind potential, 
+especially for the coast, along with a fairly deep moisture 
+feed. And, as such, WPC has placed a large swath of the Olympic
+Peninsula under marginal risk in their Excessive Rainfall
+Outlook for 12Z Saturday to 12Z Sunday. Plenty of post-frontal
+showers are expected to spread onshore into Sunday keeping
+things fairly soggy. There's still decent model agreement with 
+a brief break for Monday, but the key word is brief. Another wet
+and potentially windy front arrives in the Tuesday time frame. 
+It might have started slow, but November as we know it is well 
+and truly here now.
+
+27
+
+&&
+
+.AVIATION...
+Southwest flow aloft continues into tonight with a stalled 
+frontal boundary over the offshore waters. Areas of MVFR in 
+light rain will continue through the morning for coastal areas 
+while VFR is expected for the interior under varying amounts of 
+mid and high level cloud cover. Gusty southerly surface winds 
+along the coast and across the north interior are expected to 
+ease later today. With lighter surface winds expected tonight, 
+there is an increased risk of areas of IFR low clouds forming 
+west of Puget Sound, across the Southwest Interior, and far 
+south Puget Sound on Thursday morning.
+
+
+KSEA...VFR with varying amounts of high and mid level clouds
+today. Surface winds south to southeasterly 7 to 10 knots 
+easing to 6 knots or less tonight. 
+
+27
+
+&&
+
+.MARINE...
+Strong winds will continue to persist across the coastal waters 
+through much of the day today as a cold front remains stalled 
+offshore. This front will weaken as it slowly drifts onshore this 
+evening, allowing winds to slowly ease this evening into early 
+Thursday morning. Gale Warnings for the coastal waters and East 
+Strait of Juan de Fuca, and Northern Inland Waters, and Small Craft 
+Advisories for Admiralty Inlet will continue through evening as 
+well. Seas 13 to 15 ft this morning may creep slightly upward 
+towards 16 to 18 ft, but generally remaining in the 14 to 16 ft 
+range through tonight. Seas will ease to around 11 to 13 ft on 
+Thursday.
+
+A pair of strong low pressure systems will move across the coastal 
+waters late Thursday night into Friday, with the second moving 
+through Saturday night into Sunday. Winds will begin to increase 
+across the area waters on Thursday. Gales will begin as early as 
+Thursday afternoon, through winds look to peak overnight into early 
+Friday morning. Guidance continues to indicate 50-70% chances for 
+storm force gusts over the outer coastal waters, but confidence has 
+decreased for the inner coastal waters with high-end gales the more 
+likely scenario there. Winds will ease Friday night before 
+increasing again Saturday with a secondary peak Saturday evening. 
+Gale force winds again are very likely across the coastal waters, 
+with 40-50% chances for storm force gusts over the outer coastal 
+waters.
+
+Seas once again will build over the coastal waters on Friday.
+With the low center tracking closer towards our area, that will send 
+the largest waves farther south towards Oregon. That being said, 
+very large seas are expected, with ensemble guidance continuing to 
+show very high confidence (>90%) in seas above 20 ft by Friday 
+evening, with a 25-35% chance of seas above 25 ft through Saturday 
+morning. Dominant periods will be very long, in the 16-18 s range. 
+Seas look to briefly ease Saturday morning below 20 ft before 
+another system will send another round of large, long period waves 
+on Sunday with high (70-80%) confidence in seas above 20 ft with a 
+15-30% chance of seas exceeding 25 ft through early Monday.
+
+With these systems, slight shifts in the low tracks will determine 
+where the strongest wave generation/dynamic fetch regions will be. 
+While it is looking more likely that the largest waves will be aimed 
+towards Oregon and California from the Friday/Saturday system, the 
+Sunday/Monday system favors a more northward track with the largest 
+waves aimed towards the Washington coast. There is a 5-10% chance of 
+waves exceeding 30 ft at the peak wave height Sunday night.
+
+62
+
+&&
+
+.HYDROLOGY...
+Steady rain throughout Tuesday across the Olympic basin 
+contributed to a rapid rise on the Skokomish River near 
+Potlatch with the river reaching moderate flood stage late
+yesterday evening. The river is expected to slowly recede later
+this morning, but additional rainfall over the upcoming weekend
+will bring renewed potential for flooding. 
+
+River flooding is not expected on the other rivers in the area 
+in the next 7 days at this time. 
+
+27
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Wind Advisory until 7 PM PST this evening for Grays Harbor 
+     County Coast-Island County-Lowlands of Western Skagit and 
+     Northwestern Snohomish Counties-Lowlands of Western 
+     Whatcom County-Northern Washington Coast-San Juan County.
+
+     Coastal Flood Advisory from 5 AM to 11 AM PST this morning for 
+     Lowlands of Western Whatcom County-San Juan County.
+
+     Coastal Flood Watch from Friday morning through Friday 
+     afternoon for San Juan County.
+
+     High Surf Advisory until 4 PM PST this afternoon for Grays 
+     Harbor County Coast-Northern Washington Coast.
+
+PZ...Small Craft Advisory until 10 AM PST Thursday for Grays Harbor 
+     Bar-West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Warning until 7 PM PST this evening for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm-East Entrance U.S. 
+     Waters Strait Of Juan De Fuca-Northern Inland Waters 
+     Including The San Juan Islands.
+
+     Small Craft Advisory until 7 PM PST this evening for Admiralty 
+     Inlet.
+
+     Small Craft Advisory from 7 PM this evening to 10 AM PST 
+     Thursday for Coastal Waters From Cape Flattery To James 
+     Island 10 To 60 Nm-Coastal Waters From Cape Flattery To 
+     James Island Out 10 Nm-Coastal Waters From James Island 
+     To Point Grenville 10 To 60 Nm-Coastal Waters From James 
+     Island To Point Grenville Out 10 Nm-Coastal Waters From 
+     Point Grenville To Cape Shoalwater 10 To 60 Nm-Coastal 
+     Waters From Point Grenville To Cape Shoalwater Out 10 Nm.
+
+&&
+
+$$

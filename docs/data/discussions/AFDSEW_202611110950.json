@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611110950",
+  "issued": "2026-11-11T09:50:00+00:00",
+  "headline": "Mild, mostly dry until Friday, then a stormy, wet, windy stretch into next week.",
+  "summary": "A warm front brought very mild air to western Washington, and a cold front will stall offshore through Thursday. Behind it, a deep upper trough, a large dip in the jet stream over the Gulf of Alaska, will send a weakened occluded front ashore on Friday. A series of additional frontal systems follows, keeping the pattern active into early next week.\n\nToday will be unusually mild, with temperatures threatening daily records and mostly dry weather inland, though light rain will skirt the coast. Winds along the coast and in the north interior ease later today. Friday brings another round of rain, breezy to locally windy conditions, and large surf offshore. The weekend looks soggy, with a brief break Monday before another wet, potentially windy front arrives Tuesday. Rain has already pushed the Skokomish River to moderate flood stage, and more rain this weekend could renew flooding there.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Unusually mild and mostly dry inland, with light rain at the coast and winds easing later in the day.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A weakened front brings rain, breezy to locally windy conditions, and large surf to the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday night through Sunday",
+      "what": "A stronger front brings more wind, especially on the coast, and showers spreading inland Sunday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A brief break from the rain.",
+      "source": "long_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Another wet and potentially windy front arrives.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters have decent model agreement on a wet, active pattern from Friday through Tuesday, but they are less sure exactly where the strongest winds and waves will track, since small shifts in the low pressure paths change that.",
+  "hazards": [
+    "Wind Advisory until 7 PM today for the Grays Harbor coast, Island County, parts of Skagit, Snohomish, and Whatcom counties, the northern Washington coast, and San Juan County",
+    "High Surf Advisory until 4 PM today for the Grays Harbor and northern Washington coasts",
+    "Coastal Flood Advisory this morning until 11 AM for western Whatcom County lowlands and San Juan County",
+    "Coastal Flood Watch Friday for San Juan County",
+    "Skokomish River at moderate flood stage, receding but expected to rise again with weekend rain",
+    "Gale Warnings and Small Craft Advisories on the coastal and inland waters through this evening, with gales possible Thursday night into Friday"
+  ],
+  "glossary": [
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the high-altitude winds, usually in the jet stream, that tends to bring unsettled weather at the surface beneath it."
+    },
+    {
+      "term": "Occluded front",
+      "definition": "A front formed when a cold front catches up to a warm front, often producing rain and wind before weakening."
+    },
+    {
+      "term": "Vertically stacked",
+      "definition": "A storm system whose low-pressure center stays aligned from the surface up through the upper atmosphere, which usually weakens it over time."
+    },
+    {
+      "term": "Marginal risk",
+      "definition": "The lowest of the national Excessive Rainfall Outlook categories, meaning isolated flooding is possible."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs with slightly different starting conditions, used to gauge how confident forecasters can be."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Friday system should lose much of its strength before reaching land.",
+      "about": "Friday",
+      "stance": "expected",
+      "quote": "losing a lot of its punch before coming ashore",
+      "source": "short_term",
+      "signer": "27"
+    },
+    {
+      "claim": "The Saturday night system should bring stronger wind, especially to the coast.",
+      "about": "Saturday night",
+      "stance": "expected",
+      "quote": "the path of the surface low gives it better wind potential, especially for the coast",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "The Sunday and Monday system may send its largest waves toward the Washington coast rather than Oregon.",
+      "about": "Sunday and Monday",
+      "stance": "possible",
+      "quote": "the Sunday/Monday system favors a more northward track with the largest waves aimed towards the Washington coast",
+      "source": "marine",
+      "signer": "62"
+    }
+  ]
+}
