@@ -1,10 +1,12 @@
 {
   "date": "2026-11-11",
-  "headline": "Mild and mostly dry now; wet, windy weather returns Friday into next week.",
-  "summary": "A warm front brought unusually mild air today, with temperatures near daily records and mostly dry weather inland. A cold front will stall offshore through Thursday. The bigger story is a deep dip in the jet stream, the fast band of winds high in the atmosphere, over the Gulf of Alaska. It will send a weakened occluded front, where cold and warm air have merged, onshore on Friday. A string of additional systems follows, so the weekend looks soggy, with a brief break Monday before a wetter, possibly windy front Tuesday. Friday brings breezy to locally windy conditions and large surf along the coast. Exact wind tracks remain uncertain. The Skokomish River, at moderate flood stage, may rise again with weekend rain.",
-  "changes": "",
-  "signature": "d0d61eb440764525",
+  "headline": "Mild, mostly dry through Thursday, then a wet, windy stretch starts Friday.",
+  "summary": "A warm front brought mild air, and a cold front stalled offshore through Thursday keeps most inland areas dry. Behind it, a large dip in the jet stream is steering a train of Pacific storm systems toward the region. A deep low arrives Friday with rain, gusty winds, and possible minor flooding at Salish Sea high tides. Saturday and Sunday look to be the wettest, windiest days, with strong coastal gusts and rain in the Olympics that could push the Skokomish River toward flooding again. Showers linger Monday, and a weak front drifts south by midweek. Forecasters are very confident in very large seas Friday and Sunday, but exact storm tracks remain uncertain.",
+  "changes": "The latest update adds a second strong system on Saturday and says the Skokomish River could flood again this weekend, not just rise. Forecasters now have high confidence in very large seas on Friday and Sunday, and they expect showers rather than a dry break on Monday.",
+  "signature": "2ac453f9d850bdd3",
   "discussions": [
-    "AFDSEW_202611110950"
+    "AFDSEW_202611110950",
+    "AFDSEW_202611111631",
+    "AFDSEW_202611112245"
   ]
 }

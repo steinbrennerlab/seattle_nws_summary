@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611112245",
+  "issued": "2026-11-11T22:45:00+00:00",
+  "headline": "Mild, dry Wednesday and Thursday, then wet, windy weather returns Friday into early next week.",
+  "summary": "A warm front has brought a very mild air mass to western Washington, with near-record warmth today. A cold front is stalled offshore into Thursday, keeping the interior mostly dry. Behind it, a train of Pacific storm systems is lining up. A deep low pressure system moves toward Washington Friday, followed by a second strong system Saturday, and a trough, an elongated area of low pressure aloft, keeps conditions unsettled through Sunday.\n\nFor most people, the next two days are mild and mostly dry, with a few showers near the coast and winds easing from today's gusts. Friday brings rain to the coast, gusty winds, and possible minor coastal flooding at high tide. Saturday and Sunday are the wettest and windiest stretch, with strong coastal gusts and rain in the Olympics that could push the Skokomish River toward flooding. Showers linger Monday, and a weak front drifts south by midweek.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Very mild, with a few spots tying or breaking daily highs, and winds easing through the afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "Another mild, mostly dry day inland, with light showers clipping the coast and gale-force winds possible offshore.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A deep low brings coastal rain, gusty winds, light inland rain, and possible minor coastal flooding at morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday through Sunday",
+      "what": "A second strong system brings more rain and gusty winds, with flooding possible on the Skokomish River.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday into midweek",
+      "what": "Showers continue Monday, then a weak front drifts south by midweek.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters have high confidence in very large seas Friday and again Sunday, but the exact paths of the low pressure systems are uncertain, which will decide where the strongest winds, waves, and rain land.",
+  "hazards": [
+    "Wind Advisory until 4 PM today for parts of the north coast, north interior, and San Juan County.",
+    "High Surf Advisory until 4 PM today for the northern Washington coast.",
+    "Minor coastal flooding possible Friday and Saturday mornings along the Salish Sea shoreline at high tide.",
+    "Possible flooding on the Skokomish River this weekend.",
+    "Gale Watch for coastal waters from Thursday afternoon through late Thursday night.",
+    "Gale and Small Craft Advisories on inland and coastal waters, with gales possible Thursday night into Friday."
+  ],
+  "glossary": [
+    {
+      "term": "Warm sector",
+      "definition": "The area between a warm front and the following cold front, where the air is warmer and milder than before the warm front passed."
+    },
+    {
+      "term": "Stacked low pressure center",
+      "definition": "A low pressure system whose center of low pressure extends from the ground up through the atmosphere, making it strong and slow to weaken."
+    },
+    {
+      "term": "Pressure gradient",
+      "definition": "How quickly air pressure changes over a distance. A tight gradient means a steep change, which produces strong winds."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of relatively low air pressure, often bringing unsettled weather."
+    },
+    {
+      "term": "Dominant period",
+      "definition": "The time between wave crests for the largest waves. Longer periods usually mean more powerful waves."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Minor coastal flooding is possible again Saturday morning along the coast.",
+      "about": "Saturday morning",
+      "stance": "possible",
+      "quote": "Coastal flooding remains a concern on Saturday morning too.",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "The largest waves from the Friday and Saturday system may miss Washington, while the Sunday and Monday system could aim them at the Washington coast.",
+      "about": "Friday/Saturday system and Sunday/Monday system",
+      "stance": "uncertain",
+      "quote": "slight shifts in the low tracks will determine where the strongest wave generation/dynamic fetch regions will be",
+      "source": "marine",
+      "signer": "62"
+    },
+    {
+      "claim": "Flooding on the Skokomish River is possible this weekend from more rain in the Olympics.",
+      "about": "this weekend",
+      "stance": "possible",
+      "quote": "Additional rainfall in the Olympics will keep the Skokomish River running high with flooding possible.",
+      "source": "long_term",
+      "signer": "33"
+    }
+  ]
+}

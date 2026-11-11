@@ -1,12 +1,10 @@
 {
   "date": "2026-10-07",
-  "headline": "Foggy mornings and sunny afternoons through Thursday; weak front brings brief light rain and cooler air Friday.",
-  "summary": "High pressure keeps western Washington quiet and mostly dry through Thursday, with foggy mornings and sunny afternoons in the upper 60s. A weak front arrives late Friday into Saturday, bringing only a few hundredths of an inch of rain that won't last long. The bigger change is cooler air: Friday highs drop to the low 60s, with breezy winds along the coast and Puget Sound waterfronts, and snow levels fall to around 5000 feet, so the North Cascades may get a dusting. The weekend turns colder, with frost or freeze possible for farms and sensitive plants, though that is still being watched. Another chance of rain Tuesday into Wednesday is uncertain because computer models disagree on the low's position.",
-  "changes": "The Dense Fog Advisory for the inland waters ran only until noon, and later discussions shifted the front's arrival from Friday to late Friday into Saturday. The evening update also said overnight fog is most likely from Bellingham to Everett.",
-  "signature": "fc8f14c41dbc8867",
+  "headline": "Foggy mornings, sunny afternoons through Thursday; a weak front brings cooler weather Friday.",
+  "summary": "High pressure keeps western Washington mostly dry through Thursday. Fog and low clouds return overnight, most likely north of Seattle, with sunny and seasonably warm afternoons. A weak front arrives late Friday into Saturday, bringing only very light rain over the Cascades and northern Puget Sound. It is short-lived but brings a cooler change, with Friday highs in the low 60s and breezy winds along the coast and Sound waterfronts. Snow levels drop to around 5,000 feet, so the North Cascades may get a dusting. The weekend turns colder under low pressure, and frost or freeze concerns for sensitive plants are still being watched. Cool weather should last into early next week, with rain possible Tuesday into Wednesday, though models disagree on the details.",
+  "changes": "",
+  "signature": "7c15ab40b63aae1a",
   "discussions": [
-    "AFDSEW_202610071650",
-    "AFDSEW_202610072300",
     "AFDSEW_202610080321"
   ]
 }

@@ -1,0 +1,82 @@
+{
+  "id": "AFDSEW_202611111631",
+  "issued": "2026-11-11T16:31:00+00:00",
+  "headline": "Mild, mostly dry Wednesday; wet, windy systems return Friday into next week.",
+  "summary": "Forecasters are watching a deep upper trough, a large area of low pressure high in the atmosphere, over the Gulf of Alaska. It is steering a series of Pacific storm systems toward Western Washington. A warm front brought very mild air, and a cold front will linger offshore through Thursday.\n\nFor most people, today is mild and mostly dry inland, with near-record highs and gusty winds easing this afternoon. Friday brings rain, breezy to locally windy conditions, and big surf on the coast. The weekend turns wetter, with a brief Monday break and another windy front Tuesday. The Skokomish River is receding from flood stage, but weekend rain could push it up again.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Near-record warmth, mostly dry inland, light coastal rain, and gusty winds that ease this afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The stalled cold front drifts toward shore and weakens, with winds building offshore ahead of Friday's system.",
+      "source": "marine"
+    },
+    {
+      "when": "Friday",
+      "what": "A weakened front brings rain, breezy to locally windy conditions, and very large surf.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday night",
+      "what": "A second, potentially windier front brings strong winds to the coast and soggy weather into Sunday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Another wet and potentially windy front arrives after a brief break on Monday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly sure of a wet, breezy pattern through the weekend, but they say slight shifts in the storm tracks will decide where the strongest winds and waves land, and they have less confidence in the inner coastal waters.",
+  "hazards": [
+    "Wind Advisory until 7 PM today for the Washington coast, Grays Harbor and Island counties, lowland areas of Skagit, Snohomish, and Whatcom counties, and San Juan County",
+    "Coastal Flood Advisory this morning for western Whatcom County lowlands and San Juan County",
+    "High Surf Advisory until 4 PM today for the Grays Harbor and northern Washington coasts",
+    "Gale Warning on coastal waters until 7 PM today; Gale Watch for Thursday afternoon through late Thursday night",
+    "Skokomish River reached moderate flood stage Tuesday evening and is slowly receding, with renewed flood potential from weekend rain",
+    "Seas of 20 feet or more are expected on the coast by Friday night"
+  ],
+  "glossary": [
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the jet stream high in the atmosphere, which often steers storms toward the coast below."
+    },
+    {
+      "term": "Vertically stacked",
+      "definition": "A storm whose low-pressure center is the same from the ground up to high altitude. Such storms usually weaken as they move over land."
+    },
+    {
+      "term": "Marginal risk",
+      "definition": "The lowest level of flood-risk category used by the Weather Prediction Center, meaning flooding is possible but not widespread."
+    },
+    {
+      "term": "Gale",
+      "definition": "Sustained winds of about 34 to 47 knots, strong enough to be dangerous on open water."
+    },
+    {
+      "term": "Storm-force gusts",
+      "definition": "Wind gusts of at least 48 knots, a level well above gale strength."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Sunday-Monday storm may send the largest waves toward the Washington coast, but its track could still shift.",
+      "about": "Sunday/Monday",
+      "stance": "uncertain",
+      "quote": "the Sunday/Monday system favors a more northward track with the largest waves aimed towards the Washington coast",
+      "source": "marine",
+      "signer": "62"
+    },
+    {
+      "claim": "Another wet and potentially windy front is expected to arrive Tuesday.",
+      "about": "Tuesday",
+      "stance": "expected",
+      "quote": "Another wet and potentially windy front arrives in the Tuesday time frame.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}
