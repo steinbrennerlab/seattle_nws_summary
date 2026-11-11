@@ -1,11 +1,12 @@
 {
   "date": "2026-11-10",
-  "headline": "Wet, windy stretch: rainy today, then more rain and wind Friday through Sunday.",
-  "summary": "A moist flow off the Pacific brings a rainy, breezy day today. A front stalls offshore midweek, then gets pushed inland late in the week. The bigger story is the weekend, with two separate wet, windy frontal systems expected: one Friday, another Saturday night into Sunday. Strong winds are possible, and coastal waters could see storm-force gusts and seas above 20 feet Friday and Saturday, though no warning has been issued. Midweek stays mild, with record warmth possible and rain mostly confined to the coast and Olympics. The main flooding worry is the Olympics and Mason County, where the Skokomish River could reach flood stage. Snow levels should drop to around the passes by Sunday night as cooler air arrives behind the system.",
-  "changes": "Forecasters are now more confident the weekend will be wet and windy because the models agree, though the exact track of the lows is still uncertain. The later discussion also flags possible storm-force winds and high seas on coastal waters Friday and Saturday.",
-  "signature": "0efa05dac1997ec3",
+  "headline": "Wet, windy, and mild; a break Thursday, then more storms Friday through Sunday.",
+  "summary": "Moist air from the Pacific has brought rain and high-elevation snow to western Washington, and a warm front is lifting north out of the region tonight. A cold front will stall offshore Wednesday into Thursday, and then a series of Pacific storms moves in from Friday through Sunday, with a brief break Monday before another front arrives Tuesday. For the Seattle area, Wednesday is mild, in the 60s, with strong south winds along the coast and in the north. The interior gets a break from rain Thursday. Friday through Sunday brings more lowland rain, mountain snow, and gusty winds, strongest on the coast. The Skokomish River in Mason County is running high and could flood again. Forecasters are fairly confident in the overall pattern, but the exact track of the storms could still shift.",
+  "changes": "The weekend is now described as a series of Pacific storms rather than two separate systems, and the latest discussion adds a brief Monday break followed by another front Tuesday. The interior is also now expected to get a rain break on Thursday.",
+  "signature": "cd9d0e9b1da93a52",
   "discussions": [
     "AFDSEW_202611101121",
-    "AFDSEW_202611101736"
+    "AFDSEW_202611101736",
+    "AFDSEW_202611102247"
   ]
 }

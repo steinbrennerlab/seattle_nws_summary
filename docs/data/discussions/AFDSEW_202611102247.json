@@ -1,0 +1,93 @@
+{
+  "id": "AFDSEW_202611102247",
+  "issued": "2026-11-10T22:47:00+00:00",
+  "headline": "Wet, windy stretch: a warm front lifts out tonight, then storms return Friday through Sunday.",
+  "summary": "A warm front is lifting north into British Columbia tonight, ending a stretch of moist southwesterly flow that has brought rain and high-elevation snow. A cold front will stall offshore Wednesday into Thursday, and then a series of Pacific storm systems will move in from Friday through Sunday. Forecasters see a brief break Monday before another front arrives Tuesday.\n\nFor western Washington, the next two days bring mild 60s Wednesday, a break in the rain for the interior Thursday, and strong south winds along the coast and in the north. From Friday through Sunday, expect more lowland rain, mountain snow, and gusty winds, with the strongest gusts along the coast. The Skokomish River in Mason County is running high and could flood again.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain eases in the interior as a warm front moves north, while strong south winds and heavy rain continue along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "It turns mild, with temperatures in the 60s, and the winds ease in the afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The stalled cold front weakens offshore, bringing light rain to the coast and a brief break for the interior and Cascades.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday through Sunday",
+      "what": "Two Pacific storm systems bring lowland rain, mountain snow, and gusty winds, strongest along the coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Another front brings breezy winds and rain after a brief break on Monday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the wind and rain through Wednesday and the general pattern of storms into the weekend, but they say the exact track of the low pressure systems could still shift, changing wave heights and where the largest waves form.",
+  "hazards": [
+    "Wind Advisory until 7 PM Wednesday for the coast, islands, and parts of the northern lowlands",
+    "High Surf Advisory until 10 AM Wednesday for the Grays Harbor and northern Washington coasts",
+    "Coastal Flood Advisory 5 AM to 11 AM Wednesday for western Whatcom and San Juan counties",
+    "Flood Watch for Mason County and parts of the Olympic Peninsula, southwest Washington, and Puget Sound through Wednesday evening",
+    "Gale Warning for coastal and northern inland waters until 7 PM Wednesday"
+  ],
+  "glossary": [
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of a warm air mass pushing into colder air, usually bringing steady rain and mild air behind it."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cold air mass pushing under warmer air, often bringing showers and wind as it passes."
+    },
+    {
+      "term": "Warm sector",
+      "definition": "The area of warmer, moist air between a warm front and a following cold front."
+    },
+    {
+      "term": "Southwesterly flow",
+      "definition": "Winds blowing from the southwest, which carry moist Pacific air toward Washington."
+    },
+    {
+      "term": "Model guidance",
+      "definition": "Forecasts produced by computer weather models, which forecasters compare and weigh before writing their own forecast."
+    },
+    {
+      "term": "Storm-force gusts",
+      "definition": "Wind gusts strong enough to meet the threshold for a storm, typically around 48 knots or more over water."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The cold front is expected to keep stalling and weaken offshore on Thursday.",
+      "about": "Thursday",
+      "stance": "expected",
+      "quote": "The cold front will continue to stall and weaken offshore moving into Thursday.",
+      "source": "short_term",
+      "signer": "33"
+    },
+    {
+      "claim": "The Skokomish River could rise above flood stage again with the Friday system.",
+      "about": "Friday",
+      "stance": "possible",
+      "quote": "Another round of rainfall with the system Friday could also push the Skokomish back above flood stage.",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "Waves could reach near 30 feet along the coast if the low pressure track shifts, especially toward the south.",
+      "about": "late Friday into early Saturday morning",
+      "stance": "possible",
+      "quote": "Subtle shifts in the low pressure may change waves and where the largest waves generate, with seas nearing 30 ft not out of the equation",
+      "source": "marine",
+      "signer": "Mazurkiewicz"
+    }
+  ]
+}
