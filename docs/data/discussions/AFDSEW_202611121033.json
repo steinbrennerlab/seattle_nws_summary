@@ -1,0 +1,93 @@
+{
+  "id": "AFDSEW_202611121033",
+  "issued": "2026-11-12T10:33:00+00:00",
+  "headline": "Rain and wind return Friday, with a stronger storm Saturday night and cooler weather next week.",
+  "summary": "A cold front has stalled offshore, keeping a very mild air mass over the region. Behind it, the Pacific is sending a series of frontal systems toward western Washington. The first, an occluded front, arrives Friday with rain and breezy to windy conditions. A stronger system follows late Saturday into Saturday night, and forecasters expect it to bring the most widespread wind of the period. Models agree through the weekend, then begin to diverge.\n\nFor most people, the week shifts from mostly dry inland today to wet and windy on Friday and again over the weekend. The Olympics are likely to get the heaviest rain. Coastal areas and gaps in the terrain will see the strongest gusts. Showers linger into Monday before tapering off, and temperatures are expected to drift back toward normal next week.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Clouds stream over the region while light rain skirts the coast and Olympic Peninsula, and the interior stays mostly dry.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "An occluded front brings another round of rain and breezy to windy conditions, with minor coastal flooding at Friday morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday night",
+      "what": "A stronger system brings more widespread wind, strongest along the coast, and heavy rain, especially in the Olympics.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "Showers continue before tapering off.",
+      "source": "long_term"
+    },
+    {
+      "when": "Tuesday and beyond",
+      "what": "Forecast confidence drops, and temperatures trend toward seasonal normals next week.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the pattern through Saturday because the models are largely in agreement, but confidence drops from Tuesday onward because the models begin to diverge, though the cooling trend next week is more certain.",
+  "hazards": [
+    "Gale Warning for coastal waters from Cape Flattery to Cape Shoalwater through 4 PM Friday, with seas building above 20 feet Friday night.",
+    "Small Craft Advisories for coastal waters, the Grays Harbor bar, and the eastern Strait of Juan de Fuca.",
+    "Minor coastal flooding expected at Friday morning high tide along Salish Sea shorelines and beaches.",
+    "Skokomish River expected to rise back above flood stage later Friday into the weekend.",
+    "Strong gusts possible along the coast Saturday night, with a 50 to 70 percent chance of gusts reaching 50 mph in some coastal spots."
+  ],
+  "glossary": [
+    {
+      "term": "Occluded front",
+      "definition": "A front that forms when a cold front catches up with a warm front, lifting the warm air off the ground. It often brings steady rain and gusty wind."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, a model estimate of how much rain or snow will fall over a set period."
+    },
+    {
+      "term": "Ensemble models",
+      "definition": "A group of forecast model runs with slightly different starting conditions. When the runs spread apart, forecasters have less confidence in the outcome."
+    },
+    {
+      "term": "Cut off (system)",
+      "definition": "A storm that separates from the main jet stream and stalls or moves on its own path, often bringing unsettled weather to a different area than expected."
+    },
+    {
+      "term": "Flood stage",
+      "definition": "The river level at which flooding begins to affect the area around it."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine alert for sustained winds of about 35 to 47 knots, meaning rough conditions for boats."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Saturday night system is expected to bring the most widespread wind of the period, strongest along the coast.",
+      "about": "Saturday night",
+      "stance": "expected",
+      "quote": "More widespread windy conditions are expected with this system",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "A storm around the middle of next week may cut off and move south of the region, though this is not certain.",
+      "about": "middle of next week",
+      "stance": "possible",
+      "quote": "some solutions now suggesting that a system around the middle of next week will cut off and head south of the area",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Friday's rain is light enough to be unimpressive but should still push the Skokomish River above flood stage.",
+      "about": "Friday",
+      "stance": "expected",
+      "quote": "it should be sufficient to push the Skokomish River back above flood stage.",
+      "source": "short_term",
+      "signer": "27"
+    }
+  ]
+}

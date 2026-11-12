@@ -1,12 +1,13 @@
 {
   "date": "2026-11-11",
-  "headline": "Mild, mostly dry through Thursday, then a wet, windy stretch starts Friday.",
-  "summary": "A warm front brought mild air, and a cold front stalled offshore through Thursday keeps most inland areas dry. Behind it, a large dip in the jet stream is steering a train of Pacific storm systems toward the region. A deep low arrives Friday with rain, gusty winds, and possible minor flooding at Salish Sea high tides. Saturday and Sunday look to be the wettest, windiest days, with strong coastal gusts and rain in the Olympics that could push the Skokomish River toward flooding again. Showers linger Monday, and a weak front drifts south by midweek. Forecasters are very confident in very large seas Friday and Sunday, but exact storm tracks remain uncertain.",
-  "changes": "The latest update adds a second strong system on Saturday and says the Skokomish River could flood again this weekend, not just rise. Forecasters now have high confidence in very large seas on Friday and Sunday, and they expect showers rather than a dry break on Monday.",
-  "signature": "2ac453f9d850bdd3",
+  "headline": "Mild, dry Thursday, then a wet, windy stretch from Friday into early next week.",
+  "summary": "A warm front brought mild air, and a cold front has stalled offshore. Thursday stays mostly dry and pleasant, with highs in the lower 60s and possibly a Seattle record. Then a deep low-pressure system heads toward Washington Friday, followed by a strong Pacific front Saturday. An upper-level dip keeps things unsettled through Sunday, with showers into Monday. Friday brings widespread rain and gusty winds, strongest on the coast and in mountain gaps. Saturday looks wetter and windier, with the worst gusts on the coast. High tides could bring minor coastal flooding Friday morning, and heavy Olympic rain may keep the Skokomish River high. Forecasters are fairly sure of a wet, windy stretch, but small shifts in storm tracks would change where the strongest winds and rain land.",
+  "changes": "Since the afternoon update, the wind threat for Saturday is more specific, with gusts of 40 mph or more possible on the coast. A gale warning for coastal waters is now likely, and Thursday is now expected to be a possible record-warm day in Seattle.",
+  "signature": "a689c0f7e2dc6069",
   "discussions": [
     "AFDSEW_202611110950",
     "AFDSEW_202611111631",
-    "AFDSEW_202611112245"
+    "AFDSEW_202611112245",
+    "AFDSEW_202611120502"
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611120502",
+  "issued": "2026-11-12T05:02:00+00:00",
+  "headline": "Mild, dry Thursday, then a wet, windy stretch from Friday into early next week.",
+  "summary": "A warm front brought a very mild air mass to western Washington, and a cold front has stalled offshore. That front barely moves through Thursday, so the interior stays mostly dry. Behind it, a deep low-pressure center heads toward Washington on Friday, followed by a second strong Pacific front on Saturday. A dip in the upper atmosphere keeps things wet through Sunday, with showers into Monday.\n\nThursday is the pleasant day, with highs in the lower 60s and possibly a record in Seattle. Friday brings widespread rain and gusty winds, strongest on the coast and in mountain gaps. Saturday is wetter and windier, with the worst gusts on the coast. High tides and low pressure could bring minor coastal flooding Friday morning, and heavy rain in the Olympics may keep the Skokomish River high.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Gusty southwest winds ease through the night, and showers continue west of the Olympics.",
+      "source": "aviation"
+    },
+    {
+      "when": "Thursday",
+      "what": "Another mild day with highs in the lower 60s, dry inland and only light showers near the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A deep low pushes a front inland, bringing rain mostly to the coast, strong gusts, and possible minor coastal flooding at morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A second strong front brings more rain and gusty winds, with the strongest gusts on the coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Showers continue under weaker troughing, and a weak front moves south of the area by midweek.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly sure a wet, windy stretch arrives Friday and lasts into the weekend, but small shifts in the storm tracks would change where the strongest winds and largest waves land and how much rain falls in the Olympics.",
+  "hazards": [
+    "Gale Watch for coastal waters from Thursday afternoon through late Thursday night, with a warning likely to be issued.",
+    "Gale Warning for northern inland waters, including the San Juan Islands, until 10 PM tonight.",
+    "Small Craft Advisories for coastal waters through Thursday, the Grays Harbor bar until 1 AM Friday, and Admiralty Inlet until 10 PM tonight.",
+    "Strong gusts on the coast Friday and Saturday, with gusts of 40 mph or more possible on Saturday.",
+    "Minor coastal flooding possible Friday morning on Salish Sea shorelines and beaches at high tide.",
+    "Possible flooding on the Skokomish River later Friday into the weekend from heavy rain in the Olympics."
+  ],
+  "glossary": [
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of a cooler air mass pushing into warmer air, often bringing a line of showers and a wind shift."
+    },
+    {
+      "term": "Low-pressure center",
+      "definition": "An area of low air pressure around which winds spin, usually bringing clouds, rain, and wind."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated dip in the upper atmosphere that tends to keep weather unsettled beneath it."
+    },
+    {
+      "term": "Pressure gradient",
+      "definition": "How quickly air pressure changes across a distance; a steep gradient produces strong winds."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine alert that winds of gale force, about 34 to 47 knots, are occurring or expected."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Thursday could set another record high in Seattle, though that is not certain.",
+      "about": "Thursday",
+      "stance": "possible",
+      "quote": "Could see another record high in Seattle.",
+      "source": "short_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Heavy rain in the Olympics could push the Skokomish River back above flood stage.",
+      "about": "Friday into the weekend",
+      "stance": "possible",
+      "quote": "Additional rainfall in the Olympics will keep the Skokomish River running high with flooding possible.",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "Small shifts in the storm tracks could change where the largest waves hit, with the Sunday and Monday system possibly aimed at the Washington coast.",
+      "about": "Friday through Monday",
+      "stance": "uncertain",
+      "quote": "slight shifts in the low tracks will determine where the strongest wave generation/dynamic fetch regions will be.",
+      "source": "marine",
+      "signer": "62"
+    }
+  ]
+}
