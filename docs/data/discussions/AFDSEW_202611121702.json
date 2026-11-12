@@ -1,0 +1,92 @@
+{
+  "id": "AFDSEW_202611121702",
+  "issued": "2026-11-12T17:02:00+00:00",
+  "headline": "Wet, windy stretch from Friday, with a stronger storm Saturday night into Sunday.",
+  "summary": "A cold front has been stalled offshore, keeping most lowland areas dry while light rain falls near the coast. Behind it, a series of Pacific storm systems is lined up. The first pushes a weakened front onshore Friday, and a stronger system follows Saturday night. Models agree on the pattern this weekend but start to disagree next week, when one storm may cut off and move south of the area.\n\nToday will be mild and mostly cloudy inland, with light coastal rain. Friday brings rain back, breezy to windy conditions, and high tides that could cause minor coastal flooding. Saturday night into Sunday is the windiest stretch, strongest on the coast, with heavy rain in the Olympics. Showers continue Sunday night into Monday before tapering off. Temperatures are expected to cool toward normal next week.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "The stalled front stays offshore, so inland areas stay mostly dry while light rain falls near the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Rain returns with breezy to windy conditions, strongest near the coast and mountain gaps, and high tides may bring minor coastal flooding.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "A stronger storm brings the windiest conditions of the period and heavy rain, especially in the Olympics.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "Showers continue and then gradually taper off.",
+      "source": "long_term"
+    },
+    {
+      "when": "Tuesday and beyond",
+      "what": "Forecasts become less certain, though temperatures are expected to trend back toward normal.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the weekend storms and the cooling trend, but confidence drops from Tuesday on because the models disagree about whether a mid-week storm will cut off and head south.",
+  "hazards": [
+    "Flood watch for Olympia, southern Puget Sound, the Olympics, and southern Hood Canal from late tonight through late Saturday night.",
+    "Coastal flood advisory for San Juan County, ending this morning.",
+    "High surf advisory for the Grays Harbor and northern Washington coasts from Friday midday to Saturday morning.",
+    "Gale warning for coastal waters from this afternoon through Friday afternoon, plus several small craft advisories for the coast and Strait of Juan de Fuca."
+  ],
+  "glossary": [
+    {
+      "term": "Stalled front",
+      "definition": "A boundary between two air masses that has stopped moving, so its clouds and rain stay over one area for a long time."
+    },
+    {
+      "term": "Occluded front",
+      "definition": "A front formed when a cold front catches up to a warm front, often bringing rain and wind as it moves inland."
+    },
+    {
+      "term": "Cut-off low",
+      "definition": "A low-pressure system that breaks away from the main flow of the jet stream and can wander slowly, making its track hard to predict."
+    },
+    {
+      "term": "Ensemble models",
+      "definition": "Many runs of a computer forecast model with slightly different starting conditions, used to show how much possible outcomes differ."
+    },
+    {
+      "term": "National Blend of Models",
+      "definition": "A forecast product that combines several computer models into one set of probabilities for things like wind gusts."
+    },
+    {
+      "term": "Flood stage",
+      "definition": "The river level at which water starts to spill over the banks and cause flooding."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Confidence drops from Tuesday on, and the forecast for a mid-week storm could change.",
+      "about": "Tuesday and beyond",
+      "stance": "uncertain",
+      "quote": "Forecast confidence begins to decrease Tuesday and beyond as both deterministic and ensembles start to diverge",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Minor coastal flooding is possible again at Friday's high tide, and forecasters are still checking how widespread it could be.",
+      "about": "Friday",
+      "stance": "possible",
+      "quote": "Will look into for widespread potential for coastal flooding with tomorrow's high tide as well.",
+      "source": "short_term",
+      "signer": "33"
+    },
+    {
+      "claim": "Temperatures are expected to cool toward seasonal normal next week.",
+      "about": "next week",
+      "stance": "expected",
+      "quote": "a downward trend in temperatures to nearer seasonal norms next week",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

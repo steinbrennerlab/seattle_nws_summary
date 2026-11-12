@@ -1,12 +1,10 @@
 {
   "date": "2026-10-08",
-  "headline": "Rain and gusty winds arrive tonight into Friday, then a cooler weekend with possible frost.",
-  "summary": "A cold front from the Pacific moves through overnight, ending a warm, sunny Thursday. Rain is light and brief, mostly a quarter inch or less, with some south Sound spots staying dry. Wind is the bigger story Friday, with gusts of 20 to 30 mph widely and a 50 to 70 percent chance of gusts above 45 mph near the Strait of Juan de Fuca and Whidbey Island. Temperatures drop noticeably. Showers linger in the mountains Friday and fade Saturday. Skies clear Sunday, and sheltered spots could see the season's first frost, though the chance of freezing in Cascade valleys is only about 30 percent. Another system brings rain and breezy winds Tuesday into Wednesday.",
-  "changes": "Compared with the morning, the front is now described as a quick overnight system, and the Friday wind risk was added with specific odds. The frost language also became more concrete by evening, with sheltered spots getting close to frost Sunday morning.",
-  "signature": "f4e6d8023e1337ee",
+  "headline": "Rain and gusty winds arrive tonight, then a cooler weekend with possible first frost.",
+  "summary": "A cold front sweeps through western Washington overnight, followed by noticeably cooler air. Behind it, showers linger in the mountains and over the central Sound on Friday, with light rain totals. Winds pick up early Friday and peak through the early afternoon, with gusts of 20 to 30 mph widely and strong gusts likely in the Strait of Juan de Fuca and on Whidbey Island. Winds ease Friday evening. A weak disturbance brings a few light showers Saturday. Cascade valleys could touch freezing Sunday morning, the first frost concern of the season, though that is uncertain and depends on clearing skies and fog. Drier, cool weather follows early next week, with another system bringing rain and breezy winds Tuesday into Wednesday.",
+  "changes": "",
+  "signature": "eaf7e0f70e7a4915",
   "discussions": [
-    "AFDSEW_202610081636",
-    "AFDSEW_202610082110",
     "AFDSEW_202610090318"
   ]
 }

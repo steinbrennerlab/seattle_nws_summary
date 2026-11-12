@@ -1,0 +1,94 @@
+{
+  "id": "AFDSEW_202611122243",
+  "issued": "2026-11-12T22:43:00+00:00",
+  "headline": "Wet, windy weekend with flooding risk; drier, calmer weather returns late next week.",
+  "summary": "A cold front is stalled just offshore, keeping western Washington mostly dry and mild for now. Starting Friday, a series of Pacific storm systems moves in, and the strongest arrives Saturday into Sunday. Behind it, a trough, which is a dip in the upper-level winds that brings unsettled weather, keeps showers around early next week. A blocking high-pressure pattern then sets up over the West late next week and pushes drier weather into the region.\n\nFriday's rain mostly hits the coast first and spreads inland in the afternoon. High tides and big waves raise concern about coastal flooding. The weekend storm is bigger, bringing heavy coastal rain, gusty winds, and flood potential on the Skokomish River in the Olympics. Mountains see snow, and snow levels drop to around 4,000 feet by Monday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Dry and mild, with east winds picking up over the Cascades and gusts of 20 to 30 mph in gaps and foothills.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Rain spreads inland from the coast in the late morning and afternoon, with coastal flooding and large waves around the morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday-Sunday",
+      "what": "A strong Pacific storm brings more rain, gusty winds, high-elevation snow, and a flood threat on the Skokomish River.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Showers linger under a trough, snow levels fall to around 4,000 feet, and temperatures return to near average.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "A Rex Block pattern brings drier conditions to western Washington.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters express high confidence in Friday's big coastal waves and strong confidence in the weekend storm's rain, wind, and surf, but they call the Skokomish River flooding a potential rather than a certainty. The forecast for next week and beyond is less detailed, and the discussion treats wind and wave details there as possible rather than firm.",
+  "hazards": [
+    "Coastal Flood Advisory Friday morning for much of the Puget Sound lowlands, including Seattle, Everett, Kitsap, and Olympia areas",
+    "Coastal Flood Warning Friday morning for San Juan County",
+    "Coastal Flood Advisory Friday afternoon for the Grays Harbor coast",
+    "Flood Watch from late tonight through late Saturday for Olympia and southern Puget Sound, the Olympics, and southern Hood Canal",
+    "High Surf Advisory from noon Friday to early Saturday for the Grays Harbor and northern Washington coasts",
+    "Gale Warning on coastal waters until 7 PM Friday, with Small Craft Advisories over many marine areas through the weekend"
+  ],
+  "glossary": [
+    {
+      "term": "Rex Block",
+      "definition": "A weather pattern in which a high-pressure system sits over the West and blocks storms from moving through, often leading to dry weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure high in the atmosphere, where the upper-level winds dip southward and tend to bring clouds and showers."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which snow is falling. When it is low, snow reaches lower hillsides and mountain areas."
+    },
+    {
+      "term": "High astronomical tide",
+      "definition": "An unusually high tide caused by the position of the moon and sun, not by the weather. Low air pressure and onshore winds can make it higher still."
+    },
+    {
+      "term": "Flood Watch",
+      "definition": "A National Weather Service alert that flooding is possible in the area. It is less urgent than a Flood Warning, which means flooding is happening or imminent."
+    },
+    {
+      "term": "Gale Warning",
+      "definition": "A marine alert for sustained winds of about 34 to 47 knots, which are strong enough to make boating dangerous."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A strong storm will bring more rain, gusty winds, and high-elevation snow this weekend.",
+      "about": "Saturday-Sunday",
+      "stance": "expected",
+      "quote": "Another strong Pacific frontal system is poised to impact the Pac NW Saturday-Sunday for more rain, gusty winds and high elevation snow.",
+      "source": "short_term",
+      "signer": "33"
+    },
+    {
+      "claim": "Rain on the Olympics could keep the Skokomish River high enough to flood.",
+      "about": "Saturday-Sunday",
+      "stance": "possible",
+      "quote": "Additional rainfall in the Olympics will keep the Skokomish River running high with the potential for flooding.",
+      "source": "short_term",
+      "signer": "33"
+    },
+    {
+      "claim": "A blocking pattern over the West is expected to bring drier weather to western Washington late next week.",
+      "about": "Late next week",
+      "stance": "expected",
+      "quote": "A Rex Block pattern sets up over the West late in the week with drier conditions forecast for western WA.",
+      "source": "long_term",
+      "signer": "33"
+    }
+  ]
+}

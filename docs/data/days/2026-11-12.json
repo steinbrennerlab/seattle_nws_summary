@@ -1,10 +1,12 @@
 {
   "date": "2026-11-12",
-  "headline": "Wet, windy Friday, a stronger storm Saturday night, and cooler weather next week.",
-  "summary": "A very mild air mass is parked over the region, with a cold front stalled offshore. Behind it, a series of storms from the Pacific is heading toward western Washington. The first arrives Friday with rain and breezy to windy conditions. A stronger system follows late Saturday into Saturday night, bringing the most widespread wind of the period. The Olympics are likely to get the heaviest rain, and coastal areas and gaps in the terrain will see the strongest gusts. The Skokomish River is expected to rise back above flood stage Friday into the weekend, and showers linger into Monday before tapering off. Temperatures are expected to drift back toward normal next week. Forecasters are fairly confident through Saturday, but confidence drops after Tuesday as the computer models begin to disagree.",
-  "changes": "",
-  "signature": "871cc3b994461998",
+  "headline": "Wet, windy weekend with flood risk; drier weather late next week.",
+  "summary": "A cold front stalled offshore is keeping western Washington mild and mostly dry for now. Behind it, a line of Pacific storms is heading our way. Friday's system brings rain that hits the coast first and spreads inland in the afternoon, with high tides and big waves raising coastal flooding concerns. The bigger storm arrives Saturday into Sunday, bringing heavy rain to the coast, gusty winds, and a chance of flooding on the Skokomish River in the Olympics. Mountains get snow, with snow levels dropping to around 4,000 feet by Monday. Showers linger early next week under a trough, a dip in the upper-level winds. Late next week, a stalled high-pressure area over the West should push drier weather in, though details that far out are less certain.",
+  "changes": "Since this morning, the afternoon discussion adds coastal flood advisories for the Puget Sound lowlands and flood potential on the Skokomish River. It also drops the earlier talk of a storm cutting off south next week, and now expects drier weather late next week.",
+  "signature": "c94b5489bf8c66d9",
   "discussions": [
-    "AFDSEW_202611121033"
+    "AFDSEW_202611121033",
+    "AFDSEW_202611121702",
+    "AFDSEW_202611122243"
   ]
 }
