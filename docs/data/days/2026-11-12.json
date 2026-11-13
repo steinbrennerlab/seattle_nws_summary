@@ -1,12 +1,13 @@
 {
   "date": "2026-11-12",
-  "headline": "Wet, windy weekend with flood risk; drier weather late next week.",
-  "summary": "A cold front stalled offshore is keeping western Washington mild and mostly dry for now. Behind it, a line of Pacific storms is heading our way. Friday's system brings rain that hits the coast first and spreads inland in the afternoon, with high tides and big waves raising coastal flooding concerns. The bigger storm arrives Saturday into Sunday, bringing heavy rain to the coast, gusty winds, and a chance of flooding on the Skokomish River in the Olympics. Mountains get snow, with snow levels dropping to around 4,000 feet by Monday. Showers linger early next week under a trough, a dip in the upper-level winds. Late next week, a stalled high-pressure area over the West should push drier weather in, though details that far out are less certain.",
-  "changes": "Since this morning, the afternoon discussion adds coastal flood advisories for the Puget Sound lowlands and flood potential on the Skokomish River. It also drops the earlier talk of a storm cutting off south next week, and now expects drier weather late next week.",
-  "signature": "c94b5489bf8c66d9",
+  "headline": "Wet, windy stretch Friday into early next week; drier weather later in the week.",
+  "summary": "A cold front parked offshore is finally moving inland, the first of a series of Pacific storms that will bring rain and wind through early next week. Tonight stays mild and mostly dry, with gusty east winds in the Cascade gaps and foothills. Friday's rain spreads inland during the day, and high tides could cause coastal flooding Friday morning. The bigger storm arrives Saturday into Sunday, expected to be the windier of the two, with heavy rain on the coast and in the Olympics, strong gusts, and possible flooding on the Skokomish River. Snow levels drop to around 4,000 feet by Monday, with light snow in the mountains. Later in the week, a blocking high-pressure pattern called a Rex Block should bring drier weather to western Washington. Forecasters are confident about Friday but less certain about the weekend storm.",
+  "changes": "The storm's timing moved from Saturday night in the early discussions to Saturday into Sunday by morning. The afternoon update added the late-week drying trend and the snow-level drop, and the evening discussion called the weekend storm less certain than earlier.",
+  "signature": "bfc769505c450c42",
   "discussions": [
     "AFDSEW_202611121033",
     "AFDSEW_202611121702",
-    "AFDSEW_202611122243"
+    "AFDSEW_202611122243",
+    "AFDSEW_202611130502"
   ]
 }

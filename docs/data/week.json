@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-05",
-  "end": "2026-11-11",
-  "headline": "A stormy Pacific pattern held all week, with the wettest, windiest storms now expected into next week.",
-  "summary": "From the start, forecasters saw an active stretch with one Pacific storm after another crossing western Washington, and that call never wavered. What changed was the strength and timing of individual storms. Early in the week the focus was a Friday front and a stronger windstorm Saturday night. Confidence in that windstorm grew, and a High Wind Watch went up for the coast. By the weekend, forecasters were adding a slight chance of thunderstorms near the coast and expecting steadier rain midweek. They also started describing an atmospheric river, a long, narrow stream of moist air aimed at the region, which can keep rain going for days.\n\nBy midweek the discussions looked past the first storms to a stronger round late in the week. Wind advisories were issued for the coast and north interior, and heavy rain on the Olympics pushed the Skokomish River into flood. A deep dip in the jet stream, the fast band of high-altitude winds, over the Gulf of Alaska is now steering the next storms toward us. Forecasters expect a mild, soggy weekend, a brief break Monday, and another wetter, possibly windy front Tuesday. They are still unsure of the exact wind tracks and the strength of the weekend storms.",
+  "start": "2026-11-07",
+  "end": "2026-11-13",
+  "headline": "A stormy Pacific pattern held all week, with drier, calmer weather finally expected by midweek.",
+  "summary": "Forecasters started the week with a strong windstorm Saturday night, then expected a steady run of Pacific storms. That outlook held up well. By Sunday they described a long plume of moisture aimed at the region, and by Monday the strongest winds on the coast and in the north were expected Tuesday and Wednesday. A warm front then brought a mild, wet stretch, and a stalled front offshore gave Thursday a brief dry, pleasant break, possibly with a record high in Seattle. The main uncertainty all week was the timing and strength of the weekend storms. Their start slid from Friday through Sunday toward Saturday into Sunday, and forecasters called the weekend storm less certain on Thursday.\n\nNow, forecasters expect a wet, breezy weekend. Friday's rain is the first system, and a stronger one arrives Saturday. The heaviest rain is expected on the coast and in the Olympics, with the strongest winds on the coast. The Skokomish River has been a recurring concern because of heavy Olympic rain. Coastal flooding is possible at high tide on Friday. Cooler air arrives Sunday night and Monday, with snow dropping toward the foothills. Next week the storm track should shift south, and high pressure aloft should bring a dry, cool, likely foggy end to the week. Forecasters call that drier pattern probable rather than certain, since the models keep shifting the timing of the next system.",
   "turning_points": [
     {
-      "date": "Fri Nov 6",
-      "what": "Forecasters grew confident that Saturday night would bring a significant windstorm, and a High Wind Watch covered the coast."
-    },
-    {
       "date": "Sun Nov 8",
-      "what": "A brief dry spell was expected, but forecasters now described an atmospheric river aimed at the area and flagged a Friday-to-weekend system to watch."
+      "what": "Forecasters described a long plume of moisture aimed at the region and flagged the weekend storm for close watching."
     },
     {
       "date": "Mon Nov 9",
-      "what": "Wind advisories took effect for the coast and northern lowlands, and the late-week outlook shifted to stronger storms, large coastal swells, and possible minor river flooding."
+      "what": "Wind advisories were issued for the coast and north for Tuesday and Wednesday, and the outlook shifted to a run of stronger storms late in the week, with Skokomish River flooding a possibility."
     },
     {
-      "date": "Tue Nov 10",
-      "what": "The Skokomish River flood watch became a flood warning, and storm timing was refined: Thursday night, around Sunday, then a Tuesday front after a likely Monday lull."
+      "date": "Wed Nov 11",
+      "what": "Thursday looked like a mild, dry break with a possible Seattle record high, before a wetter and windier Friday and Saturday."
+    },
+    {
+      "date": "Thu Nov 12",
+      "what": "The weekend storm's timing was refined, and a late-week drying trend was added, though forecasters were less certain about the storm itself."
     }
   ],
-  "signature": "3536bf22bf7dde72",
-  "written": "2026-11-11"
+  "signature": "6c889a216916293c",
+  "written": "2026-11-13"
 }

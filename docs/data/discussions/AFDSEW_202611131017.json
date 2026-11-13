@@ -1,0 +1,84 @@
+{
+  "id": "AFDSEW_202611131017",
+  "issued": "2026-11-13T10:17:00+00:00",
+  "headline": "Wet, windy weekend ahead, then cooler and drier by midweek.",
+  "summary": "Western Washington is in the path of a series of Pacific frontal systems riding a storm track aimed at the region. Today's rain is the first of two systems, and a stronger one arrives Saturday. Next week, forecasters expect the storm track to shift south of the area, and a ridge of high pressure high in the atmosphere should bring drier weather to end the week.\n\nFor the lowlands, expect a wet, breezy couple of days. The heaviest rain falls on the coast, the Olympics, and the south-facing slopes, and the strongest winds hit the coast and the Strait entrance on Saturday. Coastal flooding is possible around high tide today, and seas will build to around 20 feet on the coast. Sunday night and Monday turn noticeably cooler, with snow levels dropping to around 4,000 feet. The rest of the week looks dry, cool, and likely foggy.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Rain spreads onto the coast, with breezy to locally windy conditions and minor to moderate coastal flooding around high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday into Saturday night",
+      "what": "A stronger front brings heavy rain, with the strongest gusts along the coast and near the east Strait entrance.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night through Monday",
+      "what": "A cooler air mass arrives with light rain and snow levels dipping to around 4,000 feet.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of next week",
+      "what": "The next system tracks farther south and mostly misses the area.",
+      "source": "long_term"
+    },
+    {
+      "when": "Remainder of the week",
+      "what": "Upper ridging brings drier weather, with likely fog and cool temperatures.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about today's rain and the stronger system on Saturday, and the model data shows high odds of strong gusts on the coast. They are less sure about next week, since models keep shifting the next system south, and they describe the dry late-week pattern as probable rather than certain.",
+  "hazards": [
+    "Flood Watch for Olympia and Southern Puget Sound, the Olympics, and Southern Hood Canal through late Saturday night, with possible flooding on the Skokomish River.",
+    "Coastal flood advisories this morning and afternoon for many Puget Sound shorelines, and a coastal flood warning for San Juan County this morning.",
+    "High surf advisory for the Grays Harbor and northern Washington coasts until early Saturday.",
+    "Gale and small craft advisories for coastal and inland waters, with storm-force gusts possible over the outer coastal waters."
+  ],
+  "glossary": [
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the jet stream high in the atmosphere that tends to bring cooler air and showers at the surface."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The typical path that Pacific storms follow as they move toward land. A shift south keeps most storms away from a given area."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, the predicted amount of liquid rain or melted snow over a set period."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Cascade gaps",
+      "definition": "Low points and passes in the Cascade Mountains where winds funnel through and can become stronger."
+    },
+    {
+      "term": "Upper ridging",
+      "definition": "A rise in the jet stream high in the atmosphere that tends to bring drier, calmer weather at the surface."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Models keep moving the midweek system farther south, so it should only barely touch the far southern part of the area.",
+      "about": "Middle of next week",
+      "stance": "expected",
+      "quote": "Models are continuing the trend of the next system toward the middle of next week taking a more southern track and just clipping the far southern portion of the CWA.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Late next week looks dry, and fog and cool temperatures are the likely result.",
+      "about": "the remainder of the week",
+      "stance": "possible",
+      "quote": "And this time of year, that probably means some fog and cool temperatures.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

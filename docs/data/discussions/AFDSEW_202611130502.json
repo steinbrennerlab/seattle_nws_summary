@@ -1,0 +1,89 @@
+{
+  "id": "AFDSEW_202611130502",
+  "issued": "2026-11-13T05:02:00+00:00",
+  "headline": "Wet, windy stretch from Friday into early next week; coastal flooding possible Friday.",
+  "summary": "Forecasters are watching a cold front that has been stalled offshore. It starts moving inland Friday and is the first of a series of Pacific frontal systems that bring rain and wind through early next week. The strongest is a system arriving Saturday and Sunday, which forecasters expect to be the windier of the next two. Later in the week, a Rex Block pattern is expected to set up over the West, which should bring drier weather to western Washington.\n\nThe weather people will notice starts with mild, mostly dry conditions and gusty east winds in the Cascade gaps and foothills tonight. Friday brings rain that spreads inland during the day, plus coastal flooding around Friday morning's high tide. The weekend system could bring heavy rain to the coast, strong gusts, and flood concerns on the Skokomish River. By Monday, snow levels drop to around 4,000 feet, with light snow in the mountains.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Mild and mostly dry, with east winds picking up in the Cascade gaps and foothills.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Rain spreads inland through the day, with coastal flooding possible around the morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday-Sunday",
+      "what": "A stronger system brings more rain, strong coastal winds, and high-elevation snow.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Showers linger as snow levels drop to around 4,000 feet, with light snow in the mountains.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "A Rex Block pattern sets up over the West, bringing drier weather to western Washington.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters say the Friday system is on track and expect very large waves on the coast, but the weekend storm is less certain, with ensemble models showing a 60 to 70 percent chance of gusts above 50 knots over the outer coastal waters.",
+  "hazards": [
+    "Coastal flood advisory Friday morning for many lowland areas, including Seattle, the Puget Sound shoreline, Hood Canal, and Olympia.",
+    "Coastal flood warning Friday morning for San Juan County, the most serious coastal flood alert.",
+    "Flood watch from Friday through late Saturday for Olympia and southern Puget Sound, the Olympics, and southern Hood Canal.",
+    "High surf advisory for the Washington coast from Friday noon to Saturday morning.",
+    "Gale warning for coastal waters until Friday evening, with small craft advisories for several inland waters."
+  ],
+  "glossary": [
+    {
+      "term": "Stalled front",
+      "definition": "A cold front that has stopped moving, so its rain stays in one area for longer than usual."
+    },
+    {
+      "term": "Rex Block",
+      "definition": "A pattern in which a large high-pressure system aloft sits north of a low, often diverting storms away from the region."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A set of forecast runs from one model with slightly different starting conditions, used to show the range of possible outcomes."
+    },
+    {
+      "term": "Gale warning",
+      "definition": "A marine alert for sustained winds of about 34 to 47 knots, which can be dangerous for boats."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A Rex Block pattern is expected to set up late in the week, bringing drier weather to western Washington.",
+      "about": "Late next week",
+      "stance": "expected",
+      "quote": "A Rex Block pattern sets up over the West late in the week with drier conditions forecast for western WA.",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "The Saturday system could bring storm-force winds over the outer coastal waters.",
+      "about": "Saturday",
+      "stance": "possible",
+      "quote": "Ensembles continue to show strong potential for Storm Force winds over the outer waters on Saturday",
+      "source": "marine",
+      "signer": "15"
+    },
+    {
+      "claim": "The Skokomish River may flood because of continued rain in the Olympics.",
+      "about": "Friday through the weekend",
+      "stance": "possible",
+      "quote": "Additional rainfall in the Olympics will keep the Skokomish River running high with the potential for flooding.",
+      "source": "short_term",
+      "signer": "33"
+    }
+  ]
+}
