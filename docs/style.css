@@ -352,16 +352,26 @@ html { scroll-behavior: smooth; }
 h3 { font: 600 1rem/1.3 var(--sans); margin: 2rem 0 0.6rem; }
 p { margin: 0 0 1rem; }
 
-.hazards { list-style: none; padding: 0; margin: 0 0 1.25rem; }
-.hazards li {
-  font: 600 0.9rem/1.4 var(--sans);
+/* Watches, warnings, and advisories: one collapsed bar that opens to the full list. */
+.hazards {
+  margin: 0 0 1.25rem;
   background: var(--hazard-bg);
   color: var(--hazard-ink);
-  padding: 0.5rem 0.75rem;
   border-left: 4px solid currentColor;
   border-radius: 2px 4px 4px 2px;
-  margin-bottom: 0.4rem;
 }
+.hazards summary {
+  font: 600 0.9rem/1.4 var(--sans);
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+}
+.hazards ul { list-style: none; padding: 0 0.75rem 0.5rem; margin: 0; }
+.hazards li {
+  font: 500 0.9rem/1.4 var(--sans);
+  padding: 0.4rem 0;
+  border-top: 1px solid color-mix(in srgb, currentColor 25%, transparent);
+}
+.hazards-none { font: 0.9rem/1.4 var(--sans); color: var(--muted); margin: 0 0 1.25rem; }
 
 /* Period-by-period forecast and turning points: time on the left, text on the right,
    joined by a thin line like a trail on a map. */

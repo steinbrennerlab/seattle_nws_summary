@@ -27,10 +27,17 @@
     {% if s %}
     <p class="sky-chip k-{{ sky }}"><svg class="icon"><use href="#i-{{ sky }}"/></svg>{{ sky_label }}</p>
     <h1 class="headline">{{ s.headline }}</h1>
-    {% if s.hazards %}
-    <ul class="hazards" aria-label="Watches, warnings, and advisories">
-      {% for h in s.hazards %}<li>{{ h }}</li>{% endfor %}
-    </ul>
+    {# Collapsed by default; "No watches..." lines are not counted as alerts. #}
+    {% set active = s.hazards | active_hazards %}
+    {% if active %}
+    <details class="hazards">
+      <summary>{{ active | length }} {{ "watch, warning, or advisory" if active | length == 1 else "watches, warnings, and advisories" }}</summary>
+      <ul>
+        {% for h in s.hazards %}<li>{{ h }}</li>{% endfor %}
+      </ul>
+    </details>
+    {% elif s.hazards %}
+    <p class="hazards-none">{{ s.hazards | join(" ") }}</p>
     {% endif %}
     {% for p in s.summary | paragraphs %}<p>{{ p }}</p>{% endfor %}
 

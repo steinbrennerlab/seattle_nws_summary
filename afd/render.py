@@ -87,6 +87,8 @@ def build(paths: Paths, status: dict) -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html", "j2"]),
                       trim_blocks=True, lstrip_blocks=True)
     env.filters["paragraphs"] = _paragraphs
+    # Hazard lines that are real alerts, not "No watches, warnings, or advisories...".
+    env.filters["active_hazards"] = lambda hs: [h for h in hs or [] if not re.match(r"\s*no\b", h, re.I)]
     env.filters["daylabel"] = lambda iso: day_label(date.fromisoformat(iso))
     env.filters["localday"] = lambda dt: day_label(local_day(dt))
 
