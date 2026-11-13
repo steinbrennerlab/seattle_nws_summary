@@ -1,0 +1,91 @@
+{
+  "id": "AFDSEW_202611131706",
+  "issued": "2026-11-13T17:06:00+00:00",
+  "headline": "Wet, breezy weekend with a strong Saturday storm; drier, cooler weather arrives next week.",
+  "summary": "Forecasters are tracking a series of Pacific storm systems. A stronger one arrives Saturday, and a cooler upper trough, a dip in the jet stream aloft, follows Sunday night. After that, the storm track is expected to shift south of Western Washington, and high pressure aloft should bring drier weather later next week.\n\nThrough Sunday expect wet, breezy conditions, with the strongest winds along the coast, near the Cascade gaps, and near the eastern Strait. Heavy rain could cause flooding on the Skokomish River, and high tides will keep bringing minor to moderate coastal flooding. Monday turns noticeably cooler, with snow levels near 4,000 feet. Later in the week, expect a mostly dry, cool stretch with some fog.",
+  "timeline": [
+    {
+      "when": "Today (Friday)",
+      "what": "Rain spreads across the region, with breezy to locally windy conditions and coastal flooding around high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday into Saturday night",
+      "what": "A stronger front brings heavy rain, especially to the Olympics, and the strongest winds of the stretch along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night and Monday",
+      "what": "Showers ease, cooler air arrives, and snow levels drop to around 4,000 feet.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of next week",
+      "what": "The next system takes a southern track and only clips the far southern edge of the region.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "Drier weather returns, with cool temperatures and probably some fog.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about a wet, windy weekend and cooler air on Monday, but less sure about the strength of Saturday's winds, which they are still weighing for possible new headlines, and about the midweek system, since models keep shifting its track south.",
+  "hazards": [
+    "Flood Watch for the Olympics, Olympia and southern Puget Sound, and southern Hood Canal through late Saturday night.",
+    "Coastal flood advisories for much of the Puget Sound lowlands and the Grays Harbor coast, ending around midday or early afternoon today.",
+    "Coastal Flood Warning for San Juan County until noon today.",
+    "High Surf Advisory for the Grays Harbor and northern Washington coasts until 7 AM Saturday.",
+    "Storm Watch for the outer coastal waters Saturday afternoon through late Saturday night, meaning possible storm-force gusts.",
+    "Gale Watch for the Strait, Admiralty Inlet, and northern inland waters from Saturday afternoon into Sunday morning.",
+    "Small Craft Advisories on several inland and coastal waters through Saturday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper trough",
+      "definition": "A dip in the high-altitude winds, usually associated with cooler air and unsettled weather at the surface."
+    },
+    {
+      "term": "Upper ridge",
+      "definition": "A bulge in the high-altitude winds, usually associated with sinking air, drier weather, and often fog and cool temperatures in winter."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, the expected amount of liquid precipitation, usually measured in inches."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The typical path that storm systems follow across the ocean and into a region, which determines how much rain and wind it receives."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The next system is expected to pass south of most of the region, with little impact on Western Washington.",
+      "about": "Middle of next week",
+      "stance": "expected",
+      "quote": "Models are continuing the trend of the next system toward the middle of next week taking a more southern track",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Forecasters are not yet sure whether Saturday's pressure pattern will require additional headlines.",
+      "about": "Saturday",
+      "stance": "uncertain",
+      "quote": "Pressure is a little higher on Saturday but will evaluate if more headlines are needed.",
+      "source": "short_term",
+      "signer": "33"
+    },
+    {
+      "claim": "Fog and cool temperatures are likely once the drier weather settles in.",
+      "about": "Late next week",
+      "stance": "expected",
+      "quote": "And this time of year, that probably means some fog and cool temperatures.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}
