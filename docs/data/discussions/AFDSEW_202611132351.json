@@ -1,0 +1,82 @@
+{
+  "id": "AFDSEW_202611132351",
+  "issued": "2026-11-13T23:51:00+00:00",
+  "headline": "A strong weekend storm brings wind and rain, then a drier, cooler stretch next week.",
+  "summary": "Forecasters are tracking a series of storms moving in from the Pacific. A weak front brought light rain today, and a stronger one arrives Saturday. By the middle of next week, the storm track is expected to shift south of Western Washington, letting drier, cooler weather take over. Later in the week, a blocking pattern over the West is expected to keep the region dry.\n\nFor most people, the weekend is the wet and breezy part. Saturday night is the peak, with the strongest winds on the coast and in the San Juans and periods of heavy rain on the coast and in the Olympics. The Skokomish River is at risk of flooding. Next week should be calmer, with scattered showers early on and temperatures near average: lows in the 40s and highs in the low 50s.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light showers linger, and winds ease briefly before the next storm arrives.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "The second strong storm arrives, bringing strong coastal winds, heavy rain in the Olympics, and large waves.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday night into Sunday",
+      "what": "Winds peak and most of the rain falls before the system moves on.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday through midweek",
+      "what": "Showers become scattered and temperatures stay near average, then turn drier and cooler.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "A blocking pattern over the West is expected to keep Western Washington dry.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters sound confident about the strong weekend storm and the drier pattern later in the week. They are less certain about flooding: the Skokomish River is only at risk, and they say river flooding is not expected on other rivers 'at this time.'",
+  "hazards": [
+    "Flood Watch for Olympia, southern Puget Sound, the Olympics, and southern Hood Canal through late Saturday night, mainly for the Skokomish River.",
+    "Coastal Flood Advisory for the San Juans and western Whatcom County lowlands Saturday morning during high tide.",
+    "Coastal Flood Advisory until 5 PM today for the eastern Strait of Juan de Fuca and the Grays Harbor coast.",
+    "High Surf Warning on the Grays Harbor and northern Washington coasts until noon Saturday.",
+    "Wind Advisory from 4 PM Saturday to 4 AM Sunday for the Grays Harbor and northern Washington coasts and the San Juans.",
+    "Gale and storm warnings and watches for coastal and inland waters, mainly Saturday into Sunday."
+  ],
+  "glossary": [
+    {
+      "term": "Rex Block",
+      "definition": "A weather pattern in which a high-pressure system sits north of a low-pressure system. It tends to stall storms and keep the nearby region dry."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A low-pressure area high in the atmosphere rather than at ground level. It can bring clouds and showers aloft even when the surface looks calm."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure in the upper atmosphere. Troughs often bring unsettled, showery weather."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The usual path that Pacific storms follow as they move east. When it shifts south, Western Washington tends to see fewer storms."
+    },
+    {
+      "term": "Flood Watch",
+      "definition": "An alert that conditions are favorable for flooding. A flood warning may follow if flooding becomes likely or begins."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A blocking pattern is expected to form and keep Western Washington dry through the end of next week.",
+      "about": "the end of the week",
+      "stance": "expected",
+      "quote": "This blocking pattern keeps western WA dry through the end of the week.",
+      "source": "long_term",
+      "signer": "33"
+    },
+    {
+      "claim": "The Skokomish River could flood because of heavy rain in the Olympics.",
+      "about": "Saturday",
+      "stance": "possible",
+      "quote": "the Skokomish River is at risk of flooding",
+      "source": "short_term",
+      "signer": "33"
+    }
+  ]
+}

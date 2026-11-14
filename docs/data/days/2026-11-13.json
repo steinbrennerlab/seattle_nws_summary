@@ -1,11 +1,12 @@
 {
   "date": "2026-11-13",
-  "headline": "Wet, windy weekend with a strong Saturday storm; cooler, drier weather next week.",
-  "summary": "A series of Pacific storm systems is aimed at western Washington. A stronger one arrives Saturday, followed Sunday night by a cooler dip in the jet stream high in the atmosphere. After that, the storm track is expected to shift south of the area, and high pressure aloft should bring drier weather later in the week. Through Sunday expect wet, breezy conditions, with the strongest winds along the coast, in the low gaps through the Cascades, and near the eastern Strait. Heavy rain could flood the Skokomish River, and high tides will keep bringing minor to moderate coastal flooding. Monday turns noticeably cooler, with snow levels, the elevation where snow falls, near 4,000 feet. The rest of the week looks mostly dry, cool, and foggy at times, though forecasters are less sure about a midweek system because models keep shifting its track south.",
-  "changes": "The earlier discussion was highly confident about strong gusts on the coast Saturday, but the later one says forecasters are less sure of Saturday's wind strength and are still weighing whether it warrants new headlines. Coastal flood advisories, a Storm Watch for the outer coast, and a Gale Watch for the Strait and northern inland waters were also added.",
-  "signature": "cc3f3287b2faf383",
+  "headline": "Strong Saturday storm brings wind and rain; drier, near-normal weather follows next week.",
+  "summary": "Western Washington is in the path of a series of storms coming off the Pacific. The main event is a stronger system on Saturday, with Saturday night expected to be the peak. The strongest winds should hit the coast and the San Juans, and periods of heavy rain are expected on the coast and in the Olympics. The Skokomish River is at risk of flooding, though forecasters say river flooding is not expected on other rivers at this time. By midweek, the storm track is expected to shift south of the region, bringing drier, cooler weather. A blocking pattern over the West is expected to keep things dry later in the week. Next week should be calmer, with scattered showers early on and temperatures near average. Forecasters are fairly confident about the weekend storm and the drier pattern, but less certain about the flooding.",
+  "changes": "Compared with the morning update, the afternoon discussion firmed up the Saturday wind threat, with a Wind Advisory now covering the coast and the San Juans. It also added a blocking pattern to explain the dry late-week outlook.",
+  "signature": "24f59e6ae6969c3d",
   "discussions": [
     "AFDSEW_202611131017",
-    "AFDSEW_202611131706"
+    "AFDSEW_202611131706",
+    "AFDSEW_202611132351"
   ]
 }
