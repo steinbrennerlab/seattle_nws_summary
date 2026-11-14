@@ -1,11 +1,10 @@
 {
   "date": "2026-10-10",
-  "headline": "Dry, sunny days with frosty mornings through Monday, possible midweek rain, and warmth by Friday.",
-  "summary": "A low pressure system that brought showers to the region is pulling away to the southeast, and the last showers should end tonight. Behind it, drier high pressure is building in, bringing cool air from the northeast. That means clear, dry days and cold nights. Sunday and Monday mornings bring frost to many lowland and foothill areas, especially south of Seattle, while Monday afternoon warms to the upper 50s to mid 60s, near normal. Clouds return Tuesday as a weak stream of moisture aims mostly at British Columbia. Forecasters are unsure whether it will drift over western Washington midweek, and many computer model runs keep us dry. Warmer, drier weather returns Thursday, with highs in the lower 70s by Friday, though the weekend could bring rain and cooler air.",
-  "changes": "The evening update largely repeated the afternoon forecast, and the midweek rain chance is still uncertain. The frost advisory areas for Sunday and Monday mornings were reworded but are essentially the same.",
-  "signature": "67914bb333748937",
+  "headline": "Showers end tonight; dry, sunny days and frosty mornings through Monday, then uncertain midweek rain.",
+  "summary": "A low pressure system that brought showers today is moving southeast, and the showers should end tonight. Behind it, a ridge of high pressure, a zone of sinking, stable air, brings dry, sunny weather through Monday. Nights will be cold, and frost is likely early Sunday in the southern Cascade foothills and valleys, and more widely early Monday. Daytime highs stay near normal. Midweek, a weak atmospheric river, a narrow band of moisture, is aimed mostly at British Columbia, so rain chances for western Washington are uncertain and many model runs keep it dry. Warmer, drier weather is expected Thursday and Friday, with highs in the lower 70s by Friday. The ridge could break down by the weekend, bringing rain and cooler air back.",
+  "changes": "The 8:22 PM update largely repeated the afternoon forecast, adding a chance of isolated overnight fog and noting that clouds linger over the east and south Sound. It also described the midweek rain chances as rising along the coast and higher terrain Tuesday, then spreading more broadly Tuesday night into Wednesday, while keeping the uncertainty about where the moisture goes.",
+  "signature": "a617ee965fc0ce9a",
   "discussions": [
-    "AFDSEW_202610101645",
     "AFDSEW_202610102221",
     "AFDSEW_202610110322"
   ]
