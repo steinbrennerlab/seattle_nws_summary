@@ -1,0 +1,77 @@
+{
+  "id": "AFDSEW_202611141002",
+  "issued": "2026-11-14T10:02:00+00:00",
+  "headline": "Another wet, windy system arrives today, then drier, cooler weather returns by midweek.",
+  "summary": "Forecasters are watching a stream of storms moving in from the Pacific. A dip in the high-altitude winds, called an upper-level trough, is crossing western Washington now, and a stronger front is approaching just offshore. Together they keep the area wet and breezy through Sunday. Later next week, the storm track, the main path storms take across the Pacific, is expected to shift south of the region, which should bring a drier, cooler pattern.\n\nRain and strong winds build along the coast today and spread inland tonight, with strong gusts in the eastern Strait. Winds ease Sunday as the front moves east, with showers and a few thunderstorms possible, mostly near the coast. Monday brings scattered showers, mainly on the coast and in the hills. Drier weather returns Monday night into Tuesday. A light touch of rain may graze the south on Wednesday, and the models favor a cool, mostly dry end to the week. Heavy rain could still cause flooding on the Skokomish River through the weekend.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Rain and strong winds build along the coast, with a coastal flood advisory and high surf in the morning.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "Rain spreads inland, and strong gusts develop near the east end of the Strait.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "The front moves east, winds gradually ease, and showers linger with a few thunderstorms near the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "Drier weather returns as the upper-level trough moves east.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday into late next week",
+      "what": "A storm may just brush the south with light rain, then cool, mostly dry weather is favored.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly sure about the wind and rain from today through Sunday, since the systems are already arriving. They are less certain about the midweek storm, though models are converging on a track south of the region. The dry, cool outlook into next weekend rests on ensemble forecasts that favor it, and forecasters note the potential for more active weather later.",
+  "hazards": [
+    "Flood Watch for Olympia, southern Puget Sound, the Olympics, and southern Hood Canal through late tonight, mainly for the Skokomish River",
+    "Wind Advisory for the Grays Harbor and northern Washington coasts and San Juan County, from this afternoon to early Sunday",
+    "Coastal Flood Advisory for western Whatcom County lowlands and San Juan County until noon today",
+    "High Surf Warning for the Grays Harbor and northern Washington coasts until noon today",
+    "Storm and gale warnings for coastal and Strait of Juan de Fuca waters from this afternoon into Sunday morning"
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds that helps organize storms and showers at the surface. It often brings unsettled weather as it passes."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The usual path that Pacific storms follow as they approach the coast. A shift south means most storms pass well away from the region."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow. A lower snow level means snow reaches farther down the mountains."
+    },
+    {
+      "term": "Ensemble forecasts",
+      "definition": "A set of model runs with slightly different starting conditions. When most runs agree, forecasters have more confidence in the outcome."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The midweek storm is expected to track farther south, mostly missing the area.",
+      "about": "Wednesday",
+      "stance": "expected",
+      "quote": "Model solutions are falling into better agreement regarding the midweek system taking a further southward track",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "More active weather could return after the cool, dry stretch.",
+      "about": "late next week",
+      "stance": "possible",
+      "quote": "with the potential for more active conditions returning thereafter",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}
