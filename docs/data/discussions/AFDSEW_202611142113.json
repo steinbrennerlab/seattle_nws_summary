@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611142113",
+  "issued": "2026-11-14T21:13:00+00:00",
+  "headline": "Strong winds and steady rain tonight into Sunday, then drier weather for midweek.",
+  "summary": "A cold front arriving from the Pacific brings a surge of wind and rain tonight into Sunday. Behind it, a dip in the jet stream called an upper-level trough keeps showers possible through Monday. Midweek, a deep low-pressure system is forecast to track toward northern California, steering most of its rain south of western Washington. Drier weather follows, with a possible return of wetter weather next weekend.\n\nFor most people, the big story is tonight through Sunday. Steady rain reaches Puget Sound tonight, and the strongest gusts, 50 to 55 mph, hit the coast and San Juan Islands. Sunday brings showers and slowly easing wind. Monday stays unsettled, mainly in the Olympics and Cascades, and cools into the low 50s.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Steady rain moves into Puget Sound and south winds strengthen, with the strongest gusts on the coast and San Juan Islands.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Winds slowly ease through the afternoon, with scattered showers and a slim chance of thunderstorms near the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Unsettled and cooler, with a limited chance of showers in the Olympics and Cascades.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "A deep low passes to the south, keeping most rain away from western Washington, though a small chance remains here.",
+      "source": "long_term"
+    },
+    {
+      "when": "Thursday through late week",
+      "what": "Drier, calmer weather returns, and forecasters see a possible return of a more active pattern by next weekend.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about the strong wind and rain tonight through Sunday, but less sure about the midweek low, since computer model runs mostly keep its rain to the south while leaving some doubt about how close it gets, and uncertainty grows further into next weekend.",
+  "hazards": [
+    "Wind Advisory: gusts of 50 to 55 mph on the Grays Harbor and northern Washington coasts and in San Juan County, until early Sunday.",
+    "Wind Advisory: southeast gusts of 40 to 50 mph around Whidbey Island and Port Townsend, until Sunday morning.",
+    "Flood Watch: possible flooding on the Skokomish River, with the watch covering Olympia, southern Puget Sound, the Olympics, and southern Hood Canal through Sunday morning.",
+    "Coastal Flood Advisory: high tides and flooding in the San Juan Islands lowlands Sunday morning.",
+    "High Surf Advisory and High Surf Warning: large waves on the Grays Harbor and northern coasts, with the warning running from Sunday morning to Monday morning.",
+    "Storm and gale warnings and small craft advisories on coastal and inland waters through Sunday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds and jet stream that often brings unsettled, cooler weather to the area beneath it."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "A set of computer forecast runs, each started slightly differently, used to show how likely different outcomes are and how much they disagree."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that follow behind a cold front as it moves past."
+    },
+    {
+      "term": "Weak instability",
+      "definition": "Air that is only slightly unstable, so it can produce a few isolated thunderstorms rather than widespread ones."
+    },
+    {
+      "term": "High Surf Warning",
+      "definition": "An alert from the National Weather Service that dangerously large ocean waves are expected at the coast."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Showers are expected to stay possible Monday, mainly in the Olympics and Cascades.",
+      "about": "Monday",
+      "stance": "expected",
+      "quote": "Upper troughing over the western US on Monday will keep a limited threat for showers over the area, especially for the Olympic Peninsula and Cascades.",
+      "source": "short_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "The midweek low will probably keep most of its rain south of western Washington, but a small chance of rain remains here.",
+      "about": "Wednesday",
+      "stance": "uncertain",
+      "quote": "however a chance of precipitation remains due to some lingering uncertainty in the proximity of the system.",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "A wetter, more active pattern may return by next weekend, though forecasters are unsure.",
+      "about": "next weekend",
+      "stance": "possible",
+      "quote": "Uncertainty increases further in ensembles by next weekend, but indications of troughing offshore may result in the return of a more active pattern.",
+      "source": "long_term",
+      "signer": "JD"
+    }
+  ]
+}
