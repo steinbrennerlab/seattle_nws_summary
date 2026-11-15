@@ -1,11 +1,10 @@
 {
   "date": "2026-10-10",
-  "headline": "Showers end tonight; dry, sunny days and frosty mornings through Monday, then uncertain midweek rain.",
-  "summary": "A low pressure system that brought showers today is moving southeast, and the showers should end tonight. Behind it, a ridge of high pressure, a zone of sinking, stable air, brings dry, sunny weather through Monday. Nights will be cold, and frost is likely early Sunday in the southern Cascade foothills and valleys, and more widely early Monday. Daytime highs stay near normal. Midweek, a weak atmospheric river, a narrow band of moisture, is aimed mostly at British Columbia, so rain chances for western Washington are uncertain and many model runs keep it dry. Warmer, drier weather is expected Thursday and Friday, with highs in the lower 70s by Friday. The ridge could break down by the weekend, bringing rain and cooler air back.",
-  "changes": "The 8:22 PM update largely repeated the afternoon forecast, adding a chance of isolated overnight fog and noting that clouds linger over the east and south Sound. It also described the midweek rain chances as rising along the coast and higher terrain Tuesday, then spreading more broadly Tuesday night into Wednesday, while keeping the uncertainty about where the moisture goes.",
-  "signature": "a617ee965fc0ce9a",
+  "headline": "Showers end tonight; dry, sunny, frosty mornings through Monday, then a chance of midweek rain.",
+  "summary": "A slow low pressure system is leaving to the southeast, and high pressure is building in behind it. That brings dry, sunny weather into early next week, with cold air from the northeast letting nights drop to the 30s. Frost is likely in the southern foothills and valleys and south of the Olympics, spreading more widely by Monday. Clouds return Tuesday as a weak atmospheric river, a stream of moisture, mostly aims at British Columbia. Rain could reach western Washington midweek, but forecasters are unsure, and many computer model runs keep us dry. Warmer, drier weather should arrive Thursday, with highs in the low 70s by Friday. Rain and cooler air could return by the weekend.",
+  "changes": "",
+  "signature": "2050243ea8ec84f7",
   "discussions": [
-    "AFDSEW_202610102221",
     "AFDSEW_202610110322"
   ]
 }
