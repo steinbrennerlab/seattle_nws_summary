@@ -1,10 +1,12 @@
 {
   "date": "2026-11-15",
-  "headline": "Showers taper off Sunday; a cool, mostly dry week ahead, with possible rain Saturday.",
-  "summary": "A cold front has moved east of the Cascades, and a cool dip in the upper atmosphere is moving inland from the ocean, arriving Monday night. Leftover showers end Sunday, with some new snow in the higher mountains. Monday is a bit cooler with a few showers, and Tuesday should be dry, possibly with morning fog. A system passes south of the area Wednesday. After that, a blocked pattern, with high pressure to the north and a low to the south, keeps Western Washington dry from Wednesday night through Friday. Highs stay near 50 and lows drop into the 20s and 30s by Thursday. Saturday may bring rain, but forecasters are unsure how much.",
-  "changes": "",
-  "signature": "965c374c9146538c",
+  "headline": "Showers ease Monday, drier Tuesday through Friday, wetter weather possible next weekend.",
+  "summary": "Cooler air is settling in behind a cold front, with a trough, a dip in the high-altitude winds, sitting over the western United States. A deep low out in the northeast Pacific drops south but mostly stays offshore and largely misses Washington, so the main storm energy passes by. Showers linger into Monday and then taper off. Tuesday turns partly sunny by afternoon, with highs in the low to mid 50s. Wednesday's rain mostly stays south of Seattle, though breezy easterly winds pick up through some gaps in the Cascades. Thursday and Friday look drier, with possible fog Friday morning and highs near normal. Forecasters expect another trough to deepen offshore next weekend, bringing more active weather back, though models disagree on its exact position and depth.",
+  "changes": "The weekend rain outlook has moved from Saturday to next weekend, and forecasters are less certain about it than before. The midweek system now looks more likely to miss Washington entirely, and Tuesday has shifted from possible morning fog to partly sunny skies.",
+  "signature": "d7713a09e625d5b9",
   "discussions": [
-    "AFDSEW_202611151125"
+    "AFDSEW_202611151125",
+    "AFDSEW_202611151713",
+    "AFDSEW_202611152142"
   ]
 }

@@ -1,0 +1,92 @@
+{
+  "id": "AFDSEW_202611152142",
+  "issued": "2026-11-15T21:42:00+00:00",
+  "headline": "Showers ease Monday, drier Tuesday through Friday, wetter weather possible next weekend.",
+  "summary": "Behind a cold front, an upper-level trough (a dip in the high-altitude winds that brings cooler air aloft) sits over the western United States. A deep low-pressure system in the northeast Pacific drops south, mostly staying offshore before moving into California around Thursday, so its main energy largely misses Washington. Forecasters expect another trough to deepen offshore next weekend, which would bring more active weather back.\n\nShowers linger into Monday and then taper, with partly sunny skies by Tuesday afternoon and highs in the low to mid 50s. Snow is limited to the higher mountains during heavier showers. On Wednesday, rain mostly stays south of Seattle, but breezy easterly winds pick up in some Cascade gaps. Thursday and Friday look drier, with fog possible Friday morning, and highs near normal in the upper 40s to low 50s.",
+  "timeline": [
+    {
+      "when": "Tonight through Monday",
+      "what": "Showers gradually diminish, with a few lingering on Monday and light snow only on the higher terrain.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Drier weather arrives, with partial sunshine by afternoon and highs in the low to mid 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Most rain stays south of Seattle, while breezy easterly winds gust through Cascade valleys and gaps.",
+      "source": "long_term"
+    },
+    {
+      "when": "Thursday into Friday",
+      "what": "Conditions turn drier, with fog possible Friday morning.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday into next week",
+      "what": "A trough deepens offshore, bringing more active weather, though its exact position and strength are uncertain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the drier pattern from Tuesday through Friday and that the Wednesday system mostly misses Washington. They are less sure about the exact position and depth of the trough expected next weekend, because the model ensembles (groups of model runs) do not agree on those details.",
+  "hazards": [
+    "Flood Warning for the Skokomish River, expected to fall below flood stage tonight or early Monday.",
+    "Coastal Flood Advisory for lowlands of western Whatcom and San Juan counties until noon today.",
+    "High Surf Advisory for the Grays Harbor and northern Washington coasts until 10 AM Monday.",
+    "Small Craft Advisories for Puget Sound, Hood Canal, and nearby waters, with several ending today or Monday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds that allows cooler air to move south and tends to bring unsettled weather at the surface."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A closed, low-pressure circulation high in the atmosphere, which can steer storms and bring cool, showery weather."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Forecasts made by running a weather model many times with slightly different starting conditions, which shows how much the possible outcomes vary."
+    },
+    {
+      "term": "NBM",
+      "definition": "The National Blend of Models, a forecast that combines several weather models into one."
+    },
+    {
+      "term": "POPs",
+      "definition": "Probability of precipitation, the chance that measurable rain or snow falls at a given spot during a set time."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Most of the rain from the Wednesday system should stay south of Seattle.",
+      "about": "Wednesday",
+      "stance": "expected",
+      "quote": "POPs mainly remain confined south of Seattle, and especially south of WA/OR border due to the trajectory of the system.",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "Fog could form Friday morning as skies clear.",
+      "about": "Friday",
+      "stance": "possible",
+      "quote": "Periods of clearing may result in fog development, mainly Friday AM.",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "A trough is expected to deepen offshore next weekend, but its exact position and strength are unsettled.",
+      "about": "Saturday into next week",
+      "stance": "uncertain",
+      "quote": "Ensembles suggest troughing deepens again offshore Saturday into next week, with some uncertainty into the exact positioning and depth of the trough.",
+      "source": "long_term",
+      "signer": "JD"
+    }
+  ]
+}

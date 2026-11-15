@@ -1,0 +1,88 @@
+{
+  "id": "AFDSEW_202611151713",
+  "issued": "2026-11-15T17:13:00+00:00",
+  "headline": "Cool, showery weather today and Monday, then a dry stretch midweek into Friday.",
+  "summary": "Forecasters are watching a cool, unsettled pattern that is slowly giving way to drier weather. A cold front has already moved east of the Cascades, and a cool upper-level trough, a dip in the upper atmosphere's wind pattern, sits offshore through Monday before moving inland Monday night. A system moving southeast midweek passes south of us. A short blocking pattern then sets up Wednesday night through Friday, with a ridge of high pressure aloft to the north and a low to the south keeping us dry. The next system weakens as it nears Saturday.\n\nFor most people, today and Monday bring showers, mostly along the coast, and breezy south winds today. Snow levels sit around 4,000 to 5,000 feet, dropping toward 3,500 to 4,000 feet by Monday, but new snow in the passes will be light. Highs stay near 50, with lows in the mid 30s to low 40s. Tuesday looks dry with possible morning fog, and Wednesday through Friday stays mostly dry, with more morning fog possible Thursday and Friday. Saturday brings a broad chance of rain.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Showers, breezy south winds, and highs in the low to mid 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A little cooler, with highs near 50 and showers mainly along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "A mostly dry day with possible morning low clouds or fog and highs near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night through Friday",
+      "what": "Dry weather under a blocking pattern, with possible morning fog Thursday and Friday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "The next system weakens, with a broad chance of rain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the midweek system passing south of the area, since models agree well on it, but they are unsure about Saturday because the models disagree and the ensemble runs show no clear favorite. Fog in the mornings depends on whether calm surface conditions develop as the models suggest.",
+  "hazards": [
+    "Coastal flood advisory for the lowlands of western Whatcom and San Juan counties until noon today, for possible minor flooding from high tides, low pressure, and wind.",
+    "High surf advisory for the Grays Harbor and northern Washington coasts through Monday morning, with waves possibly reaching 20 feet. The high surf warning was cancelled.",
+    "Small craft advisories for coastal waters, the Strait of Juan de Fuca, Puget Sound, and Hood Canal, with conditions easing Monday.",
+    "Flood warning for the Skokomish River, which is expected to crest today and drop below flood stage tonight or early Monday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the upper-atmosphere wind pattern that often brings cooler air and showers at the surface."
+    },
+    {
+      "term": "Blocking pattern",
+      "definition": "A setup in which a high-pressure ridge aloft and a low nearby stall the usual west-to-east weather flow, so systems stay away and the weather stays steady for days."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensemble",
+      "definition": "A group of forecast model runs, each started slightly differently, used to show how much outcomes could vary."
+    },
+    {
+      "term": "Surface gradient",
+      "definition": "The difference in air pressure across an area; a light gradient usually means light winds, which can allow fog to form."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Saturday's forecast is uncertain, so forecasters are only offering a broad chance of rain.",
+      "about": "Saturday",
+      "stance": "uncertain",
+      "quote": "No real clear winner in the ensembles so for now will go with a broadbrush chance of rain.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Morning fog is possible Thursday and Friday, but only if calm surface conditions develop as the models suggest.",
+      "about": "Thursday and Friday",
+      "stance": "possible",
+      "quote": "If the models light surface gradient scenario works out there could be areas of fog Thursday and Friday morning.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "A short blocking pattern is expected to keep Western Washington dry from Wednesday night through Friday.",
+      "about": "Wednesday night through Friday",
+      "stance": "expected",
+      "quote": "Short lived upper level blocking pattern setting up Wednesday night through Friday",
+      "source": "long_term",
+      "signer": "Felton"
+    }
+  ]
+}

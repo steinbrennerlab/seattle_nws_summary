@@ -1,11 +1,10 @@
 {
   "date": "2026-10-11",
-  "headline": "Frost early Monday, mostly dry warm-up later in the week, cooler, wetter weather likely Saturday.",
-  "summary": "Dry, clear air from the northeast sets up a chilly start to the week. Monday morning brings a frost advisory for much of the Puget Sound area southward, the Hood Canal, and the North Coast, with patchy fog possible. A weak moisture plume (atmospheric river) aimed at British Columbia mostly stays north of the border, with only light rain possible Tuesday on the northwestern Olympic Peninsula and in the northern interior. Wednesday looks mostly dry. A ridge of high pressure then brings warming Thursday and Friday, with highs in the upper 60s to lower 70s and perhaps upper 70s in some Cascade valleys. By Saturday a trough (a dip in the jet stream) will likely bring rain and cooler temperatures, though details remain uncertain.",
-  "changes": "Forecasters became more confident that the weekend would turn cooler and wetter, with a trough likely bringing rain Saturday instead of a possible weak front Friday night. Friday highs were trimmed slightly, and the later updates added a chance of upper 70s in some Cascade valleys.",
-  "signature": "3371035ae6e88bf9",
+  "headline": "Frost and patchy fog likely Monday, then mostly dry and warming, with cooler, wetter weather possible Saturday.",
+  "summary": "Dry air from the northeast has left western Washington clear, setting up a chilly start to the week. Frost and patchy fog are likely Monday morning, and a Frost Advisory covers much of Puget Sound. A weak atmospheric river, a narrow stream of moisture, is aimed mainly at British Columbia, so most of its rain should stay north of the border, though a few showers may reach the northwestern Olympic Peninsula Tuesday. Wednesday looks mostly dry. Then a ridge of high pressure aloft, which brings warm, dry weather, builds Thursday and Friday, pushing highs into the upper 60s to lower 70s, and perhaps the upper 70s in Cascade valleys. Saturday, a trough, a dip in the jet stream, likely brings rain and cooler weather, though the details are uncertain.",
+  "changes": "The evening update kept the Frost Advisory and the overall outlook unchanged. It added that Monday morning's fog could be freezing fog if temperatures reach freezing.",
+  "signature": "97f1c7ac3c03410b",
   "discussions": [
-    "AFDSEW_202610111647",
     "AFDSEW_202610112220",
     "AFDSEW_202610120305"
   ]
