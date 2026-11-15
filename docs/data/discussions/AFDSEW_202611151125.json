@@ -1,0 +1,89 @@
+{
+  "id": "AFDSEW_202611151125",
+  "issued": "2026-11-15T11:25:00+00:00",
+  "headline": "Showers ease Sunday; cool, mostly dry week ahead with a chance of rain Saturday.",
+  "summary": "A cold front has moved east of the Cascades, and a cool dip in the upper atmosphere, called an upper-level trough, sits offshore. That trough moves inland Monday night. The next system passes south of the area Wednesday, and then a blocked pattern sets up, with high pressure to the north and a low to the south, keeping Western Washington dry from Wednesday night through Friday.\n\nToday brings leftover showers, mostly ending this morning, with the most rain along the coast and some new snow in the higher mountains. Monday is a little cooler, near 50, with a few showers. Tuesday should be dry, possibly with morning fog. Highs stay near 50 through the week and lows drop into the 20s and 30s by Thursday. Saturday may bring rain, though forecasters are unsure how much.",
+  "timeline": [
+    {
+      "when": "Today (Sunday)",
+      "what": "Leftover showers end this morning, with the most rain along the coast; it stays breezy and highs are in the lower to mid 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A little cooler, with highs near 50 and a chance of showers as an upper-level trough moves inland.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "A mostly dry day, with possible morning fog or low clouds and highs near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday through Friday",
+      "what": "Mostly dry under a blocked pattern, with possible morning fog Thursday and Friday and lows dropping into the upper 20s and 30s.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "The next system weakens as it approaches, with a broad chance of rain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the dry stretch from Tuesday through Friday, since models agree on the midweek system passing south. They are less sure about Saturday, because the ensemble model runs disagree on how the next system develops, and about morning fog, which depends on light winds that may not materialize.",
+  "hazards": [
+    "Flood warning for the Skokomish River, which is expected to rise just over flood stage this morning and fall back below it late today or early Monday.",
+    "High surf warning for the Grays Harbor and northern Washington coasts until 10 AM Monday; waves could reach about 20 feet.",
+    "Coastal flood advisory for parts of Whatcom and San Juan counties until noon today, due to high tides and low pressure.",
+    "Wind advisories and gale warnings for parts of the coast, the Strait of Juan de Fuca, and northern inland waters, mostly ending early this morning.",
+    "Small craft advisories for coastal and inland waters, lasting into Monday in several areas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the high-altitude winds where the air is cooler and unsettled. It often brings clouds, showers, or cooler temperatures at the surface."
+    },
+    {
+      "term": "Blocked pattern",
+      "definition": "A setup in which a high-pressure system and a low-pressure system stay put in the upper atmosphere, stalling the usual west-to-east movement of weather and keeping one area dry for several days."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "A group of computer forecast runs, each started with slightly different starting conditions. When they disagree, forecasters have less confidence in the outcome."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow. It is often given in feet above sea level."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that form behind a cold front after it passes, often as cooler air moves in."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Forecasters are unsure how the Saturday system will develop, so rain is only a general chance for now.",
+      "about": "Saturday",
+      "stance": "uncertain",
+      "quote": "No real clear winner in the ensembles so for now will go with a broadbrush chance of rain.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Morning fog is possible Thursday and Friday if light surface winds persist as the models suggest.",
+      "about": "Thursday and Friday",
+      "stance": "possible",
+      "quote": "If the models light surface gradient scenario works out there could be areas of fog Thursday and Friday morning.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "The midweek system may only clip the far southeast part of the area, mostly sparing the lowlands.",
+      "about": "Wednesday",
+      "stance": "possible",
+      "quote": "The Southwest Interior could get brushed by the northern portion of the system Wednesday.",
+      "source": "long_term",
+      "signer": "Felton"
+    }
+  ]
+}

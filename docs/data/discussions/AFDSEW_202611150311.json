@@ -1,0 +1,81 @@
+{
+  "id": "AFDSEW_202611150311",
+  "issued": "2026-11-15T03:11:00+00:00",
+  "headline": "Gusty, wet front tonight into Sunday, unsettled Monday, then a drier spell mid-week.",
+  "summary": "A Pacific storm system is pushing a front across western Washington tonight into Sunday. It is followed by a trough, a dip in the upper-level air flow over the western US, that keeps things unsettled Monday. Later in the week, a deep low pressure system approaches the coast Wednesday, but forecasters expect most of its rain to stay south of western Washington. A drier spell follows Thursday, and the pattern beyond that is less certain, possibly turning more active next weekend.\n\nThe biggest impacts come tonight and Sunday, with steady rain, then showers, and gusty south winds that are strongest on the coast and San Juan Islands. Wind Advisories and high surf alerts cover those areas, and a flood watch is in effect for the Skokomish River. Monday will be cooler, in the low 50s, with only light, scattered showers, mostly on the Olympic Peninsula and in the Cascades.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "A front arrives with steadier rain and strong south winds, strongest on the coast and San Juan Islands.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Gusty winds continue, with showers and a chance of isolated thunderstorms, easing slowly in the afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Unsettled but mostly drier, with limited showers on the Olympics and Cascades and highs in the low 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "Drier Tuesday, then a deep low approaches the coast Wednesday, with most of its rain expected south of western Washington.",
+      "source": "long_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "Another drier stretch as the system moves onshore in California.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the front and wind this weekend, but less sure how close the Wednesday low will track to western Washington, and the pattern after Thursday is more uncertain.",
+  "hazards": [
+    "Wind Advisories for the coast, San Juan Islands, and Whidbey Island and Port Townsend areas, with gusts of about 40 to 55 mph",
+    "Flood Watch for the Skokomish River, Olympia, and southern Puget Sound through Sunday morning",
+    "Coastal Flood Advisory for the San Juan Islands Sunday morning",
+    "High Surf Advisory and High Surf Warning for the Grays Harbor and northern Washington coasts",
+    "Storm and gale warnings on coastal and inland waters, with strong winds and large waves"
+  ],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated dip in the upper-level air flow that tends to bring cooler, unsettled weather to the area beneath it."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many versions of a computer forecast run with slightly different starting conditions, used to gauge how confident forecasters can be."
+    },
+    {
+      "term": "Post-frontal showers",
+      "definition": "Showers that form behind a cold front as cooler, unstable air moves in."
+    },
+    {
+      "term": "Weak instability",
+      "definition": "Air conditions that allow showers to grow into storms, here only mildly, so thunderstorms are possible but not widespread."
+    },
+    {
+      "term": "High surf warning",
+      "definition": "An alert that large, dangerous waves are expected to pound beaches and shorelines."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Wednesday low could still bring some rain to western Washington, even though most of it should stay to the south.",
+      "about": "Wednesday",
+      "stance": "possible",
+      "quote": "a chance of precipitation remains due to some lingering uncertainty in the proximity of the system",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "A more active, wetter weather pattern could return by next weekend.",
+      "about": "next weekend",
+      "stance": "possible",
+      "quote": "indications of troughing offshore may result in the return of a more active pattern",
+      "source": "long_term",
+      "signer": "JD"
+    }
+  ]
+}

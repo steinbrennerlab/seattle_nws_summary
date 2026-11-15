@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-07",
-  "end": "2026-11-13",
-  "headline": "A stormy Pacific pattern held all week, with drier, calmer weather finally expected by midweek.",
-  "summary": "Forecasters started the week with a strong windstorm Saturday night, then expected a steady run of Pacific storms. That outlook held up well. By Sunday they described a long plume of moisture aimed at the region, and by Monday the strongest winds on the coast and in the north were expected Tuesday and Wednesday. A warm front then brought a mild, wet stretch, and a stalled front offshore gave Thursday a brief dry, pleasant break, possibly with a record high in Seattle. The main uncertainty all week was the timing and strength of the weekend storms. Their start slid from Friday through Sunday toward Saturday into Sunday, and forecasters called the weekend storm less certain on Thursday.\n\nNow, forecasters expect a wet, breezy weekend. Friday's rain is the first system, and a stronger one arrives Saturday. The heaviest rain is expected on the coast and in the Olympics, with the strongest winds on the coast. The Skokomish River has been a recurring concern because of heavy Olympic rain. Coastal flooding is possible at high tide on Friday. Cooler air arrives Sunday night and Monday, with snow dropping toward the foothills. Next week the storm track should shift south, and high pressure aloft should bring a dry, cool, likely foggy end to the week. Forecasters call that drier pattern probable rather than certain, since the models keep shifting the timing of the next system.",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "headline": "Forecasters traded a stormy, wet week for a cool, dry stretch ahead.",
+  "summary": "The week began with forecasters expecting a conveyor belt of Pacific storms, all fed by a deep low-pressure area far out over the northeast Pacific. They called for a wet, windy week, with the strongest storms Friday through Sunday. Wind advisories went up for the coast and northern lowlands early in the week, and the Skokomish River on the Olympic Peninsula, already running high, stayed a flood worry throughout. Midweek brought a brief mild, mostly dry break, possibly record-warm in Seattle on Thursday. The weekend storms stayed the main concern, though forecasters admitted the timing and strength of the second one were less certain. By Friday, the worst-case coastal winds were scaled back to advisory-level gusts.\n\nThe bigger shift was the pattern for the following week. From Thursday, forecasters said the storm track would move south and a \"block\" would set in, meaning a stubborn area of high pressure that parks over the West and steers storms away. Saturday brought some doubt, with a deep low possibly approaching the coast Wednesday. By Sunday they expected it to pass to the south, leaving western Washington cool and mostly dry from Wednesday night through Friday, with highs near 50 and some chilly nights. Rain could return next Saturday, but forecasters are unsure how much.",
   "turning_points": [
     {
-      "date": "Sun Nov 8",
-      "what": "Forecasters described a long plume of moisture aimed at the region and flagged the weekend storm for close watching."
-    },
-    {
-      "date": "Mon Nov 9",
-      "what": "Wind advisories were issued for the coast and north for Tuesday and Wednesday, and the outlook shifted to a run of stronger storms late in the week, with Skokomish River flooding a possibility."
-    },
-    {
-      "date": "Wed Nov 11",
-      "what": "Thursday looked like a mild, dry break with a possible Seattle record high, before a wetter and windier Friday and Saturday."
+      "date": "Tue Nov 10",
+      "what": "The Skokomish River flood watch became a flood warning as the river rose, and storm timing was nudged to Thursday night and around Sunday."
     },
     {
       "date": "Thu Nov 12",
-      "what": "The weekend storm's timing was refined, and a late-week drying trend was added, though forecasters were less certain about the storm itself."
+      "what": "Forecasters added a drier stretch later in the week from a stalled high-pressure block, and called the weekend storm less certain."
+    },
+    {
+      "date": "Fri Nov 13",
+      "what": "Possible storm-force coastal winds were scaled back to wind advisories, and the midweek dry-out was described more firmly."
+    },
+    {
+      "date": "Sun Nov 15",
+      "what": "After Saturday's doubt about a midweek low near the coast, forecasters settled on it passing south, leaving a cool, dry week."
     }
   ],
-  "signature": "6c889a216916293c",
-  "written": "2026-11-13"
+  "signature": "2cdcc4eb821d4b3f",
+  "written": "2026-11-15"
 }

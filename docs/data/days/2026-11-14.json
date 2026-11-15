@@ -1,12 +1,13 @@
 {
   "date": "2026-11-14",
-  "headline": "Strong wind and steady rain tonight into Sunday, then drier weather midweek.",
-  "summary": "A cold front from the Pacific is bringing strong wind and steady rain tonight into Sunday. Behind it, a dip in the high-altitude winds, called an upper-level trough, keeps showers possible through Monday, mostly in the Olympics and Cascades. Midweek, a deep low-pressure system is expected to track toward northern California, steering most of its rain south of us for a drier spell. Forecasters are less sure how close it gets, and wetter weather may return next weekend. Gusts of 50 to 55 mph are likely on the coast and in the San Juans, with high surf there and a flood watch for the Skokomish River.",
-  "changes": "Compared with this morning, the midweek system is now described as a deep low tracking toward northern California, and forecasters are a bit less sure how close it comes. Wind gust forecasts also edged up to 50 to 55 mph.",
-  "signature": "54e628f428905013",
+  "headline": "Gusty, wet front tonight into Sunday, then a drier spell midweek.",
+  "summary": "Pacific storms are pushing through western Washington, with a dip in the high-altitude winds, called an upper-level trough, over the area and a stronger front following. Tonight into Sunday brings steady rain and gusty south winds, strongest on the coast and San Juan Islands, plus a Wind Advisory there. A flood watch covers the Skokomish River. Sunday brings showers and easing winds. Monday stays unsettled, mainly in the hills, and turns cooler. A deep low is expected near the coast Wednesday, but most of its rain should stay south of the region. A drier spell follows Thursday, though forecasters are unsure about the midweek low and what comes next weekend, when wetter weather could return.",
+  "changes": "Earlier discussions expected the midweek storm track to stay well south of the region, with a dry, cool outlook. The latest discussion describes a deep low approaching the coast Wednesday, with less certainty about how close it gets.",
+  "signature": "b4b61a82e37caa79",
   "discussions": [
     "AFDSEW_202611141002",
     "AFDSEW_202611141727",
-    "AFDSEW_202611142113"
+    "AFDSEW_202611142113",
+    "AFDSEW_202611150311"
   ]
 }
