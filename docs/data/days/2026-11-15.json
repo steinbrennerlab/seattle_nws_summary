@@ -1,12 +1,13 @@
 {
   "date": "2026-11-15",
-  "headline": "Showers ease Monday, drier Tuesday through Friday, wetter weather possible next weekend.",
-  "summary": "Cooler air is settling in behind a cold front, with a trough, a dip in the high-altitude winds, sitting over the western United States. A deep low out in the northeast Pacific drops south but mostly stays offshore and largely misses Washington, so the main storm energy passes by. Showers linger into Monday and then taper off. Tuesday turns partly sunny by afternoon, with highs in the low to mid 50s. Wednesday's rain mostly stays south of Seattle, though breezy easterly winds pick up through some gaps in the Cascades. Thursday and Friday look drier, with possible fog Friday morning and highs near normal. Forecasters expect another trough to deepen offshore next weekend, bringing more active weather back, though models disagree on its exact position and depth.",
-  "changes": "The weekend rain outlook has moved from Saturday to next weekend, and forecasters are less certain about it than before. The midweek system now looks more likely to miss Washington entirely, and Tuesday has shifted from possible morning fog to partly sunny skies.",
-  "signature": "d7713a09e625d5b9",
+  "headline": "Showers taper Monday, drier Tuesday through Friday, more active weather possible next weekend.",
+  "summary": "The big picture is a large dip in the jet stream, called a trough, that has settled over the western U.S. behind a cold front. A deep low-pressure system well offshore is expected to drop south and move into California by Thursday, so most of its energy misses Washington. Showers taper off Monday, with light snow possible in the higher hills. Tuesday turns drier, with some afternoon sun and highs in the 50s. Wednesday brings breezy east winds through gaps in the Cascades, with showers mostly south of Seattle. Thursday and Friday look drier and near normal for the season. Coastal areas face high surf and small craft advisories (warnings for small boats) into early next week. Forecasters are less sure about next weekend, when the trough is expected to deepen again over the ocean and bring more active weather back.",
+  "changes": "The early discussions had a chance of rain Saturday, but the later ones dropped that and shifted the wetter weather to next weekend. The midweek system was also expected to miss Washington more clearly by afternoon.",
+  "signature": "ac67de834374f67e",
   "discussions": [
     "AFDSEW_202611151125",
     "AFDSEW_202611151713",
-    "AFDSEW_202611152142"
+    "AFDSEW_202611152142",
+    "AFDSEW_202611160416"
   ]
 }

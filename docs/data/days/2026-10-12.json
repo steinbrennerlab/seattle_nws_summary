@@ -1,11 +1,10 @@
 {
   "date": "2026-10-12",
-  "headline": "Light showers clip the northwest Tuesday, warm dry weather Thursday and Friday, then wetter, breezier weather returns Sunday into Monday.",
-  "summary": "Monday ended quiet, with high clouds arriving tonight. Lows should be in the upper 30s to mid 40s, and patchy valley fog and some frost are still possible. A weather system passing through British Columbia will just clip western Washington Tuesday into early Wednesday, bringing light showers mainly to the Pacific coast, the western Olympic slopes, and areas from King County northward. Amounts should be small: a few hundredths of an inch in the northern inland areas and a quarter to half an inch on the North Coast. High pressure aloft rebuilds Wednesday and showers fade through the day. Thursday and Friday look warm, with winds near the ground blowing from land toward the coast (offshore) and highs in the mid 60s to mid 70s, about 5 to 10 degrees above normal on Friday. Forecasters say computer models strongly agree on the high pressure building Thursday, so the warm spell looks likely. A weak, fading system brings some rain Saturday, mainly to the coast and North Cascades. A stronger system Sunday into Monday brings more widespread rain and breezy winds, with highs only in the upper 50s to mid 60s. Snow levels may drop to 5000-5500 feet Monday, so a dusting on the higher peaks is possible. Weekend timing and amounts are less certain.",
-  "changes": "Earlier discussions called Friday more than 10 degrees above normal, but later ones said 5 to 10 degrees. The later ones also added detail on rain amounts and the Sunday-into-Monday system, including breezy winds and possible mountain snow.",
-  "signature": "d6b6e4a854777cf9",
+  "headline": "Light showers Tuesday, then warm, dry Thursday and Friday before wetter, breezier weather returns this weekend.",
+  "summary": "A weather system passing through British Columbia only clips western Washington, bringing light showers Tuesday into early Wednesday, mostly to the coast, the western Olympics and areas from King County north. High pressure then takes over and the showers fade. Thursday and Friday look warm and mostly dry, with highs in the mid 60s to mid 70s and Friday roughly 5 to 10 degrees above normal. The warm spell ends over the weekend: a weak system brings some rain Saturday, mainly to the coast and North Cascades, then a stronger system Sunday into Monday brings wider rain and breezy winds. Forecasters are confident in the warm midweek, but the weekend timing and amounts are less certain.",
+  "changes": "The afternoon and evening discussions agreed on the overall pattern: light showers early in the week, a warm and dry Thursday and Friday, and a wetter weekend. The evening discussion dropped the afternoon's specific snow-level forecast for Monday, leaving mountain snow as only a possibility.",
+  "signature": "2512d85a0017e330",
   "discussions": [
-    "AFDSEW_202610121011",
     "AFDSEW_202610121630",
     "AFDSEW_202610122137",
     "AFDSEW_202610130321"

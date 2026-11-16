@@ -1,0 +1,83 @@
+{
+  "id": "AFDSEW_202611160416",
+  "issued": "2026-11-16T04:16:00+00:00",
+  "headline": "Showers taper Monday, drier Tuesday through Friday, then more active weather returns next weekend.",
+  "summary": "Forecasters are watching a large dip in the jet stream aloft, called a trough, that has settled over the western U.S. behind a cold front. A deep, cold low-pressure system aloft is forecast to dive south well offshore on Wednesday and move into California on Thursday, so most of its energy misses Washington. Once it passes, the trough is expected to deepen again over the ocean next weekend, bringing more active weather back.\n\nFor western Washington, showers taper off Monday, though a few linger, with light snow possible in higher hills when heavier showers fall and the snow level sits around 3,000 to 4,000 feet. Tuesday turns drier with some afternoon sun, and highs stay in the 50s. Wednesday brings breezy east winds through the Cascade valleys and gaps, with showers mostly south of Seattle. Thursday and Friday look drier and near normal for the season. Coastal areas face high surf and small craft advisories into early next week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Scattered showers, some with a few lightning strikes, continue but gradually diminish.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A few lingering showers, light snow possible in higher hills, and light winds as high pressure briefly builds.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Drier weather with some afternoon sunshine and highs in the low to mid 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Breezy east winds in the Cascade valleys, with showers mostly south of Seattle, then drier Thursday and Friday with possible morning fog Friday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday into next week",
+      "what": "Troughing deepens offshore again, bringing more active weather, though its exact position and strength are uncertain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about drier weather Tuesday through Friday and about the system staying mostly south of Seattle, but they are uncertain about the exact position and depth of the trough returning next weekend.",
+  "hazards": [
+    "Flood Warning for the Skokomish River, which is expected to recede below flood stage Monday; the river should stay below flood stage the rest of the week.",
+    "High Surf Advisory for the Grays Harbor and northern Washington coasts until 10 AM Monday.",
+    "Small Craft Advisory for coastal waters and the Grays Harbor bar until 4 AM Tuesday, and for the west entrance of the Strait of Juan de Fuca until 10 PM Monday."
+  ],
+  "glossary": [
+    {
+      "term": "Trough",
+      "definition": "An elongated dip in the upper-level winds or jet stream, usually linked to unsettled weather at the surface."
+    },
+    {
+      "term": "Upper low",
+      "definition": "A cold, low-pressure area high in the atmosphere that can steer storms and bring showers or cooler air."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which snow is expected to fall during precipitation."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "A set of computer forecast runs with slightly different starting conditions, used to show how confident forecasters can be."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Models suggest a deeper dip in the jet stream returns offshore next weekend, but its exact placement is unclear.",
+      "about": "Saturday into next week",
+      "stance": "possible",
+      "quote": "Ensembles suggest troughing deepens again offshore Saturday into next week, with some uncertainty into the exact positioning and depth of the trough.",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "Wednesday's precipitation is expected to stay mostly south of Seattle.",
+      "about": "Wednesday",
+      "stance": "expected",
+      "quote": "POPs mainly remain confined south of Seattle, and especially south of WA/OR border due to the trajectory of the system.",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "Patchy morning fog is possible on Friday as skies clear.",
+      "about": "Friday",
+      "stance": "possible",
+      "quote": "Periods of clearing may result in fog development, mainly Friday AM.",
+      "source": "long_term",
+      "signer": "JD"
+    }
+  ]
+}
