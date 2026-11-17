@@ -1,12 +1,10 @@
 {
   "date": "2026-10-12",
-  "headline": "Light showers Tuesday, then warm, dry Thursday and Friday before wetter, breezier weather returns this weekend.",
-  "summary": "A weather system passing through British Columbia only clips western Washington, bringing light showers Tuesday into early Wednesday, mostly to the coast, the western Olympics and areas from King County north. High pressure then takes over and the showers fade. Thursday and Friday look warm and mostly dry, with highs in the mid 60s to mid 70s and Friday roughly 5 to 10 degrees above normal. The warm spell ends over the weekend: a weak system brings some rain Saturday, mainly to the coast and North Cascades, then a stronger system Sunday into Monday brings wider rain and breezy winds. Forecasters are confident in the warm midweek, but the weekend timing and amounts are less certain.",
-  "changes": "The afternoon and evening discussions agreed on the overall pattern: light showers early in the week, a warm and dry Thursday and Friday, and a wetter weekend. The evening discussion dropped the afternoon's specific snow-level forecast for Monday, leaving mountain snow as only a possibility.",
-  "signature": "2512d85a0017e330",
+  "headline": "Light showers Tuesday, then warm, dry days Thursday and Friday before wetter weekend weather.",
+  "summary": "A weather system passing through British Columbia clips the region with light showers Tuesday into early Wednesday, mostly along the coast, the west side of the Olympics, and northward from King County. Amounts stay small. High pressure then rebuilds, and showers fade Wednesday. Thursday and Friday look warm, with highs mostly in the mid 60s to mid 70s, as air flows off the land toward the coast. Friday runs about 5 to 10 degrees above normal, and the warm spell looks likely. The weekend turns wetter: a weak system may bring rain Saturday, mainly to the coast and North Cascades, and a stronger one Sunday into Monday brings more widespread rain and breezy winds, with highs only in the upper 50s to mid 60s. Mountain snow is possible, and the weekend is less certain.",
+  "changes": "",
+  "signature": "5b3feb17c1059ddc",
   "discussions": [
-    "AFDSEW_202610121630",
-    "AFDSEW_202610122137",
     "AFDSEW_202610130321"
   ]
 }

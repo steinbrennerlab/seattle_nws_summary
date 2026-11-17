@@ -1,0 +1,83 @@
+{
+  "id": "AFDSEW_202611162248",
+  "issued": "2026-11-16T22:48:00+00:00",
+  "headline": "Mostly dry through Tuesday, a brief shower chance Wednesday, then wetter weather returns this weekend.",
+  "summary": "A brief ridge of high pressure, a zone of higher air aloft, keeps most of the region dry for now. Offshore, an upper-level low (a spinning pocket of cold air high in the atmosphere) drops south and keeps its rain mostly away from us. Behind it, a trough, a dip in the upper-level winds, deepens over the ocean into the weekend. Forecasters expect a wetter, more active pattern with several systems arriving over the weekend and early next week.\n\nFor most people, that means a quiet, mostly dry stretch through Tuesday, with patchy morning fog and highs in the 50s. Wednesday turns cooler and damper, with spotty showers over the southern half of the area and gusty easterly winds through the Cascade gaps. Thursday and Friday should be drier, with fog likely Friday morning. Light rain returns over the weekend and could become steadier early next week.",
+  "timeline": [
+    {
+      "when": "Tonight into Tuesday",
+      "what": "Mostly dry, with fog likely forming overnight, mainly in the South Sound and central Puget Sound.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Fog lifts by afternoon, highs reach the low 50s, and winds and seas pick up on the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Spotty showers hit the southern half of the area and the coast, with gusty east winds in the Cascade gaps and cooler highs.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday into Friday",
+      "what": "Drier weather, with fog likely Friday morning.",
+      "source": "long_term"
+    },
+    {
+      "when": "Weekend into early next week",
+      "what": "Light rain returns, and the pattern turns wetter and more active.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters sound fairly settled about the dry stretch through Tuesday and the drier break on Thursday and Friday. Wednesday's gusts are described as a chance rather than a sure thing, and the weekend and early next week rely on ensemble guidance (many computer runs) that favors a wetter pattern, but the details are still uncertain.",
+  "hazards": [
+    "High surf advisory on the Grays Harbor and northern Washington coasts until 4 PM today.",
+    "Small craft advisories on several local marine zones through Tuesday.",
+    "Gale warning for outer coastal waters from Tuesday afternoon to early Wednesday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings drier, calmer weather to the surface below."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A low-pressure area high in the atmosphere, often cold and spinning, that can bring showers and cooler air."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the upper-level winds, usually linked to unsettled weather."
+    },
+    {
+      "term": "Cascade gaps",
+      "definition": "Low passes and openings in the Cascade Mountains where wind funnels through and can become gusty."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A group of many computer forecast runs, used to see how much the models agree and how sure forecasters can be."
+    },
+    {
+      "term": "Gale warning",
+      "definition": "A marine warning for winds strong enough to be dangerous to boats, typically 34 knots or more."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Showers will mostly pass south of the area, but they will reach the southern half of western Washington and the coast on Wednesday.",
+      "about": "Wednesday",
+      "stance": "expected",
+      "quote": "This system will primarily move south of our area but will rotate showers over the southern half of the area",
+      "source": "short_term",
+      "signer": "Mazurkiewicz"
+    },
+    {
+      "claim": "A wetter, more active weather pattern is expected to set up over the weekend and early next week.",
+      "about": "Weekend and early next week",
+      "stance": "expected",
+      "quote": "Latest ensemble guidance suggests a more active, wetter pattern through the first half of the week with multiple systems entering the area.",
+      "source": "long_term",
+      "signer": "Mazurkiewicz"
+    }
+  ]
+}

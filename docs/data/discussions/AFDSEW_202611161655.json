@@ -1,0 +1,87 @@
+{
+  "id": "AFDSEW_202611161655",
+  "issued": "2026-11-16T16:55:00+00:00",
+  "headline": "Showers ease tonight, then dry, foggy days before showers return this weekend.",
+  "summary": "A cool upper-level trough, a dip in the jet stream that brings cooler air, sits offshore today and moves inland tonight. On Tuesday the flow aloft splits as the next system passes south of the area Wednesday. A ridge of high pressure aloft brings a dry Friday. After that, a new system drops down from the Gulf of Alaska for the weekend, with most of its energy heading toward Northern California.\n\nToday is the coolest day in about two weeks, with showers and highs only in the lower 50s. Tuesday should be dry but foggy in the morning. Breezy easterly winds may pick up in the Cascade foothills Tuesday night. Wednesday has the best chance of showers in the south, with a few possibly reaching Everett. Thursday looks mostly dry. Friday is dry with morning fog and cooler spots dropping into the upper 20s. Showers return Saturday and Sunday, with snow levels falling below the passes but little snow expected.",
+  "timeline": [
+    {
+      "when": "Today (Monday)",
+      "what": "Showers continue and highs stay in the lower 50s, with showers mostly ending by tonight as a trough moves inland.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "A dry day with fog in the morning that should clear, and breezy easterly winds in the foothills Tuesday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "A low passing to the south brings the best chance of showers to the south, with highs in the lower 50s elsewhere.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A dry ridge brings morning fog and cool spots dropping into the upper 20s overnight.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday and Sunday",
+      "what": "Showers return with snow levels dropping below the passes, but little new snow is expected.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters sound fairly sure about dry weather Tuesday and Friday, but they are less certain about Wednesday and Thursday because the upper low's position varies between model runs, and the weekend snow totals are small because little moisture is expected to reach the area.",
+  "hazards": [
+    "High surf advisory for the Grays Harbor and northern Washington coasts, until 4 PM today.",
+    "Small craft advisories for coastal waters and the west entrance to the Strait of Juan de Fuca, lasting into Tuesday morning at the latest.",
+    "Possible gale warnings for coastal waters and the Strait Tuesday night, not yet issued."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level trough",
+      "definition": "A dip in the jet stream high in the atmosphere, usually linked to cooler air and showers at the surface."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A bulge in the jet stream high in the atmosphere, usually linked to drier, calmer weather at the surface."
+    },
+    {
+      "term": "Split flow",
+      "definition": "A pattern where the jet stream divides into two branches, often bringing unsettled or mixed weather around the split."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Winds blowing from land toward the ocean, which tend to dry out the air and can clear fog."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where snow is falling, so a lower snow level means snow reaches lower hills and passes."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Fog is likely to form Tuesday morning, and it should clear by midday.",
+      "about": "Tuesday",
+      "stance": "expected",
+      "quote": "Light surface gradients in the morning combining with plenty of low level moisture to produce areas of fog.",
+      "source": "short_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "Showers may return to the southern half of the area on Thursday, though this is not yet in the forecast.",
+      "about": "Thursday",
+      "stance": "possible",
+      "quote": "Will not be surprised if future runs reintroduce a chance of showers to the southern half Thursday.",
+      "source": "long_term",
+      "signer": "JD"
+    },
+    {
+      "claim": "Weekend snow will be light, because little moisture is expected to reach the area.",
+      "about": "Saturday and Sunday",
+      "stance": "expected",
+      "quote": "at this point not much moisture making it into the area making for light new snow accumulations at best.",
+      "source": "long_term",
+      "signer": "JD"
+    }
+  ]
+}

@@ -1,10 +1,12 @@
 {
   "date": "2026-11-16",
-  "headline": "Showers ease tonight, then foggy, breezy Tuesday and mostly dry Thursday and Friday.",
-  "summary": "A cool dip in the high-altitude winds is moving in from the ocean and will push showers out of most lowland areas tonight. Behind it, the upper-level flow splits in two, keeping the next storm mostly to the south. A brief bulge of high pressure aloft should bring a dry Friday. Another system from the Gulf of Alaska is expected to send most of its energy toward Northern California. Monday is showery and the coolest in two weeks, with highs in the lower 50s and chilly lows tonight in the mid 30s to lower 40s. Tuesday is dry but foggy, with breezy east winds in the foothills that night. Showers return over the weekend, with snow levels dropping near the passes but little snow expected.",
-  "changes": "",
-  "signature": "326b506b4697a2ac",
+  "headline": "Mostly dry through Tuesday, spotty Wednesday showers, wetter weekend and early next week.",
+  "summary": "A brief ridge of high pressure aloft keeps most of the region dry for now. Offshore, a cold upper-level low, a spinning pocket of cold air high up, drops south and keeps its rain mostly away from us. Behind it, a trough, a dip in the upper-level winds, deepens over the ocean into the weekend, bringing a wetter, more active pattern. Through Tuesday expect a quiet stretch with patchy morning fog and highs in the 50s. Wednesday turns cooler and damper, with spotty showers mainly in the south and possibly gusty east winds through the Cascade gaps. Thursday and Friday should be drier, with fog likely Friday morning. Light rain returns over the weekend and could become steadier early next week, though details remain uncertain.",
+  "changes": "Compared with the morning discussions, which expected only a brief return of showers over the weekend, the afternoon outlook now calls for a wetter, more active pattern with several systems over the weekend and early next week. Wednesday's showers are now described as spotty in the south, with gusty east winds added as a possibility.",
+  "signature": "ba9e8be968b6e1ba",
   "discussions": [
-    "AFDSEW_202611161045"
+    "AFDSEW_202611161045",
+    "AFDSEW_202611161655",
+    "AFDSEW_202611162248"
   ]
 }
