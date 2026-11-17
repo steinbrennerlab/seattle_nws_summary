@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-09",
-  "end": "2026-11-15",
-  "headline": "Forecasters traded a stormy, wet week for a cool, dry stretch ahead.",
-  "summary": "The week began with forecasters expecting a conveyor belt of Pacific storms, all fed by a deep low-pressure area far out over the northeast Pacific. They called for a wet, windy week, with the strongest storms Friday through Sunday. Wind advisories went up for the coast and northern lowlands early in the week, and the Skokomish River on the Olympic Peninsula, already running high, stayed a flood worry throughout. Midweek brought a brief mild, mostly dry break, possibly record-warm in Seattle on Thursday. The weekend storms stayed the main concern, though forecasters admitted the timing and strength of the second one were less certain. By Friday, the worst-case coastal winds were scaled back to advisory-level gusts.\n\nThe bigger shift was the pattern for the following week. From Thursday, forecasters said the storm track would move south and a \"block\" would set in, meaning a stubborn area of high pressure that parks over the West and steers storms away. Saturday brought some doubt, with a deep low possibly approaching the coast Wednesday. By Sunday they expected it to pass to the south, leaving western Washington cool and mostly dry from Wednesday night through Friday, with highs near 50 and some chilly nights. Rain could return next Saturday, but forecasters are unsure how much.",
+  "start": "2026-11-11",
+  "end": "2026-11-17",
+  "headline": "A stormy weekend gave way to a forecast of dry midweek weather, with next weekend uncertain.",
+  "summary": "Early in the week, forecasters saw a stalled front offshore finally moving in, the first of a series of Pacific storms. The expected pattern held: showers and wind Friday, then a stronger storm Saturday night into Sunday. Over a couple of days the details shifted. Forecasters were less sure about the weekend storm's strength, and the talk of storm-force coastal winds gave way to wind advisories for the coast and San Juans. The risk of the Skokomish River flooding stayed in focus. Behind the storm, they expected a stalled high-pressure pattern to bring a drier stretch later in the week.\n\nThe biggest change was for midweek. Early on, the storm track was expected to stay south of the region, but on Saturday a deep low looked like it might come near the coast Wednesday. By Sunday, forecasters were confident that low would drop toward California and mostly miss Washington. By Monday and Tuesday, the forecast was for fog, a few showers mainly to the south, and breezy east winds in the Cascade gaps, then a strong ridge of high pressure bringing dry, chilly weather Thursday and Friday. Forecasters are fairly confident in that dry spell. The weekend and Monday are less certain. The models disagree on whether a stalled system moves inland or stays offshore, so rain and mountain snow are possible but not settled.",
   "turning_points": [
     {
-      "date": "Tue Nov 10",
-      "what": "The Skokomish River flood watch became a flood warning as the river rose, and storm timing was nudged to Thursday night and around Sunday."
-    },
-    {
       "date": "Thu Nov 12",
-      "what": "Forecasters added a drier stretch later in the week from a stalled high-pressure block, and called the weekend storm less certain."
+      "what": "The weekend storm's timing firmed up as Saturday into Sunday, a late-week dry spell from a blocking high appeared, and confidence in the storm's strength dipped."
     },
     {
-      "date": "Fri Nov 13",
-      "what": "Possible storm-force coastal winds were scaled back to wind advisories, and the midweek dry-out was described more firmly."
+      "date": "Sat Nov 14",
+      "what": "Forecasters shifted from a midweek storm track well to the south to a deep low possibly nearing the coast Wednesday, with less certainty."
     },
     {
       "date": "Sun Nov 15",
-      "what": "After Saturday's doubt about a midweek low near the coast, forecasters settled on it passing south, leaving a cool, dry week."
+      "what": "The midweek low was seen as dropping toward California and mostly missing Washington, and the wetter weather moved to next weekend."
+    },
+    {
+      "date": "Tue Nov 17",
+      "what": "A strong ridge of high pressure was expected to bring dry, cold weather Thursday and Friday, while the weekend forecast stayed uncertain because the models disagreed."
     }
   ],
-  "signature": "2cdcc4eb821d4b3f",
-  "written": "2026-11-15"
+  "signature": "395bf543c2569f06",
+  "written": "2026-11-17"
 }

@@ -1,0 +1,92 @@
+{
+  "id": "AFDSEW_202611170421",
+  "issued": "2026-11-17T04:21:00+00:00",
+  "headline": "Mostly dry until Wednesday, then a wetter, more active pattern returns next weekend.",
+  "summary": "Forecasters are watching a deep upper-level low offshore, a cold pocket of air high in the atmosphere. Tonight a brief ridge of high pressure keeps things mostly dry. The low will drift south on Wednesday, while the upper-level trough (a dip in the winds aloft) deepens offshore into next weekend, steering more wet systems toward the area.\n\nFor most people, the next couple of days are mostly dry, with fog likely in the early mornings. Wednesday brings spotty showers over the southern half of the region, cooler highs, and gusty east winds through the Cascade gaps. Thursday and Friday look drier. The weekend and early next week turn wetter and more active, with rising chances of river flooding on the Skokomish River.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Mostly dry, with fog likely to form overnight in the South Sound and Central Puget Sound.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Fog lifts by afternoon, highs in the low 50s, and winds pick up, with gale-force gusts offshore Tuesday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Spotty showers over the southern half of the area, cooler highs, and gusty east winds through the Cascade gaps.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday through Friday",
+      "what": "Drier weather, with fog likely Friday morning.",
+      "source": "long_term"
+    },
+    {
+      "when": "Weekend into early next week",
+      "what": "A trough deepens offshore, bringing more precipitation and a more active, wetter pattern.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters sound fairly sure about the next two days, including the fog and Wednesday's showers and winds. The weekend and early next week rest on the latest ensemble guidance (a set of model runs), which favors a wetter pattern, but the discussion does not spell out how sure they are about the timing or strength of those systems.",
+  "hazards": [
+    "Gale warnings for the outer coastal waters from Tuesday afternoon to early Wednesday.",
+    "Small craft advisories for the coastal waters and parts of the Strait of Juan de Fuca, active into Tuesday and Tuesday night.",
+    "Gusts over 35 mph possible in the Cascade gaps Wednesday morning.",
+    "Skokomish River is below flood stage; river flooding is not expected for several days, but chances rise early next week."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A area of low pressure high in the atmosphere, which often brings clouds, showers, and changing winds at the surface."
+    },
+    {
+      "term": "Ridge",
+      "definition": "An elongated area of high pressure aloft, usually bringing drier and calmer weather."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated dip in the upper-level winds, usually associated with unsettled weather below it."
+    },
+    {
+      "term": "Onshore flow",
+      "definition": "Winds blowing from the ocean toward land, which usually bring cooler, moister air inland."
+    },
+    {
+      "term": "Cascade gaps",
+      "definition": "Low points and passes in the Cascade Mountains where winds funnel through and can blow stronger than in surrounding areas."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "Many runs of a computer weather model with slightly different starting conditions, used to gauge the range of possible outcomes."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Strong east winds through the Cascade gaps Wednesday morning are possible.",
+      "about": "Wednesday morning",
+      "stance": "possible",
+      "quote": "with probabilities of gusts over 35 MPH generally around 40-60% across much of the gaps Wednesday morning.",
+      "source": "short_term",
+      "signer": "Mazurkiewicz"
+    },
+    {
+      "claim": "Fog is expected to return on Friday morning.",
+      "about": "Friday",
+      "stance": "expected",
+      "quote": "Likely will see areas of fog Friday morning as residual moisture remains.",
+      "source": "long_term",
+      "signer": "Mazurkiewicz"
+    },
+    {
+      "claim": "The pattern is expected to turn wetter and more active through the first half of next week.",
+      "about": "Weekend through the first half of the week",
+      "stance": "expected",
+      "quote": "Latest ensemble guidance suggests a more active, wetter pattern through the first half of the week with multiple systems entering the area.",
+      "source": "long_term",
+      "signer": "Mazurkiewicz"
+    }
+  ]
+}

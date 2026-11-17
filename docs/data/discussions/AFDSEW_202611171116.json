@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611171116",
+  "issued": "2026-11-17T11:16:00+00:00",
+  "headline": "Dry, cool spell arrives Thursday; weekend and Monday rain chances remain uncertain.",
+  "summary": "Today the upper atmosphere is split, with a weather system passing well offshore and moving south, weakening through Wednesday. A strong ridge of high pressure aloft then builds offshore Thursday, reaching toward the Yukon, and moves over the region Friday before getting pinched off. A new system stalls off the coast over the weekend.\n\nFor most people, that means a gray, foggy start today, then sunshine and highs near 50. Wednesday brings clouds and some showers mostly to the south, plus breezy east winds in the foothills. Thursday and Friday turn dry, with cold mornings in the 30s and 20s. The weekend and Monday carry a chance of rain, with snow in the passes.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Morning clouds and patchy fog give way to sunshine in the afternoon, with highs near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "Clear skies, with fog likely south of Seattle and a possible freezing fog in the Southwest Interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Clouds return and a few showers reach mainly the southern part of the region, with breezy east winds in the foothills.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday through Friday",
+      "what": "A strong ridge brings dry weather and clearing skies, with cold mornings in the 30s and 20s.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Rain chances continue, with the forecast still unclear and snow staying in the passes.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about dry, settled weather Thursday and Friday because the models agree well. They are unsure about the weekend and Monday because the models disagree on whether the stalled system moves inland or stays offshore.",
+  "hazards": [
+    "Gale warning for outer coastal waters from this afternoon until early Wednesday morning, with winds strong enough to be dangerous for boats.",
+    "Small craft advisories for the Strait of Juan de Fuca and coastal waters through Wednesday, with choppy seas and strong winds."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere. Ridges usually bring dry, settled weather to the surface below."
+    },
+    {
+      "term": "Pinched off",
+      "definition": "When a ridge gets cut off from the flow that was carrying it along, so it stops moving as one connected band."
+    },
+    {
+      "term": "Split flow aloft",
+      "definition": "When the fast winds high in the atmosphere divide around weather systems, so no single steady current pushes weather across the region."
+    },
+    {
+      "term": "Offshore flow",
+      "definition": "Air moving from land out toward the ocean. Here it means easterly winds coming down from the Cascades, which are often dry and gusty."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ensemble solutions",
+      "definition": "Many model runs with slightly different starting conditions. When they disagree, forecasters have less confidence in any one outcome."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Forecasters will keep a chance of rain over the weekend even though the models disagree.",
+      "about": "weekend",
+      "stance": "expected",
+      "quote": "With a lack of a consensus will stay with the chance of rain forecast over the weekend.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Monday's forecast is very unclear, with two possible outcomes.",
+      "about": "Monday",
+      "stance": "uncertain",
+      "quote": "Inconsistencies in the solutions continue into Monday with a pair of possible solutions the leading contenders",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Dry air from the north is expected to clear the skies by Thursday afternoon.",
+      "about": "Thursday",
+      "stance": "expected",
+      "quote": "Dry northerly flow aloft developing over Western Washington decreasing cloud cover by Thursday afternoon.",
+      "source": "short_term",
+      "signer": "Felton"
+    }
+  ]
+}
