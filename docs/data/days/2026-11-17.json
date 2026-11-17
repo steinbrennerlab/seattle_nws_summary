@@ -1,10 +1,12 @@
 {
   "date": "2026-11-17",
-  "headline": "Dry, cool weather arrives Thursday; weekend and Monday rain chances remain uncertain.",
-  "summary": "A weather system passing well offshore is weakening as it heads south. Behind it, a strong ridge of high pressure, a dome of high-altitude air, moves in Thursday and settles over the region Friday, bringing dry weather. Today starts gray and foggy, then turns sunny with highs near 50. Wednesday brings some clouds and showers, mostly to the south, plus breezy east winds in the foothills. Thursday and Friday stay dry, with cold mornings in the 30s and 20s, and forecasters are fairly confident in that. The weekend and Monday carry a chance of rain and mountain snow, but that part is uncertain because the models disagree on whether a stalled system moves inland or stays offshore.",
-  "changes": "",
-  "signature": "0fe44377547a9c21",
+  "headline": "Mostly dry Thursday and Friday, then a wetter, windier pattern likely next week.",
+  "summary": "Western Washington sits between weather systems. A storm offshore is weakening as it moves south, and a ridge of high pressure, a zone of dry, settled air, moves over the area Friday. Farther out, the jet stream is expected to dip into a deep trough over the Pacific early next week, steering stronger storms our way. Wednesday brings only light rain, little or none north of Everett. Thursday and Friday look mostly dry, with temperatures near or slightly below normal. The weekend brings a weakening system with light rain and mountain snow. Next week looks wetter and windier, with more widespread rain, mountain snow, and rising rivers, though details are unsettled. Forecasters are fairly confident through Friday, less so for the weekend and next week.",
+  "changes": "The weekend system is now expected to weaken before reaching land, and the outlook added a wetter, windier pattern for next week that the earlier discussions did not mention. Wednesday also shifted toward lighter rain, with little or none expected north of Everett.",
+  "signature": "643f810568c7aa1c",
   "discussions": [
-    "AFDSEW_202611171116"
+    "AFDSEW_202611171116",
+    "AFDSEW_202611171622",
+    "AFDSEW_202611172135"
   ]
 }

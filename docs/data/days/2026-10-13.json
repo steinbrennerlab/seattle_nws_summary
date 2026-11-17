@@ -1,12 +1,10 @@
 {
   "date": "2026-10-13",
-  "headline": "Light rain tonight, then warm, dry weather through Friday before a cooler, wetter weekend.",
-  "summary": "A weak system passing north brings light rain and drizzle tonight into Wednesday, mostly in the north Olympics, Cascades, and northern interior. High pressure then clears the skies and warms things up. Thursday reaches the upper 60s to mid 70s, and Friday is the warmest, driest day, with an isolated 80 possible in Cascade valleys. Patchy morning fog is possible Thursday, and gusty east winds in the Cascades could reach 20 to 30 mph. Unsettled weather returns this weekend as a trough dips south from Alaska, with a quick Saturday system bringing mostly rain. A cooler, wetter system arrives late Sunday and lasts through Tuesday, with snow levels near 5,000 feet and more mountain snow. Winds may be breezy, but forecasters rate the risk of advisory-level winds as low.",
-  "changes": "Earlier discussions flagged a possible stronger, wetter system Sunday with coastal winds, but the latest one rates advisory-level winds as low risk and describes the late-Sunday system lasting through Tuesday. The rain expected tonight was described as light showers earlier and is now called light rain and drizzle.",
-  "signature": "50a69bc44f8524aa",
+  "headline": "Light rain tonight, then warm dry days through Friday before a wetter, cooler weekend.",
+  "summary": "A weak weather system brings light rain and drizzle tonight into Wednesday morning, mostly in the north, with little rain expected. Behind it, high pressure builds in, skies clear, and temperatures warm. Thursday highs reach the upper 60s to mid 70s, and Friday is the warmest and driest day, with a few Cascade valleys possibly near 80. Gusty east winds are likely in the Cascades Thursday and Friday mornings, but fire weather is not expected to be a concern. The pattern changes over the weekend as the high moves off and a trough, a dip in the upper-level winds, digs south from Alaska. A quick system Saturday brings mostly rain, then a cooler, wetter system arrives late Sunday and lasts through Tuesday. Snow levels, the lowest elevation where snow falls, should drop to about 5,000 feet, so the mountains get more snow. Winds may be breezy at times, but strong enough for an advisory looks unlikely.",
+  "changes": "",
+  "signature": "e802ff179f9b7bcf",
   "discussions": [
-    "AFDSEW_202610131736",
-    "AFDSEW_202610132131",
     "AFDSEW_202610140310"
   ]
 }

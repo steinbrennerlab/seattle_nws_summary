@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611171622",
+  "issued": "2026-11-17T16:22:00+00:00",
+  "headline": "Dry Thursday and Friday under a ridge; weekend rain chances remain uncertain.",
+  "summary": "Western Washington sits between weather systems. Upper-level winds are split today, and a system offshore approaches but mostly passes south of the area Wednesday, weakening as it goes. A strong upper-level ridge of high pressure then builds over the ocean Thursday, pushing dry northerly air over the region. The ridge moves over us Friday, then gets pinched off Friday night as another system develops offshore. That system may linger off the coast over the weekend, and forecasters are not sure how it will behave.\n\nWhat people will notice: a foggy start, then some sun today, with highs near 50. Tonight brings clear skies and fog, especially south of Seattle, and freezing fog is possible in the Southwest Interior. Wednesday clouds build, with light showers mostly in the southern half of the area and breezy easterly winds in the foothills. Thursday turns drier with clouds clearing. Friday mornings are the coldest, with lows in the upper 20s to 30s. The weekend carries a chance of rain, with snow in the passes.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Morning clouds and fog give way to some afternoon sun, with highs near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "Clear skies bring fog, mainly south of Seattle, with a chance of freezing fog in the Southwest Interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Clouds increase, with light showers mostly in the southern half of the area and breezy east winds in the foothills.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday and Friday",
+      "what": "Dry northerly flow brings clearing skies Thursday, and the ridge moves over the area Friday with cold mornings.",
+      "source": "long_term"
+    },
+    {
+      "when": "Weekend",
+      "what": "A chance of rain continues, with snow in the passes, though the timing of the offshore system is unclear.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the pattern through Friday, since the models agree on the ridge, but they disagree on what the offshore system does over the weekend and into Monday, so rain chances stay broad.",
+  "hazards": [
+    "Gale warning for outer coastal waters from this afternoon through early Wednesday.",
+    "Small Craft Advisories for inner coastal waters and parts of the Strait of Juan de Fuca through Wednesday."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge (upper-level ridge)",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings dry, settled weather at the surface."
+    },
+    {
+      "term": "Flow aloft",
+      "definition": "The direction and pattern of winds high in the atmosphere, which steer weather systems near the ground."
+    },
+    {
+      "term": "Pinched off",
+      "definition": "When a ridge or system becomes separated from the larger flow and drifts on its own, often leading to a slow or unpredictable pattern."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that freeze on contact with cold surfaces, leaving a thin layer of ice on roads and plants."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow instead of rain."
+    },
+    {
+      "term": "Ensemble solutions",
+      "definition": "Many model runs with slightly different starting conditions, used to show how much uncertainty there is in a forecast."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The ridge is expected to be pinched off Friday night as another system forms offshore.",
+      "about": "Friday night",
+      "stance": "expected",
+      "quote": "Ridge gets pinched off Friday night as another system sets off off the coast.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Models do not agree on the offshore system over the weekend, so forecasters are keeping a general chance of rain.",
+      "about": "the weekend",
+      "stance": "uncertain",
+      "quote": "Models still having trouble coming to a consistent solution over the weekend.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Monday could bring either a building ridge or the leftover offshore system moving through, and the models cannot settle which.",
+      "about": "Monday",
+      "stance": "possible",
+      "quote": "Inconsistencies in the solutions continue into Monday with a pair of possible solutions the leading contenders",
+      "source": "long_term",
+      "signer": "Felton"
+    }
+  ]
+}
