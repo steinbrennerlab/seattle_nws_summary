@@ -1,10 +1,12 @@
 {
   "date": "2026-11-18",
-  "headline": "Dry, foggy Thursday and Friday; wetter, windier weather arrives Tuesday.",
-  "summary": "A weakening swirl of low pressure aloft is drifting south off the Oregon coast, while a weak front fades over the southern part of the region. Next, a ridge of high pressure aloft slides over western Washington, bringing a mostly dry, gray stretch Thursday and Friday, with highs near 50 and foggy mornings, especially inland and in river valleys. Friday should turn sunny. Another upper-level low forms off Oregon over the weekend, and forecasters are unsure where it will settle, which decides whether showers reach western Washington or only graze it. A more organized front arrives Tuesday, bringing the first clearly wetter, windier weather and rising snow levels in the mountains, meaning the elevation where snow falls moves up. Confidence is high for Thursday, Friday, and Tuesday; lower for the weekend.",
-  "changes": "",
-  "signature": "6c9ed260ca8c0b3d",
+  "headline": "Dry, gray Thursday and Friday; wetter, windier weather possible by Sunday and Tuesday.",
+  "summary": "A ridge of high pressure aloft keeps western Washington dry through Friday. Thursday and Friday look dry but gray, with morning fog and highs in the upper 40s to low 50s. The pattern shifts for the weekend as a cutoff low, meaning a low pressure system split off from the main flow, forms offshore late Saturday and sends moisture inland. Sunday brings light rain to the lowlands, snow in the mountains, and breezy east winds. A stronger system on Tuesday could bring wider wind and mountain snow, and higher tides next week raise the chance of coastal flooding. Forecasters are fairly confident about Thursday and Friday but less sure of the weekend details.",
+  "changes": "Earlier discussions expected the weekend low to park offshore, with showers possibly only grazing western Washington. This afternoon's discussion instead has a cutoff low forming late Saturday and bringing rain Sunday, and it adds a chance of coastal flooding next week.",
+  "signature": "ed0bf059df0ce143",
   "discussions": [
-    "AFDSEW_202611181056"
+    "AFDSEW_202611181056",
+    "AFDSEW_202611181649",
+    "AFDSEW_202611182200"
   ]
 }

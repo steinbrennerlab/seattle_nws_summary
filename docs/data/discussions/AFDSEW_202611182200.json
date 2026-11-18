@@ -1,0 +1,82 @@
+{
+  "id": "AFDSEW_202611182200",
+  "issued": "2026-11-18T22:00:00+00:00",
+  "headline": "Drying out Thursday and Friday, then wetter, breezier weather returns this weekend.",
+  "summary": "An upper-level low to the south is slowly drifting inland and weakening, while an upper-level ridge builds in and dries things out through Friday. Then the pattern shifts: a cutoff low forms offshore late Saturday and sends moisture into western Washington, and a stronger frontal system follows on Tuesday.\n\nShowers taper off tonight. Thursday and Friday look dry but gray, with morning fog and highs in the upper 40s to low 50s. Sunday brings light rain to the lowlands and snow in the mountains, with breezy east winds. Tuesday's system could bring wider wind and mountain snow, and higher tides next week raise the chance of coastal flooding.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light showers continue, then ease, and winds calm to light overnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday through Friday",
+      "what": "Drier weather with morning fog, low clouds, and highs in the upper 40s to low 50s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Dry through the morning, then a cutoff low begins forming offshore late in the day.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain reaches the lowlands and the mountains get a dusting of snow, with breezy east winds through the Cascade gaps.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A brief lull on Monday, then a stronger frontal system brings widespread breezy winds and snow over the passes Tuesday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the dry, quiet Thursday and Friday, but less certain about the details of the weekend, and they call the Tuesday system potentially stronger and more organized because models keep showing that.",
+  "hazards": [
+    "Small craft advisory (a small-boat warning) for ocean waters off the coast through Thursday morning, with lingering rough seas.",
+    "Possible coastal flooding next week from higher tides, which the incoming low may worsen. This discussion does not name a specific flood product."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere, usually moving slowly, that can bring clouds and showers to the ground below."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere that tends to bring dry, settled weather."
+    },
+    {
+      "term": "Cutoff low",
+      "definition": "An upper-level low that splits away from the main westerly flow and can linger or wander for days, bringing unsettled weather."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain. Here it is expected around 2,000 to 2,500 feet."
+    },
+    {
+      "term": "Negatively tilted frontal system",
+      "definition": "A storm system whose upper-level trough leans back toward the southwest, often making it stronger and better organized than a typical front."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The regular high and low tides driven by the pull of the sun and moon, which can be unusually high at certain times of the month."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Tuesday system may be stronger and more organized than earlier expected, bringing widespread wind and mountain snow.",
+      "about": "Tuesday",
+      "stance": "possible",
+      "quote": "Forecast models continue to show that this system will be stronger and more organized, potentially bringing in widespread breezy winds and snow through the Cascade passes.",
+      "source": "long_term",
+      "signer": "15"
+    },
+    {
+      "claim": "Higher tides next week could lead to coastal flooding, possibly made worse by the incoming storm.",
+      "about": "next week",
+      "stance": "possible",
+      "quote": "Astronomical tides will also peak next week, bringing increased potential for coastal flooding, which may be enhanced by this incoming low pressure system.",
+      "source": "long_term",
+      "signer": "15"
+    }
+  ]
+}

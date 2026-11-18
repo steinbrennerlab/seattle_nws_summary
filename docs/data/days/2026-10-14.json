@@ -1,12 +1,10 @@
 {
   "date": "2026-10-14",
-  "headline": "Warm, dry weather through Friday, then cooler with light rain Saturday and early next week.",
-  "summary": "A ridge of high pressure, a zone of settled, sinking air, is parked over the Northwest, giving us a warm, mostly dry stretch through Friday. Highs reach the 70s, with the mid 70s on Friday, and people especially sensitive to heat may feel it. Morning fog or low cloud is possible Thursday. Winds turn easterly and gusty in the Cascades and foothills Thursday night. The ridge weakens over the weekend as a trough, a dip in the jet stream, moves in. Saturday brings light rain, mostly to the North Cascades, while the Seattle area may stay dry, and highs fall to the low 60s. Sunday is cooler and drier, with chilly lows in the 40s around Puget Sound and 30s in the foothills. Cool, unsettled weather with occasional light rain lingers into early next week, with the best chance on Tuesday. Forecasters say the pattern after that is unclear.",
-  "changes": "The morning discussions expected showers on Saturday, focused near the King/Snohomish county line, and a second system Sunday and Monday that was forecast to miss Washington. The later discussions describe a weaker Saturday system that may leave the Seattle area dry, and Sunday lows that are a bit milder than earlier projected.",
-  "signature": "d3d868ae2dd5ef4f",
+  "headline": "Dry, warmer days through Friday, then cooler, unsettled weather with light rain this weekend.",
+  "summary": "A high-pressure system, a zone of settled, sinking air, sits over the Northwest, bringing clear, warm weather through Friday. Highs reach the upper 60s to low 70s Thursday and mid 70s Friday, with minor heat concerns for sensitive people. Thursday morning may bring low clouds or fog, though that is uncertain. Breezy east winds are possible in the foothills Thursday night. The pattern shifts this weekend as the high weakens and weak systems move through. Saturday brings rain mainly to the North Cascades, with little in the lowlands, and temperatures drop to the low 60s. Sunday is cooler and drier. Cool, unsettled weather with light rain chances continues into early next week, especially Tuesday, but the outlook after that is unclear because the models disagree.",
+  "changes": "",
+  "signature": "7b94d4066440c5e1",
   "discussions": [
-    "AFDSEW_202610141506",
-    "AFDSEW_202610142020",
     "AFDSEW_202610150243"
   ]
 }
