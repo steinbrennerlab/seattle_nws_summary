@@ -1,0 +1,91 @@
+{
+  "id": "AFDSEW_202611180418",
+  "issued": "2026-11-18T04:18:00+00:00",
+  "headline": "Mostly dry Thursday and Friday; wetter, windier, more active pattern likely early next week.",
+  "summary": "Western Washington is sitting between weather systems for now. A system offshore heads south toward Oregon and Northern California on Wednesday, and the moisture it throws north brings only light rain, mostly south of Everett. Later in the week, a ridge of high pressure aloft moves over the area and dries things out. Beyond that, a jet stream core, a narrow band of very strong winds high in the atmosphere, is expected to help set up a deep dip in the upper-level flow over the central Pacific. That dip steers a series of stronger storms toward us early next week.\n\nFor most people, Thursday and Friday look quiet and dry, with temperatures near or slightly below normal. A weak system over the weekend brings light rain and snow at the mountain passes, with little impact. Early next week, the pattern turns wetter, with more widespread rain, mountain snow, and wind at times, and rivers are expected to rise, though no flooding is forecast for the next week. Coastal waters see strong winds and high seas on Wednesday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Mostly quiet and dry as the region sits between weather systems.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Light rain spreads north from a system passing to the south, with little or none north of Everett.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday into Friday",
+      "what": "Conditions dry out under a ridge of high pressure, with temperatures near or slightly below normal.",
+      "source": "short_term"
+    },
+    {
+      "when": "Weekend",
+      "what": "A weakened system brings light rain and snow at the passes, with minimal impacts expected.",
+      "source": "long_term"
+    },
+    {
+      "when": "Early next week",
+      "what": "A more active pattern brings a series of frontal systems with wider rain, mountain snow, and some windy periods.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are more comfortable with the dry stretch Thursday and Friday and the weak weekend system, but they are uncertain about the exact track of the weekend system because the computer model ensembles disagree. Details of next week's storms are also unsettled, and forecasters say those will come into better focus in the days ahead.",
+  "hazards": [
+    "Gale warning for Washington coastal waters until Wednesday morning.",
+    "Small craft advisories for Washington coastal waters and the Strait of Juan de Fuca, lasting into Wednesday evening.",
+    "No watches, warnings, or advisories for land areas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere. It usually brings dry, settled weather to the surface below."
+    },
+    {
+      "term": "Upper trough",
+      "definition": "An elongated area of low pressure high in the atmosphere. It often helps create clouds, rain, and unsettled weather at the surface."
+    },
+    {
+      "term": "Jet core",
+      "definition": "The fastest-moving part of the jet stream, a band of strong winds high in the atmosphere that steers storms. Storms tend to form and strengthen along it."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of computer forecast runs, each started with slightly different starting conditions. When they disagree, it signals uncertainty about the outcome."
+    },
+    {
+      "term": "QPF",
+      "definition": "Quantitative precipitation forecast, the forecast amount of liquid precipitation expected over a given period."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation is expected to fall as snow. Anything above it falls as snow, and anything below it falls as rain."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The weekend system is expected to weaken before reaching land, with minimal impacts.",
+      "about": "the weekend",
+      "stance": "expected",
+      "quote": "they generally agree that it will come ashore in a weakened state with minimal impacts",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Computer model ensembles disagree on exactly where the weekend system will track.",
+      "about": "the weekend",
+      "stance": "uncertain",
+      "quote": "Ensembles remain at odds with regard to its specific track.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "A shift toward a more active, stormier pattern is expected to start taking shape, though the details are still unclear.",
+      "about": "early and middle portion of next week",
+      "stance": "expected",
+      "quote": "A trend toward a more active pattern is beginning to take shape toward the early and middle portion of next week.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

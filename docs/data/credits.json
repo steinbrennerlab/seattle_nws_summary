@@ -1,4 +1,63 @@
 {
-  "judged_through": "2026-11-08",
-  "credits": []
+  "judged_through": "2026-11-15",
+  "credits": [
+    {
+      "category": "early",
+      "signer": "27",
+      "discussion": "AFDSEW_202611121033",
+      "issued": "2026-11-12T10:33:00+00:00",
+      "quote": "some solutions now suggesting that a system around the middle of next week will cut off and head south of the area",
+      "claim": "A storm around the middle of next week may cut off and move south of the region, though this is not certain.",
+      "why": "On Nov 12 forecasters raised the chance that the midweek storm would cut off and pass south, and later discussions confirmed it drifted south off Oregon, bringing only light rain to the southern part of the region.",
+      "id": "early:AFDSEW_202611121033:21fbdae1",
+      "week": "2026-11-09",
+      "awarded": "2026-11-18"
+    },
+    {
+      "category": "early",
+      "signer": "33",
+      "discussion": "AFDSEW_202611122243",
+      "issued": "2026-11-12T22:43:00+00:00",
+      "quote": "A Rex Block pattern sets up over the West late in the week with drier conditions forecast for western WA.",
+      "claim": "A blocking pattern over the West is expected to bring drier weather to western Washington late next week.",
+      "why": "The Nov 12 call for a blocking ridge and drier weather late next week was borne out, as the Nov 17-18 discussions described a ridge moving overhead with dry, foggy Thursday and Friday.",
+      "id": "early:AFDSEW_202611122243:e01eccb3",
+      "week": "2026-11-09",
+      "awarded": "2026-11-18"
+    },
+    {
+      "category": "uncertainty",
+      "signer": "Felton",
+      "discussion": "AFDSEW_202611151125",
+      "issued": "2026-11-15T11:25:00+00:00",
+      "quote": "No real clear winner in the ensembles so for now will go with a broadbrush chance of rain.",
+      "claim": "Forecasters are unsure how the Saturday system will develop, so rain is only a general chance for now.",
+      "why": "Forecasters saw no clear favorite for the Saturday system, and later discussions first called it a weak weekend system with little impact, then said they were unsure where the next low would settle, while the wetter, windier weather was pushed to Tuesday.",
+      "id": "uncertainty:AFDSEW_202611151125:11ac6487",
+      "week": "2026-11-09",
+      "awarded": "2026-11-18"
+    },
+    {
+      "category": "clear",
+      "signer": "27",
+      "discussion": "AFDSEW_202611110950",
+      "issued": "2026-11-11T09:50:00+00:00",
+      "quote": "Fortunately, this system looks like it will be vertically stacked upon arrival...thereby losing a lot of its punch before coming ashore.",
+      "why": "It explains why one Pacific storm should hit weaker than its size suggests, which is the reasoning behind the Friday forecast.",
+      "id": "clear:AFDSEW_202611110950:96460a12",
+      "week": "2026-11-09",
+      "awarded": "2026-11-18"
+    },
+    {
+      "category": "clear",
+      "signer": "Felton",
+      "discussion": "AFDSEW_202611151125",
+      "issued": "2026-11-15T11:25:00+00:00",
+      "quote": "Short lived upper level blocking pattern setting up Wednesday night through Friday with an upper level ridge to the north and an upper level low to the south keeping Western Washington dry.",
+      "why": "It names the large-scale setup, high pressure to the north and a low to the south, and says directly why the area stays dry.",
+      "id": "clear:AFDSEW_202611151125:10d52b30",
+      "week": "2026-11-09",
+      "awarded": "2026-11-18"
+    }
+  ]
 }

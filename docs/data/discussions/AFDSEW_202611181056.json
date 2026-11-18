@@ -1,0 +1,87 @@
+{
+  "id": "AFDSEW_202611181056",
+  "issued": "2026-11-18T10:56:00+00:00",
+  "headline": "Dry, foggy Thursday and Friday; a wetter, windier front arrives Tuesday.",
+  "summary": "A high-altitude low-pressure swirl offshore is weakening and drifting south along the Oregon coast. A weak front brushes the south part of the region today and tonight, then fades. A ridge of high pressure aloft then slides over western Washington Thursday night into Friday, clearing the skies. Another upper-level low forms off Oregon over the weekend and breaks down Monday, and a more organized front reaches the area Tuesday.\n\nFor most people, Thursday and Friday mean a mostly dry, gray stretch with highs near 50 and foggy mornings, especially inland and in river valleys. Friday should turn sunny. The weekend could bring showers, but forecasters say moisture may only graze western Washington, depending on exactly where the low settles. Tuesday brings the first clearly wetter, windier weather, with snow levels rising in the mountains.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Clouds thicken and light rain spreads north, reaching about Everett by late afternoon, with breezy east winds in the foothills.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "The front weakens and mostly dies out, leaving a slight chance of light rain from Everett southward.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday through Friday",
+      "what": "Mostly dry with highs near 50, morning fog, and sunshine by Friday, with freezing fog possible in the southwest interior.",
+      "source": "short_term"
+    },
+    {
+      "when": "Over the weekend",
+      "what": "A new low off Oregon may send showers into western Washington, but the outcome depends on where it stalls.",
+      "source": "long_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "An organized front brings likely rain, and snow levels rise to around 3,000 to 4,000 feet.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Confidence is high for Thursday and Friday, since the pattern is well established and the models agree. Confidence is lower for the weekend because the models disagree on where the low will park, which largely decides how much rain reaches western Washington. Forecasters are more confident about the Tuesday front, since the models agree well on it.",
+  "hazards": [
+    "Gale warning for outer coastal waters this morning, with strong winds and high seas.",
+    "Small craft advisories for coastal waters, the Strait of Juan de Fuca, and the Grays Harbor bar, mostly through Thursday morning.",
+    "Expected but not yet issued: small craft-level winds on coastal waters this weekend, and possible gales Monday and Tuesday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A low-pressure swirl high in the atmosphere that steers weather systems. It can sit offshore for days and drift slowly."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere, which usually brings dry, clear weather at the surface."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow. It changes with the temperature and moisture of the air."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of tiny droplets that stay liquid below freezing and then turn to ice on contact, coating roads, trees, and cars."
+    },
+    {
+      "term": "Ensemble models",
+      "definition": "Many forecast model runs with slightly different starting conditions. When they disagree, forecasters are less certain."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The position of the weekend low will largely decide whether western Washington gets much rain.",
+      "about": "the weekend",
+      "stance": "uncertain",
+      "quote": "The placement of where the low stalls will be crucial to the weekend forecast.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Rain becomes likely Tuesday as an organized front arrives.",
+      "about": "Tuesday",
+      "stance": "expected",
+      "quote": "Models also in good agreement that the low dissipates Monday and an organized, but negatively tilted front, arrives Tuesday.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Easterly winds through the passes Tuesday could trap cold air near the ground, even when snow levels are above the pass elevation.",
+      "about": "Tuesday",
+      "stance": "possible",
+      "quote": "The orientation of the front Tuesday will produce easterly winds in the passes which could trap some cool air near the surface in the passes even though the snow level might be above the pass level.",
+      "source": "long_term",
+      "signer": "Felton"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "date": "2026-11-17",
-  "headline": "Mostly dry Thursday and Friday, then a wetter, windier pattern likely next week.",
-  "summary": "Western Washington sits between weather systems. A storm offshore is weakening as it moves south, and a ridge of high pressure, a zone of dry, settled air, moves over the area Friday. Farther out, the jet stream is expected to dip into a deep trough over the Pacific early next week, steering stronger storms our way. Wednesday brings only light rain, little or none north of Everett. Thursday and Friday look mostly dry, with temperatures near or slightly below normal. The weekend brings a weakening system with light rain and mountain snow. Next week looks wetter and windier, with more widespread rain, mountain snow, and rising rivers, though details are unsettled. Forecasters are fairly confident through Friday, less so for the weekend and next week.",
-  "changes": "The weekend system is now expected to weaken before reaching land, and the outlook added a wetter, windier pattern for next week that the earlier discussions did not mention. Wednesday also shifted toward lighter rain, with little or none expected north of Everett.",
-  "signature": "643f810568c7aa1c",
+  "headline": "Dry Thursday and Friday, then wetter, windier weather likely early next week.",
+  "summary": "Western Washington sits between weather systems. A storm offshore moves south Wednesday, bringing only light rain, mostly south of Everett. Later in the week, a ridge of high pressure, a dome of settled, dry air, moves overhead. Farther out, the jet stream, a fast band of high-altitude wind, dips deeply over the Pacific and steers stronger storms toward us early next week. Thursday and Friday look quiet and dry, with temperatures near or slightly below normal. A weak weekend system brings light rain and mountain-pass snow, with little impact. Early next week looks wetter and windier, with more widespread rain, mountain snow, and rivers rising, though no flooding is forecast. Details remain unsettled.",
+  "changes": "Early discussions focused on cold, foggy mornings and an uncertain weekend rain chance. By afternoon, forecasters added a wetter, windier pattern for early next week, and by evening they described the weekend system as weak with little impact.",
+  "signature": "0bd4136624ba8a6e",
   "discussions": [
     "AFDSEW_202611171116",
     "AFDSEW_202611171622",
-    "AFDSEW_202611172135"
+    "AFDSEW_202611172135",
+    "AFDSEW_202611180418"
   ]
 }
