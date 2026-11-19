@@ -1,12 +1,13 @@
 {
   "date": "2026-11-18",
-  "headline": "Dry, gray Thursday and Friday; wetter, windier weather possible by Sunday and Tuesday.",
-  "summary": "A ridge of high pressure aloft keeps western Washington dry through Friday. Thursday and Friday look dry but gray, with morning fog and highs in the upper 40s to low 50s. The pattern shifts for the weekend as a cutoff low, meaning a low pressure system split off from the main flow, forms offshore late Saturday and sends moisture inland. Sunday brings light rain to the lowlands, snow in the mountains, and breezy east winds. A stronger system on Tuesday could bring wider wind and mountain snow, and higher tides next week raise the chance of coastal flooding. Forecasters are fairly confident about Thursday and Friday but less sure of the weekend details.",
-  "changes": "Earlier discussions expected the weekend low to park offshore, with showers possibly only grazing western Washington. This afternoon's discussion instead has a cutoff low forming late Saturday and bringing rain Sunday, and it adds a chance of coastal flooding next week.",
-  "signature": "ed0bf059df0ce143",
+  "headline": "Dry, foggy Thursday and Friday; a wetter, breezier stretch starts this weekend.",
+  "summary": "A weakening upper-level low to the south is drifting inland, ending the showers. A ridge of high pressure then brings dry, gray weather Thursday and Friday, with morning fog, highs in the upper 40s to low 50s, and possible freezing fog inland. The pattern turns this weekend as a cutoff low, a low cut off from the main flow, forms offshore. Expect lowland rain, a light dusting of snow in the mountains, and breezy east winds. Tuesday's stronger system could bring widespread wind, mountain snow, and high tides that raise coastal flooding concerns. Forecasters are confident about the dry days but less settled on the weekend and Tuesday.",
+  "changes": "Early discussions had the weekend low stalling off Oregon with uncertain rain reach. By afternoon, forecasters expected a cutoff low to form offshore late Saturday and push moisture in, and possible coastal flooding from high tides was first raised.",
+  "signature": "08684289e4abb700",
   "discussions": [
     "AFDSEW_202611181056",
     "AFDSEW_202611181649",
-    "AFDSEW_202611182200"
+    "AFDSEW_202611182200",
+    "AFDSEW_202611190438"
   ]
 }

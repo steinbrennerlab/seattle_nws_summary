@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-11",
-  "end": "2026-11-17",
-  "headline": "A stormy weekend gave way to a forecast of dry midweek weather, with next weekend uncertain.",
-  "summary": "Early in the week, forecasters saw a stalled front offshore finally moving in, the first of a series of Pacific storms. The expected pattern held: showers and wind Friday, then a stronger storm Saturday night into Sunday. Over a couple of days the details shifted. Forecasters were less sure about the weekend storm's strength, and the talk of storm-force coastal winds gave way to wind advisories for the coast and San Juans. The risk of the Skokomish River flooding stayed in focus. Behind the storm, they expected a stalled high-pressure pattern to bring a drier stretch later in the week.\n\nThe biggest change was for midweek. Early on, the storm track was expected to stay south of the region, but on Saturday a deep low looked like it might come near the coast Wednesday. By Sunday, forecasters were confident that low would drop toward California and mostly miss Washington. By Monday and Tuesday, the forecast was for fog, a few showers mainly to the south, and breezy east winds in the Cascade gaps, then a strong ridge of high pressure bringing dry, chilly weather Thursday and Friday. Forecasters are fairly confident in that dry spell. The weekend and Monday are less certain. The models disagree on whether a stalled system moves inland or stays offshore, so rain and mountain snow are possible but not settled.",
+  "start": "2026-11-13",
+  "end": "2026-11-19",
+  "headline": "A stormy weekend gave way to a dry spell; a wetter, windier pattern looks likely next week.",
+  "summary": "On Friday the 13th, forecasters expected a wet, windy weekend as a strong Pacific front arrived, followed by a drier midweek once a stalled area of high pressure took hold over the West. The weekend storm held steady in the forecasts, with gusty winds on the coast and San Juans and flood concerns on the Skokomish River. The midweek outlook was less settled. By Saturday they saw a deep low possibly nearing the coast Wednesday, but by Sunday it was clearly headed south toward California, and most of its rain missed Washington.\n\nFrom Monday on, the story was a quiet stretch around Thursday and Friday, with fog, cool mornings, and highs in the 40s to low 50s, a call that stayed steady. What kept shifting was the weather after it. Forecasters first hinted at wetter weather next weekend, then described a weak weekend system with little impact. By Tuesday and Wednesday they saw a stronger storm early next week, and the latest discussion expects a warm front Monday and a cold front Tuesday. These would bring strong coastal winds, breezy conditions inland, and possible coastal flooding if high tides line up with the wind. Another system around Thanksgiving is possible, but its track is uncertain.",
   "turning_points": [
     {
-      "date": "Thu Nov 12",
-      "what": "The weekend storm's timing firmed up as Saturday into Sunday, a late-week dry spell from a blocking high appeared, and confidence in the storm's strength dipped."
-    },
-    {
       "date": "Sat Nov 14",
-      "what": "Forecasters shifted from a midweek storm track well to the south to a deep low possibly nearing the coast Wednesday, with less certainty."
+      "what": "Forecasters swapped the dry midweek outlook for a deep low near the coast Wednesday, with uncertainty about how close it would get."
     },
     {
       "date": "Sun Nov 15",
-      "what": "The midweek low was seen as dropping toward California and mostly missing Washington, and the wetter weather moved to next weekend."
+      "what": "The midweek low was expected to slide south into California and miss Washington, and the wetter weather shifted to next weekend."
     },
     {
       "date": "Tue Nov 17",
-      "what": "A strong ridge of high pressure was expected to bring dry, cold weather Thursday and Friday, while the weekend forecast stayed uncertain because the models disagreed."
+      "what": "A wetter, windier pattern was added for early next week, while the weekend system was downgraded to a weak one with little impact."
+    },
+    {
+      "date": "Wed Nov 18",
+      "what": "Forecasters first raised possible coastal flooding from high tides and saw a low forming offshore this weekend, ahead of a stronger system Tuesday."
     }
   ],
-  "signature": "395bf543c2569f06",
-  "written": "2026-11-17"
+  "signature": "9b9cc3e81f7e696a",
+  "written": "2026-11-19"
 }

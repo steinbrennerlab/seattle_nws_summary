@@ -1,0 +1,92 @@
+{
+  "id": "AFDSEW_202611191114",
+  "issued": "2026-11-19T11:14:00+00:00",
+  "headline": "Dry, foggy, cool days ahead before a wetter, windier pattern returns next week.",
+  "summary": "An upper-level low, a cold swirl of air high in the atmosphere, is fading over Oregon today. A ridge of high pressure aloft moves over Western Washington tonight and stays through Friday night, bringing dry northerly air. That ridge breaks down Saturday, and a weak system brings showers Saturday night into Sunday. Next week, a warm front arrives Monday and a cold front follows Tuesday, with a strong low pressure system well offshore. Another system may arrive Wednesday night into Thanksgiving, but its track is uncertain.\n\nExpect a few quiet, dry days first, with cool mornings and patchy fog, especially in the South Sound, where freezing fog is possible early Friday. Highs will be in the 40s to low 50s. Weekend showers should be light, with little new snow in the mountains. The bigger story is Monday and Tuesday: strong winds on the coast, breezy conditions inland with the front Tuesday night, and possible coastal flooding as high tides coincide with the wind.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Mostly cloudy skies and highs near 50, with fog clearing by afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight through Friday",
+      "what": "Dry weather under high pressure, with fog and possible freezing fog early Friday, lingering into the afternoon in the South Sound.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday into Sunday",
+      "what": "A weak system brings light showers, with little or no new snow in the passes.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A warm front, then a cold front, brings strong winds to the coast and breezy conditions inland, plus possible coastal flooding.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday night into Thanksgiving",
+      "what": "Another system could move in, but its strength and track are still uncertain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry ridge through Friday and in the weekend's weak system, since the models agree well on those; they are less sure about exactly when Friday's fog will lift and about the Wednesday system, where models differ by up to 15 millibars on strength and by track.",
+  "hazards": [
+    "Small Craft Advisory for coastal waters expires this morning (marine).",
+    "Gales likely on coastal waters Monday and Tuesday, with a chance of storm-force winds (marine).",
+    "Possible coastal flooding beginning as early as Tuesday, from wind, high tides, and low pressure.",
+    "No watches, warnings, or advisories are in effect for land areas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings calm, dry weather to the ground below."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A area of low pressure high in the atmosphere, often bringing clouds and showers to the ground beneath it."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that are below freezing, which can coat roads and surfaces with ice."
+    },
+    {
+      "term": "Northerly flow",
+      "definition": "Air moving from the north, which tends to be drier and can bring cooler conditions to the Northwest."
+    },
+    {
+      "term": "Gale",
+      "definition": "A wind of about 34 to 47 knots (roughly 39 to 54 mph) over water, which is strong enough to be dangerous for boats."
+    },
+    {
+      "term": "Millibar (mb)",
+      "definition": "A unit of air pressure. Lower numbers mean a stronger low pressure system."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Fog may linger into the early afternoon Friday, especially in the South Sound, and the timing is hard to pin down.",
+      "about": "Friday",
+      "stance": "uncertain",
+      "quote": "Light flow is the lower levels making for a tough call on when the fog will dissipate.",
+      "source": "short_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Coastal flooding is likely as wind, high tides, and low pressure combine starting Tuesday.",
+      "about": "Tuesday",
+      "stance": "expected",
+      "quote": "The combination of wind, high tides and low pressure will cause some coastal flooding problems beginning as early as Tuesday.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "The Wednesday system could be stronger or track differently than most models show, so forecasters are watching it closely.",
+      "about": "Wednesday night into Thanksgiving",
+      "stance": "uncertain",
+      "quote": "Will have to keep an eye on this one with some of the solutions indicating a much further east track than the low Tuesday night.",
+      "source": "long_term",
+      "signer": "Felton"
+    }
+  ]
+}
