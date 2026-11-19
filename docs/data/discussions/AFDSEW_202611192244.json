@@ -1,0 +1,81 @@
+{
+  "id": "AFDSEW_202611192244",
+  "issued": "2026-11-19T22:44:00+00:00",
+  "headline": "Dry, foggy, and mostly quiet through Friday; a wet, windy stormy pattern builds next week.",
+  "summary": "A ridge of high pressure aloft, which acts like a dome of high pressure over the region, builds in tonight and weakens over the weekend. An upper-level low offshore then sets up a blocking pattern, keeping a storm meandering off the coast. Starting Monday, a broad trough aloft takes over the northeast Pacific, and a series of frontal systems follows into the middle of next week.\n\nExpect foggy mornings through Friday, with freezing fog possible in colder inland spots. Friday afternoon should be dry and mostly clear, with highs in the 40s. Light rain and mountain snow return Saturday evening. Next week looks wetter and breezier, with strong winds on the coast and possible minor coastal flooding around high tide.",
+  "timeline": [
+    {
+      "when": "Tonight through Friday",
+      "what": "Fog develops overnight, especially in valleys and near Puget Sound, then mostly clears to dry afternoons.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday night into Saturday morning",
+      "what": "Another round of fog is likely, with lows in the upper 20s to upper 30s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday evening",
+      "what": "Light rain returns to lowlands and snow showers to the mountains, with no significant impacts expected.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "A well-organized frontal system brings widespread rain, breezy winds, and strong gusts on the coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of next week",
+      "what": "An active pattern continues, with more disturbances bringing rain and wind.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about the fog and the dry Friday, since a strong ridge sits overhead. They are less certain about next week's systems, which models are still picking up on, and they say the coastal flooding is only a potential.",
+  "hazards": [
+    "Marine: likely headlines for gales and possibly storm-force gusts on the coastal waters Monday through Tuesday, with seas building toward 20 feet offshore."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of higher pressure high in the atmosphere, usually bringing dry, settled weather at the surface."
+    },
+    {
+      "term": "Rex block",
+      "definition": "A pattern where an upper low sits to the west of a high-pressure area, blocking the usual west-to-east flow and keeping storms parked nearby."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that are supercooled, so they freeze on contact with cold surfaces such as roads and tree branches."
+    },
+    {
+      "term": "High astronomical tide",
+      "definition": "A high tide made higher than usual by the alignment of the sun and moon, which raises the risk of minor coastal flooding when storms add to it."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A well-organized frontal system is likely to deepen offshore Monday night into Tuesday.",
+      "about": "Monday night into Tuesday",
+      "stance": "possible",
+      "quote": "Models are picking up on the potential for a well-organized frontal system deepening offshore Monday night into Tuesday.",
+      "source": "long_term",
+      "signer": "41"
+    },
+    {
+      "claim": "Minor coastal flooding could occur when a storm coincides with high tide.",
+      "about": "next week",
+      "stance": "possible",
+      "quote": "the potential for minor coastal flooding as surface low pressure interacts with high astronomical tide",
+      "source": "long_term",
+      "signer": "41"
+    },
+    {
+      "claim": "Confidence is growing that the coastal waters will see gales and possibly storm-force winds.",
+      "about": "Monday through Tuesday",
+      "stance": "expected",
+      "quote": "Confidence continues to increase with the each model run for gales and possible storm force winds over the coastal waters.",
+      "source": "marine",
+      "signer": "41"
+    }
+  ]
+}

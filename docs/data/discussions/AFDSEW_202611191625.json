@@ -1,0 +1,91 @@
+{
+  "id": "AFDSEW_202611191625",
+  "issued": "2026-11-19T16:25:00+00:00",
+  "headline": "Dry, foggy, cool days ahead, then wind and rain return early next week.",
+  "summary": "An upper-level low over Oregon is fading, and a ridge of high pressure aloft moves in from offshore. That keeps western Washington mostly dry and cool through Friday. The ridge then breaks down Saturday, letting a weak system bring showers Saturday night into Sunday. Early next week, a warm front and a cold front from the Pacific bring wind, and a stronger low forms offshore. Another system arrives late Wednesday, but its track is still uncertain.\n\nToday will be mostly cloudy, with morning fog clearing and highs in the upper 40s to near 50. Nights will be cold, with patchy fog and some freezing fog in the South Sound. Weekend showers should be light, with little new snow in the Cascades. Monday and Tuesday look windy, especially on the coast and breezy inland. High tides and low pressure could also bring coastal flooding starting as early as Tuesday.",
+  "timeline": [
+    {
+      "when": "Today (Thursday)",
+      "what": "Mostly cloudy and dry, with morning fog clearing and highs in the upper 40s to near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight into Friday",
+      "what": "Clear and dry, with patchy fog overnight and freezing fog possible in the South Sound.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday into Sunday",
+      "what": "A weak system brings light showers, with snow levels dropping but little new snow in the Cascades.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A warm front and then a cold front bring wind, strongest on the coast, and possible coastal flooding.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday night into Thanksgiving day",
+      "what": "Another system arrives, but how strong it gets and where it tracks is still unclear.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry weather through Friday and the weak weekend system, but they are unsure how strong and where the Wednesday night low will track, since models differ by up to 15 millibars on its strength.",
+  "hazards": [
+    "Small Craft Advisory for coastal waters, expiring later this morning",
+    "Gales expected on coastal waters Monday and Tuesday, with winds peaking Tuesday (forecast, not yet a warning)",
+    "Possible coastal flooding beginning as early as Tuesday (no advisory issued yet)"
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A area of low pressure high in the atmosphere that causes cloudy, unsettled weather near the ground."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An area of high pressure high in the atmosphere that tends to bring dry, stable weather."
+    },
+    {
+      "term": "Pinched off",
+      "definition": "When a ridge is cut off from the larger high-pressure area it was connected to, leaving a separate high-pressure area behind."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that are below freezing, which can coat surfaces with a thin layer of ice."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Gale",
+      "definition": "A strong wind, generally sustained at 34 to 47 knots (roughly 39 to 54 mph), that is dangerous for boats."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Saturday system will be weak, so forecasters expect only showers, not a stronger storm.",
+      "about": "Saturday",
+      "stance": "expected",
+      "quote": "System will be weak enough to call the precipitation type showers.",
+      "source": "short_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Coastal flooding is expected to start as early as Tuesday, driven by wind, high tides, and low pressure.",
+      "about": "Tuesday",
+      "stance": "expected",
+      "quote": "The combination of wind, high tides and low pressure will cause some coastal flooding problems beginning as early as Tuesday.",
+      "source": "long_term",
+      "signer": "Felton"
+    },
+    {
+      "claim": "Models disagree on the track and strength of the Wednesday night system, so its impact is uncertain.",
+      "about": "Wednesday night into Thanksgiving day",
+      "stance": "uncertain",
+      "quote": "Will have to keep an eye on this one with some of the solutions indicating a much further east track than the low Tuesday night.",
+      "source": "long_term",
+      "signer": "Felton"
+    }
+  ]
+}

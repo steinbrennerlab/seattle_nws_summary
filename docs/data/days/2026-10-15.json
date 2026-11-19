@@ -1,12 +1,10 @@
 {
   "date": "2026-10-15",
-  "headline": "Warm, dry Friday, then light rain Saturday and cooler, mostly dry weather.",
-  "summary": "High pressure keeps western Washington dry and warm through Friday, with inland highs in the mid to upper 70s. Fog should stay limited Friday morning, with a few patches possible in the south Sound. Breezy east winds tonight will gust to 25 to 30 mph in the Cascades and foothills. Saturday, a weak front brings light rain, a few hundredths of an inch for most lowlands and about a quarter inch in the mountains, with central Puget Sound possibly getting less. Sunday is cool and mostly dry. A low-pressure system is likely to pass south of the area Monday, keeping it dry and cool, though not all computer models agree. Another weak front may bring isolated showers Wednesday into Thursday.",
-  "changes": "The morning discussion expected heavier Saturday rain, with the coast and north most likely to get it, plus possible afternoon showers and a convergence zone over Snohomish County. Later discussions dropped those details, describing only light rain and leaning toward a dry Monday.",
-  "signature": "26a0306d10a30c7d",
+  "headline": "Warm, dry Friday, then a weak, light rain system Saturday and cooler weather.",
+  "summary": "High pressure is keeping western Washington dry and warm through Friday, with highs in the mid to upper 70s. Breezy easterly winds tonight in the mountains and foothills ease by Friday morning, and fog should be limited. Winds turn back off the ocean Friday afternoon, and a weak front brings light rain Saturday. The lowlands should get very little, the Cascades somewhat more, and central Puget Sound possibly even less. Sunday looks cool and mostly dry. A low-pressure system may bring rain early next week, but most computer models keep it south of the area, so the detailed forecast favors dry, cool weather Monday. Another weak front may bring isolated showers Wednesday into Thursday.",
+  "changes": "",
+  "signature": "074cd0f4188b9077",
   "discussions": [
-    "AFDSEW_202610151547",
-    "AFDSEW_202610152130",
     "AFDSEW_202610160251"
   ]
 }

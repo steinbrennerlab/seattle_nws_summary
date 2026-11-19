@@ -1,10 +1,12 @@
 {
   "date": "2026-11-19",
-  "headline": "Dry, foggy, cool days ahead, then a wetter, windier pattern returns next week.",
-  "summary": "A ridge of high pressure, a zone of sinking, dry air, settles over Western Washington tonight and holds through Friday. Expect cool mornings, patchy fog, possibly freezing in the South Sound early Friday, and highs in the 40s to low 50s. The ridge breaks down Saturday, bringing light showers Saturday night into Sunday and little new snow in the mountains. Next week turns windier: a warm front arrives Monday and a cold front Tuesday, with a strong low pressure system well offshore. Expect strong coastal winds, breezy conditions inland, and possible coastal flooding as high tides coincide with the wind. Another system may arrive Wednesday night into Thanksgiving, but its track is uncertain.",
-  "changes": "",
-  "signature": "5aceab55b50b3a9a",
+  "headline": "Dry, foggy, and mostly quiet through Friday; a wetter, windier stormy pattern builds next week.",
+  "summary": "A ridge of high pressure aloft, a dome of high pressure over the region, builds in tonight and weakens over the weekend. An upper-level low offshore sets up a blocking pattern that holds a storm meandering off the coast. Starting Monday, a broad dip in the upper atmosphere takes over the northeast Pacific, and a series of frontal systems follows into midweek. Expect foggy mornings through Friday, with freezing fog possible in colder inland spots, and a dry, mostly clear Friday afternoon with highs in the 40s. Light rain and mountain snow return Saturday evening. Next week looks wetter and breezier, with strong coastal winds and possible minor coastal flooding around high tide. Forecasters are confident about the fog and dry Friday, but less certain about next week's systems.",
+  "changes": "The afternoon discussion dropped the earlier focus on a single Wednesday-night low and instead describes a blocking pattern with a series of systems through midweek. It also presents coastal flooding only as a potential, not a likely outcome.",
+  "signature": "801d4f13091b98ef",
   "discussions": [
-    "AFDSEW_202611191114"
+    "AFDSEW_202611191114",
+    "AFDSEW_202611191625",
+    "AFDSEW_202611192244"
   ]
 }
