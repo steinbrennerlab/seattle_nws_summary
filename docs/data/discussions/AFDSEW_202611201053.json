@@ -1,0 +1,83 @@
+{
+  "id": "AFDSEW_202611201053",
+  "issued": "2026-11-20T10:53:00+00:00",
+  "headline": "Foggy, dry Friday; light rain Saturday; a wetter, windier pattern arrives next week.",
+  "summary": "Today a ridge of high pressure aloft sits over western Washington, keeping things dry while a low to the south moves away. That ridge is pushed inland by Saturday as an upper-level low drops south from the northeast Pacific and parks offshore through Sunday. Next week, a broad low drops in from the Aleutians and deepens offshore Monday night into Tuesday, bringing a more active, stormier stretch.\n\nToday means cold, foggy mornings, with fog expected to spread north across Puget Sound before lifting by afternoon. Highs are in the 40s inland and low 50s on the coast. Saturday and Sunday bring light rain to the lowlands and light snow in the mountains, with little total rain and snow levels near 2,000 feet. Next week brings repeated rounds of widespread rain, mountain snow, and gusty winds, plus a growing risk of coastal flooding, most of all on the Pacific coast.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Dry and cool, with fog in the morning that should clear by afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Fog returns early, then light rain reaches the coast by late morning and spreads inland by evening.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain continues in the lowlands and light snow in the mountains, with little total precipitation.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A deepening low brings the first strong system, with gales possible on the coastal waters.",
+      "source": "long_term"
+    },
+    {
+      "when": "Midweek into late week",
+      "what": "Multiple rounds of widespread rain, mountain snow, and gusty winds, with coastal flooding risk rising.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the dry, foggy start today and the wetter pattern next week, but they say inner coastal wind gusts and the exact timing of the systems are less certain.",
+  "hazards": [
+    "Small Craft Advisory for coastal and Strait of Juan de Fuca waters, from tonight through Saturday afternoon.",
+    "Gale Watch for outer coastal waters Saturday morning through Saturday afternoon.",
+    "Minor coastal flooding possible along the Pacific Coast and Strait of Juan de Fuca around the weekend and again next week, tied to high tides and waves."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings dry, settled weather at the surface."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A area of low pressure high in the atmosphere that often drives storms and unsettled weather below it."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that are below freezing, which can coat surfaces with a thin layer of ice."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "The highest tides, caused by the alignment of the sun and moon, which raise the risk of coastal flooding when paired with storms."
+    },
+    {
+      "term": "Gale",
+      "definition": "Sustained wind of about 34 to 47 knots, strong enough to cause hazards on open water."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A stronger low is expected to deepen offshore and bring a more active pattern to western Washington Monday night into Tuesday.",
+      "about": "Monday night into Tuesday",
+      "stance": "expected",
+      "quote": "This low will then deepen offshore Monday night into Tuesday and will bring a more active pattern to western Washington",
+      "source": "long_term",
+      "signer": "14"
+    },
+    {
+      "claim": "Gale-force gusts on the inner coastal waters are uncertain, with at most an occasional gust likely.",
+      "about": "Saturday",
+      "stance": "uncertain",
+      "quote": "As for the inner coastal waters, confidence is much lower for gale force gusts, but may see an occasional gale gust.",
+      "source": "marine",
+      "signer": "29"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "AFDSEW_202611200419",
+  "issued": "2026-11-20T04:19:00+00:00",
+  "headline": "Foggy, dry, slightly cool days ahead; wetter, windier pattern returns early next week.",
+  "summary": "An upper-level ridge, a dome of high pressure high in the atmosphere, is building over western Washington tonight and will fade over the weekend. Light winds and clear skies let fog form in the lowlands and river valleys through Friday. Late in the weekend, a low-pressure system is expected to linger offshore, and then a busy stretch of Pacific storm systems is expected to take over early next week.\n\nFor most people, Friday and Friday night look dry and foggy, with highs in the 40s and overnight lows in the 20s and 30s, which could bring freezing fog to colder spots. Saturday evening brings light rain to the lowlands and snow showers in the mountains, with snow levels around 2,000 feet, but amounts should not be impactful. Monday into Tuesday, a stronger system could bring widespread rain, breezy winds, and minor coastal flooding during high tide. The wet, breezy pattern is expected to continue into the middle of next week.",
+  "timeline": [
+    {
+      "when": "Tonight through Friday",
+      "what": "Fog forms overnight and lingers into Friday morning, then mostly clear and dry skies follow.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday evening",
+      "what": "Light rain reaches the lowlands and snow showers reach the mountains, with little impact expected.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "A chance of showers continues as the upper-level low gets absorbed into the broader flow.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "A stronger frontal system could bring widespread rain, breezy winds, and minor coastal flooding.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of next week",
+      "what": "The active pattern continues with a series of additional disturbances.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about dry, foggy weather through Friday, but the strength and timing of the early-next-week systems remain uncertain, though their confidence in strong coastal winds grows with each model run.",
+  "hazards": [
+    "Coastal waters headlines, likely for gale-force gusts and possible storm-force winds, expected from the weekend into Tuesday, with the peak on Tuesday",
+    "Possible minor coastal flooding during high tide next week",
+    "Fog that could reduce visibility, mainly in river valleys and inland waters, through Friday night"
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A large area of high pressure high in the atmosphere that usually brings settled, drier weather at the surface."
+    },
+    {
+      "term": "Rex Block",
+      "definition": "A pattern in which a low-pressure system sits beside a high-pressure system, blocking the normal west-to-east movement of weather systems."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of tiny droplets that are below freezing, which can coat roads, trees, and surfaces with ice."
+    },
+    {
+      "term": "Gale",
+      "definition": "A wind category over water, with sustained winds of about 34 to 47 knots (roughly 39 to 54 mph)."
+    },
+    {
+      "term": "Storm-force winds",
+      "definition": "A stronger wind category over water, with sustained winds of about 48 to 63 knots (roughly 55 to 73 mph)."
+    },
+    {
+      "term": "High astronomical tide",
+      "definition": "The highest tide predicted from the moon and sun's positions, which makes coastal flooding more likely when storms coincide with it."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A well-organized frontal system could form offshore and bring a stronger round of weather early next week.",
+      "about": "Monday night into Tuesday",
+      "stance": "possible",
+      "quote": "Models are picking up on the potential for a well-organized frontal system deepening offshore Monday night into Tuesday.",
+      "source": "long_term",
+      "signer": "41"
+    },
+    {
+      "claim": "Confidence is growing that the coastal waters will see gales and possibly storm-force winds next week.",
+      "about": "Monday through Tuesday",
+      "stance": "possible",
+      "quote": "Confidence continues to increase with the each model run for gales and possible storm force winds over the coastal waters.",
+      "source": "marine",
+      "signer": "41"
+    }
+  ]
+}

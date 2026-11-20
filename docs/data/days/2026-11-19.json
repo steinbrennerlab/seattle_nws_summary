@@ -1,12 +1,13 @@
 {
   "date": "2026-11-19",
-  "headline": "Dry, foggy, and mostly quiet through Friday; a wetter, windier stormy pattern builds next week.",
-  "summary": "A ridge of high pressure aloft, a dome of high pressure over the region, builds in tonight and weakens over the weekend. An upper-level low offshore sets up a blocking pattern that holds a storm meandering off the coast. Starting Monday, a broad dip in the upper atmosphere takes over the northeast Pacific, and a series of frontal systems follows into midweek. Expect foggy mornings through Friday, with freezing fog possible in colder inland spots, and a dry, mostly clear Friday afternoon with highs in the 40s. Light rain and mountain snow return Saturday evening. Next week looks wetter and breezier, with strong coastal winds and possible minor coastal flooding around high tide. Forecasters are confident about the fog and dry Friday, but less certain about next week's systems.",
-  "changes": "The afternoon discussion dropped the earlier focus on a single Wednesday-night low and instead describes a blocking pattern with a series of systems through midweek. It also presents coastal flooding only as a potential, not a likely outcome.",
-  "signature": "801d4f13091b98ef",
+  "headline": "Foggy, dry days through Friday, then a wetter, windier pattern returns early next week.",
+  "summary": "A strong ridge of high pressure aloft, a dome of high pressure high in the atmosphere, is building over western Washington tonight. It brings clear skies, light winds, and a stretch of dry weather through Friday. Fog will form in the lowlands and river valleys each morning, and it could be freezing in colder spots. Highs will be in the 40s. The ridge fades over the weekend, and light rain and snow showers arrive Saturday evening, with little impact in the mountains. Early next week, a busy stretch of Pacific storm systems takes over. A stronger system Monday into Tuesday could bring widespread rain, breezy winds, strong winds on the coast, and minor coastal flooding at high tide. The wet, breezy pattern continues into midweek, though timing and strength remain uncertain.",
+  "changes": "Later discussions said confidence in strong coastal winds grew, with gale-force gusts and possible storm-force winds peaking Tuesday. They also added a Saturday evening rain and snow forecast, with snow levels near 2,000 feet, and extended the fog outlook through Friday night.",
+  "signature": "c02ae0e2f354888c",
   "discussions": [
     "AFDSEW_202611191114",
     "AFDSEW_202611191625",
-    "AFDSEW_202611192244"
+    "AFDSEW_202611192244",
+    "AFDSEW_202611200419"
   ]
 }
