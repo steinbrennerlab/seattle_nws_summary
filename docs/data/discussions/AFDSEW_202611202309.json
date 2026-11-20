@@ -1,0 +1,83 @@
+{
+  "id": "AFDSEW_202611202309",
+  "issued": "2026-11-20T23:09:00+00:00",
+  "headline": "Foggy, dry start, then a wet, breezy stretch next week with coastal flood risk.",
+  "summary": "A ridge of high pressure high in the atmosphere is settling over the region tonight, bringing calm, stable air and fog. That pattern breaks down over the weekend as an upper-level low sets up offshore and locks into a Rex Block with high pressure over northern British Columbia. A weak low pressure system will drift along the coast for much of the weekend. Next week, the pattern turns active as a series of Pacific storm systems moves in.\n\nFor most people, the weekend means fog tonight and again early Saturday, then light rain in the lowlands and snow showers in the mountains. Forecasters expect no major impacts from the rain. Highs will be around 50 and lows in the 30s. A stronger system arrives Monday night into Tuesday, bringing widespread rain, breezy winds, and possible minor coastal flooding during high tides. Some area rivers may also rise.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Fog develops across Puget Sound and the southwest interior, with a chance of freezing fog in some spots and lows in the upper 20s to upper 30s.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Morning fog gives way to light lowland rain and mountain snow showers, with a stronger wind near the coast and highs near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Showers continue, with steadier rain along the coast and Olympic Peninsula overnight, and minor coastal flooding possible with high tides.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A well-organized frontal system brings widespread precipitation and strong southeast winds, especially along the coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "A series of disturbances keeps the weather wet and breezy, with possible high surf, coastal flooding, and river rises.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about the foggy start and the weekend's light precipitation, but less sure of the exact timing and strength of the systems arriving next week, which depend on model forecasts that are still developing.",
+  "hazards": [
+    "Small Craft Advisories and a Gale Warning for coastal waters and the Strait of Juan de Fuca from Saturday into Sunday, mainly affecting boaters.",
+    "Possible minor coastal flooding along the Pacific coast and the Strait of Juan de Fuca this weekend and again next week during high tides.",
+    "The Skokomish River is likely to reach flood stage mid to late week, though no widespread river flooding is expected."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere, usually bringing calm, dry, and stable weather at the surface."
+    },
+    {
+      "term": "Rex Block",
+      "definition": "A pattern in which a low pressure system sits offshore while a high pressure system sits to its north, blocking the normal west-to-east flow of weather systems."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that are below freezing, which can coat roads, trees, and other surfaces with ice."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Inversion",
+      "definition": "A layer of air where temperature increases with height, which traps cool, moist air near the ground and helps form fog."
+    },
+    {
+      "term": "High astronomical tide",
+      "definition": "An unusually high tide caused by the alignment of the sun and moon, which makes coastal flooding more likely when storms arrive."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A strong frontal system is likely to form offshore and reach the region Monday night into Tuesday.",
+      "about": "Monday night into Tuesday",
+      "stance": "possible",
+      "quote": "frontal system deepening offshore Monday night into Tuesday",
+      "source": "long_term",
+      "signer": "41"
+    },
+    {
+      "claim": "The pattern is expected to stay active, with a series of disturbances bringing wet and windy weather into the latter half of next week.",
+      "about": "the latter half of next week",
+      "stance": "expected",
+      "quote": "maintaining an active pattern into the latter half of next week",
+      "source": "long_term",
+      "signer": "41"
+    }
+  ]
+}

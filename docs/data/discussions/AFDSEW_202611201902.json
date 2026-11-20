@@ -1,0 +1,90 @@
+{
+  "id": "AFDSEW_202611201902",
+  "issued": "2026-11-20T19:02:00+00:00",
+  "headline": "Dry, foggy today; a wet, breezy, more active pattern builds next week.",
+  "summary": "A ridge of high pressure aloft, called an upper-level ridge, sits over western Washington today, keeping things mostly dry. A low over Oregon and northern California moves away, and another low drops south from the northeast Pacific to sit offshore through Sunday. Next week, a broad upper-level low drops in from the Aleutians, deepens offshore Monday night into Tuesday, and sends a series of disturbances across the region.\n\nFog is the main concern today and again Saturday morning, with some cold spots seeing freezing fog. Saturday into Sunday brings light rain to the lowlands and light snow to the mountains, with small totals and perhaps an inch at Cascade passes. Next week turns more active, with several rounds of widespread lowland rain, mountain snow, and gusty winds. The threat of coastal flooding rises as large waves build along the coast Tuesday into Wednesday.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Dry, cold, and foggy in the morning, with fog lifting and scattering by afternoon and highs in the 40s inland and low 50s on the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Another round of cold, foggy, and possibly freezing-fog mornings, then light rain reaches the coast late morning and moves inland by late afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain continues in the lowlands and light snow in the mountains, with only small amounts and high tides creating minor coastal flooding risk.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "A deepening low offshore brings strong winds and the first of several systems.",
+      "source": "long_term"
+    },
+    {
+      "when": "Midweek into late week",
+      "what": "Multiple rounds of widespread lowland rain, mountain snow, and gusty winds, with large waves and coastal flooding risk.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters sound fairly sure about today's fog and the light weekend rain, while confidence about strong winds next week is rising but not complete, and marine forecasters say gale-force gusts on the inner waters are much less certain.",
+  "hazards": [
+    "Small Craft Advisory for coastal waters and the west Strait of Juan de Fuca, from tonight through Saturday afternoon.",
+    "Gale Watch for outer coastal waters Saturday morning through afternoon, meaning gale-force winds are possible."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A region of high pressure high in the atmosphere that usually brings settled, dry weather at the surface. It acts like a dome that blocks incoming storms."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A low-pressure area high in the atmosphere, often bringing clouds, showers, and unsettled weather. These can move slowly and send disturbances into the region."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of tiny droplets that are below freezing, which can coat roads, trees, and surfaces with a thin layer of ice."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain. A snow level near 2,000 feet means lowlands get rain while higher areas get snow."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "The unusually high tides that occur around the full and new moons, often called king tides. They raise the risk of water flooding low coastal areas when combined with storm waves."
+    },
+    {
+      "term": "Small Craft Advisory",
+      "definition": "A marine warning that winds or seas are hazardous for small boats, though not severe enough for the stronger gale or storm warnings."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The pattern is expected to turn more active next week, with repeated rounds of rain, mountain snow, and gusty winds.",
+      "about": "through the second half of the week",
+      "stance": "expected",
+      "quote": "Expect multiple rounds of widespread lowland rain, mountain snow, and gusty winds through the second half of the week.",
+      "source": "long_term",
+      "signer": "14"
+    },
+    {
+      "claim": "Coastal flooding risk is expected to increase, most notably along the Pacific Coast as large waves build.",
+      "about": "Tuesday into Wednesday",
+      "stance": "possible",
+      "quote": "will increase the threat for coastal flooding - most notably along the Pacific Coast as large waves build along the coast Tuesday into Wednesday.",
+      "source": "long_term",
+      "signer": "14"
+    },
+    {
+      "claim": "Gale-force and possibly storm-force winds are increasingly likely over the outer coastal waters.",
+      "about": "Monday into Tuesday",
+      "stance": "possible",
+      "quote": "Confidence continues to increase for the potential for gales and storm force winds over the coastal waters.",
+      "source": "marine",
+      "signer": "29"
+    }
+  ]
+}

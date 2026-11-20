@@ -1,10 +1,12 @@
 {
   "date": "2026-11-20",
-  "headline": "Foggy, dry Friday, light rain Saturday, then a wetter, windier stretch next week.",
-  "summary": "A ridge of high pressure aloft is keeping western Washington dry Friday, with fog expected to spread across Puget Sound. By Saturday the ridge is pushed inland as a low drops south from the northeast Pacific and parks offshore through Sunday. That brings light rain to the lowlands and light snow in the mountains, with snow levels near 2,000 feet. Next week a larger low moves in from the Aleutians and deepens offshore Monday night into Tuesday, bringing repeated rounds of rain, mountain snow, and gusty winds. Coastal flooding risk grows on the Pacific coast. Forecasters are fairly confident in the dry start and wetter pattern, but less sure about coastal wind gusts and exact timing. Highs are in the 40s inland.",
-  "changes": "",
-  "signature": "6d594b6ad03d55d8",
+  "headline": "Foggy, dry start; light weekend rain; stormier, wetter, windier pattern next week.",
+  "summary": "A ridge of high pressure aloft, a dome of calm, settled air, keeps western Washington mostly dry and foggy today. That ridge gets pushed inland over the weekend as a low pressure system parks offshore. Expect light rain in the lowlands and light snow in the mountains Saturday and Sunday, with little total amount. Next week turns more active. A broad low dropping in from the Aleutian Islands deepens offshore Monday night into Tuesday, bringing repeated rounds of widespread rain, mountain snow, and gusty winds. The risk of coastal flooding is growing, especially along the Pacific coast, where high tides and large waves could cause minor flooding. Forecasters are fairly confident about the foggy start and the light weekend rain, but less sure about the exact timing and strength of next week's systems.",
+  "changes": "The afternoon update added that the Skokomish River is likely to reach flood stage later in the week, though widespread river flooding is not expected. It also said the timing and strength of next week's systems are less certain than before.",
+  "signature": "dfcd1eb8db756360",
   "discussions": [
-    "AFDSEW_202611201053"
+    "AFDSEW_202611201053",
+    "AFDSEW_202611201902",
+    "AFDSEW_202611202309"
   ]
 }

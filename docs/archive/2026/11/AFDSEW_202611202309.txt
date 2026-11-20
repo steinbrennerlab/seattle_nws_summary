@@ -1,0 +1,175 @@
+FXUS66 KSEW 202309
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+309 PM PST Fri Nov 20 2026
+
+.SYNOPSIS...
+An upper-level ridge will position over the region this evening
+before waning over the weekend. Areas of fog will be the main 
+concern until the next disturbance arrives Saturday evening with
+light lowland rain and mountain snow showers. An active pattern
+will lead into next week as a series of frontal systems bring 
+widespread precipitation, breezy winds, and the potential for 
+minor coastal flooding. 
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH SUNDAY NIGHT/...
+An upper-level ridge axis will cross overhead tonight as
+conditions remain "dry" and stable. Quotations were needed for
+the word dry in the previous sentence as dewpoint depressions
+will have little to no spread. REFS model soundings are showing
+a stout inversion developing tonight across much of W WA. This
+feature in concert with surface high surface pressure and weak 
+gradients will lead to develop of fog with freezing fog a 
+possibility for portions of southern Puget Sound, southwest 
+interior, and Kitsap Peninsula to name a few. Overnight lows 
+will range between the upper 20s to upper 30s.
+
+A foggy start to the day on Saturday but the pattern will begin
+to change. An upper-low will position offshore on Saturday, forming
+a Rex Block as it interacts with a high center in northern BC. 
+This set up will allow for a sub 990-995 mb surface low to 
+meander offshore the WA coast throughout much of the weekend. 
+PoPs are favored to increase on Saturday afternoon as light 
+lowland rain showers and mountain snow showers (snow levels 
+around 2,500 to 3,000 ft) return to the forecast. Showers will
+continue into Sunday as well but the bulk of the precipitation
+will remain offshore before transitioning to steadier
+precipitation overnight along the coast and Olympic Peninsula. 
+Precipitation amounts are not expected to be impactful. Seasonal
+temperatures are expected in the short-term with highs in the
+upper 40s to near 50 F and overnight lows in the 30s.
+
+High astronomical tides over the weekend may bring the 
+potential for some minor coastal flooding along the Pacific 
+Coast and the Strait of Juan de Fuca by Sunday.
+
+41
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+The aforementioned upper-low will finally get ingested into the
+mean flow on Monday as a broad upper-trough encompasses much of
+the NE PAC. Models are picking up on the potential for a well- 
+organized frontal system deepening offshore Monday night into 
+Tuesday. This will open up the pattern to a parade of 
+disturbances, maintaining an active pattern into the latter half 
+of next week. Here we could see widespread precipitation, breezy
+winds and possible minor coastal flooding as surface low 
+pressure interacts with high astronomical tide along with the 
+potential for high surf.
+
+41
+
+&&
+
+.AVIATION...
+Gradual improvement to VFR this afternoon has been met for most
+terminals impacted by fog. However, fog is set to redevelop this
+evening as LIFR conditions become widespread for Puget Sound
+(KSEA, KBFI, KPWT, etc.) and southwest interior. FZFG is in the
+cards for terminals such as KOLM and KSHN. It'll remain into 
+Saturday morning before lifting towards the afternoon. Surface 
+winds out of the south and east, generally on the lighter side. 
+
+
+KSEA...VFR cigs have finally returned to the terminal late this
+afternoon. SCT-BKN high level clouds are streaming over however,
+the T/TD spread isn't too far apart as confidence is leading to
+the redevelopment of LIFR low cigs and eventual fog this 
+evening. It'll remain tonight before conditions improve to VFR 
+later on Saturday afternoon. 
+
+&&
+
+.MARINE...
+Benign conditions with relatively light winds and seas around 5-6 ft 
+will continue through this evening. Another round of patchy fog 
+across the Puget Sound and interior Salish Sea will be possible 
+again Saturday morning.
+
+Over the coastal waters, winds will begin to increase overnight as a 
+frontal system begins to approach the Pacific Northwest.
+Winds will increase Saturday morning, peaking around mid-day. East 
+to southeast winds will reach Small Craft Advisory criteria cross 
+most of the coastal waters and the west and central portions of the 
+Strait of Juan de Fuca. Occasional gale gusts are possible across 
+the coastal waters, but confidence is highest in the strongest winds 
+in the outermost waters north of James Island, where the watch was 
+upgraded to a Gale Warning. Winds will stay below headline criteria 
+for most of the inland waters, except over the East Strait of Juan 
+de Fuca starting Saturday evening, where a Small Craft Advisory has 
+been issued through early Sunday morning.
+
+By Sunday, the low center well offshore deepens, which will increase 
+the pressure gradients as it slowly creeps closer to the coast. 
+Winds increase again across the coastal waters on Sunday and remain 
+elevated through Sunday night.
+
+A much stronger low pressure system is on track to arrive Monday 
+into Tuesday with high confidence in strong southeasterly winds 
+across the coastal waters and Strait of Juan de Fuca, with >80% 
+chances for gales through Tuesday evening, as well as a 50-80% 
+chance for storm force gusts across the outer coastal waters from 
+late Monday through much of Tuesday. Winds will begin to ease from 
+their peak Tuesday night into Wednesday but headlines will likely 
+need to remain through the end of the week as low pressure systems 
+continue to move through the area, keeping winds elevated.
+
+Seas will rise early Saturday to around 8-13 ft, primarily from the 
+southerly winds, before the longer period westerly swell arrives 
+Saturday night into early Sunday, pushing seas back up to around 11-
+14 ft. Seas will remain around 8-13 ft through Monday when the 
+strong low will bring seas up to 15-20 ft by Tuesday. Ensemble 
+guidance remains confident (60-80% chc) in seas above 20 ft, at 
+least across the outermost coastal waters.
+Seas will likely remain above 12-15 ft through the end of the week 
+as conditions remain active.
+
+62
+
+&&
+
+.HYDROLOGY...
+Wetter systems moving into the region next week will start to
+bring some rises to area rivers. At this time, no widespread river
+flooding is expected, however the Skokomish River will likely
+cross into flood stage mid to late week.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...None.
+PZ...Small Craft Advisory from 4 AM to 4 PM PST Saturday for 
+     Central U.S. Waters Strait Of Juan De Fuca-West Entrance 
+     U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 1 PM Saturday to 4 AM PST Sunday for 
+     East Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 4 AM Saturday to 4 AM PST Sunday for 
+     Coastal Waters From Cape Flattery To James Island Out 10 
+     Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater Out 10 Nm.
+
+     Gale Warning from 10 PM this evening to 4 PM PST Saturday for 
+     Coastal Waters From Cape Flattery To James Island 10 To 
+     60 Nm.
+
+     Small Craft Advisory from 4 PM Saturday to 4 AM PST Sunday for 
+     Coastal Waters From Cape Flattery To James Island 10 To 
+     60 Nm.
+
+     Small Craft Advisory from 10 PM this evening to 4 AM PST 
+     Sunday for Coastal Waters From James Island To Point 
+     Grenville 10 To 60 Nm-Coastal Waters From Point Grenville 
+     To Cape Shoalwater 10 To 60 Nm.
+
+&&
+
+$$
