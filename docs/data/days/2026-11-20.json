@@ -1,12 +1,13 @@
 {
   "date": "2026-11-20",
-  "headline": "Foggy, dry start; light weekend rain; stormier, wetter, windier pattern next week.",
-  "summary": "A ridge of high pressure aloft, a dome of calm, settled air, keeps western Washington mostly dry and foggy today. That ridge gets pushed inland over the weekend as a low pressure system parks offshore. Expect light rain in the lowlands and light snow in the mountains Saturday and Sunday, with little total amount. Next week turns more active. A broad low dropping in from the Aleutian Islands deepens offshore Monday night into Tuesday, bringing repeated rounds of widespread rain, mountain snow, and gusty winds. The risk of coastal flooding is growing, especially along the Pacific coast, where high tides and large waves could cause minor flooding. Forecasters are fairly confident about the foggy start and the light weekend rain, but less sure about the exact timing and strength of next week's systems.",
-  "changes": "The afternoon update added that the Skokomish River is likely to reach flood stage later in the week, though widespread river flooding is not expected. It also said the timing and strength of next week's systems are less certain than before.",
-  "signature": "dfcd1eb8db756360",
+  "headline": "Foggy, dry Friday night; light rain Saturday; stormy, breezy stretch Monday into Tuesday.",
+  "summary": "A high-pressure ridge aloft keeps western Washington mostly dry tonight, though fog and low clouds form in valleys and lowlands. That ridge weakens over the weekend as a low settles offshore and wanders along the coast. Saturday brings light rain to the lowlands and snow showers to the mountains, with no major impacts expected. Next week turns stormy: a broad trough over the northeast Pacific sends a series of storm systems toward Washington, with a stronger one arriving Monday night into Tuesday. It brings widespread rain, gusty winds, high seas, and possible minor coastal flooding at high tides, and the Skokomish River is likely to reach flood stage later next week. Forecasters are less sure about the timing and strength of those systems.",
+  "changes": "Forecasters softened the overnight fog forecast, since models are backing off and satellite images show breaks in the clouds. Confidence in strong winds and high seas Monday into Tuesday has grown.",
+  "signature": "454c4f1a3a27537a",
   "discussions": [
     "AFDSEW_202611201053",
     "AFDSEW_202611201902",
-    "AFDSEW_202611202309"
+    "AFDSEW_202611202309",
+    "AFDSEW_202611210428"
   ]
 }

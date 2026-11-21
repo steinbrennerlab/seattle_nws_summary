@@ -1,0 +1,73 @@
+{
+  "id": "AFDSEW_202611211033",
+  "issued": "2026-11-21T10:33:00+00:00",
+  "headline": "Fog this morning, light rain tonight, then a wetter, windier stretch next week.",
+  "summary": "A high-pressure ridge is sliding inland, leaving cool, foggy conditions this morning. A low dropping south from the northeast Pacific will sit offshore through Sunday, bringing light rain and mountain snow. Early next week, a stronger low deepens offshore and the pattern turns much more active through the end of the week.\n\nExpect fog and some freezing fog this morning, then light rain that stays light through Sunday, with highs in the 40s and 50s. Monday brings a bit more precipitation, focused on the Olympics. From Tuesday on, repeated rounds of lowland rain, mountain snow, and gusty winds are likely, with high surf and a growing risk of coastal flooding.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Morning fog and some freezing fog give way to rain reaching the coast in the afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "Rain pushes inland, with light rain in the lowlands and light snow in the mountains.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain continues, with gusty southeast winds and possible minor coastal flooding from high tides.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Another round of precipitation focuses on the Olympics, where several inches of snow are possible.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday through the second half of the week",
+      "what": "Multiple rounds of widespread rain, mountain snow, gusty winds, and high surf are expected, raising coastal flooding risk.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters seem fairly sure about the light weekend weather and a more active pattern next week, but the timing and strength of individual systems, and how strong the winds get, remain less certain.",
+  "hazards": [
+    "Small Craft Advisories and a Gale Warning for coastal and Strait of Juan de Fuca waters, running from this morning into Sunday.",
+    "Freezing fog possible this morning.",
+    "Possible minor coastal flooding along the Pacific Coast and Strait of Juan de Fuca from high tides, starting around Sunday.",
+    "Next week's systems could bring gale-force gusts to coastal waters, with a modest chance of storm-force gusts.",
+    "The Skokomish River may reach flood stage late in the week."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A elongated area of high pressure high in the atmosphere. It usually brings drier, calmer weather to the surface below."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "A area of low pressure high in the atmosphere, often bringing clouds, showers, and unsettled weather."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of droplets that are supercooled, so they freeze on contact with surfaces like roads, trees, and cars when temperatures are near or below freezing."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "The highest tides, which occur when the sun and moon line up. They are predictable, but they can cause flooding when combined with storms or waves."
+    },
+    {
+      "term": "Gale",
+      "definition": "Strong wind, generally 34 to 47 knots sustained, or gusts reaching that range. Forecasters use gale warnings for coastal waters where this kind of wind is expected."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Storms next week could bring strong gusts to the coastal waters, with a smaller chance of storm-force gusts.",
+      "about": "Next week",
+      "stance": "possible",
+      "quote": "There remains a 20-40% chance of wind gusts reaching storm force criteria with of the next week systems.",
+      "source": "marine",
+      "signer": "HPR"
+    }
+  ]
+}

@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-13",
-  "end": "2026-11-19",
-  "headline": "A stormy weekend gave way to a dry spell; a wetter, windier pattern looks likely next week.",
-  "summary": "On Friday the 13th, forecasters expected a wet, windy weekend as a strong Pacific front arrived, followed by a drier midweek once a stalled area of high pressure took hold over the West. The weekend storm held steady in the forecasts, with gusty winds on the coast and San Juans and flood concerns on the Skokomish River. The midweek outlook was less settled. By Saturday they saw a deep low possibly nearing the coast Wednesday, but by Sunday it was clearly headed south toward California, and most of its rain missed Washington.\n\nFrom Monday on, the story was a quiet stretch around Thursday and Friday, with fog, cool mornings, and highs in the 40s to low 50s, a call that stayed steady. What kept shifting was the weather after it. Forecasters first hinted at wetter weather next weekend, then described a weak weekend system with little impact. By Tuesday and Wednesday they saw a stronger storm early next week, and the latest discussion expects a warm front Monday and a cold front Tuesday. These would bring strong coastal winds, breezy conditions inland, and possible coastal flooding if high tides line up with the wind. Another system around Thanksgiving is possible, but its track is uncertain.",
+  "start": "2026-11-15",
+  "end": "2026-11-21",
+  "headline": "Forecasters kept a quiet midweek but steadily firmed up a stormy pattern for next week.",
+  "summary": "On Sunday, forecasters saw a big dip in the jet stream (a trough) over the western U.S. A deep low offshore was expected to slide south into California, so most of its energy would miss Washington. That left a drier stretch from Tuesday through Friday, with showers tapering early in the week and only spotty rain south of Seattle on Wednesday. That forecast held. A ridge of high pressure, a dome of settled air, moved in later in the week, and the main change was in the details: foggy mornings, some freezing fog, and highs in the 40s and low 50s. Forecasters were more confident about the dry days than about what came after.\n\nThe bigger shift was the weekend and beyond. Early on they only hinted that more active weather would return \"next weekend.\" By Tuesday they were describing a wetter, windier pattern for early next week as the jet stream dipped deeply over the Pacific and aimed storms our way. Through Thursday and Friday, confidence grew in strong winds and high seas on the coast Monday into Tuesday, with possible minor coastal flooding at high tides, and rising odds the Skokomish River reaches flood stage later in the week. The weekend itself looks quiet, with only light rain and mountain snow. What remains uncertain is the timing and strength of each storm, and how strong the winds get.",
   "turning_points": [
     {
-      "date": "Sat Nov 14",
-      "what": "Forecasters swapped the dry midweek outlook for a deep low near the coast Wednesday, with uncertainty about how close it would get."
-    },
-    {
       "date": "Sun Nov 15",
-      "what": "The midweek low was expected to slide south into California and miss Washington, and the wetter weather shifted to next weekend."
+      "what": "The midweek offshore storm was expected to miss Washington, and the wetter weather was pushed back to next weekend."
     },
     {
       "date": "Tue Nov 17",
-      "what": "A wetter, windier pattern was added for early next week, while the weekend system was downgraded to a weak one with little impact."
+      "what": "Forecasters added a wetter, windier pattern for early next week and described the weekend system as weak."
     },
     {
       "date": "Wed Nov 18",
-      "what": "Forecasters first raised possible coastal flooding from high tides and saw a low forming offshore this weekend, ahead of a stronger system Tuesday."
+      "what": "A cutoff low was expected to form offshore for the weekend, and coastal flooding from high tides was first mentioned."
+    },
+    {
+      "date": "Fri Nov 20",
+      "what": "Confidence grew in strong winds and high seas Monday into Tuesday, and the Skokomish River was likely to reach flood stage later next week."
     }
   ],
-  "signature": "9b9cc3e81f7e696a",
-  "written": "2026-11-19"
+  "signature": "a841169f396cf506",
+  "written": "2026-11-21"
 }

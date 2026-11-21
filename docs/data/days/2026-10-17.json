@@ -1,18 +1,10 @@
 {
   "date": "2026-10-17",
-  "headline": "Dry weather with morning fog and frost lasts through Wednesday; light rain chances return Thursday into late next week.",
-  "summary": "As of Saturday evening, western Washington is expected to stay dry through Wednesday. Clouds clear tonight and winds ease, so Sunday morning should start with fog, especially in the usual fog-prone spots and river valleys. A weather system approaches the coast late Sunday and Monday, but most of its energy heads south toward California and stays well offshore. Clouds spread in, but it stays dry, with highs Sunday and Monday in the mid 50s to low 60s. On Tuesday and Wednesday, high pressure aloft builds over British Columbia while a separate low sits far to the south, off central California. Light winds and clearer skies should bring fog again each morning, plus areas of frost, mainly away from the water. A weak trough (a dip in the jet stream) returns Thursday into late next week and brings chances for precipitation. Forecasters say amounts are not heavy because any front will be weakening as it arrives. Temperatures should stay near normal, with the warmest days around midweek. No watches, warnings, or advisories are in effect.",
-  "changes": "Earlier discussions had a morning convergence zone of showers over King County and a Thursday system splitting apart offshore; those details dropped out by evening. Fog and frost for Tuesday and Wednesday mornings became firmer, and the chance of precipitation Thursday was extended into late next week.",
-  "glossary": {
-    "convergence zone": "A band where air flows together and rises, forming clouds and showers, here over parts of Puget Sound.",
-    "trough": "A dip in the jet stream that can bring clouds and a chance of rain.",
-    "high pressure aloft": "A region of higher air pressure high in the atmosphere that usually brings dry, calm weather.",
-    "ensembles": "Groups of computer forecast runs used to see how much they agree.",
-    "frost advisory": "A National Weather Service alert that frost may form and harm sensitive plants."
-  },
-  "signature": "bf96e16d95b3ed15",
+  "headline": "Dry through Wednesday with morning fog and frost, then light rain chances Thursday.",
+  "summary": "High pressure is building over British Columbia while a low sits off California, keeping western Washington dry through Wednesday. Storms are expected to stay offshore and track south. Sunday and Monday bring more clouds and highs in the mid 50s to low 60s. Morning fog is expected Sunday, Tuesday, and Wednesday, with frost in some spots away from the water. Temperatures stay near normal. A weak dip in the jet stream, the fast upper-level air current that steers storms, may bring light rain Thursday into late next week. Amounts should stay light, and forecasters are fairly confident in the dry stretch, though rain timing is uncertain.",
+  "changes": "The morning discussions described a Thursday system that might split apart and a possible Thursday night band of rain, with frost advisories still under consideration. Later discussions described a weaker trough with light rain and no longer mentioned frost advisories.",
+  "signature": "02b6b2ccb74976fc",
   "discussions": [
-    "AFDSEW_202610171035",
     "AFDSEW_202610171634",
     "AFDSEW_202610172056",
     "AFDSEW_202610180333"

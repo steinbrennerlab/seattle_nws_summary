@@ -1,0 +1,85 @@
+{
+  "id": "AFDSEW_202611210428",
+  "issued": "2026-11-21T04:28:00+00:00",
+  "headline": "Foggy, dry start gives way to a wet, breezy, active pattern into next week.",
+  "summary": "A ridge of high pressure aloft sits over the region tonight, keeping skies mostly dry but letting fog and low clouds form in valleys and lowlands. That ridge weakens over the weekend as an upper-level low settles offshore and a low pressure system wanders along the coast. Next week, a broad trough over the northeast Pacific sends a series of frontal systems toward Washington, keeping the pattern active.\n\nThe first change people will notice is Saturday, when light rain returns to the lowlands and snow showers reach the mountains, though amounts are not expected to be significant. Showers continue Sunday, mostly offshore, before steadier rain reaches the coast and Olympic Peninsula. Early next week, a stronger system brings widespread rain, gusty winds, and minor coastal flooding around high tides, with the strongest winds along the coast.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Fog and low clouds form in many areas, with a chance of freezing fog in some spots.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Morning fog clears, then light rain and mountain snow showers return in the afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Showers continue, mostly offshore, with steadier rain reaching the coast and Olympic Peninsula overnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday into Tuesday",
+      "what": "A stronger system brings strong winds and very high seas to the coastal waters.",
+      "source": "marine"
+    },
+    {
+      "when": "Late next week",
+      "what": "Repeated frontal systems keep the area wet and breezy, and the Skokomish River may reach flood stage.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about the strong winds and high seas from Monday into Tuesday, but less sure about overnight fog and low clouds, since models have been backing off and satellite images show breaks in the cloud deck.",
+  "hazards": [
+    "Small Craft Advisories for coastal and Strait waters Saturday through Sunday",
+    "Gale Warning for the outer coastal waters north of James Island, until Saturday afternoon",
+    "Possible minor coastal flooding along the Pacific Coast and Strait of Juan de Fuca around Sunday's high tides",
+    "Expected strong winds and high seas Monday through Tuesday, with headlines likely to continue through the end of next week",
+    "Skokomish River likely to reach flood stage mid to late next week"
+  ],
+  "glossary": [
+    {
+      "term": "upper-level ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings settled, dry weather at the surface."
+    },
+    {
+      "term": "Rex Block",
+      "definition": "A pattern where a low pressure system sits to the south of a high pressure system, blocking the usual west-to-east movement of weather."
+    },
+    {
+      "term": "freezing fog",
+      "definition": "Fog made of supercooled water droplets that freeze on contact with cold surfaces, creating a coating of ice."
+    },
+    {
+      "term": "snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "gale",
+      "definition": "A marine wind of about 34 to 47 knots, strong enough to be dangerous for most boats."
+    },
+    {
+      "term": "high astronomical tide",
+      "definition": "An especially high tide caused by the alignment of the sun and moon, which can push water onto low coastal areas during storms."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The strong low arriving Monday into Tuesday is expected to bring gales and possibly storm-force gusts to the outer coastal waters.",
+      "about": "Monday into Tuesday",
+      "stance": "expected",
+      "quote": "A much stronger low pressure system is on track to arrive Monday into Tuesday with high confidence in strong southeasterly winds",
+      "source": "marine",
+      "signer": "62"
+    },
+    {
+      "claim": "Forecasters have low confidence in the overnight ceiling forecast, so the amount of fog and low cloud is uncertain.",
+      "about": "Tonight into Saturday morning",
+      "stance": "uncertain",
+      "quote": "Overall confidence in the ceiling forecast is somewhat low overnight into Saturday morning",
+      "source": "aviation",
+      "signer": "27"
+    }
+  ]
+}
