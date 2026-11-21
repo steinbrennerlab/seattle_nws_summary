@@ -1,10 +1,11 @@
 {
   "date": "2026-11-21",
-  "headline": "Light weekend rain and fog, then a wetter, windier pattern settles in next week.",
-  "summary": "A ridge of high pressure, an area of settled, stable air, is moving inland, leaving Western Washington cool and foggy this morning, with some freezing fog possible. A low pressure system dropping south from the northeast Pacific will sit just offshore through Sunday, bringing light rain and snow in the mountains and highs mostly in the 40s and 50s. A stronger low forming offshore early next week will make the pattern much more active through the end of the week. Expect repeated rounds of lowland rain, mountain snow, and gusty winds, with high surf and a growing risk of minor coastal flooding around high tides. Forecasters are fairly confident about the quiet weekend and the busier stretch ahead, but the timing and strength of individual systems, and how strong the winds get, are less certain. The Skokomish River may reach flood stage late in the week.",
-  "changes": "",
-  "signature": "4a34c14c57acc009",
+  "headline": "Light rain today and through Sunday, then a wetter, windier pattern starting next week.",
+  "summary": "A high-pressure ridge, a dome of sinking, drier air, is moving inland and ending the cool, foggy stretch. A weather system sitting offshore will keep light rain going through Sunday, with light snow in the mountains and little at the passes. Morning fog could freeze in the valleys, and highs will reach the 40s to near 50. Next week turns wetter and windier as a deeper low forms offshore, bringing repeated rounds of rain, mountain snow, gusty winds, and a growing threat of coastal flooding. Forecasters are fairly confident about the weekend but less sure of the timing and strength of next week's systems.",
+  "changes": "Rain now starts this afternoon rather than tonight, and the later forecast describes a modest chance of storm-force gusts next week. The earlier discussion's possible Skokomish River flooding did not come up in the later one.",
+  "signature": "aee84f6a8a894548",
   "discussions": [
-    "AFDSEW_202611211033"
+    "AFDSEW_202611211033",
+    "AFDSEW_202611211908"
   ]
 }

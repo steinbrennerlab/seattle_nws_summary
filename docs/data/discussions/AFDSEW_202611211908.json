@@ -1,0 +1,70 @@
+{
+  "id": "AFDSEW_202611211908",
+  "issued": "2026-11-21T19:08:00+00:00",
+  "headline": "Light rain today, then a wetter, windier pattern next week.",
+  "summary": "A ridge of high pressure aloft is moving inland today, ending a cool, foggy stretch. A weather system dropping south from the northeast Pacific will sit offshore through Sunday, then fade into the broader flow Monday as another large low arrives from the Aleutians. A deeper offshore low then brings a series of disturbances across the region from Tuesday onward.\n\nExpect fog this morning, possibly freezing in valleys, then light rain reaching the coast this afternoon and the interior by evening, with highs in the 40s to near 50. Light rain and light mountain snow continue through Sunday, with little snow at the passes. Next week turns wetter and windier, with repeated rounds of rain, mountain snow, gusty winds, and a growing threat of coastal flooding.",
+  "timeline": [
+    {
+      "when": "Today (Saturday)",
+      "what": "Morning fog gives way to clouds, and light rain and mountain snow spread inland this afternoon and evening.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain continues in the lowlands and light snow in the mountains, with minor coastal flooding possible from high tides.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Another round of precipitation mostly focuses on the Olympic Peninsula, where heavy snow is possible.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "A stronger system brings widespread rain, gusty winds, and high surf to the coast, with more coastal flooding risk.",
+      "source": "long_term"
+    },
+    {
+      "when": "Late next week",
+      "what": "Wet, breezy weather persists, and the Skokomish River may reach flood stage.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about today's and the weekend's light rain, but the timing and strength of the systems next week are less certain, and marine forecasters give only a 20-40% chance of storm-force gusts.",
+  "hazards": [
+    "Small craft advisories for coastal and Strait of Juan de Fuca waters, mostly through this afternoon or early Sunday, with one running from this afternoon into Sunday morning for coastal waters.",
+    "A gale warning for coastal waters from Cape Flattery to James Island until 4 PM today."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere that usually brings settled, drier weather at the surface."
+    },
+    {
+      "term": "Upper-level low",
+      "definition": "An area of low pressure high in the atmosphere that often brings clouds, showers, and unsettled weather."
+    },
+    {
+      "term": "Freezing fog",
+      "definition": "Fog made of tiny supercooled water droplets that freeze on contact with surfaces, creating a coating of ice."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where snow is falling; below it, precipitation falls as rain."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "Unusually high tides caused by the alignment of the sun and moon, which can make coastal flooding more likely when storms add to them."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Storm-force wind gusts in coastal waters are possible next week but far from certain.",
+      "about": "Next week",
+      "stance": "uncertain",
+      "quote": "There remains a 20-40% chance of wind gusts reaching storm force criteria with of the next week systems.",
+      "source": "marine",
+      "signer": "HPR"
+    }
+  ]
+}

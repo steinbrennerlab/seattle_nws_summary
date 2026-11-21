@@ -1,12 +1,10 @@
 {
   "date": "2026-10-17",
-  "headline": "Dry through Wednesday with morning fog and frost, then light rain chances Thursday.",
-  "summary": "High pressure is building over British Columbia while a low sits off California, keeping western Washington dry through Wednesday. Storms are expected to stay offshore and track south. Sunday and Monday bring more clouds and highs in the mid 50s to low 60s. Morning fog is expected Sunday, Tuesday, and Wednesday, with frost in some spots away from the water. Temperatures stay near normal. A weak dip in the jet stream, the fast upper-level air current that steers storms, may bring light rain Thursday into late next week. Amounts should stay light, and forecasters are fairly confident in the dry stretch, though rain timing is uncertain.",
-  "changes": "The morning discussions described a Thursday system that might split apart and a possible Thursday night band of rain, with frost advisories still under consideration. Later discussions described a weaker trough with light rain and no longer mentioned frost advisories.",
-  "signature": "02b6b2ccb74976fc",
+  "headline": "Dry weather through Wednesday with morning fog and frost, then light rain chances return Thursday.",
+  "summary": "High pressure over British Columbia, which usually means settled, dry air, and a storm system far to the south off California keep western Washington dry. A weather system approaching the coast late Sunday and Monday mostly heads toward California, so clouds thicken but little rain is expected here. Highs should reach the 50s to low 60s through Monday. Clear, light-wind nights bring morning fog Tuesday and Wednesday, plus some frost away from the water. Around Thursday, a weak dip in the upper-level winds, called a trough, brings a return of light rain chances into late next week. Temperatures stay near normal, warmest around midweek. Forecasters are fairly confident in the dry stretch, but the timing and amounts of late-week rain are uncertain.",
+  "changes": "",
+  "signature": "7c1ef580c3de4adb",
   "discussions": [
-    "AFDSEW_202610171634",
-    "AFDSEW_202610172056",
     "AFDSEW_202610180333"
   ]
 }
