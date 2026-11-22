@@ -1,0 +1,69 @@
+{
+  "id": "AFDSEW_202611221102",
+  "issued": "2026-11-22T11:02:00+00:00",
+  "headline": "Showers today, then a wetter, windier stretch midweek with coastal flooding risk.",
+  "summary": "An upper-level low, a cold pocket of air aloft, is parked offshore and keeps spinning showers into western Washington today. Behind it, a series of Pacific systems and fronts takes over: a wave of steadier rain Monday, a stronger front Tuesday into Wednesday as the low deepens near the coast, and another system Wednesday into Thursday. The pattern stays active and wet through the week.\n\nFor most people, that means on-and-off showers today with highs in the 40s inland. Steadier rain and mountain snow follow in the Olympics and Cascades, and lowland rain becomes widespread midweek. Expect gusty winds and high surf along the coast. The biggest concern is coastal flooding, especially on Grays Harbor during Wednesday tides, and the Skokomish River may approach flood stage.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Showers come and go, with a slight chance of thunderstorms near the coast, and a coastal flood advisory is in effect this morning.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "A wave of steadier rain arrives, bringing snow to the Olympics and Cascades and stronger winds on the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "A stronger front brings widespread lowland rain, mountain snow, breezy winds, and high surf.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "The heaviest rain of the week is expected, with a real chance of moderate to major coastal flooding on Grays Harbor.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday into next weekend",
+      "what": "A brief break in the wind Friday morning, then breezy coastal conditions continue.",
+      "source": "marine"
+    }
+  ],
+  "confidence": "Forecasters are fairly sure of an active, wet week, but they are less sure about the exact timing and strength of the systems and how high the tides will push water, since the ensemble models still show spread and the Puget Sound and Strait tide impacts are not settled.",
+  "hazards": [
+    "Coastal Flood Advisory for the Grays Harbor and northern Washington coasts this morning until 3 PM today",
+    "Winter Weather Advisory for the Olympics until 4 PM Monday, with several inches of snow possible at Hurricane Ridge",
+    "Gale Watch for the coastal waters and Strait of Juan de Fuca from Monday evening through late Tuesday",
+    "Small Craft Advisories for coastal waters and the east Strait today",
+    "Hydrologic Outlook for possible river flooding, especially on the Skokomish River, from midweek through the weekend",
+    "High surf along the coast and a growing threat of coastal flooding Tuesday and Wednesday"
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A area of cold, low-pressure air high in the atmosphere that can stir up showers and clouds beneath it. It moves slowly and can stay in one place for days."
+    },
+    {
+      "term": "Occluded front",
+      "definition": "A weather front where a cold front has caught up with a warm front, often bringing steady rain and clouds. It is common in the later stages of a Pacific storm."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow. When it is high, mountain snow is the main form of precipitation, and when it drops, snow can reach lower hills."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many runs of a computer forecast model, each with slightly different starting conditions. When the runs disagree, forecasters have less confidence in the outcome."
+    },
+    {
+      "term": "Hydrologic Outlook",
+      "definition": "A National Weather Service statement warning that river flooding is possible in the coming days, though it is not yet a formal flood warning."
+    },
+    {
+      "term": "High astronomical tides",
+      "definition": "The unusually high tides that occur when the sun and moon line up, which can make coastal flooding worse when storms add to them."
+    }
+  ],
+  "calls": []
+}

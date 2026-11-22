@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202611220414",
+  "issued": "2026-11-22T04:14:00+00:00",
+  "headline": "Light rain this weekend, then a wet, windy, active week with coastal flooding risk.",
+  "summary": "A cold low-pressure system high in the atmosphere, called an upper low, is drifting slowly offshore this weekend. A high-pressure system over northern British Columbia is partly blocking it, so it stays nearly stationary for a day or so. By Sunday night into Monday it gets pulled into a broad trough over the northeast Pacific, and the pattern turns more active, with a series of weather systems arriving from Tuesday onward.\n\nFor now, light rain in the lowlands and light snow in the mountains continue into Sunday. Steadier rain starts over the Olympics Sunday night and spreads inland on Monday, with snow levels rising. From Tuesday through late in the week, expect repeated rounds of widespread rain, mountain snow, and gusty winds. Coastal flooding is a growing concern, especially on the Grays Harbor coast.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light showers continue, with lower clouds and a passing system keeping winds and waves up along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain in the lowlands and light snow in the mountains, plus high surf and minor coastal flooding around the Sunday morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Steadier rain spreads inland from the Olympics, mountain snow picks up, and coastal waves and water levels climb.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday through Wednesday",
+      "what": "A new system brings widespread rain, gusty winds, high surf, and possible moderate to major coastal flooding on the Grays Harbor coast.",
+      "source": "long_term"
+    },
+    {
+      "when": "Later in the week",
+      "what": "Multiple rounds of rain, mountain snow, and gusty winds continue, and the Skokomish River is expected to reach minor flood stage around midweek onward.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the light weekend weather and in a more active pattern next week, but they are less sure about the exact timing and strength of each system, and they say the coastal flooding potential for the Strait and Puget Sound still needs close monitoring.",
+  "hazards": [
+    "Winter Weather Advisory for the Olympics, 6 PM Sunday to 4 PM Monday, with 5 to 10 inches of snow forecast at Hurricane Ridge",
+    "Coastal Flood Advisory for the Grays Harbor and northern Washington coasts Sunday morning",
+    "High surf advisory for the Sunday morning high tide on the coast",
+    "Gale Watch for coastal waters from late Sunday night through Tuesday afternoon",
+    "Expected minor river flooding on the Skokomish River around midweek"
+  ],
+  "glossary": [
+    {
+      "term": "Upper low",
+      "definition": "A cold, low-pressure area high in the atmosphere that often brings showers and cool, unsettled weather when it sits over or near the region."
+    },
+    {
+      "term": "Blocking pattern",
+      "definition": "A situation where a high-pressure system stalls the normal eastward movement of weather systems, so the same weather lingers for a longer time."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of computer forecast runs with slightly different starting conditions, used to estimate how likely a outcome is and how much the models disagree."
+    },
+    {
+      "term": "Gale",
+      "definition": "Sustained marine winds of about 34 to 47 knots, strong enough to be hazardous to boats. Gusts can exceed these speeds."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful waves along the coast that can wash over beaches, jetties, and low-lying areas and increase the risk of coastal flooding when combined with high tides."
+    }
+  ],
+  "calls": []
+}

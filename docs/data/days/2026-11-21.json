@@ -1,12 +1,13 @@
 {
   "date": "2026-11-21",
-  "headline": "Light weekend rain and mountain snow, then a wet, windy week with coastal flooding risk.",
-  "summary": "The main feature is a low-pressure system offshore that is stalling, which keeps the weather slow to change. Once it is pulled into the broader flow Sunday night, a larger dip in the upper atmosphere spreads over the northeast Pacific and brings a more active pattern from Tuesday on. This weekend brings light rain to the lowlands and light snow to the mountains. Steadier rain reaches the Olympics Monday and spreads inland, with the snow line rising through the day. Next week brings repeated rounds of widespread rain, gusty winds, and high surf, with coastal flooding risk growing, especially on the Grays Harbor coast during Tuesday and Wednesday high tides. Highs stay near normal, in the upper 40s to lower 50s. Forecasters are fairly sure about the wet weather, but less certain how high the tides will get on the Strait and Puget Sound.",
-  "changes": "The afternoon update describes a stalling offshore low that shapes the week, and adds a Winter Weather Advisory for the Olympics with 5 to 10 inches of snow. It also narrows the coastal flooding concern to the Grays Harbor coast on Tuesday and Wednesday.",
-  "signature": "d47917bcca13cd72",
+  "headline": "Light rain this weekend, then a wet, windy, active week with coastal flooding risk.",
+  "summary": "A cold low-pressure system high in the atmosphere, called an upper low, is drifting slowly offshore and stalling for a day or so, partly blocked by high pressure over northern British Columbia. Around Sunday night into Monday it gets pulled into a broad trough, a dip in the upper-level flow over the northeast Pacific, and the pattern turns much more active. For the weekend, light rain covers the lowlands and light snow falls in the mountains. Steadier rain reaches the Olympics Sunday night and spreads inland Monday, with snow levels rising. From Tuesday through late in the week, expect repeated rounds of widespread rain, mountain snow, and gusty winds. Coastal flooding is a growing concern, especially on the Grays Harbor coast, while the Strait and Puget Sound still need close watching. Forecasters are fairly confident about the light weekend weather and the busier week, but less sure about the timing and strength of each system.",
+  "changes": "Later discussions added a winter weather advisory for the Olympics, with 5 to 10 inches of snow possible at Hurricane Ridge, and a Gale Watch for coastal waters, while the wetter, windier week ahead stayed about the same. The latest discussion also flagged minor river flooding on the Skokomish River around midweek.",
+  "signature": "f3c3679111388a1a",
   "discussions": [
     "AFDSEW_202611211033",
     "AFDSEW_202611211908",
-    "AFDSEW_202611212350"
+    "AFDSEW_202611212350",
+    "AFDSEW_202611220414"
   ]
 }

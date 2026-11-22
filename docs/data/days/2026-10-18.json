@@ -1,11 +1,10 @@
 {
   "date": "2026-10-18",
-  "headline": "Quiet, chilly weather with possible frost early in the week; only light rain and mountain flurries possible Thursday into Friday.",
-  "summary": "Western Washington stays quiet, with a storm system passing well offshore and sending mostly high clouds. Monday morning lows should be in the mid 30s from Olympia south along the I-5 corridor and in the mid 40s elsewhere. Tuesday morning is a few degrees colder, so frost is possible in the south Puget Sound, the Chehalis Valley, the Cascades, and valleys. Patchy morning fog is possible early in the week, most likely in valleys and other spots that often get fog. Later in the week a weak system may bring light rain Thursday into Friday. If precipitation does develop, snow levels could fall to around 4,000 to 4,500 feet, so a few light snow flurries are possible at those elevations and higher. Forecasters do not expect much impactful weather. The position of a low pressure area near California becomes less certain by Friday into the weekend. The coast may see a larger swell of about 10 to 12 feet offshore around Thursday.",
-  "changes": "Early discussions called for dry weather with morning fog and only a weak front late in the week. Later ones put more emphasis on chilly lows and possible frost Monday and Tuesday mornings, and added the coastal swell. Rain and flurry chances for Thursday into Friday stayed light and uncertain.",
-  "signature": "5293875f02604e5b",
+  "headline": "Dry and quiet, with chilly mornings and possible frost; only light rain possible late week.",
+  "summary": "A large low pressure system aloft is staying well offshore and drifting south, keeping western Washington dry and quiet through midweek. The main thing people will notice is cold mornings. Monday lows should be in the 30s around Olympia and south along I-5, and in the 40s elsewhere. Tuesday morning is colder still, so frost is possible in the south Sound, the Chehalis Valley, the Cascades, and valleys. Patchy morning fog is possible in typical fog spots. Late in the week, a weak system may bring light rain Thursday into Friday. If it develops, snow could fall down to around 4,000 to 4,500 feet, bringing a few flurries to higher ground. Forecasters do not expect much impact, though the late-week picture is less certain.",
+  "changes": "The morning discussion emphasized morning fog, possible freezing fog Wednesday, and a weakening front Thursday that would trim highs, while the afternoon and evening discussions shifted focus to frost and chilly mornings and described a weak system with only possible light rain late week.",
+  "signature": "55ae7278c1aa95ff",
   "discussions": [
-    "AFDSEW_202610181014",
     "AFDSEW_202610181543",
     "AFDSEW_202610182137",
     "AFDSEW_202610190321"
