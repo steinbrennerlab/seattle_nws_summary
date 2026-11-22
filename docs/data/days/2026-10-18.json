@@ -1,12 +1,10 @@
 {
   "date": "2026-10-18",
-  "headline": "Dry and quiet, with chilly mornings and possible frost; only light rain possible late week.",
-  "summary": "A large low pressure system aloft is staying well offshore and drifting south, keeping western Washington dry and quiet through midweek. The main thing people will notice is cold mornings. Monday lows should be in the 30s around Olympia and south along I-5, and in the 40s elsewhere. Tuesday morning is colder still, so frost is possible in the south Sound, the Chehalis Valley, the Cascades, and valleys. Patchy morning fog is possible in typical fog spots. Late in the week, a weak system may bring light rain Thursday into Friday. If it develops, snow could fall down to around 4,000 to 4,500 feet, bringing a few flurries to higher ground. Forecasters do not expect much impact, though the late-week picture is less certain.",
-  "changes": "The morning discussion emphasized morning fog, possible freezing fog Wednesday, and a weakening front Thursday that would trim highs, while the afternoon and evening discussions shifted focus to frost and chilly mornings and described a weak system with only possible light rain late week.",
-  "signature": "55ae7278c1aa95ff",
+  "headline": "Chilly, possibly frosty mornings early in the week; quiet, with light rain possible late week.",
+  "summary": "A pocket of cold air high in the atmosphere is sliding south offshore, so western Washington stays mostly quiet. Cool mornings are the main story: Monday lows are in the mid 30s around Olympia and south along I-5, and in the mid 40s elsewhere. Tuesday mornings are colder, so frost is possible in the south Sound, Chehalis Valley, the Cascades, and valleys, with patchy fog in typical spots early in the week. Later in the week, a weak system may bring light rain Thursday into Friday. If it does, snow could fall to about 4,000 to 4,500 feet, with a few flurries there and higher. Forecasters expect little impact but are less sure where the system will be by Friday into the weekend.",
+  "changes": "",
+  "signature": "e6df7f02d8203f19",
   "discussions": [
-    "AFDSEW_202610181543",
-    "AFDSEW_202610182137",
     "AFDSEW_202610190321"
   ]
 }

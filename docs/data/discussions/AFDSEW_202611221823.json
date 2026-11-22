@@ -1,0 +1,58 @@
+{
+  "id": "AFDSEW_202611221823",
+  "issued": "2026-11-22T18:23:00+00:00",
+  "headline": "Showers today, then a wet, windy, stormy stretch Monday through Thursday with coastal flooding risk.",
+  "summary": "A cold low-pressure system high in the atmosphere, called an upper-level low, has settled offshore and keeps spinning showers onto western Washington. A dip in the high-altitude winds, called a trough, is becoming more pronounced, and a series of fronts and storms is lining up behind it through the week. Each system looks stronger than the last.\n\nToday brings on-and-off showers, light rain in the lowlands, mountain snow, and temperatures in the mid-40s to near 50. Monday brings steadier rain, with heavier precipitation in the Olympics and Cascades. Tuesday into Wednesday, a stronger front brings widespread rain, breezy winds, and high surf to the coast. The heaviest rain is expected Wednesday night into Thursday, along with more wind. High tides add to the risk of coastal flooding, and rivers such as the Skokomish may rise toward flood stage.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Scattered showers continue, with light rain in the lowlands, mountain snow, and temperatures in the mid-40s to near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Steadier rain arrives, with the heaviest precipitation in the Olympics and Cascades and heavy snow possible in the Olympics.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday into Wednesday",
+      "what": "A stronger front brings widespread lowland rain, breezy winds, and high surf to the coast, with snow in the Cascades.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "The heaviest rain of the week falls, with more wind, a risk of coastal flooding, and rivers rising.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the next few days, but they are less sure about how high tides will affect the Strait and Puget Sound coasts, since that depends on water-level guidance that is still being monitored.",
+  "hazards": [
+    "Coastal Flood Advisory for the Pacific coast, through this afternoon.",
+    "Winter Weather Advisory for the Olympics, through Monday afternoon.",
+    "Small Craft Advisories and Gale Warnings for the coastal and inland waters, with a Storm Warning for coastal waters from Monday morning into Tuesday.",
+    "Hydrologic Outlook for possible river flooding, especially on the Skokomish River, through the week."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level low",
+      "definition": "A cold low-pressure area high in the atmosphere that can spin up showers and rain at the surface."
+    },
+    {
+      "term": "Trough",
+      "definition": "A dip in the high-altitude winds that often brings unsettled, rainy weather when it passes over a region."
+    },
+    {
+      "term": "Ensemble forecast",
+      "definition": "A set of many forecast runs using slightly different starting conditions, used to gauge how confident forecasters can be."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Hydrologic Outlook",
+      "definition": "A National Weather Service statement warning that rivers may rise and possibly flood in the coming days, without an active flood warning."
+    }
+  ],
+  "calls": []
+}

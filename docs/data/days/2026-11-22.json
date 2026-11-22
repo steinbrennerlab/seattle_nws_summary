@@ -1,10 +1,11 @@
 {
   "date": "2026-11-22",
-  "headline": "Wet, breezy week ahead, with a stronger storm midweek and coastal flooding risk.",
-  "summary": "A cold pocket of air sitting offshore keeps scattered showers over western Washington today, with highs in the 40s inland. Pacific storms then take over, bringing steadier rain Monday and a stronger system Tuesday into Wednesday as a low pressure center deepens near the coast. Another system follows Thursday, so the wet pattern lasts all week. Mountain snow follows in the Olympics and Cascades, and gusty winds and high surf are expected along the coast. The main worry is coastal flooding, especially on Grays Harbor during Wednesday's high tides, and the Skokomish River may approach flood stage. Forecasters are fairly confident in a wet week but less sure of exact timing, strength, and tide impacts.",
-  "changes": "",
-  "signature": "2dabfe4f2d9d90bb",
+  "headline": "Showers today, then a wet, windy, stormy stretch through Thursday with coastal flooding risk.",
+  "summary": "A cold low-pressure system sitting offshore keeps spinning showers over western Washington today, with highs near 50 and mountain snow. Behind it, a trough aloft is deepening, and a line of Pacific storms and fronts is stacking up for the week. Monday brings steadier rain, heaviest in the Olympics and Cascades. A stronger front Tuesday into Wednesday brings widespread rain, winds, and high surf to the coast. The heaviest rain is expected Wednesday night into Thursday, with more wind. High tides raise the risk of coastal flooding, and the Skokomish River may rise toward flood stage. Forecasters are fairly confident about the week but less sure how high tides will affect Puget Sound and Strait coasts.",
+  "changes": "Forecasters now expect stronger winds Monday into Tuesday, and a storm warning has replaced the earlier gale watch for coastal and Strait waters. The heaviest rain has shifted later, to Wednesday night into Thursday, and each system is now seen as stronger than the last.",
+  "signature": "664de55227aa5403",
   "discussions": [
-    "AFDSEW_202611221102"
+    "AFDSEW_202611221102",
+    "AFDSEW_202611221823"
   ]
 }
