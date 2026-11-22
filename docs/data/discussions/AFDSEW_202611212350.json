@@ -1,0 +1,62 @@
+{
+  "id": "AFDSEW_202611212350",
+  "issued": "2026-11-21T23:50:00+00:00",
+  "headline": "Wet, unsettled week ahead; mountain snow this weekend and coastal flooding risk rising Tuesday.",
+  "summary": "An upper-level low offshore is meandering and stalling, creating a blocking pattern that keeps the weather slow to change. Once this low gets pulled into the broader flow Sunday night, a larger trough spreads across the northeast Pacific and brings a more active pattern, with a series of systems arriving from Tuesday on.\n\nThis weekend brings light rain to the lowlands and light snow to the mountains. Steadier rain starts over the Olympics Monday and spreads inland, with snow levels rising during the day. Next week brings multiple rounds of widespread rain, gusty winds, and high surf along the coast. Coastal flooding risk grows, especially on the Grays Harbor coast during Tuesday and Wednesday high tides. Temperatures stay near normal, with highs in the upper 40s to lower 50s.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light rain showers continue, clouds thicken, and southeast winds pick up along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light showers keep spinning over the lowlands and mountains, and high surf hits the coast with Sunday morning's high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "Steadier rain starts over the Olympics and spreads inland, with snow levels rising, before a brief break Monday evening.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "The next front arrives late Monday night into Tuesday, bringing rain, gusty winds, high surf, and a rising coastal flood threat.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "More disturbances keep the rain, wind, and surf going, with the highest coastal flood risk on the Grays Harbor coast.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly sure about the wet weather and rising coastal water levels next week, but they are less certain how high tides will get on the Strait and Puget Sound, and say those locations need close watching.",
+  "hazards": [
+    "Winter Weather Advisory for the Olympics, including Hurricane Ridge, from Sunday evening through Monday afternoon, with 5 to 10 inches of snow expected.",
+    "High surf advisory for Sunday morning's high tide on the Pacific coast.",
+    "Small craft advisories and a gale warning for coastal and Strait waters, with gusty winds and rough seas."
+  ],
+  "glossary": [
+    {
+      "term": "Upper low",
+      "definition": "A low-pressure area high in the atmosphere, which often brings clouds, showers, and cooler air aloft."
+    },
+    {
+      "term": "Blocking pattern",
+      "definition": "A setup where a high-pressure system to the north stalls the usual west-to-east movement of weather systems, so conditions linger in place."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The predictable rise and fall of tides caused by the sun and moon, which can be higher during certain phases."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of computer forecast runs with slightly different starting conditions, used to gauge how likely a particular outcome is."
+    }
+  ],
+  "calls": []
+}

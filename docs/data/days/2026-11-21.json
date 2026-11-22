@@ -1,11 +1,12 @@
 {
   "date": "2026-11-21",
-  "headline": "Light rain today and through Sunday, then a wetter, windier pattern starting next week.",
-  "summary": "A high-pressure ridge, a dome of sinking, drier air, is moving inland and ending the cool, foggy stretch. A weather system sitting offshore will keep light rain going through Sunday, with light snow in the mountains and little at the passes. Morning fog could freeze in the valleys, and highs will reach the 40s to near 50. Next week turns wetter and windier as a deeper low forms offshore, bringing repeated rounds of rain, mountain snow, gusty winds, and a growing threat of coastal flooding. Forecasters are fairly confident about the weekend but less sure of the timing and strength of next week's systems.",
-  "changes": "Rain now starts this afternoon rather than tonight, and the later forecast describes a modest chance of storm-force gusts next week. The earlier discussion's possible Skokomish River flooding did not come up in the later one.",
-  "signature": "aee84f6a8a894548",
+  "headline": "Light weekend rain and mountain snow, then a wet, windy week with coastal flooding risk.",
+  "summary": "The main feature is a low-pressure system offshore that is stalling, which keeps the weather slow to change. Once it is pulled into the broader flow Sunday night, a larger dip in the upper atmosphere spreads over the northeast Pacific and brings a more active pattern from Tuesday on. This weekend brings light rain to the lowlands and light snow to the mountains. Steadier rain reaches the Olympics Monday and spreads inland, with the snow line rising through the day. Next week brings repeated rounds of widespread rain, gusty winds, and high surf, with coastal flooding risk growing, especially on the Grays Harbor coast during Tuesday and Wednesday high tides. Highs stay near normal, in the upper 40s to lower 50s. Forecasters are fairly sure about the wet weather, but less certain how high the tides will get on the Strait and Puget Sound.",
+  "changes": "The afternoon update describes a stalling offshore low that shapes the week, and adds a Winter Weather Advisory for the Olympics with 5 to 10 inches of snow. It also narrows the coastal flooding concern to the Grays Harbor coast on Tuesday and Wednesday.",
+  "signature": "d47917bcca13cd72",
   "discussions": [
     "AFDSEW_202611211033",
-    "AFDSEW_202611211908"
+    "AFDSEW_202611211908",
+    "AFDSEW_202611212350"
   ]
 }
