@@ -1,12 +1,13 @@
 {
   "date": "2026-11-22",
-  "headline": "Wet, breezy week ahead, with coastal flooding and gales likely and more systems through Thanksgiving.",
-  "summary": "A cold upper-level low parked offshore keeps showers over western Washington tonight. A dip in the high-altitude winds arriving Monday sends a string of storms our way through the week. Monday and Tuesday bring widespread rain and gusty southeast winds, strongest on the coast. The wettest stretch looks like Wednesday into Thursday, when the Skokomish River may near flood stage and the Grays Harbor coast could see flooding. Gales and high surf are likely into the holiday, with a brief break by Friday. Forecasters are fairly confident in a wet, windy week, but unsure how strong the midweek low will be, since its exact path matters.",
-  "changes": "Coastal flooding risk moved up: a flood warning now covers Monday morning's high tide on the Grays Harbor coast, where earlier discussions had only advisories. The latest discussion also adds a brief break in the winds by Friday.",
-  "signature": "04a6030233cde4d1",
+  "headline": "Showers tonight, then a wet, windy week with coastal flooding Monday and heavy rain midweek.",
+  "summary": "An upper-level low, a cold low-pressure system high in the atmosphere, drifts offshore and merges into a broad Pacific dip in the winds on Monday, opening the door to a series of storms. Tonight brings light rain to the lowlands and snow showers to the mountains. Monday and Tuesday turn wetter and windier, with gusty southeast winds on the coast and possible coastal flooding at Monday morning's high tide in Grays Harbor County. Wednesday into Thursday looks wettest, with heavy rain over the Olympics. Highs stay near 50, and winds and high surf persist into the weekend. Forecasters are confident in a wet, windy week but unsure how strong the midweek low will be or how widespread its gales will get.",
+  "changes": "The main coastal flooding concern moved from midweek to Monday morning's high tide, and a coastal flood warning was issued for the Grays Harbor coast by the afternoon. Wind products for the outer coast were also upgraded from watches to warnings for Monday into Tuesday.",
+  "signature": "516fc1002e99ae0d",
   "discussions": [
     "AFDSEW_202611221102",
     "AFDSEW_202611221823",
-    "AFDSEW_202611230002"
+    "AFDSEW_202611230002",
+    "AFDSEW_202611230409"
   ]
 }

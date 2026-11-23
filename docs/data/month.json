@@ -1,34 +1,34 @@
 {
-  "start": "2026-10-18",
-  "end": "2026-11-16",
-  "headline": "Quiet autumn gave way to Pacific storms; forecasters now expect drier weather this week.",
-  "summary": "The period began calm and chilly. Storms stayed offshore, and forecasters mainly talked about frost and fog. That changed on Oct 24, when a storm system off the coast became the first fall-like storm of the season, with rain and breezy winds. A pocket of cold air high in the atmosphere (an upper-level low) then settled over the region. Forecasts for it grew steadily more specific, ending in a Winter Weather Advisory for the first widespread Cascade snow, then showers through that week. The cold air left clear, still nights, so frost and freeze warnings came next, followed by dense fog around Halloween weekend.\n\nIn early November, forecasters kept pointing to a more active pattern, and it arrived. High pressure gave way to a run of strong Pacific fronts. Each one brought rain and gusty south winds, with the coast and the northern Puget Sound area hit hardest. Confidence in a significant windstorm grew as Saturday, Nov 7 approached. Many trees still had leaves, so scattered power outages were a concern. Forecasters then described an atmospheric river, a long, narrow plume of moist air aimed at the region, that kept the weather mild and wet. The Skokomish River, on the Olympic Peninsula, drew repeated flood attention. Details changed from day to day, but forecasters stayed fairly sure of the wet, windy stretch.\n\nNow the pattern is expected to shift. The big dip in the jet stream is moving through, the storm track is expected to slide south, and the next low is forecast to head toward California and mostly miss Washington. Forecasters expect showers to ease, then a dry Tuesday, with fog and some breezy east winds in the foothills. Thursday and Friday look mostly dry and near normal. They are less sure about next weekend, when showers return and snow levels may drop near the passes, but little snow is expected.",
+  "start": "2026-10-25",
+  "end": "2026-11-23",
+  "headline": "Cool, quiet late October gave way to a stormy, flood-prone November pattern",
+  "summary": "The period began with a cool, unsettled pattern. A cold pocket of air aloft (an upper-level low) lingered near the coast, and a front brought the first widespread Cascade snow around October 27-28. Forecasters were confident about that system, and a Winter Weather Advisory covered the Cascades. After it, high pressure was expected to settle in. Forecasters raised the frost and freeze threat, then added dense fog for Halloween weekend, and the first days of November stayed mostly quiet.\n\nThe outlook shifted around November 2-3. Forecasters began pointing to a string of Pacific storms, with a first strong system on Friday, November 6, and a stronger one Saturday night into Sunday. Their confidence grew through the week that the second would be a real windstorm, with strong coastal gusts, possible scattered power outages (trees still had leaves), and high surf. From there the pattern stayed wet and mild, fed at times by a long plume of moisture called an atmospheric river. Repeated rain brought flood worries for the Skokomish River and high-tide flooding along the coast. Forecasters grew less sure about each later storm's strength and timing.\n\nA drier spell looked likely in mid-November, with a stalled area of high pressure (a blocking pattern) and a deep low that was expected to slide south of Washington. That brought a few foggy, dry days. Forecasters held that view, though they briefly wavered on the midweek low. By November 20-23 they were confident a wet, windy stretch was returning. The current outlook is a series of storms through about Thursday, with coastal flooding and high surf the main concern around Wednesday's high tides. Heavy rain and snow are expected on the Olympics and in the North Cascades. A break comes Friday, and winds are expected to return next weekend. Forecasters are less sure how strong the Wednesday-into-Thursday system will be.",
   "turning_points": [
     {
-      "date": "Sat Oct 24",
-      "what": "A forecast for light rain became the first fall-like storm: a cold front, breezy winds, heavier rain and Gale Warnings offshore."
-    },
-    {
       "date": "Mon Oct 26",
-      "what": "A Winter Weather Advisory was issued for the first widespread Cascade snow, with pass-by-pass totals."
+      "what": "Forecasters issued a Winter Weather Advisory for the Cascades and gave pass-by-pass snow totals for the first widespread mountain snow of the season."
     },
     {
-      "date": "Thu Oct 29",
-      "what": "Cold became the main hazard as a Freeze Watch appeared for southwest Washington; a possible wetter pattern in early November was first hinted at."
+      "date": "Fri Oct 30",
+      "what": "The freeze threat firmed up: a Freeze Warning and Frost Advisory were issued, and forecasters saw a stronger front later the next week."
     },
     {
-      "date": "Wed Nov 4",
-      "what": "Attention turned to Friday's wind, with high odds of strong gusts in the north, and a second storm was added for Saturday night."
-    },
-    {
-      "date": "Fri Nov 6",
-      "what": "Forecasters grew confident that Saturday night would bring a significant windstorm, and a High Wind Watch covered the coast."
+      "date": "Thu Nov 5",
+      "what": "Confidence rose that Saturday night would bring a strong windstorm, with advisory-level winds likely on the coast and in the north."
     },
     {
       "date": "Fri Nov 13",
-      "what": "Forecasters described the storm track shifting south and a blocking high bringing a drier midweek, while the weekend storm stayed the main concern."
+      "what": "Forecasters began describing a blocking high-pressure pattern for a drier midweek, while the weekend storm brought wind and flood alerts."
+    },
+    {
+      "date": "Fri Nov 20",
+      "what": "Confidence grew in strong winds and high seas Monday into Tuesday as a stormy Pacific pattern returned."
+    },
+    {
+      "date": "Sun Nov 22",
+      "what": "The coastal flooding concern moved up to Monday morning's high tide, and a flood warning was issued for the Grays Harbor coast."
     }
   ],
-  "signature": "ea31c9c66dda1a8b",
-  "written": "2026-11-16"
+  "signature": "bc9c5387b3ed9982",
+  "written": "2026-11-23"
 }

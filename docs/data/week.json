@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-15",
-  "end": "2026-11-21",
-  "headline": "Forecasters kept a quiet midweek but steadily firmed up a stormy pattern for next week.",
-  "summary": "On Sunday, forecasters saw a big dip in the jet stream (a trough) over the western U.S. A deep low offshore was expected to slide south into California, so most of its energy would miss Washington. That left a drier stretch from Tuesday through Friday, with showers tapering early in the week and only spotty rain south of Seattle on Wednesday. That forecast held. A ridge of high pressure, a dome of settled air, moved in later in the week, and the main change was in the details: foggy mornings, some freezing fog, and highs in the 40s and low 50s. Forecasters were more confident about the dry days than about what came after.\n\nThe bigger shift was the weekend and beyond. Early on they only hinted that more active weather would return \"next weekend.\" By Tuesday they were describing a wetter, windier pattern for early next week as the jet stream dipped deeply over the Pacific and aimed storms our way. Through Thursday and Friday, confidence grew in strong winds and high seas on the coast Monday into Tuesday, with possible minor coastal flooding at high tides, and rising odds the Skokomish River reaches flood stage later in the week. The weekend itself looks quiet, with only light rain and mountain snow. What remains uncertain is the timing and strength of each storm, and how strong the winds get.",
+  "start": "2026-11-17",
+  "end": "2026-11-23",
+  "headline": "Forecasters held to a dry midweek, then a stormy Pacific pattern grew wetter, windier, and coastal-flood prone.",
+  "summary": "From the start, forecasters saw a quiet, foggy, dry stretch under a ridge of high pressure (a dome of settled air) on Thursday and Friday, and that call never wavered. What changed was the outlook beyond it. On Tuesday, Nov 17, the jet stream (the fast band of high-altitude wind) was expected to dip over the Pacific and aim stronger storms at us early the following week. Later in the week the weekend looked weak, with only light lowland rain and a little mountain snow. By Saturday, Nov 21, a cold upper-level low was expected to stall offshore, then get pulled into a broad dip in the winds over the northeast Pacific around Monday, opening the door to a string of storms.\n\nThe storm week also came into sharper focus. Coastal flooding at high tide, and strong winds and high seas on the coast, went from a passing mention to the main concern. Early on, the worry was Tuesday. By Sunday, Nov 22, the first flooding risk was moved up to Monday morning on the Grays Harbor coast, and wind and flood warnings replaced watches. By Monday, Nov 23, forecasters expected repeated rounds of rain, mountain snow, and southeast winds through Thursday, with the worst flood risk on the Olympic Peninsula and the coast. They were fairly confident about Wednesday's coastal flooding but less sure about the strength of the Wednesday-into-Thursday system and tide timing on the Strait and Sound. A break is expected Friday, with winds returning next weekend.",
   "turning_points": [
     {
-      "date": "Sun Nov 15",
-      "what": "The midweek offshore storm was expected to miss Washington, and the wetter weather was pushed back to next weekend."
-    },
-    {
       "date": "Tue Nov 17",
-      "what": "Forecasters added a wetter, windier pattern for early next week and described the weekend system as weak."
+      "what": "Forecasters added a wetter, windier pattern for early next week, as the jet stream was expected to steer stronger storms toward us."
     },
     {
-      "date": "Wed Nov 18",
-      "what": "A cutoff low was expected to form offshore for the weekend, and coastal flooding from high tides was first mentioned."
+      "date": "Thu Nov 19",
+      "what": "Confidence grew in strong coastal winds peaking Tuesday, and a light Saturday evening rain and snow forecast was added."
     },
     {
-      "date": "Fri Nov 20",
-      "what": "Confidence grew in strong winds and high seas Monday into Tuesday, and the Skokomish River was likely to reach flood stage later next week."
+      "date": "Sat Nov 21",
+      "what": "The offshore low's stall and its pull into a broad trough became clear, and coastal flooding became a growing concern."
+    },
+    {
+      "date": "Sun Nov 22",
+      "what": "The main flooding risk moved up to Monday morning's high tide, and a coastal flood warning and wind warnings were issued."
     }
   ],
-  "signature": "a841169f396cf506",
-  "written": "2026-11-21"
+  "signature": "2791c7a125e31c0a",
+  "written": "2026-11-23"
 }

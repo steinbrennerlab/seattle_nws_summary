@@ -1,0 +1,78 @@
+{
+  "id": "AFDSEW_202611230409",
+  "issued": "2026-11-23T04:09:00+00:00",
+  "headline": "Showers tonight, then a stormy, windy, wet stretch from Monday through late week.",
+  "summary": "Much of the coming week is shaped by a cold low in the upper atmosphere (an upper-level low) sitting offshore. It drifts away and gets absorbed into a broad trough over the northeast Pacific on Monday, opening the door to a series of storm systems through late week.\n\nTonight brings light rain to the lowlands and snow showers to the mountains, mostly along the coast and the Olympics. Monday and Tuesday turn wetter and windier, with gusty southeast winds on the coast, in the San Juans, and in Island County, plus minor to moderate coastal flooding at Monday morning's high tide in Grays Harbor County. Wednesday into Thursday looks like the wettest stretch, with heavy rain over the Olympics and possible coastal flooding. Highs stay near 50, and winds and high surf persist into the weekend.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light rain in the lowlands and snow showers in the mountains, mostly along the coast and Olympics.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The pattern opens up, with gusty southeast winds on the coast and coastal flooding at the Monday morning high tide in Grays Harbor County.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday night into Tuesday",
+      "what": "The first front brings widespread rain, with snow at higher passes and rain becoming lighter but showery by Tuesday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "The heaviest rain of the period arrives, with possible moderate to major coastal flooding and gales over the waters.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Weak high pressure brings a brief break from strong winds, but seas stay high into the weekend.",
+      "source": "marine"
+    }
+  ],
+  "confidence": "Forecasters are confident the week will be wet and windy with repeated systems, but less sure how strong the Wednesday-into-Thursday low will be, since its exact path controls how widespread the gales are. Snow amounts over the passes are uncertain, and major accumulations are not expected for now.",
+  "hazards": [
+    "Winter Weather Advisory until 4 PM Monday for the Olympics, including Hurricane Ridge.",
+    "Coastal Flood Warning from 8 AM to 2 PM Monday for the Grays Harbor County coast.",
+    "Coastal Flood Advisory from 8 AM to 2 PM Monday for the eastern Strait of Juan de Fuca, the northern Washington coast, and the western Strait.",
+    "Gale and storm warnings for the outer coastal waters, from Monday morning to 3 PM Tuesday.",
+    "Gale warning for the eastern Strait of Juan de Fuca until 3 PM Tuesday.",
+    "Several small craft advisories for coastal and inland waters through Tuesday."
+  ],
+  "glossary": [
+    {
+      "term": "upper-level low",
+      "definition": "A low-pressure area high in the atmosphere rather than at the surface. It can produce showers and cloudiness over a wide area."
+    },
+    {
+      "term": "trough",
+      "definition": "An elongated dip in the upper-level flow of air. Troughs usually bring unsettled weather."
+    },
+    {
+      "term": "snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "ensemble guidance",
+      "definition": "A set of computer forecast runs with slightly different starting conditions. Forecasters use how much they agree to judge confidence."
+    },
+    {
+      "term": "gale",
+      "definition": "A strong wind over open water, just below storm force."
+    },
+    {
+      "term": "astronomical high tide",
+      "definition": "The high tide caused by the gravity of the sun and moon alone, before storm surge or waves are added."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Gales could spread into the northern interior waters and eastern Strait, but that depends on the low's exact path.",
+      "about": "Wednesday late into Thursday",
+      "stance": "uncertain",
+      "quote": "This could bring more widespread gales into the north interior waters and eastern Strait, but this remains dependent on the path of the low.",
+      "source": "marine",
+      "signer": "Cullen"
+    }
+  ]
+}
