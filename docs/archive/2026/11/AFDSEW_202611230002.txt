@@ -1,0 +1,193 @@
+FXUS66 KSEW 230002
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+402 PM PST Sun Nov 22 2026
+
+.SYNOPSIS...
+An upper-low will meander offshore bringing light lowland rain 
+and mountain snow showers to the area tonight. Broad troughing
+over the NE PAC will then open up the pattern on Monday to more
+robust weather. A series of systems will bring widespread 
+precipitation, gusty winds, and increase the potential for 
+coastal flooding along with high surf throughout much of the 
+upcoming week. 
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH TUESDAY NIGHT/...
+A stubborn low-center offshore will continue to spin light rain
+and mountain snow to the area tonight. Hi-res models has most 
+of the activity falling over the coast and Olympics and latest 
+KLGX reflectivity scans are indicative of that trend. Snow 
+levels will be around 2,000 to 3,000 ft as notable accumulations
+are slated to fall across the Olympic Mountains. A winter 
+weather advisory remains in place for this area including 
+Hurricane Ridge where several inches of snow is in the 
+forecast. Low temperatures tonight will fall into the mid 30s to
+lower 40s.
+
+The aforementioned low center is still on track to get ingested
+into the mean flow on Monday. Broad troughing over the NE PAC
+will begin to encompass much of the region as the parade of
+disturbances commences. The first frontal system will spread
+widespread rainfall across the area Monday night into Tuesday.
+Snow levels will rise from 3,000 to 4,500 ft on Monday evening
+to 4,000 to 5,500 ft Tuesday evening. As a result, snow is
+forecast to fall at the higher passes such as Stevens but major
+accumulation is not expected at this time. Gusty southeast winds
+are also favored mainly for the coast, San Juan, and Island 
+counties for both Monday and Tuesday. Gusts look exceed 40 mph
+during this time for these locations as REFS probabilities are 
+next to certain. Precipitation will become less steady Tuesday
+night as the disturbance tracks off and away but showers will
+linger. Temperatures in the short-term forecast will be near
+seasonal with highs close to 50 F and lows in the 40s.
+
+Coastal Flooding: Steadily larger astronomical high tides along
+the Pacific coast will combine with increased surge and large 
+waves to bring a return of more significant coastal flood 
+concerns for the next few days. Larger waves and lower pressure 
+will likely push water levels higher along the Grays Harbor 
+County coastline, including places like Ocean Shores and 
+Westport, where moderate coastal flooding is expected during 
+Monday morning's high tide. Minor coastal flooding is also 
+possible along the north coast and Strait of Juan de Fuca 
+extending to Port Angeles. 
+
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Ensemble and deterministic guidance continue to highlight 
+additional frontal systems entering the area throughout the long
+term with another round of widespread rain, and breezy winds. 
+Rainfall will likely be heaviest Wednesday night into Thursday, 
+especially over the Olympics, where the Skokomish River is
+forecast to ease into moderate flood stage. Additionally, 
+confidence is increasing for the potential of moderate to major 
+coastal flooding stages being reached along portions of the 
+Grays Harbor County coastline during Wednesday tides, and high 
+surf may only enhance these impacts. The tides increase more 
+significantly for the Strait and Puget Sound coastlines later in
+the week around Tuesday onward, and the potential for impacts 
+in these locations will need to be closely monitored as we get 
+into the range of total water level guidance.
+
+&&
+
+.AVIATION...
+VFR conditions are currently present most areas with shower 
+activity. VFR will likely persist throughout much of the 
+upcoming period however, heavier showers may reduce visibility 
+at times, particularly for coastal terminals (KHQM & KUIL) late 
+overnight into Monday morning. Surface winds south-southeasterly
+5-10 kt with isolated gusts near 20 kt. Showers again into
+Monday with locally breezy winds.
+
+KSEA...VFR ceilings throughout the upcoming period. Winds out 
+of the south-southeast 5-10 kt.
+
+&&
+
+.MARINE...
+A low pressure system remains offshore this evening with the first 
+of a series of fronts lifting across the area. Advisories for winds 
+and seas over the coastal waters remain in effect as gusts to 30 kt 
+and seas around 10-13 ft will remain. Rough conditions on the Grays 
+Harbor bar will continue through the next 24 hours and likely 
+through most of the week.
+
+Winds will increase across the eastern Strait of Juan de Fuca and 
+the coastal waters by early Monday with the next disturbance moving 
+into the waters. This will bring frequent gale gusts to the eastern 
+Strait and inner coastal waters, as well as strong gales to the 
+outer coastal waters. Probabilistic guidance continues to reflect 60-
+75% chance of storm force gusts over the outer coastal waters by 
+late Monday afternoon, so a storm warning has been issued for the 
+outer coastal waters. In addition to strong winds, the offshore low 
+will continue to generate longer period swell that will enter the 
+coastal waters. This will result in building seas with a mix of long 
+period westerly and short period southerly components that will 
+maintain steep and confused conditions for the majority of the week 
+over the coastal waters. 
+
+Another round of high end gales and possible storm force gusts will 
+result late Wednesday into Thursday as the low tracks through the 
+region. This could bring more widespread gales into the north 
+interior waters and eastern Strait, but this remains dependent on 
+the path of the low. Regardless, expect at least 20-25 kt winds over 
+all waters into the Thanksgiving Day holiday, with gales likely 
+(>70%) over the coastal waters and eastern Strait.  Ensemble 
+guidance favors weak high pressure building over the waters Friday, 
+bringing a brief respite from the long duration of significant 
+winds. However, seas will continue to run high into the weekend as a 
+result of the stormy conditions and constant parade of lows.   Cullen
+
+
+&&
+
+.HYDROLOGY...
+Wetter systems moving into the region through this
+week will start to bring some rises to area rivers. At this 
+time, no widespread river flooding is expected, however the 
+Skokomish River will likely reach flood stage around midweek and
+possibly topping into moderate. A Hydrologic Outlook has been 
+issued regarding the rainfall and potential river flooding for 
+this timeframe.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Coastal Flood Advisory from 8 AM to 2 PM PST Monday for 
+     Eastern Strait of Juan de Fuca-Northern Washington Coast-
+     Western Strait of Juan de Fuca.
+
+     Winter Weather Advisory from 6 PM this evening to 4 PM PST 
+     Monday for Olympics.
+
+     Coastal Flood Warning from 8 AM to 2 PM PST Monday for Grays 
+     Harbor County Coast.
+
+PZ...Small Craft Advisory until 10 PM PST Monday for Grays Harbor 
+     Bar.
+
+     Small Craft Advisory from 10 PM this evening to 4 AM PST 
+     Tuesday for Central U.S. Waters Strait Of Juan De Fuca-
+     West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory until 10 PM PST this evening for East 
+     Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Gale Warning from 10 PM this evening to 3 PM PST Tuesday for 
+     East Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory from 10 PM this evening to 10 PM PST 
+     Monday for Admiralty Inlet-Northern Inland Waters 
+     Including The San Juan Islands.
+
+     Small Craft Advisory until 7 AM PST Monday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+     Gale Warning from 7 AM Monday to 3 PM PST Tuesday for Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville Out 
+     10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater Out 10 Nm.
+
+     Storm Warning from 7 AM Monday to 3 PM PST Tuesday for Coastal 
+     Waters From Cape Flattery To James Island 10 To 60 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm.
+
+&&
+
+$$

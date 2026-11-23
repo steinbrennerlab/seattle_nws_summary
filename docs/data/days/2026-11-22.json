@@ -1,11 +1,12 @@
 {
   "date": "2026-11-22",
-  "headline": "Showers today, then a wet, windy, stormy stretch through Thursday with coastal flooding risk.",
-  "summary": "A cold low-pressure system sitting offshore keeps spinning showers over western Washington today, with highs near 50 and mountain snow. Behind it, a trough aloft is deepening, and a line of Pacific storms and fronts is stacking up for the week. Monday brings steadier rain, heaviest in the Olympics and Cascades. A stronger front Tuesday into Wednesday brings widespread rain, winds, and high surf to the coast. The heaviest rain is expected Wednesday night into Thursday, with more wind. High tides raise the risk of coastal flooding, and the Skokomish River may rise toward flood stage. Forecasters are fairly confident about the week but less sure how high tides will affect Puget Sound and Strait coasts.",
-  "changes": "Forecasters now expect stronger winds Monday into Tuesday, and a storm warning has replaced the earlier gale watch for coastal and Strait waters. The heaviest rain has shifted later, to Wednesday night into Thursday, and each system is now seen as stronger than the last.",
-  "signature": "664de55227aa5403",
+  "headline": "Wet, breezy week ahead, with coastal flooding and gales likely and more systems through Thanksgiving.",
+  "summary": "A cold upper-level low parked offshore keeps showers over western Washington tonight. A dip in the high-altitude winds arriving Monday sends a string of storms our way through the week. Monday and Tuesday bring widespread rain and gusty southeast winds, strongest on the coast. The wettest stretch looks like Wednesday into Thursday, when the Skokomish River may near flood stage and the Grays Harbor coast could see flooding. Gales and high surf are likely into the holiday, with a brief break by Friday. Forecasters are fairly confident in a wet, windy week, but unsure how strong the midweek low will be, since its exact path matters.",
+  "changes": "Coastal flooding risk moved up: a flood warning now covers Monday morning's high tide on the Grays Harbor coast, where earlier discussions had only advisories. The latest discussion also adds a brief break in the winds by Friday.",
+  "signature": "04a6030233cde4d1",
   "discussions": [
     "AFDSEW_202611221102",
-    "AFDSEW_202611221823"
+    "AFDSEW_202611221823",
+    "AFDSEW_202611230002"
   ]
 }

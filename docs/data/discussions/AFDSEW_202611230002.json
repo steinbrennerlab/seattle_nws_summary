@@ -1,0 +1,69 @@
+{
+  "id": "AFDSEW_202611230002",
+  "issued": "2026-11-23T00:02:00+00:00",
+  "headline": "Wet, breezy week ahead; coastal flooding and gales likely, with more systems through Thanksgiving.",
+  "summary": "An upper low, a low-pressure system aloft, is stalling offshore and bringing light showers tonight. On Monday, a broad trough over the northeast Pacific opens up the pattern and sends a series of weather systems toward the region through the rest of the week.\n\nTonight brings light rain to lowlands and snow in the Olympics. Monday and Tuesday bring widespread rain and gusty southeast winds, strongest on the coast and in the San Juans and Island County. Wednesday into Thursday looks wettest, with the Skokomish River near flood stage and coastal flooding possible on the Grays Harbor coast. Coastal gales and high surf are likely into the holiday, with a brief break in the winds by Friday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Light showers bring lowland rain and snow in the Olympics, with a winter weather advisory in place there.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The first front brings widespread rain, gusty southeast winds on the coast, and morning high-tide coastal flooding on Grays Harbor.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Rain becomes less steady as the system moves away, but showers linger and coastal winds stay gusty.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "The heaviest rain of the period arrives, raising the Skokomish River and possibly flooding the Grays Harbor coast, with gales on the water.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Weak high pressure brings a brief break in the strong winds, but seas stay high into the weekend.",
+      "source": "marine"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in a wet, windy pattern all week, but they are unsure how strong the Wednesday-into-Thursday low will be and how widespread its gales and flooding will get, because that depends on the exact path of the low.",
+  "hazards": [
+    "Winter weather advisory for the Olympics, including Hurricane Ridge, from tonight into Monday afternoon, for several inches of snow.",
+    "Coastal flood warning for the Grays Harbor County coast during Monday morning's high tide, with moderate flooding expected in places like Ocean Shores and Westport.",
+    "Coastal flood advisory for the northern Washington coast and the Strait of Juan de Fuca for Monday morning's high tide.",
+    "Gale and storm warnings for the outer coastal waters from Monday into Tuesday afternoon, with possible storm-force gusts.",
+    "Small craft advisories for the coastal waters, Strait, and inland waters, with rough seas and steep, confused conditions through most of the week.",
+    "Hydrologic outlook for possible river flooding, with the Skokomish River expected to reach flood stage midweek."
+  ],
+  "glossary": [
+    {
+      "term": "Upper low",
+      "definition": "A low-pressure area high in the atmosphere that spins slowly and can keep showers going for a long time."
+    },
+    {
+      "term": "Trough",
+      "definition": "An elongated area of low pressure aloft that steers weather systems across a region."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs with slightly different starting conditions, used to show the range of possible outcomes."
+    },
+    {
+      "term": "Astronomical high tide",
+      "definition": "The highest tide predicted from the moon and sun alone, before any storm surge or wave effects are added."
+    },
+    {
+      "term": "Gale",
+      "definition": "Sustained wind of about 34 to 47 knots, or strong enough to be dangerous on open water."
+    }
+  ],
+  "calls": []
+}
