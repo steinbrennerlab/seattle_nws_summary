@@ -1,0 +1,68 @@
+{
+  "id": "AFDSEW_202611240431",
+  "issued": "2026-11-24T04:31:00+00:00",
+  "headline": "Stormy week of wind, rain, and coastal flooding; a ridge may bring a break Friday.",
+  "summary": "A series of storm systems is moving across western Washington this week, one after another. Behind them, forecasters are watching for a ridge of high pressure aloft to build over the weekend, which could bring a brief break. Its strength and exact position are still uncertain, and that will determine how much it affects western Washington.\n\nThe near-term weather is wet and breezy. Rain spreads inland overnight, and gusty southeast winds are strongest on the coast and the islands. Coastal flooding and high surf, combined with high tides, peak Tuesday and remain a concern through Thursday. Another round of widespread rain arrives Wednesday night into Thursday. Temperatures run above average, with highs in the 50s. Rivers will rise, and the Skokomish is likely to reach flood stage midweek.",
+  "timeline": [
+    {
+      "when": "Tonight through Tuesday",
+      "what": "Rain spreads inland overnight with gusty southeast winds, strongest on the coast and islands.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Coastal flooding and high surf are expected to peak with the high tides, with lingering showers and breezy winds.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "Another system brings widespread rain and breezy winds, with coastal flood concerns continuing.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The front moves out by evening, but gusty winds and periods of moderate to heavy rain persist, with coastal impacts peaking.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday through the weekend",
+      "what": "Showery activity lingers Friday, then a ridge may bring a brief break, with temperatures closer to average.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident the stormy pattern continues through Thursday, but they are uncertain about the weekend ridge's intensity and exact placement, which will shape its impact.",
+  "hazards": [
+    "Coastal flood warning for San Juan County on Tuesday morning and afternoon",
+    "Coastal flood watches for much of the Puget Sound lowlands, Hood Canal, and the coast from Tuesday night through Thursday afternoon",
+    "Coastal flood advisories for parts of the Puget Sound lowlands and north coast on Tuesday",
+    "High surf advisories for the north coast and Grays Harbor coast through Wednesday afternoon",
+    "Wind advisory for the Olympic foothills and coast until Tuesday afternoon",
+    "Winter weather advisory for the Cascades of Whatcom and Skagit counties until Tuesday night",
+    "River flood watch for Mason County from Wednesday morning through Sunday afternoon, with the Skokomish possibly reaching moderate flood stage",
+    "Flood watch for Olympic foothills, the middle Chehalis valley, southern Puget Sound, and the southern Hood Canal from Wednesday through Sunday",
+    "Storm and gale warnings on coastal and Strait of Juan de Fuca waters through Tuesday night"
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A elongated area of high pressure high in the atmosphere that usually brings drier, calmer weather to the region beneath it."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A storm system built around a boundary between warm and cold air, which typically brings a band of rain and shifting winds as it passes."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain. A higher snow level means less snow in the mountains and passes."
+    },
+    {
+      "term": "Coastal flood watch",
+      "definition": "A notice that flooding along the shoreline is possible, usually from high tides combined with storm surge and waves. A warning means flooding is expected or occurring."
+    },
+    {
+      "term": "High surf",
+      "definition": "Large, powerful waves along the coast that can be dangerous to people on beaches and rocks, and can add to coastal flooding during high tides."
+    }
+  ],
+  "calls": []
+}

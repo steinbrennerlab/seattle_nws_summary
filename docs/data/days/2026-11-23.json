@@ -1,12 +1,13 @@
 {
   "date": "2026-11-23",
-  "headline": "Wet, windy storms keep coming; coastal flooding peaks Tuesday and again Thursday.",
-  "summary": "A busy run of Pacific storms keeps western Washington wet and windy through much of the week. A slow-moving low offshore steers one front after another inland, with gusty southeast winds ahead of each. Rain falls in the lowlands and snow mostly stays at the higher Cascade passes. The coast and San Juans see the strongest wind and surf, with coastal flooding peaking Tuesday and again Thursday. Temperatures run above average early in the week, in the 50s. The Skokomish River may reach flood stage midweek, and flood watches cover several river valleys from Wednesday through Sunday. A possible late-week break depends on high pressure building in, and forecasters are unsure how strong it will be.",
-  "changes": "The latest update added coastal flood watches for Seattle and the Puget Sound lowlands from Tuesday night through Thursday, plus river flood watches running into the weekend. It also made the late-week break less certain, since its strength and placement are now described as unclear.",
-  "signature": "c329510009db0549",
+  "headline": "Stormy week of wind, rain, and coastal flooding; a weekend break is uncertain.",
+  "summary": "A slow-moving low-pressure system offshore is steering a series of Pacific storm fronts into western Washington, and the pattern stays active. Southeast winds ahead of each front bring repeated rounds of rain to the lowlands and snow to the higher passes. The strongest wind and surf are on the coast and islands, and coastal flooding from high tides and surf peaks Tuesday, with concern continuing through Thursday. Another widespread rain system arrives Wednesday night into Thursday, and rivers will rise, with the Skokomish likely reaching flood stage midweek. Temperatures run above average, with highs in the 50s. Later, a ridge of high pressure aloft may bring a brief weekend break, but its strength and position are uncertain.",
+  "changes": "Coastal flooding now peaks Tuesday rather than Wednesday, and coastal flood watches cover Seattle and the Puget Sound lowlands from Tuesday night through Thursday. The possible break has moved from Friday to the weekend, and forecasters remain unsure about it.",
+  "signature": "245d486dda72a356",
   "discussions": [
     "AFDSEW_202611231101",
     "AFDSEW_202611231706",
-    "AFDSEW_202611232221"
+    "AFDSEW_202611232221",
+    "AFDSEW_202611240431"
   ]
 }

@@ -1,0 +1,85 @@
+{
+  "id": "AFDSEW_202611240936",
+  "issued": "2026-11-24T09:36:00+00:00",
+  "headline": "Wet, windy week ahead; coastal flooding risk peaks Wednesday and Thanksgiving.",
+  "summary": "A busy storm track is pointing a series of Pacific frontal systems at Western Washington, steered by a fast jet stream. Each low stays offshore, but a strong jet streak aims a stronger front at the region midweek. A weak upper ridge over California offers only a brief break, since Washington sits too far north to benefit. Another large trough is expected offshore early next week, bringing active weather back as December arrives.\n\nWednesday and Thanksgiving look like the worst of it. Several inches of rain are possible in the Olympics, with gusty winds along the coast and a wet, breezy few days in the lowlands. High surf and some of the year's highest tides, combined with low pressure, raise the risk of major coastal flooding. The Skokomish River may reach flood stage midweek.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Rain lets up inland in the afternoon, then returns to the coast tonight, with gusty winds especially on the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "A stronger front brings widespread rain and strong winds, and coastal flooding and high surf peak on the Pacific coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday (Thanksgiving)",
+      "what": "Coastal flooding peaks along inland shorelines while rain and strong winds continue.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday into the weekend",
+      "what": "Friday brings a breather from the strongest winds, and a quieter spell is possible this weekend, though any break is expected to be brief.",
+      "source": "long_term"
+    },
+    {
+      "when": "Early next week",
+      "what": "A broad trough offshore brings a return to more active, unsettled weather as December begins.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident the wet, stormy pattern holds through Thursday and returns early next week, but they say there is a fair degree of uncertainty in the early part of the extended forecast, including how long the weekend break lasts.",
+  "hazards": [
+    "Coastal flood watch from late tonight through Thursday afternoon for much of the Puget Sound lowlands, Seattle, Everett, Kitsap, Pierce, and Olympia areas, and the outer coast",
+    "Coastal flood advisory this afternoon for Seattle and Everett-area shorelines",
+    "Coastal flood warning this morning through the afternoon for parts of the Strait of Juan de Fuca and the Grays Harbor and northern Washington coasts",
+    "River flood watch for Mason County (Skokomish River) from Wednesday morning through Sunday afternoon",
+    "Flood watch Wednesday through Sunday for the Olympics, their foothills, the Chehalis Valley, and southern Puget Sound",
+    "High surf advisory on the coast through Wednesday afternoon",
+    "Wind advisory on the coast and Olympic foothills until this afternoon",
+    "Winter weather advisory for the Cascades of Whatcom and Skagit counties until 10 PM tonight",
+    "Gale and storm warnings for coastal and Strait waters, with small craft advisories for inland waters"
+  ],
+  "glossary": [
+    {
+      "term": "jet streak",
+      "definition": "A fast-moving core of wind within the jet stream. As it passes overhead, it can strengthen storms beneath it."
+    },
+    {
+      "term": "upper ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere. It usually brings drier weather to the area beneath it."
+    },
+    {
+      "term": "ensemble",
+      "definition": "A set of many computer forecast runs with slightly different starting conditions. Forecasters use how closely they agree to judge confidence."
+    },
+    {
+      "term": "Olympic rain shadow",
+      "definition": "The drier area east of the Olympic Mountains, where much of the rain that falls on the peninsula's west side does not reach."
+    },
+    {
+      "term": "pressure gradient",
+      "definition": "How quickly air pressure changes over distance. A steep gradient drives strong winds."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The weekend break is likely to be short, and forecasters are unsure how long it will last.",
+      "about": "weekend",
+      "stance": "uncertain",
+      "quote": "A fair degree of uncertainty hangs over the early portion of the extended forecast.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "A broad trough settling offshore should bring active weather back early next week.",
+      "about": "early next week",
+      "stance": "expected",
+      "quote": "Ensembles show good agreement by early next week with another broad upper trough taking up residence offshore",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}
