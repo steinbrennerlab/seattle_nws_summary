@@ -1,0 +1,61 @@
+{
+  "id": "AFDSEW_202611231706",
+  "issued": "2026-11-23T17:06:00+00:00",
+  "headline": "Wet, windy week ahead with coastal flooding risk and mountain snow; strongest impacts midweek.",
+  "summary": "A series of Pacific weather systems is driving the pattern this week. An upper-level low is lingering offshore while one front after another moves onshore, keeping things wet and windy through Thursday. Forecasters expect the pattern to stay active, with a possible break late in the week as high pressure builds back in.\n\nFor most people, that means on-and-off rain across western Washington and mountain snow in the passes, with snow levels rising to around 5,000 feet by Tuesday. Gusts near 40 mph are likely along the coast. The bigger concern is water: high tides and surf could cause coastal flooding in Grays Harbor County, and the Skokomish River may reach flood stage midweek.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Showers and mountain snow continue, with coastal flooding possible at the morning high tide in Grays Harbor County and wind advisories starting this afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight into Tuesday",
+      "what": "A front brings widespread rain, snow levels climb, coastal gusts reach about 40 mph, and the North Cascades passes get several inches of snow.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday into Thursday",
+      "what": "Another system brings more lowland rain, breezy winds, and mountain snow, with the heaviest rain likely over the Olympics and possible moderate to major coastal flooding.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday into the weekend",
+      "what": "Winds ease on Friday, with a break from strong winds before it turns breezy again next weekend, and seas drop.",
+      "source": "marine"
+    }
+  ],
+  "confidence": "Confidence in coastal flooding during Wednesday's tides is increasing, but forecasters say impacts along the Strait and Puget Sound shorelines and the details of later systems still need close monitoring as new model guidance arrives.",
+  "hazards": [
+    "Winter Weather Advisory for the Olympics until 4 PM today",
+    "Winter Weather Advisory for the Cascades of Whatcom and Skagit counties until 10 PM Tuesday",
+    "Coastal Flood Warning for the Grays Harbor County coast this afternoon",
+    "Coastal Flood Advisory for the north coast and Strait of Juan de Fuca this afternoon",
+    "Wind Advisory for the Olympic foothills, Grays Harbor County coast, and northern Washington coast until 4 PM Tuesday",
+    "Gale and storm warnings for coastal waters and parts of the Strait until 3 PM Tuesday, plus small craft advisories for inland waters",
+    "Hydrologic Outlook for possible river flooding on the Skokomish River midweek"
+  ],
+  "glossary": [
+    {
+      "term": "snow level",
+      "definition": "The elevation above which precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "upper-level low",
+      "definition": "A low-pressure system high in the atmosphere that can bring clouds, showers, and unsettled weather to the surface below."
+    },
+    {
+      "term": "ensembles",
+      "definition": "Many forecast model runs started from slightly different conditions, used to judge how much confidence to place in a forecast."
+    },
+    {
+      "term": "Hydrologic Outlook",
+      "definition": "A National Weather Service message that river flooding is possible, issued before a formal flood warning would be needed."
+    },
+    {
+      "term": "storm warning",
+      "definition": "A marine warning for very strong winds on open waters, typically about 48 knots or more."
+    }
+  ],
+  "calls": []
+}

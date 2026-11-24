@@ -1,10 +1,12 @@
 {
   "date": "2026-11-23",
-  "headline": "A series of Pacific storms brings wet, windy weather and coastal flooding through Wednesday.",
-  "summary": "A slow-moving storm sitting offshore is steering a series of Pacific storms toward western Washington through much of the week. Winds blow from the southeast ahead of each one. Each storm brings more rain to the lowlands and snow to the mountains. Expect wet, breezy weather through Thursday, with the heaviest rain and flood risk on the Olympic Peninsula and Grays Harbor coast. Coastal flooding and high surf are the biggest worry around Wednesday's high tides, and mountain passes, especially in the North Cascades, will see the most snow. Friday brings a break before winds return next weekend. Forecasters are fairly confident about Wednesday's coastal flooding but less sure of the Wednesday-into-Thursday system and tide timing on the Strait and Sound.",
-  "changes": "",
-  "signature": "e828480d1135c435",
+  "headline": "Wet, windy storms keep coming; coastal flooding peaks Tuesday and again Thursday.",
+  "summary": "A busy run of Pacific storms keeps western Washington wet and windy through much of the week. A slow-moving low offshore steers one front after another inland, with gusty southeast winds ahead of each. Rain falls in the lowlands and snow mostly stays at the higher Cascade passes. The coast and San Juans see the strongest wind and surf, with coastal flooding peaking Tuesday and again Thursday. Temperatures run above average early in the week, in the 50s. The Skokomish River may reach flood stage midweek, and flood watches cover several river valleys from Wednesday through Sunday. A possible late-week break depends on high pressure building in, and forecasters are unsure how strong it will be.",
+  "changes": "The latest update added coastal flood watches for Seattle and the Puget Sound lowlands from Tuesday night through Thursday, plus river flood watches running into the weekend. It also made the late-week break less certain, since its strength and placement are now described as unclear.",
+  "signature": "c329510009db0549",
   "discussions": [
-    "AFDSEW_202611231101"
+    "AFDSEW_202611231101",
+    "AFDSEW_202611231706",
+    "AFDSEW_202611232221"
   ]
 }

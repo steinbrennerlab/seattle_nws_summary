@@ -1,0 +1,62 @@
+{
+  "id": "AFDSEW_202611232221",
+  "issued": "2026-11-23T22:21:00+00:00",
+  "headline": "A series of wet, windy systems through the week, with coastal flooding risk peaking Tuesday.",
+  "summary": "The region is under a busy stretch of Pacific weather. One low-pressure system and its front after another is moving in, and forecasters expect that pattern to continue through much of the week. Later in the week, a ridge of high pressure in the upper atmosphere may build over the region and bring a brief break. Forecasters are unsure how strong that ridge will be or exactly where it will sit.\n\nFor most people, this means repeated rounds of rain and gusty southeast winds, strongest on the coast and in the San Juans. High surf and high tides are expected to cause coastal flooding, peaking Tuesday and again Thursday. Temperatures run above average early in the week, with highs in the 50s. Snow stays mostly at higher Cascade passes, and the Skokomish River may reach flood stage midweek.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain spreads inland from the coast with gusty southeast winds, strongest near the coast and in the San Juans.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday",
+      "what": "Showers and breezy winds linger after the front, and coastal flooding and high surf peak.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into early Thursday",
+      "what": "Another system brings widespread rain and breezy winds, and tide concerns reach inland coastlines.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "Another round of gusty winds and possibly moderate to heavy rain arrives, with high surf and coastal flooding at their worst.",
+      "source": "long_term"
+    },
+    {
+      "when": "Friday into the weekend",
+      "what": "Activity eases and temperatures return near average, then a building ridge may bring a brief dry spell, though its strength is uncertain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident in the wet, windy, and high-surf pattern through Thursday because the systems are already well defined. They are much less sure about the weekend ridge, since its strength and exact placement are still uncertain.",
+  "hazards": [
+    "Coastal flood warnings for San Juan County and parts of the Strait of Juan de Fuca, Grays Harbor coast, and northern coast on Tuesday.",
+    "Coastal flood watches for Seattle, the Puget Sound lowlands, and the coast from Tuesday night through Thursday afternoon.",
+    "Wind advisories along the coast and Olympic foothills through Tuesday.",
+    "High surf advisories for the outer coast from Tuesday into Wednesday.",
+    "Winter weather advisory for the Whatcom and Skagit Cascades through Tuesday night.",
+    "River flood watch for Mason County and flood watches for the western Olympics, Chehalis valley, and Olympia area from Wednesday through Sunday.",
+    "Gale and storm warnings for coastal and Strait waters through Tuesday night."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of higher air pressure high in the atmosphere that usually means drier, calmer weather at the surface."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Flood stage",
+      "definition": "The river level at which flooding begins to affect nearby areas."
+    },
+    {
+      "term": "Coastal flood watch",
+      "definition": "A alert that coastal flooding is possible, usually from high tides combined with waves and wind. A warning means flooding is expected."
+    }
+  ],
+  "calls": []
+}
