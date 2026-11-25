@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-17",
-  "end": "2026-11-23",
-  "headline": "Forecasters held to a dry midweek, then a stormy Pacific pattern grew wetter, windier, and coastal-flood prone.",
-  "summary": "From the start, forecasters saw a quiet, foggy, dry stretch under a ridge of high pressure (a dome of settled air) on Thursday and Friday, and that call never wavered. What changed was the outlook beyond it. On Tuesday, Nov 17, the jet stream (the fast band of high-altitude wind) was expected to dip over the Pacific and aim stronger storms at us early the following week. Later in the week the weekend looked weak, with only light lowland rain and a little mountain snow. By Saturday, Nov 21, a cold upper-level low was expected to stall offshore, then get pulled into a broad dip in the winds over the northeast Pacific around Monday, opening the door to a string of storms.\n\nThe storm week also came into sharper focus. Coastal flooding at high tide, and strong winds and high seas on the coast, went from a passing mention to the main concern. Early on, the worry was Tuesday. By Sunday, Nov 22, the first flooding risk was moved up to Monday morning on the Grays Harbor coast, and wind and flood warnings replaced watches. By Monday, Nov 23, forecasters expected repeated rounds of rain, mountain snow, and southeast winds through Thursday, with the worst flood risk on the Olympic Peninsula and the coast. They were fairly confident about Wednesday's coastal flooding but less sure about the strength of the Wednesday-into-Thursday system and tide timing on the Strait and Sound. A break is expected Friday, with winds returning next weekend.",
+  "start": "2026-11-19",
+  "end": "2026-11-25",
+  "headline": "A calm, foggy ridge gave way to a stormy Pacific pattern that held all week.",
+  "summary": "Forecasters began the week expecting a few quiet, foggy days under a strong ridge of high pressure aloft (a dome of high pressure high in the atmosphere). They were also confident that it would fade over the weekend, with light rain and mountain snow showers as a cold low (an upper low) drifted offshore and stalled. The bigger story was always what came next: a broad dip in the jet stream over the northeast Pacific (a trough) that would send a string of storms toward Washington. That call held steady all week. What changed was the details. Forecasters grew more confident about strong coastal winds and high seas, and the coastal flooding worry moved around, first midweek, then Monday morning's high tide, then Tuesday. By midweek the peak had shifted to late Wednesday into Thursday, when some of the year's highest tides were expected to line up with the storms.\n\nBy Tuesday and Wednesday the forecast pointed to a wet, windy Thanksgiving, with about an inch of rain in the lowlands and several inches in the Olympics and Cascades. Coastal flooding was expected to remain the biggest concern through Friday, and the Skokomish River was expected to reach flood stage. Snow levels stayed high, so rain fell at most elevations, but the North Cascades could still get heavy snow. Forecasters were never confident about a possible weekend lull under building high pressure. Its timing slipped from Friday to the weekend, and they still saw more storms likely early next week.",
   "turning_points": [
     {
-      "date": "Tue Nov 17",
-      "what": "Forecasters added a wetter, windier pattern for early next week, as the jet stream was expected to steer stronger storms toward us."
-    },
-    {
-      "date": "Thu Nov 19",
-      "what": "Confidence grew in strong coastal winds peaking Tuesday, and a light Saturday evening rain and snow forecast was added."
-    },
-    {
       "date": "Sat Nov 21",
-      "what": "The offshore low's stall and its pull into a broad trough became clear, and coastal flooding became a growing concern."
+      "what": "Forecasters became more sure the stalled upper low would give way to a busy storm week, and they began flagging coastal flooding and mountain snow."
     },
     {
       "date": "Sun Nov 22",
-      "what": "The main flooding risk moved up to Monday morning's high tide, and a coastal flood warning and wind warnings were issued."
+      "what": "The main coastal flooding concern moved up to Monday morning's high tide, and warnings replaced watches for the outer coast."
+    },
+    {
+      "date": "Mon Nov 23",
+      "what": "Coastal flooding was expected to peak Tuesday, with watches extended to the Puget Sound lowlands, and the hoped-for break slipped to the weekend."
+    },
+    {
+      "date": "Tue Nov 24",
+      "what": "The storm's peak shifted to late Wednesday into Thursday, with very high tides and a Winter Storm Watch for the North Cascades."
     }
   ],
-  "signature": "2791c7a125e31c0a",
-  "written": "2026-11-23"
+  "signature": "1a0b3f3110ba085d",
+  "written": "2026-11-25"
 }

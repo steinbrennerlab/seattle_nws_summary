@@ -1,0 +1,95 @@
+{
+  "id": "AFDSEW_202611251003",
+  "issued": "2026-11-25T10:03:00+00:00",
+  "headline": "Wet, windy Thanksgiving with coastal flooding threat through Friday; unsettled into early next week.",
+  "summary": "A series of Pacific weather systems will keep the pattern active through the end of the week. A warm front lifts north today, followed by a cold front Thursday. A weaker system arrives Friday, riding over a ridge of high pressure building toward California. Forecasters expect a short lull over the weekend, then another run of systems returns early next week. High tides, storm surge, and large surf are adding to the coastal threat.\n\nFor most of western Washington, that means a wet, windy Thanksgiving. Gusts near 50 mph are possible on the coast and in the northern interior, with breezy conditions in Puget Sound. Rain totals run from about an inch in the lowlands to several inches in the Olympics and Cascades. Winds ease Thursday afternoon, but coastal flooding remains the bigger concern through Friday, and a river in Mason County is expected to reach flood stage midweek.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Rain continues, and a warm front approaches, bringing rain and wind to the coast by evening.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight into Thursday",
+      "what": "The strongest system arrives, with gusty winds on the coast and north interior and heavier rain inland.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "A cold front sweeps inland in the afternoon with showers, perhaps an isolated thunderstorm, and winds gradually easing.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A weaker system arrives later in the day, and coastal flooding from high tides and surge continues.",
+      "source": "short_term"
+    },
+    {
+      "when": "The weekend",
+      "what": "A brief break with weak ridging is possible, but a completely dry stretch is hard to count on.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters say the overall picture has changed little, so the Thursday storm and the coastal flooding are well supported. The weekend break is less certain, since ensemble forecasts (groups of model runs) show a lull, but forecasters doubt it would stay dry for long.",
+  "hazards": [
+    "Wind advisories for much of the Puget Sound lowlands, the coast, and the northern interior from tonight through Thursday morning",
+    "Coastal flood watch for Seattle, the Puget Sound shoreline, and the north coast from late tonight through Thursday afternoon",
+    "Coastal flood warning for parts of the Strait of Juan de Fuca and the outer coast until 4 PM today",
+    "Winter storm warning for the Cascades of Whatcom and Skagit counties from 7 PM tonight to 4 AM Friday",
+    "River flood watch for Mason County from Wednesday morning through Sunday afternoon",
+    "Flood watch for the Olympics, Olympia area, and Southern Hood Canal through Sunday afternoon",
+    "Storm warnings and gale warnings for coastal and strait waters, with high surf advisories on the coast"
+  ],
+  "glossary": [
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air pushing into colder air, usually bringing steady rain and a shift in wind."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of colder air pushing under warmer air, often bringing a brief burst of showers and gusty winds, then clearing."
+    },
+    {
+      "term": "Upper ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere, which tends to push storms away and bring drier weather at the surface."
+    },
+    {
+      "term": "Storm surge",
+      "definition": "Water pushed toward shore by strong winds and low air pressure, which adds to the height of the tide."
+    },
+    {
+      "term": "Ensemble forecasts",
+      "definition": "A set of computer model runs with slightly different starting conditions, used to show the range of possible outcomes."
+    },
+    {
+      "term": "Rain shadow",
+      "definition": "The drier area on the far side of mountains from the prevailing wind, which receives much less rain than nearby higher ground."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Coastal flooding will remain the main hazard through Friday as high tides combine with storm surge and high surf.",
+      "about": "Friday",
+      "stance": "expected",
+      "quote": "As has been the case in recent days, coastal flooding will continue to be the headline-making hazard",
+      "source": "short_term",
+      "signer": "27"
+    },
+    {
+      "claim": "A completely dry weekend is doubtful, even though models show a brief break.",
+      "about": "Friday night through the weekend",
+      "stance": "doubtful",
+      "quote": "it would be tough to completely remove any chance of precip for more than about 12 hours",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Another run of systems will move onshore early next week.",
+      "about": "Early next week",
+      "stance": "expected",
+      "quote": "Broad upper troughing returns to the offshore waters by early next week with another parade of systems marching onshore into the West Coast.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

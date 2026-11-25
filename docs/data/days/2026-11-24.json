@@ -1,12 +1,13 @@
 {
   "date": "2026-11-24",
-  "headline": "Wet, windy stretch with coastal flooding and mountain snow peaking Thursday.",
-  "summary": "A busy Pacific storm track is aiming fronts at Western Washington, steered by a fast jet stream high overhead. Lows stay offshore, but each system brings rain and wind. A weak ridge of high pressure offers only brief breaks, since Washington sits too far north to benefit. Thursday looks like the peak, with a front bringing strong winds, wind advisories, and heavy rain bands. High astronomical tides, the unusually high tides from moon and sun alignments, coincide with the storms and raise flood risk along waterfronts. Heavy snow is possible in the North Cascades passes. Friday brings some easing, Saturday a brief dry break, and more systems return from Sunday. Forecasters are fairly confident about the next two days, less so about the weekend and later, when coastal flooding could return.",
-  "changes": "The afternoon update shifted the peak toward Thursday and added mountain snow, with a winter storm watch for the North Cascades passes. It also warned that the wind could make holiday travel harder.",
-  "signature": "bcabb37b18a251a5",
+  "headline": "Wet, windy stretch peaks Thursday, with coastal flooding and mountain snow expected.",
+  "summary": "Busy Pacific storms are heading for western Washington, steered by a fast jet stream high overhead. Each storm's center stays offshore, but its fronts bring rain and wind. The main event hits late Wednesday into Thursday, with strong winds, heavy rain, and wind advisories. Some of the year's highest tides coincide with the storms, keeping coastal flooding a serious risk, with major flooding possible at a few sites Thursday. Rain falls at most elevations because the snow line stays high, but the North Cascades passes could get up to 15 inches. Saturday may bring a brief break, and more systems return Sunday. Forecasters are fairly confident about the next two days, but less so about the weekend and beyond, when coastal flooding could return.",
+  "changes": "Later updates moved the peak to Thursday and added a Winter Storm Watch for the North Cascades, including Washington Pass. The Skokomish River was also now expected to reach moderate flood stage midweek.",
+  "signature": "63f4de38953b7ebb",
   "discussions": [
     "AFDSEW_202611240936",
     "AFDSEW_202611241702",
-    "AFDSEW_202611242225"
+    "AFDSEW_202611242225",
+    "AFDSEW_202611250400"
   ]
 }

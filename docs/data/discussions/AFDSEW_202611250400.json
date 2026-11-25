@@ -1,0 +1,79 @@
+{
+  "id": "AFDSEW_202611250400",
+  "issued": "2026-11-25T04:00:00+00:00",
+  "headline": "Wet, windy stretch through Thursday, with coastal flooding and mountain snow.",
+  "summary": "A busy Pacific weather pattern is sending a series of disturbances across western Washington, and forecasters expect it to last through the end of this week. A batch of high astronomical tides keeps coastal flooding in play. Rain is expected to give way to a brief break Saturday, but more low-pressure systems are forecast to return from offshore starting Sunday.\n\nExpect a wet, breezy stretch, with rain at most elevations because snow levels are high, and snow in the North Cascades passes. The main event arrives late Wednesday into Thursday, with wind advisories and widespread coastal flooding likely. Strong winds linger through much of Thursday, which could make holiday travel harder along I-5. Coastal flooding eases a bit Friday.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain continues, mostly over the Olympics and east of the Sound, while winds ease in Puget Sound.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "Coastal flood warnings and gusty winds affect some spots, especially along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "A front brings heavier rain, strong winds, mountain snow in the North Cascades, and widespread coastal flooding.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday and Saturday",
+      "what": "Coastal flooding eases a bit Friday, then most of the area gets a brief break from rain Saturday.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday through Tuesday",
+      "what": "More low-pressure systems return from offshore, keeping conditions active and possibly bringing coastal flooding back.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "The discussion sounds fairly confident about the front arriving Wednesday night into Thursday, since it is close enough to track and matches recent model output. Confidence drops for the weekend and next week, which rely on extended model guidance and are described with words like indication.",
+  "hazards": [
+    "Coastal Flood Warning for San Juan County early Wednesday morning",
+    "Coastal Flood Watch for Seattle, Puget Sound lowlands, and other coastal areas from late Wednesday night through Thursday afternoon",
+    "Wind Advisories across much of western Washington from Wednesday evening into Thursday",
+    "Winter Storm Watch for the Whatcom and Skagit Cascades, with up to 15 inches of snow possible at pass level and above 5,000 feet, Wednesday night through Thursday",
+    "River Flood Watch for Mason County, including the Skokomish River, from Wednesday through Sunday",
+    "Flood Watch for the Olympic foothills and Chehalis River valleys from Wednesday through Sunday",
+    "High Surf Advisory and Storm and Gale Warnings for coastal and Strait of Juan de Fuca waters"
+  ],
+  "glossary": [
+    {
+      "term": "High astronomical tides",
+      "definition": "Unusually high tides caused by the positions of the moon and sun. They raise the water level, so storm waves and surge can flood low coastal areas more easily."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain. When it is high, mountain areas get snow while lowlands get rain."
+    },
+    {
+      "term": "Front",
+      "definition": "The boundary between two different air masses, usually marked by a change in wind, temperature, and rain. Fronts often bring the rain and wind that come with storm systems."
+    },
+    {
+      "term": "Flood stage",
+      "definition": "The river level at which flooding begins to affect the area around the river. Forecasters describe how far above flood stage a river may rise, such as minor, moderate, or major."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Coastal flooding may return over the weekend as low pressure moves in.",
+      "about": "the weekend",
+      "stance": "possible",
+      "quote": "low pressure over the weekend could bring the threat back per the extended model guidance",
+      "source": "long_term",
+      "signer": "21"
+    },
+    {
+      "claim": "Active, wet weather is expected to continue into early December.",
+      "about": "Sunday and beyond",
+      "stance": "expected",
+      "quote": "This will keep conditions active into early December.",
+      "source": "long_term",
+      "signer": "21"
+    }
+  ]
+}

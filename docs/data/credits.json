@@ -1,5 +1,5 @@
 {
-  "judged_through": "2026-11-15",
+  "judged_through": "2026-11-22",
   "credits": [
     {
       "category": "early",
@@ -58,6 +58,64 @@
       "id": "clear:AFDSEW_202611151125:10d52b30",
       "week": "2026-11-09",
       "awarded": "2026-11-18"
+    },
+    {
+      "category": "early",
+      "signer": "Mazurkiewicz",
+      "discussion": "AFDSEW_202611162248",
+      "issued": "2026-11-16T22:48:00+00:00",
+      "quote": "Latest ensemble guidance suggests a more active, wetter pattern through the first half of the week with multiple systems entering the area.",
+      "claim": "A wetter, more active weather pattern is expected to set up over the weekend and early next week.",
+      "why": "On Nov 16 forecasters flagged a wetter, more active pattern with multiple systems for early next week, and the later discussions described a stormy, wet, windy week with repeated Pacific fronts.",
+      "id": "early:AFDSEW_202611162248:c0c6a1e4",
+      "week": "2026-11-16",
+      "awarded": "2026-11-25"
+    },
+    {
+      "category": "early",
+      "signer": "15",
+      "discussion": "AFDSEW_202611182200",
+      "issued": "2026-11-18T22:00:00+00:00",
+      "quote": "Astronomical tides will also peak next week, bringing increased potential for coastal flooding, which may be enhanced by this incoming low pressure system.",
+      "claim": "Higher tides next week could lead to coastal flooding, possibly made worse by the incoming storm.",
+      "why": "On Nov 18 forecasters warned that peak tides next week plus an incoming low could raise coastal flooding risk, and later discussions confirmed coastal flooding peaking Tuesday through Thursday, with major flooding possible at a few sites.",
+      "id": "early:AFDSEW_202611182200:59b2f7de",
+      "week": "2026-11-16",
+      "awarded": "2026-11-25"
+    },
+    {
+      "category": "uncertainty",
+      "signer": "Felton",
+      "discussion": "AFDSEW_202611191114",
+      "issued": "2026-11-19T11:14:00+00:00",
+      "quote": "Will have to keep an eye on this one with some of the solutions indicating a much further east track than the low Tuesday night.",
+      "claim": "The Wednesday system could be stronger or track differently than most models show, so forecasters are watching it closely.",
+      "why": "Forecasters doubted the Wednesday night system and said some solutions showed a stronger, more easterly track, and later discussions made it the main event, with strong winds, heavy rain, wind advisories and a wet, windy Thanksgiving.",
+      "id": "uncertainty:AFDSEW_202611191114:f0e8e170",
+      "week": "2026-11-16",
+      "awarded": "2026-11-25"
+    },
+    {
+      "category": "clear",
+      "signer": "Felton",
+      "discussion": "AFDSEW_202611181056",
+      "issued": "2026-11-18T10:56:00+00:00",
+      "quote": "This will mean just glancing blows for Western Washington from the moisture bands spinning around the low. If the low ends up inside 130W much better chance for showers over the weekend.",
+      "why": "It names the one thing that decides the weekend forecast, where the offshore low stalls, and says how each outcome changes the weather.",
+      "id": "clear:AFDSEW_202611181056:e18f5a28",
+      "week": "2026-11-16",
+      "awarded": "2026-11-25"
+    },
+    {
+      "category": "clear",
+      "signer": "27",
+      "discussion": "AFDSEW_202611172135",
+      "issued": "2026-11-17T21:35:00+00:00",
+      "quote": "helping carve out a rather deep mean trough position out around 140W. This is expected to send a series of more vigorous frontal systems into the region with more widespread precip, mountain snow, and windy conditions at times.",
+      "why": "It connects a Pacific jet stream and a deep trough to the shift from a quiet stretch to a stormier week.",
+      "id": "clear:AFDSEW_202611172135:e6b0b42a",
+      "week": "2026-11-16",
+      "awarded": "2026-11-25"
     }
   ]
 }
