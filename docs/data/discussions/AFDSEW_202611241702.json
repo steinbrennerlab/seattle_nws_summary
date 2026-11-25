@@ -1,0 +1,93 @@
+{
+  "id": "AFDSEW_202611241702",
+  "issued": "2026-11-24T17:02:00+00:00",
+  "headline": "Wet, windy systems through Thanksgiving, with coastal flooding risk peaking Wednesday and Thursday.",
+  "summary": "A series of Pacific storm fronts is crossing the region, pushed along by a strong jet stream, the fast band of wind high overhead. A stronger system follows, with its parent low staying well offshore to the northwest. A weak upper ridge, an area of high pressure aloft, may bring somewhat quieter weather over the weekend, but Washington sits too far north to benefit much, so breaks stay brief. An offshore trough then returns more active weather as December arrives.\n\nFor most people, that means a wet, windy stretch. Wednesday brings only a brief lull before heavier rain in the Olympics and Cascades. Strong southeasterly winds are likely along the coast and north interior Wednesday night into Thursday. The bigger worry is coastal flooding, as high surf and low pressure coincide with some of the year's highest tides. Friday offers a reprieve from the strongest winds.",
+  "timeline": [
+    {
+      "when": "Tuesday",
+      "what": "A front spreads rain inland, with a lull by afternoon and gusty winds, especially along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tonight",
+      "what": "What is left of the front moves onshore, bringing rain back and keeping coastal winds gusty.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "A brief lull ends as a stronger system approaches, and coastal flooding and high surf peak along the Pacific coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "Heavy rain and strong southeasterly winds hit the coast and north interior, with the worst flooding inland on Thanksgiving.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A break from the strongest winds, though winds pick up again later in the weekend.",
+      "source": "marine"
+    }
+  ],
+  "confidence": "Forecasters are fairly sure of the wet, windy pattern through Thursday, but the early part of the extended outlook is uncertain because systems keep riding over a weak ridge that offers little relief. Early next week's return to active weather is more confident, since the models agree well on it.",
+  "hazards": [
+    "Coastal flood watches for much of the Puget Sound lowlands and outer coast, including Wednesday and Thursday",
+    "Coastal flood warnings and advisories for some coastal and inland shoreline areas this afternoon",
+    "High surf advisory for the Grays Harbor and northern Washington coasts through Wednesday",
+    "Wind advisory for the coast and Olympic foothills this evening",
+    "Winter weather advisory for the Whatcom and Skagit Cascades this evening",
+    "Winter storm watch for the Whatcom and Skagit Cascades Wednesday night through Thursday",
+    "Flood watch for parts of the Olympics, Chehalis Valley, Southern Puget Sound, and Hood Canal from Wednesday through Sunday",
+    "River flood watch for Mason County, where the Skokomish River may flood midweek",
+    "Gale and storm warnings for coastal and Strait of Juan de Fuca waters, with small craft advisories elsewhere"
+  ],
+  "glossary": [
+    {
+      "term": "Upper ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that tends to bring drier weather to the area beneath it."
+    },
+    {
+      "term": "Jet stream",
+      "definition": "A fast, narrow current of wind high in the atmosphere that steers storm systems."
+    },
+    {
+      "term": "Parent low",
+      "definition": "The main low-pressure center that spins off weather systems, here staying well to the northwest of Washington."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain."
+    },
+    {
+      "term": "Coastal flood watch",
+      "definition": "An alert that coastal flooding is possible, so people should be prepared; a warning means it is expected or happening."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A broad trough offshore is expected to bring more active weather in early next week as December begins.",
+      "about": "Early next week",
+      "stance": "expected",
+      "quote": "Ensembles show good agreement by early next week with another broad upper trough taking up residence offshore for a return to more active conditions as December arrives.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Breaks between systems will be short, because the upper ridge is too far north to help Western Washington.",
+      "about": "Thursday night through Monday",
+      "stance": "expected",
+      "quote": "Western Washington is simply too far north to really benefit from that as systems ride over the top of the ridge into the area.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Coastal flooding could be major, as high surf and low pressure coincide with some of the year's highest tides.",
+      "about": "Wednesday and Thanksgiving Day",
+      "stance": "possible",
+      "quote": "will create the potential of major coastal flooding.",
+      "source": "short_term",
+      "signer": "27"
+    }
+  ]
+}

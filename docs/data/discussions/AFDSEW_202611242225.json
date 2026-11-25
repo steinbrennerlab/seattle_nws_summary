@@ -1,0 +1,91 @@
+{
+  "id": "AFDSEW_202611242225",
+  "issued": "2026-11-24T22:25:00+00:00",
+  "headline": "Another round of wind, rain, coastal flooding, and mountain snow hits Wednesday night through Thursday.",
+  "summary": "A busy, wet weather pattern off the Pacific is continuing. A series of weather systems, each with a front that brings rain and wind, is moving through the area, and more are lined up into early December. Forecasters also point to high astronomical tides, which are the unusually high tides that come with certain moon and sun alignments. Together with the storms, they keep coastal flooding a threat through the end of the week.\n\nThursday looks like the peak. A front pushes in with strong winds, widespread wind advisories, and heavy bands of rain, and high tides arrive at the same time, raising the risk of flooding along waterfronts. The North Cascades passes could get as much as around 15 inches of snow. Friday brings some easing of the coastal flood threat, Saturday brings a brief dry break for most areas, and more systems return from Sunday on.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain and gusty winds continue as the front moves inland, with winds easing in Puget Sound but staying gusty on the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Wednesday night into Thursday",
+      "what": "The next front brings the strongest winds of the period, high tides, heavy rain, and mountain snow.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "The coastal flood threat eases slightly, though it is not over.",
+      "source": "long_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Most of the area gets a brief break from precipitation.",
+      "source": "long_term"
+    },
+    {
+      "when": "Sunday and beyond",
+      "what": "More low pressure systems return, keeping conditions active into early December.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the next two days, since the systems are already close and the warnings are in place. The weekend and later rely on extended model guidance, which the forecasters say could bring coastal flooding back, so that part is less certain.",
+  "hazards": [
+    "Coastal flood warnings and watches for much of the Puget Sound lowlands, the northern coast, and the Strait of Juan de Fuca, with major flooding possible at a few sites on Thursday",
+    "Wind advisories for much of western Washington from Wednesday evening into Thursday, which could make holiday travel harder",
+    "Winter Storm Watch for the North Cascades, including Washington Pass, from Wednesday night into Thursday",
+    "Winter Weather Advisory for Whatcom and Skagit County Cascades this evening",
+    "River flood watch for Mason County, with the Skokomish River expected to reach moderate flood stage midweek",
+    "Flood watch for the Olympic foothills and southern Puget Sound from Wednesday through Sunday",
+    "Gale and storm warnings for coastal and inland waters, with storm-force winds possible on the coast Wednesday"
+  ],
+  "glossary": [
+    {
+      "term": "High astronomical tides",
+      "definition": "Unusually high tides caused by the alignment of the sun and moon. They raise the water level, which makes coastal flooding more likely during storms."
+    },
+    {
+      "term": "Frontal system",
+      "definition": "A storm system with a boundary, or front, where warm and cold air meet. Fronts usually bring a band of rain and a shift in wind direction."
+    },
+    {
+      "term": "Post-frontal airmass",
+      "definition": "The cooler, unstable air that moves in behind a front. It can produce showers and occasional thunderstorms."
+    },
+    {
+      "term": "Storm Warning",
+      "definition": "A marine alert for sustained winds of storm strength, usually about 48 knots or more. It means dangerous conditions for boats."
+    },
+    {
+      "term": "Extended model guidance",
+      "definition": "Forecast output from computer weather models for several days out. It is useful for spotting trends but is less reliable than the near-term forecast."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Coastal flooding could return over the weekend as a new low pressure system arrives.",
+      "about": "Saturday through Sunday",
+      "stance": "possible",
+      "quote": "but the indication is that low pressure over the weekend could bring the threat back per the extended model guidance",
+      "source": "long_term",
+      "signer": "21"
+    },
+    {
+      "claim": "A few thunderstorms are possible on Thursday behind the front.",
+      "about": "Thursday",
+      "stance": "possible",
+      "quote": "There is also a slight chance of thunderstorms in the area on Thursday in the post-frontal airmass.",
+      "source": "short_term",
+      "signer": "21"
+    },
+    {
+      "claim": "The active weather pattern is expected to continue into early December.",
+      "about": "Sunday and beyond",
+      "stance": "expected",
+      "quote": "This will keep conditions active into early December.",
+      "source": "long_term",
+      "signer": "21"
+    }
+  ]
+}

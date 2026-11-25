@@ -1,11 +1,10 @@
 {
   "date": "2026-10-20",
-  "headline": "Dry and mostly warm through Friday; weekend rain chances remain uncertain.",
-  "summary": "High pressure is holding over the region, keeping western Washington dry and mostly warmer than normal into Wednesday. Patchy morning fog in sheltered spots should lift by late morning. A weak system Thursday brings more clouds, near-normal temperatures, and only a few brief showers in the mountains. Friday looks dry. The weekend is uncertain: a weak system may arrive Saturday night into Sunday, but models are split on whether it tracks directly over the area or passes north or offshore, bringing less rain or pushing it to Monday. Early next week is close to a coin flip between continued high pressure and a cooler, unsettled trough.",
-  "changes": "Confidence in the dry days through Friday rose to high, from fairly confident earlier. The weekend picture stayed about the same, with models still split nearly evenly on track and timing.",
-  "signature": "dfba8303e11c2518",
+  "headline": "Mostly dry and mild through Friday; a weekend system is possible, but its track is uncertain.",
+  "summary": "Dry weather dominates through Friday. Wednesday should be another mild, warmer-than-normal October day, with patchy fog possible early in sheltered spots that should lift by late morning. A weak system brushes the area Thursday, bringing more clouds, near-normal temperatures, and at most a few brief showers in the Olympics and north Cascades. Friday looks dry again. The weekend is less certain. A weak system may arrive Saturday night into Sunday, but computer models disagree on its path. Some bring a more direct system with somewhat more rain, while others keep it slower, farther north, or offshore, bringing less rain or pushing it to Sunday or Monday. Forecasters have good confidence in the next couple of days but are unsure about the weekend and early next week.",
+  "changes": "",
+  "signature": "42c145e2e97ec399",
   "discussions": [
-    "AFDSEW_202610202205",
     "AFDSEW_202610210351"
   ]
 }

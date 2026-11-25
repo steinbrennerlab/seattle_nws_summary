@@ -1,10 +1,12 @@
 {
   "date": "2026-11-24",
-  "headline": "Wet, windy stretch expected, with coastal flooding risk peaking Wednesday and Thanksgiving.",
-  "summary": "A busy storm track is sending a series of Pacific weather systems toward Western Washington, steered by a fast jet stream, high-altitude winds that carry storms. Each stays offshore, but a stronger front aimed at the region midweek brings the worst of it. A brief break is possible in between, of uncertain length. Wednesday and Thanksgiving look worst, with several inches of rain possible in the Olympics, gusty coastal winds, and a wet, breezy few days in the lowlands. High surf and some of the highest tides raise the risk of major coastal flooding, and the Skokomish River may reach flood stage. Forecasters are fairly confident in the wet pattern through Thursday and early next week, though the longer-range forecast is less certain.",
-  "changes": "",
-  "signature": "4a88d6ad82c35be0",
+  "headline": "Wet, windy stretch with coastal flooding and mountain snow peaking Thursday.",
+  "summary": "A busy Pacific storm track is aiming fronts at Western Washington, steered by a fast jet stream high overhead. Lows stay offshore, but each system brings rain and wind. A weak ridge of high pressure offers only brief breaks, since Washington sits too far north to benefit. Thursday looks like the peak, with a front bringing strong winds, wind advisories, and heavy rain bands. High astronomical tides, the unusually high tides from moon and sun alignments, coincide with the storms and raise flood risk along waterfronts. Heavy snow is possible in the North Cascades passes. Friday brings some easing, Saturday a brief dry break, and more systems return from Sunday. Forecasters are fairly confident about the next two days, less so about the weekend and later, when coastal flooding could return.",
+  "changes": "The afternoon update shifted the peak toward Thursday and added mountain snow, with a winter storm watch for the North Cascades passes. It also warned that the wind could make holiday travel harder.",
+  "signature": "bcabb37b18a251a5",
   "discussions": [
-    "AFDSEW_202611240936"
+    "AFDSEW_202611240936",
+    "AFDSEW_202611241702",
+    "AFDSEW_202611242225"
   ]
 }
