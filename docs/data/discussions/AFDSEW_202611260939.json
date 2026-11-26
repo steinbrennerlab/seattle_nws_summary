@@ -1,0 +1,96 @@
+{
+  "id": "AFDSEW_202611260939",
+  "issued": "2026-11-26T09:39:00+00:00",
+  "headline": "Strong storm brings wet, windy, coastal flooding today; calmer, drier weekend follows.",
+  "summary": "A strong storm system moving off the Pacific is the main story this week. Its fronts, the boundaries between warm and cool air, cross western Washington today. A weaker system follows Friday, then a weak upper-level ridge, a high-pressure area aloft, brings a brief drier spell this weekend.\n\nToday brings widespread rain, gusty winds, and coastal flooding from high tides and storm surge. The Olympic Peninsula and coast take the heaviest rain. Friday turns lighter, and Saturday is drier with near-normal temperatures. Next week looks wet again, though models disagree on the details, and a possible strong low offshore Sunday night is worth watching.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "A strong front brings widespread rain, gusty winds, and coastal flooding, with the worst conditions on the coast and Olympic Peninsula.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A weaker system brings lighter rain, mainly in the afternoon.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A brief drying trend arrives with seasonal temperatures.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night",
+      "what": "A possible strong low forms offshore, but its track and strength are unclear.",
+      "source": "long_term"
+    },
+    {
+      "when": "Early next week",
+      "what": "The active pattern returns with a generic chance of rain and near-normal temperatures, though details are uncertain.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about today's storm and the weekend break, but they are uncertain about next week and a possible offshore low Sunday night because the computer models disagree.",
+  "hazards": [
+    "Wind Advisory until noon today for many lowland, foothill, and island areas around Puget Sound and western Washington.",
+    "High Wind Warning until noon today for the Grays Harbor and northern Washington coasts.",
+    "Coastal Flood Warnings today for Seattle, Everett, Puget Sound, Hood Canal, and parts of the coast and Strait of Juan de Fuca, with flooding peaking today.",
+    "Coastal Flood Watch for San Juan County late tonight through Friday morning, and for the Grays Harbor coast on Friday.",
+    "Winter Storm Warning until 4 AM Friday for the Cascades of Whatcom and Skagit counties.",
+    "River Flood Warning for the Skokomish River through Friday, with additional rises possible next week.",
+    "Landslide risk on the Bear Gulch burn scar on the Olympic Peninsula as heavy rain continues.",
+    "Gale and Small Craft warnings and advisories on coastal and inland waters through this evening."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere, usually linked to drier, calmer weather at the surface."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Groups of forecast runs from the same model, each started with slightly different starting conditions, used to gauge how confident forecasters can be."
+    },
+    {
+      "term": "GFS",
+      "definition": "The Global Forecast System, a major computer weather model run by the U.S. government."
+    },
+    {
+      "term": "Millibar",
+      "definition": "A unit of air pressure. Lower numbers mean lower pressure, and a low below 980 millibars is a very deep storm."
+    },
+    {
+      "term": "Climo (climatology)",
+      "definition": "Typical weather for a place at a given time of year, based on long-term records."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Forecasters are watching a possible strong offshore low Sunday night, but computer ensembles do not agree on how it will develop.",
+      "about": "Sunday night",
+      "stance": "uncertain",
+      "quote": "ensembles lack any significant cohesion with its evolution.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Models disagree on the forecast for early next week, so the details of that period are unsettled.",
+      "about": "early next week",
+      "stance": "uncertain",
+      "quote": "model disagreements persist.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "There may be another short, dry break around Wednesday, but this is only a hint in the models.",
+      "about": "Wednesday",
+      "stance": "possible",
+      "quote": "There is some hint of another short-lived dry break in the Wednesday timeframe.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "date": "2026-11-25",
-  "headline": "Strong front brings wind, rain, and coastal flooding Wednesday night into Thursday.",
-  "summary": "A strong Pacific storm, with a cold front and its band of rain and wind, moves through western Washington tonight and into Thursday. A weaker system follows on Friday. Behind it, a weak ridge of high pressure aloft, meaning high pressure high in the atmosphere, brings a brief break this weekend, and forecasters are fairly confident in that break. Another active stretch of weather is expected next week, though details are uncertain. For most people, that means a wet, windy night and Thursday. The strongest gusts, up to around 60 mph, are expected on the outer coast, with strong winds across the Puget Sound lowlands. High tides, storm surge, and big waves threaten coastal flooding. Snow builds in the Cascades, and rain continues Friday. Heavy rain also raises landslide concern on the Olympic Peninsula's Bear Gulch burn scar, an area stripped bare by a past wildfire.",
-  "changes": "The strongest gust forecast rose to around 60 mph on the outer coast, up from 50 to 55 mph earlier in the day. Forecasters also became more confident in the timing of tonight's front and the weekend break, and the Skokomish River flood watch was upgraded to a warning.",
-  "signature": "04bfe7647b61f0af",
+  "headline": "Strong storm brings wind, rain, and coastal flooding through Thursday; brief weekend break.",
+  "summary": "A strong storm system is moving in from the Pacific tonight, with a front bringing widespread rain and wind to western Washington through Thursday. A weaker system follows Friday, then a weak area of high pressure aloft brings a brief break this weekend, with mostly dry weather expected. The active pattern returns next week, though forecasters are less sure of the details. For most people, that means a wet, windy night and Thursday. The strongest gusts, up to around 60 mph, are likely on the outer coast, with strong winds in the Puget Sound lowlands too. Coastal flooding is the main concern as high tides, storm surge, and big waves combine, mostly around Thursday morning. The northern Cascades could see significant snow.",
+  "changes": "Later updates raised the expected peak gusts on the outer coast to around 60 mph, from 50 to 55 mph earlier. Models also came to agree well on the weekend break, which forecasters had described as less certain in the morning.",
+  "signature": "44875acea892a0a2",
   "discussions": [
     "AFDSEW_202611251003",
     "AFDSEW_202611251804",
-    "AFDSEW_202611252324"
+    "AFDSEW_202611252324",
+    "AFDSEW_202611260340"
   ]
 }

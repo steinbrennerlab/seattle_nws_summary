@@ -1,0 +1,80 @@
+{
+  "id": "AFDSEW_202611260340",
+  "issued": "2026-11-26T03:40:00+00:00",
+  "headline": "Strong storm brings wind, rain, and coastal flooding through Thursday; brief weekend break.",
+  "summary": "A strong frontal system, a boundary between warm, moist air and colder air that brings widespread rain and wind, reaches western Washington tonight and moves through by Thursday. A weaker system follows on Friday. Then a weak upper-level ridge, an area of high pressure high in the atmosphere, builds over the Northwest this weekend and brings a brief break. The pattern turns active again next week.\n\nThe heaviest rain falls west of Puget Sound, on the Olympic Peninsula, and along the coast, with gusty winds peaking overnight and strongest on the coast, where gusts could reach 60 mph. Coastal flooding is the main concern, as high tides combine with storm surge and high surf, mostly around Thursday morning. The Skokomish River is expected to reach moderate flood stage, and the Northern Cascades could see significant snow. Friday brings lighter showers, and the weekend looks mostly dry.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Heavy rain spreads across western Washington, with the strongest winds along the coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The front moves through, winds ease by evening, and coastal flooding peaks in the morning.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A weaker system brings more showers, with minimal impacts expected.",
+      "source": "short_term"
+    },
+    {
+      "when": "This weekend",
+      "what": "A weak ridge of high pressure brings a brief break from precipitation.",
+      "source": "long_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The active pattern returns with another system and breezy winds, mainly on the coast.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about tonight's storm, its winds, and the coastal flooding, and the forecast is on track with no updates needed. Models agree well on the weekend break. Less certain are the thunderstorm chances, which are low and whose timing is hard to pin down, and the details of next week's systems.",
+  "hazards": [
+    "High Wind Warning for the Grays Harbor and northern coast until noon Thursday",
+    "Wind Advisories across much of western Washington until noon Thursday",
+    "Coastal Flood Warnings for Seattle, Puget Sound, and Hood Canal lowlands early Thursday, with more coastal flood warnings and advisories through Thursday and Friday",
+    "Coastal Flood Watch for San Juan County and Grays Harbor coast later in the week",
+    "Winter Storm Warning for the Cascades of Whatcom and Skagit Counties until 4 AM Friday",
+    "River Flood Warning for the Skokomish River through Friday",
+    "Gale and storm warnings on the coastal and inland waters through Thursday",
+    "Possible landslides on the Bear Gulch burn scar from heavy rain"
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A large storm system built around a front, the boundary where warm, moist air meets colder air. Fronts usually bring widespread rain and wind."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere. Ridges usually bring drier, calmer weather to the surface below."
+    },
+    {
+      "term": "Ensemble guidance",
+      "definition": "A set of many computer forecast runs with slightly different starting conditions. When they agree, forecasters have more confidence in the outcome."
+    },
+    {
+      "term": "Storm surge",
+      "definition": "Extra sea-level rise pushed toward shore by a storm's winds and low air pressure. It adds to high tides and can cause coastal flooding."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The predictable rise and fall of the sea caused by the moon and sun. The highest ones occur during certain phases of the moon."
+    },
+    {
+      "term": "Burn scar",
+      "definition": "An area where a wildfire has burned off vegetation. Bare, burned ground sheds rain quickly, so heavy rain can cause mudslides there."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The Skokomish River could rise again next week after falling below flood stage Friday.",
+      "about": "Friday into next week",
+      "stance": "possible",
+      "quote": "with additional rises possible into next week.",
+      "source": "short_term",
+      "signer": "15"
+    }
+  ]
+}
