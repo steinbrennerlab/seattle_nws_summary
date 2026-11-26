@@ -1,10 +1,12 @@
 {
   "date": "2026-11-25",
-  "headline": "Wet, windy Thanksgiving, coastal flooding risk through Friday, and more rain early next week.",
-  "summary": "A run of Pacific storms keeps the pattern active through the end of the week. A warm front lifts north today, a cold front follows Thursday, and a weaker system arrives Friday, moving over high pressure building toward California. Forecasters expect a brief lull over the weekend, but they are less certain about it, and another round of systems is likely early next week. For Thanksgiving, expect a wet, windy day, with strong gusts on the coast and in the northern interior and breezy conditions around Puget Sound. Rain totals range from about an inch in the lowlands to several inches in the Olympics and Cascades. Winds ease Thursday afternoon, but coastal flooding remains the bigger worry through Friday.",
-  "changes": "",
-  "signature": "f77715b9b0336fb8",
+  "headline": "Strong front brings wind, rain, and coastal flooding Wednesday night into Thursday.",
+  "summary": "A strong Pacific storm, with a cold front and its band of rain and wind, moves through western Washington tonight and into Thursday. A weaker system follows on Friday. Behind it, a weak ridge of high pressure aloft, meaning high pressure high in the atmosphere, brings a brief break this weekend, and forecasters are fairly confident in that break. Another active stretch of weather is expected next week, though details are uncertain. For most people, that means a wet, windy night and Thursday. The strongest gusts, up to around 60 mph, are expected on the outer coast, with strong winds across the Puget Sound lowlands. High tides, storm surge, and big waves threaten coastal flooding. Snow builds in the Cascades, and rain continues Friday. Heavy rain also raises landslide concern on the Olympic Peninsula's Bear Gulch burn scar, an area stripped bare by a past wildfire.",
+  "changes": "The strongest gust forecast rose to around 60 mph on the outer coast, up from 50 to 55 mph earlier in the day. Forecasters also became more confident in the timing of tonight's front and the weekend break, and the Skokomish River flood watch was upgraded to a warning.",
+  "signature": "04bfe7647b61f0af",
   "discussions": [
-    "AFDSEW_202611251003"
+    "AFDSEW_202611251003",
+    "AFDSEW_202611251804",
+    "AFDSEW_202611252324"
   ]
 }

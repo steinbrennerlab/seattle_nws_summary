@@ -1,0 +1,95 @@
+{
+  "id": "AFDSEW_202611251804",
+  "issued": "2026-11-25T18:04:00+00:00",
+  "headline": "Wet, windy system Wednesday night into Thursday; coastal flooding threat continues through week.",
+  "summary": "A busy stream of Pacific storm systems keeps moving through western Washington through the end of the week. A warm front lifts north Wednesday night, followed by a cold front Thursday afternoon. A brief lull is possible over the weekend, but forecasters doubt it will stay dry, and more systems return early next week.\n\nThe main concerns are wind, rain, and coastal flooding. Gusts near 50 to 55 mph are possible on the coast and in the north interior, with about 40 mph in Puget Sound. Rain totals run about an inch in the lowlands, 2 to 3 inches in the Cascades, 2 to 4 inches in the Olympics, and up to 2 inches on the coast. Very high tides plus storm surge keep coastal flooding a threat through the end of the week.",
+  "timeline": [
+    {
+      "when": "Tonight into Thursday",
+      "what": "Rain and gusty winds build, peaking along the coast and in the north interior, with strong gusts in Puget Sound.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The cold front sweeps inland in the afternoon, bringing showers, perhaps a thunderstorm, and easing winds.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A weaker system arrives later in the day, and coastal flooding continues.",
+      "source": "short_term"
+    },
+    {
+      "when": "Weekend",
+      "what": "A brief break is possible, but some rain chances likely remain.",
+      "source": "long_term"
+    },
+    {
+      "when": "Early next week",
+      "what": "Another series of systems moves onshore into the West Coast.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters say the picture for Wednesday night through Thursday has changed little, so they are fairly confident in it, but a weekend break is less certain because they say it would be tough to remove all rain chances for more than about 12 hours.",
+  "hazards": [
+    "Coastal flood warnings for Thursday morning covering Seattle, Everett, Kitsap, Island, Pierce, Skagit, Whatcom, and San Juan areas, plus Hood Canal",
+    "Coastal flood watch for the Strait of Juan de Fuca and the northern and Grays Harbor coasts, Thursday afternoon",
+    "Wind advisories from Wednesday evening into Thursday for much of western Washington, including Seattle, Everett, the Olympics, and coastal areas",
+    "Winter storm warning for the Cascades of Whatcom and Skagit counties from Wednesday evening to early Friday",
+    "River flood warning for the Skokomish River in Mason County through Friday evening",
+    "High surf advisory for the northern and Grays Harbor coasts until Wednesday afternoon",
+    "Storm and gale warnings for coastal and Strait waters through early Thursday"
+  ],
+  "glossary": [
+    {
+      "term": "High astronomical tides",
+      "definition": "The highest tides of the year, driven by the positions of the sun and moon. They are often called king tides."
+    },
+    {
+      "term": "Storm surge",
+      "definition": "Water pushed toward shore by strong winds and low air pressure, which raises the sea level above the normal tide."
+    },
+    {
+      "term": "Warm front",
+      "definition": "The leading edge of warmer air moving over colder air, usually bringing steady rain and a shift in wind."
+    },
+    {
+      "term": "Cold front",
+      "definition": "The leading edge of colder air pushing under warmer air, often bringing a burst of showers and then clearing and cooler weather."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many runs of a computer forecast model, each started slightly differently, used to judge how much confidence to place in a forecast."
+    },
+    {
+      "term": "Upper ridge",
+      "definition": "A high-pressure area in the upper atmosphere, which usually brings drier, calmer weather to the region beneath it."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Coastal flooding is expected to remain the main hazard through the end of the week.",
+      "about": "through the end of the week",
+      "stance": "expected",
+      "quote": "coastal flooding will continue to be the headline-making hazard",
+      "source": "short_term",
+      "signer": "27"
+    },
+    {
+      "claim": "A dry break over the weekend is doubtful, since rain chances are likely to return.",
+      "about": "the weekend",
+      "stance": "doubtful",
+      "quote": "it would be tough to completely remove any chance of precip for more than about 12 hours.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Another string of weather systems is expected to move onshore early next week.",
+      "about": "early next week",
+      "stance": "expected",
+      "quote": "Broad upper troughing returns to the offshore waters by early next week with another parade of systems marching onshore into the West Coast.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "AFDSEW_202611252324",
+  "issued": "2026-11-25T23:24:00+00:00",
+  "headline": "Strong storm brings wind, rain, and coastal flooding Wednesday night into Thursday.",
+  "summary": "A strong storm system, a cold front with its band of rain and wind, moves in from the Pacific this evening and pushes through Western Washington into Thursday. A weaker system follows on Friday. Forecasters expect a brief break in the rain this weekend as a weak upper-level ridge, an area of high pressure aloft, builds over the Northwest. The active pattern returns next week.\n\nFor most people, that means a wet, windy night and Thursday. The strongest gusts, up to around 60 mph, hit the outer coast, with strong winds across the Puget Sound lowlands too. Coastal communities face flooding as high tides combine with storm surge and big waves. Snow piles up in the Cascades, and rain keeps falling Friday before the weekend break.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain spreads inland from the coast, and the strongest winds, gusting to around 60 mph, hit the outer coast.",
+      "source": "short_term"
+    },
+    {
+      "when": "Thursday",
+      "what": "The strong winds ease by evening, while heavy snow falls in the Cascades and a few thunderstorms are possible.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "A weaker system brings more rain, with minimal impacts expected.",
+      "source": "marine"
+    },
+    {
+      "when": "This weekend",
+      "what": "A brief break in the rain arrives as a weak ridge of high pressure builds over the Northwest.",
+      "source": "long_term"
+    },
+    {
+      "when": "Next week",
+      "what": "The active weather pattern returns, with another round of breezy conditions likely around Monday.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are confident about the timing of tonight's strong front, its wind, and the coastal flooding, and models agree well on a weekend break. They are less certain about the details of next week's systems, and thunderstorm chances are low and uncertain.",
+  "hazards": [
+    "High Wind Warning for the outer coast, including Grays Harbor, Jefferson, and Clallam counties, through noon Thursday.",
+    "Wind Advisories across much of the lowlands, foothills, and Puget Sound area, including Seattle, through Thursday.",
+    "Coastal Flood Warning for Seattle, parts of Pierce, King, Snohomish, Skagit, and Whatcom counties, and other inner-water areas, early Thursday morning.",
+    "Winter Storm Warning for the Cascades of Whatcom and Skagit counties, from 7 PM tonight to 4 AM Friday.",
+    "River Flood Warning for the Skokomish River through Friday.",
+    "Landslide concern for the Bear Gulch burn scar on the Olympic Peninsula as heavy rain continues."
+  ],
+  "glossary": [
+    {
+      "term": "Frontal system",
+      "definition": "A storm system built around a boundary between warm and cold air. These systems bring a band of rain and often strong winds as they pass."
+    },
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high pressure high in the atmosphere. It usually brings drier, calmer weather to the region beneath it."
+    },
+    {
+      "term": "Shortwave trough",
+      "definition": "A small dip in the high-altitude winds that can trigger showers as it moves across an area."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The regular rise and fall of the sea caused by the sun and moon. Extra-high tides make coastal flooding more likely when storms add to them."
+    },
+    {
+      "term": "Storm surge",
+      "definition": "Extra water pushed onto the shore by strong winds and low air pressure during a storm, raising the sea level above the tide."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation where precipitation falls as snow rather than rain. It is usually given as a height above sea level."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Flooding along the inner waters is expected to be worst early Thursday.",
+      "about": "Wednesday through Thursday morning",
+      "stance": "expected",
+      "quote": "Coastal flooding impacts are expected to peak along the coast today, with the greatest impacts for the inner waters expected early Thursday before astronomical tides gradually weaken.",
+      "source": "short_term",
+      "signer": "29"
+    },
+    {
+      "claim": "More weather warnings are likely next week as the active pattern continues.",
+      "about": "next week",
+      "stance": "expected",
+      "quote": "Additional headlines are likely, with active weather continuing into next week.",
+      "source": "marine",
+      "signer": "15"
+    }
+  ]
+}
