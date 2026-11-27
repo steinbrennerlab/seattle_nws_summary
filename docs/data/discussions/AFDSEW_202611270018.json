@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202611270018",
+  "issued": "2026-11-27T00:18:00+00:00",
+  "headline": "Showers ease tonight; light rain Friday, a drier weekend, then wetter weather returns next week.",
+  "summary": "A cold front from the Pacific has pushed through, bringing heavy rain to the coast and raising rivers. Now a ridge of high pressure aloft, a stretch of settled, higher-pressure air, is building in from the ocean, which gives western Washington a short break this weekend. Forecasters expect the pattern to turn active again next week, as a series of weather systems moves in from the Pacific.\n\nShowers are fading tonight, and the breezy winds are easing. Friday brings another round of light rain to the lowlands and light snow in the mountains, with a few inches possible over the passes. Saturday should be mostly dry. Next week's systems are not expected to be strong, but they could bring more rain and river rises, and high tides may cause more coastal flooding. Wednesday looks like a brief break.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Showers taper off and winds ease, though a few light showers may linger near the Cascades and in the lowlands.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Light rain returns to the lowlands, light snow falls in the mountains, and coastal flooding is possible in some areas.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Mostly dry as a ridge of high pressure sits overhead, before it shifts east Saturday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The next low-pressure system arrives, though forecasters are unsure exactly where it will track.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "A brief break in the active weather, as a ridge of high pressure builds back over the Northwest.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about tonight, Friday, and the drier weekend. They are uncertain about next week because computer models disagree on the track of the Monday system, and the extended forecast is described as fairly uncertain.",
+  "hazards": [
+    "Winter Storm Warning until 4 AM Friday for the Cascades of Whatcom and Skagit counties, with about 6 more inches of snow above 4,000 feet.",
+    "Coastal Flood Warning for San Juan County early Friday, and for parts of the Washington coast and Strait of Juan de Fuca until 4 PM today.",
+    "Coastal Flood Advisory early Friday for much of the Puget Sound lowlands, including Seattle, Everett, Olympia, and Kitsap County.",
+    "Coastal Flood Watch Friday for the Grays Harbor County coast.",
+    "Small Craft Advisories for many coastal and inland waters, mostly easing through tonight and Friday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere. It usually brings drier, calmer weather at the surface."
+    },
+    {
+      "term": "Shortwave trough",
+      "definition": "A short-lived dip in the high-altitude winds that can bring a band of clouds and showers as it passes."
+    },
+    {
+      "term": "Puget Sound convergence zone",
+      "definition": "A narrow band of enhanced showers that forms when winds from different directions meet over Puget Sound."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "Tides driven by the positions of the moon and sun, not by weather. Higher-than-normal ones can push water onto low-lying shorelines."
+    },
+    {
+      "term": "Models",
+      "definition": "Computer forecast guidance that projects the atmosphere forward in time. Different models can disagree, especially several days out."
+    }
+  ],
+  "calls": []
+}

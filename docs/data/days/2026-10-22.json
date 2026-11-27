@@ -1,12 +1,10 @@
 {
   "date": "2026-10-22",
-  "headline": "Mostly dry and mild through Friday, light showers Saturday into Sunday, then a drier week.",
-  "summary": "A weakened front has passed, and high pressure brings mostly dry, mild weather through Friday. Friday should be clearer and a bit cooler, with morning fog possible south of Puget Sound. A low pressure system moving down from the north brings a chance of light showers Saturday, mostly on the Olympic Peninsula, with only a few hundredths of an inch inland. Some showers may linger into Sunday before drying out. Saturday morning could bring frost or a light freeze in mountain valleys. The rest of next week looks mostly dry, though the low's early-week track is uncertain. Early hints of a wetter spell around late October and early November include a slight risk of heavy rain and mountain snow, but these are not firm.",
-  "changes": "The morning discussion flagged a rain chance from Saturday into Monday, with models split on how much rain would fall. By afternoon and night, forecasters expected only light showers Saturday into Sunday, mostly on the Olympic Peninsula, and they added the possible wetter pattern in late October and early November.",
-  "signature": "16e080fc9a512c99",
+  "headline": "Mostly dry and mild, with light showers Saturday into Sunday before a drier week.",
+  "summary": "Western Washington is in a mostly quiet stretch. A weak front passed Thursday, and Friday should be clearer and a bit cooler, with fog and low clouds possible early in the morning south of Puget Sound that should clear by afternoon. A storm center (a low-pressure system) moving in from the north on Saturday brings a chance of showers, mostly over the Olympic Peninsula, with only light rain inland. Showers may linger into Sunday, with drier weather returning by afternoon. Saturday mornings will be cold, and frost or a light freeze is possible in mountain valleys. The rest of next week looks mostly dry. Forecasters see early hints of a more active pattern near the end of the month into early November, possibly bringing heavier rain and mountain snow, but that remains uncertain.",
+  "changes": "",
+  "signature": "8b28603b05fc13f1",
   "discussions": [
-    "AFDSEW_202610221614",
-    "AFDSEW_202610222146",
     "AFDSEW_202610230508"
   ]
 }

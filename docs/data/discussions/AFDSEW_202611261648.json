@@ -1,0 +1,89 @@
+{
+  "id": "AFDSEW_202611261648",
+  "issued": "2026-11-26T16:48:00+00:00",
+  "headline": "Showers and wind today, a brief dry spell this weekend, then wet weather next week.",
+  "summary": "A cold front has just moved on, leaving cooler air over western Washington today. A weaker system brings light rain back on Friday. Then a weak ridge of high pressure builds over the Northwest for the weekend, giving a brief break. The pattern turns active again early next week as another trough moves toward the offshore waters.\n\nToday means showers with some dry breaks, breezy winds easing tonight, and coastal flooding from high tides and surf. Saturday should be drier with seasonal temperatures. Next week looks mostly like a generic chance of rain with near-normal temperatures, and models disagree on the details. A possible strong storm offshore Sunday night could matter for holiday travel.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Showers with some dry breaks, breezy winds easing tonight, and coastal flooding peaking.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Light rain returns in the afternoon from a weaker system, with much less wind and rain than today.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A brief drying trend under a weak ridge, with temperatures back to seasonal levels.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night",
+      "what": "Models hint at a strong storm offshore, but forecasters are not sure it will develop.",
+      "source": "long_term"
+    },
+    {
+      "when": "Early next week",
+      "what": "A generic wet pattern with near-normal temperatures, and models disagree on the details.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Near-term details look reasonably clear, but the ensembles lack cohesion on Sunday's system and models disagree through next week, so the outlook beyond the weekend is uncertain.",
+  "hazards": [
+    "Wind Advisory until noon today for much of the lowlands, foothills, and coast.",
+    "Coastal flood warnings this morning for Puget Sound shorelines and parts of the coast, with some lasting until this evening.",
+    "Winter Storm Warning for the Cascades of Whatcom and Skagit counties until 4 AM Friday.",
+    "Skokomish River above flood stage on the Olympic Peninsula, expected to fall below flood stage Friday, with possible new rises next week.",
+    "Gale and storm warnings on coastal and inland waters today, with small craft advisories continuing into the evening and Friday."
+  ],
+  "glossary": [
+    {
+      "term": "ridge",
+      "definition": "An elongated area of high pressure in the upper atmosphere. Ridges usually bring drier, calmer weather at the surface."
+    },
+    {
+      "term": "post-frontal",
+      "definition": "The period after a cold front has passed through an area, usually with cooler air and showery weather."
+    },
+    {
+      "term": "storm surge",
+      "definition": "Sea level rise pushed toward shore by strong winds and low air pressure, which adds to the height of high tides."
+    },
+    {
+      "term": "ensemble",
+      "definition": "A set of model runs started from slightly different conditions. When the runs spread apart, the forecast is less certain."
+    },
+    {
+      "term": "climo",
+      "definition": "Short for climatology, meaning the typical weather for this time of year, used as a baseline for forecasts."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "A strong offshore storm may form Sunday night, but forecasters are not sure the models agree on it.",
+      "about": "Sunday night",
+      "stance": "uncertain",
+      "quote": "Given the potential impacts to holiday travel, we'll have to keep an eye on this.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Models are not agreeing on the weather for early next week.",
+      "about": "Early next week",
+      "stance": "doubtful",
+      "quote": "Moving forward into the first half of next week, model disagreements persist.",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "There may be a short dry break around Wednesday, but it is only a hint.",
+      "about": "Wednesday",
+      "stance": "possible",
+      "quote": "There is some hint of another short-lived dry break in the Wednesday timeframe.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

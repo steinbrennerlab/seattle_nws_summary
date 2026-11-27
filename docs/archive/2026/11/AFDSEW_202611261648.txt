@@ -1,0 +1,223 @@
+FXUS66 KSEW 261648
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+848 AM PST Thu Nov 26 2026
+
+.SYNOPSIS...
+Post-frontal airmass today with rain showers, isolated 
+thunderstorms, breezy winds, and coastal flooding. Precipitation 
+chances will linger into Friday with a weaker system. A brief break 
+in precipitation is expected this weekend as a weak ridge builds 
+over the Pacific Northwest. An active weather pattern resumes early 
+next week. 
+
+&&
+
+.SHORT TERM /TODAY THROUGH SATURDAY/...
+Post-frontal showers will continue through the afternoon, with 
+periods of dry weather amongst the showers. There is also a 
+slight chance for thunderstorms today, especially along the 
+Olympic Peninsula. Breezy southwest winds slowly ease this 
+evening and tonight.
+
+A much weaker system riding over the northern periphery of a
+ridge to our south will spread some light rain back across the 
+area by Friday afternoon, but QPF and wind will be much less of
+a factor with this system. A low amplitude upper ridge will
+shift onshore across the Pacific Northwest on Saturday for a
+brief drying trend and a return to seasonal temperatures.
+
+Coastal flooding will continue to be a concern today as
+astronomical high tides combine with storm surge and high surf 
+to produce some significant tidal anomalies and impacts to 
+coastal communities. Coastal flooding impacts are expected to 
+peak for the inland waters today before tides gradually weaken.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+A weak upper ridge axis is expected to shift east of the area
+Saturday night. Another upper trough is expected to move into 
+the offshore waters on Sunday, but ensembles lack any 
+significant cohesion with its evolution. It's worth noting that 
+the 00Z operational run of the GFS spins up another sub 980 
+millibar surface low offshore by Sunday night. Given the 
+potential impacts to holiday travel, we'll have to keep an eye 
+on this. 
+
+Moving forward into the first half of next week, model
+disagreements persist. There is some hint of another short-lived
+dry break in the Wednesday timeframe. Current forecasts for the
+period have near normal temps and a generic chance of rain. In 
+other words, a near climo forecast for early December.
+
+27
+
+&&
+
+.AVIATION...
+Breezy and wet conditions continue this morning with a mixed bag of 
+conditions across Western Washington. Temporary MVFR/IFR cigs and 
+vis possible in heavier precipitation. Precipitation will become 
+more showery in nature later this afternoon, which will allow 
+ceilings to improve to MVFR/VFR across the area. There is a 15-25% 
+chance of thunderstorms across most of the area this morning. 
+However, confidence remains low to include in the TAF at this time. 
+Chances for thunderstorms decrease into the evening hours. 
+
+S/SE winds will remain elevated through the afternoon with gusts 20-
+30 kt, with strongest winds along the coast and northern
+interior, and will gradually decrease into the evening hours to
+sustained speeds of 5-10 kt.
+
+KSEA...Currently MVFR at the terminal this morning with light to 
+moderate rain. Winds still remain elevated as well with gusts up to 
+25 kt. Therefore, may see ceilings and vis bouncing between VFR and 
+MVFR when in and out of rain. Rain will transition into more showery 
+in nature, allowing for more broken ceilings and a return to more 
+VFR conditions over the terminal. There remains a 15% chance for 
+thunderstorms this afternoon, however confidence continues to remain 
+low. 
+
+Breezy S/SE winds this morning with sustained winds up to 15 kt with 
+gusts to 25 kt this morning. Winds will remain breezy through the 
+afternoon and decrease after 00Z-03Z, turning SW at 7-10 kt. 
+
+Mazurkiewicz/29
+
+&&
+
+.MARINE...
+A strong frontal system will continue to cross over
+the waters this morning, bringing strong winds and elevated 
+seas to area waters. A Gale Warning remains in effect for all
+coastal water zones, and all interior zones; the exception being
+the East Entrance of the Strait of Juan De Fuca, where a Storm 
+Warning continues. A Small Craft remains in the Central Strait 
+of Juan De Fuca. Thunderstorms are also favored to develop over
+the coastal waters early this morning and move inland towards 
+the inner waters throughout the day, producing localized 
+lightning, gusty winds, and small hail.
+
+Winds will start to decrease this evening over the waters, with
+a Small Craft Advisory out for the coastal waters, mainly for
+continued elevated wind and seas. Conditions will start to calm
+heading into Friday, with a weak system approaching the waters,
+however impacts should remain minimal. High pressure is favored
+to develop over the waters through the weekend, with seas and
+winds to ease, the exception is the Strait of Juan De Fuca,
+where a westerly push of winds is likely. 
+
+Seas around 15 to 20 feet this morning will hover in this range
+throughout the majority of the day, slowly decreasing this
+evening into Friday morning around 10 to 15 feet. Seas will
+lower even further by late Friday into Saturday, where we could
+see seas get below 10 feet through the weekend. Seas are 
+favored to rise above 10 feet into next week.
+
+Mazurkiewicz
+
+&&
+
+.HYDROLOGY...
+A frontal system brought heavy rain to portions of the 
+area over the last 24 hours, with rainfall amounts peaking across 
+the Olympic Peninsula, ranging 3 to 6 inches. This led to rapid 
+rivers on rivers off the Olympics. In particular, the Skokomish 
+River rose into Moderate flood stage overnight, reaching near Major 
+flood stage early this morning. River flooding is expected to 
+continue on the Skokomish through tonight, before falling below 
+flood stage on Friday. Additional rises are possible on the 
+Skokomish River next week. Elsewhere, rivers will continue to rise 
+today, but no additional river flooding is expected. JD
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Wind Advisory until noon PST today for City of Seattle-
+     Downtown Everett / Marysville Area-Eastern Kitsap County-
+     Eastern Strait of Juan de Fuca-Eastside-Foothills and 
+     Valleys of Central King County-Foothills and Valleys of 
+     Pierce and Southern King Counties-Foothills and Valleys 
+     of Snohomish and Northern King Counties-Foothills and 
+     Valleys of Thurston and Lewis Counties-Foothills and 
+     Valleys of the North Cascades-Foothills of the Western 
+     and Southern Olympic Peninsula-Grays Harbor County Coast-
+     Island County-Lake Crescent Area Including US 101-Lower 
+     Chehalis River Valley-Lowlands of Lewis and Southern 
+     Thurston Counties-Lowlands of Pierce and Southern King 
+     Counties-Lowlands of Western Skagit and Northwestern 
+     Snohomish Counties-Lowlands of Western Whatcom County-
+     Middle Chehalis River Valley-Northern Hood Canal-Northern 
+     Washington Coast-Olympia and Southern Puget Sound-
+     Olympics-Port Townsend Area-San Juan County-Shoreline / 
+     Lynnwood / South Everett Area-Southern Hood Canal-Western 
+     Strait of Juan de Fuca-Willapa and Black Hills.
+
+     Coastal Flood Warning until 10 AM PST this morning for City of 
+     Seattle-Downtown Everett / Marysville Area-Eastern Kitsap 
+     County-Island County-Lowlands of Pierce and Southern King 
+     Counties-Lowlands of Western Skagit and Northwestern 
+     Snohomish Counties-Lowlands of Western Whatcom County-
+     Northern Hood Canal-Olympia and Southern Puget Sound-San 
+     Juan County-Shoreline / Lynnwood / South Everett Area-
+     Southern Hood Canal.
+
+     Coastal Flood Watch from late tonight through Friday morning 
+     for San Juan County.
+
+     Winter Storm Warning until 4 AM PST Friday for Cascades of 
+     Whatcom and Skagit Counties.
+
+     Coastal Flood Advisory until 10 AM PST this morning for Port 
+     Townsend Area.
+
+     Coastal Flood Warning until 6 PM PST this evening for Eastern 
+     Strait of Juan de Fuca-Grays Harbor County Coast-Northern 
+     Washington Coast-Western Strait of Juan de Fuca.
+
+     Coastal Flood Watch from Friday morning through Friday evening 
+     for Grays Harbor County Coast.
+
+     Coastal Flood Advisory until 6 PM PST this evening for Lower 
+     Chehalis River Valley.
+
+PZ...Small Craft Advisory until 10 PM PST this evening for Central 
+     U.S. Waters Strait Of Juan De Fuca-Grays Harbor Bar.
+
+     Gale Warning until 10 AM PST this morning for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm-West Entrance U.S. 
+     Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory until 10 PM PST this evening for West 
+     Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Storm Warning until noon PST today for East Entrance U.S. 
+     Waters Strait Of Juan De Fuca.
+
+     Gale Warning until noon PST today for Admiralty Inlet-Northern 
+     Inland Waters Including The San Juan Islands.
+
+     Small Craft Advisory until 7 PM PST this evening for Puget 
+     Sound and Hood Canal.
+
+     Small Craft Advisory until 4 PM PST Friday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm.
+
+&&
+
+$$
