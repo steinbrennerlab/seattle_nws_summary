@@ -1,26 +1,26 @@
 {
-  "start": "2026-11-19",
-  "end": "2026-11-25",
-  "headline": "A calm, foggy ridge gave way to a stormy Pacific pattern that held all week.",
-  "summary": "Forecasters began the week expecting a few quiet, foggy days under a strong ridge of high pressure aloft (a dome of high pressure high in the atmosphere). They were also confident that it would fade over the weekend, with light rain and mountain snow showers as a cold low (an upper low) drifted offshore and stalled. The bigger story was always what came next: a broad dip in the jet stream over the northeast Pacific (a trough) that would send a string of storms toward Washington. That call held steady all week. What changed was the details. Forecasters grew more confident about strong coastal winds and high seas, and the coastal flooding worry moved around, first midweek, then Monday morning's high tide, then Tuesday. By midweek the peak had shifted to late Wednesday into Thursday, when some of the year's highest tides were expected to line up with the storms.\n\nBy Tuesday and Wednesday the forecast pointed to a wet, windy Thanksgiving, with about an inch of rain in the lowlands and several inches in the Olympics and Cascades. Coastal flooding was expected to remain the biggest concern through Friday, and the Skokomish River was expected to reach flood stage. Snow levels stayed high, so rain fell at most elevations, but the North Cascades could still get heavy snow. Forecasters were never confident about a possible weekend lull under building high pressure. Its timing slipped from Friday to the weekend, and they still saw more storms likely early next week.",
+  "start": "2026-11-21",
+  "end": "2026-11-27",
+  "headline": "A stalled offshore low opened a stormy week that peaked Thursday, with a brief weekend break.",
+  "summary": "Forecasters began the week saying a cold low aloft would stall offshore, partly blocked by high pressure to the north, and then merge into a broad dip in the Pacific jet stream. That would turn the pattern wet, windy and active, and this call held all week. The main change was timing. Coastal flooding concern moved up to Monday's high tide, then Tuesday, and the peak of the whole storm series settled on late Wednesday into Thursday. The strongest winds and heaviest rain were expected then. Some of the year's highest tides lined up with the storms, which kept coastal flooding the biggest worry. Snow levels stayed high, so rain fell at most elevations, but the North Cascades were expected to get heavy snow.\n\nOnce the strong storm wound down, attention turned to the weekend. A brief ridge of high pressure aloft was first floated as a break on Friday, then moved to the weekend, and by Wednesday the models agreed on it. It looks like light rain Friday, then a mostly quiet Saturday. The next change came Thursday, when forecasters dropped an earlier idea of a strong offshore storm on Sunday night. By Friday they were again watching a low that could bring strong winds Sunday night into Monday. They can't say how strong the winds will be because the models disagree on its track. High tides keep coastal flooding a concern into next week. Forecasters expect the storm track to shift south later in the week, which would mean somewhat quieter weather here.",
   "turning_points": [
     {
-      "date": "Sat Nov 21",
-      "what": "Forecasters became more sure the stalled upper low would give way to a busy storm week, and they began flagging coastal flooding and mountain snow."
-    },
-    {
       "date": "Sun Nov 22",
-      "what": "The main coastal flooding concern moved up to Monday morning's high tide, and warnings replaced watches for the outer coast."
-    },
-    {
-      "date": "Mon Nov 23",
-      "what": "Coastal flooding was expected to peak Tuesday, with watches extended to the Puget Sound lowlands, and the hoped-for break slipped to the weekend."
+      "what": "The coastal flooding concern moved up to Monday morning's high tide, and a coastal flood warning was issued for the Grays Harbor coast."
     },
     {
       "date": "Tue Nov 24",
-      "what": "The storm's peak shifted to late Wednesday into Thursday, with very high tides and a Winter Storm Watch for the North Cascades."
+      "what": "The peak of the stormy stretch was set for Thursday, and a Winter Storm Watch was added for the North Cascades."
+    },
+    {
+      "date": "Wed Nov 25",
+      "what": "Forecasters raised the expected peak coastal gusts to around 60 mph, and the models came to agree on a brief weekend break."
+    },
+    {
+      "date": "Thu Nov 26",
+      "what": "The possible strong offshore storm for Sunday night was dropped, and attention shifted to a Monday system whose track was uncertain."
     }
   ],
-  "signature": "1a0b3f3110ba085d",
-  "written": "2026-11-25"
+  "signature": "afd3db138391b005",
+  "written": "2026-11-27"
 }

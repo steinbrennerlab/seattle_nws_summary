@@ -1,0 +1,155 @@
+FXUS66 KSEW 270951
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+151 AM PST Fri Nov 27 2026
+
+.SYNOPSIS...
+Precipitation chances will linger today as a weak system brings
+light rain to the lowlands and light snow to the Cascades. A 
+weak ridge building over the Pacific Northwest will bring a 
+brief break in precipitation this weekend. An active weather 
+pattern resumes early next week with a series of systems moving
+across the region.
+
+&&
+
+.SHORT TERM /TODAY THROUGH SUNDAY/...
+Much quieter conditions prevail across Western Washington this
+morning compared to this time yesterday with just a few spotty 
+showers and lighter winds. Precipitation associated with a stalled
+frontal boundary over Oregon will spread northward into the 
+area later today, but it will be considerably lighter than what 
+we saw on Thanksgiving morning. With a cooler air mass in 
+place, we'll see some light snowfall in the passes. But it is 
+expected to fall short of any headlines. Shortwave ridging will 
+slide across the region late tonight into Saturday for a short 
+reprieve from the recent active weather. 
+
+Another developing system moves into the offshore waters on
+Sunday with some rain spreading inland across Western Washington
+through the course of the day. Models do not have a good handle
+on the track and strength of the surface low. Parts of Western 
+Washington will likely see windy conditions developing by Sunday
+night, but the path of the low will define a lot of the 
+details. And we'll discuss that in the long term discussion.
+
+Coastal flooding remains a threat for many areas heading into 
+the weekend. Areas along the north interior coastline are 
+favored to see the highest degree of coastal flooding over the 
+weekend, with lesser impacts expected elsewhere.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+As alluded to in the short term discussion, the path of a surface
+low Sunday night into Monday could have significant implications
+in terms of the wind forecast. Models solutions range from a
+weakening surface low tracking into northern Vancouver Island to
+a concerning 00Z operational ECMWF showing a sub 985 millibar
+low making landfall over Grays Harbor county early Monday AM 
+and tracking northeastward across the CWA. Stay tuned to the 
+forecast as models get a better handle as to how this is 
+expected to play out. 
+
+There is a trend toward a somewhat quieter period of weather as
+we move toward the middle of the coming week with the storm 
+track diving southward into California. This pattern favors 
+anomalous weak ridging just offshore. While this doesn't imply
+an entirely dry forecast, it does favor somewhat more benign 
+conditions as systems moving into British Columbia clip the 
+area.
+
+Additional coastal flooding may occur into next week due to 
+high astronomical tides.
+
+27
+
+&&
+
+.AVIATION...Westerly flow aloft this morning as a weak system
+will move through western Washington late this morning and
+afternoon. Rain will start to move through the area 14z-19z,
+with conditions lowering to MVFR through most area terminals.
+In heavier showers, could see reduced visibilities around 3 to
+5SM at times. MVFR conditions will likely continue through the 
+rest of the afternoon and evening hours for most area terminals.
+S/SW winds this morning generally around 9 to 14 kts will
+decrease to around 5 to 10 knots this afternoon, decreasing
+later this evening to 4 to 8 knots. 
+
+KSEA...VFR early this morning with a weak system moving into the
+area this afternoon. Rain will start to spread near the terminal
+around 18z-20z, with conditions lowering to MVFR. Reductions in
+visibilities will be likely during this time, around 3 to 6 SM 
+at times. S/SW winds 5 to 10 knots this morning, decreasing 
+generally throughout the day to 4 to 8 knots, maintaining the 
+same direction.
+
+Mazurkiewicz
+
+&&
+
+.MARINE...Winds will continue throughout the day with Small 
+Craft Advisories continuing for the coastal waters, mainly due 
+to elevated seas. A weak system will approach the area waters
+today, with minimal impacts to wind and seas. High pressure will
+then develop over the coastal waters through the weekend, with
+wind and seas further easing. The exception is the Strait of
+Juan De Fuca, where a westerly push of winds is likely.
+
+A low pressure looks to move into the area Monday into Tuesday,
+for increasing winds and seas. Latest guidance is a bit shaky on
+the exact tracking of the low pressure system, which could
+impact the strength of the winds. Will continue to monitor as
+more guidance becomes available.
+
+Coastal seas generally 10 to 15 this morning decreasing to below
+10 early this evening. Seas will decrease even further to 4 to 6
+over the weekend, before the aforementioned system moves in on
+Monday, increasing seas upwards to 15 to 18 feet.
+
+Mazurkiewicz
+
+&&
+
+.HYDROLOGY...
+River levels should continue to gradually fall with the 
+Skokomish expected to recede below flood stage tonight. 
+Additional rises to the Skokomish are possible next week with 
+additional incoming precipitation, but a large degree of 
+uncertainty remains over the extended forecast.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Coastal Flood Warning from 5 AM to 11 AM PST this morning for 
+     San Juan County.
+
+     Coastal Flood Advisory from 5 AM to 11 AM PST this morning for 
+     City of Seattle-Downtown Everett / Marysville Area-
+     Eastern Kitsap County-Island County-Lowlands of Pierce 
+     and Southern King Counties-Lowlands of Western Skagit and 
+     Northwestern Snohomish Counties-Lowlands of Western 
+     Whatcom County-Northern Hood Canal-Olympia and Southern 
+     Puget Sound-Shoreline / Lynnwood / South Everett Area-
+     Southern Hood Canal.
+
+     Coastal Flood Advisory from 11 AM this morning to 7 PM PST 
+     this evening for Grays Harbor County Coast-Northern 
+     Washington Coast.
+
+PZ...Small Craft Advisory until 4 PM PST this afternoon for Coastal 
+     Waters From Cape Flattery To James Island 10 To 60 Nm-
+     Coastal Waters From Cape Flattery To James Island Out 10 
+     Nm-Coastal Waters From James Island To Point Grenville 10 
+     To 60 Nm-Coastal Waters From James Island To Point 
+     Grenville Out 10 Nm-Coastal Waters From Point Grenville 
+     To Cape Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm-Grays Harbor Bar-
+     West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+&&
+
+$$

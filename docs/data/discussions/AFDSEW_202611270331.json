@@ -1,0 +1,64 @@
+{
+  "id": "AFDSEW_202611270331",
+  "issued": "2026-11-27T03:31:00+00:00",
+  "headline": "Light rain Friday, a dry weekend, then a wetter, active pattern next week.",
+  "summary": "This week's strong storm is winding down. A weaker system arrives Friday, and a ridge of high pressure, a stretch of air that tends to bring dry weather, builds offshore and then slides inland for the weekend. Forecasters expect that ridge to break down next week, letting a series of storm systems move through the region again.\n\nFor most people, Friday brings light rain to the lowlands and light snow in the mountains, and Saturday stays mostly dry. Rain returns by Sunday and Monday. Mountain passes will pick up a few inches of snow, and the northern Cascades get more snow tonight. Winds ease, but high tides keep coastal flooding a concern through the weekend and into next week.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Lingering showers fade, and the Winter Storm Warning for the northern Cascades stays in effect.",
+      "source": "short_term"
+    },
+    {
+      "when": "Friday",
+      "what": "Light rain falls in the lowlands and light snow in the Cascades, with coastal flooding possible during the morning high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "Mostly dry as a ridge of high pressure sits overhead.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday into Monday",
+      "what": "Rain returns as a trough and a low pressure system approach, though the low's path is uncertain.",
+      "source": "long_term"
+    },
+    {
+      "when": "Wednesday",
+      "what": "A brief break in the active weather is favored as a ridge builds again.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about Friday and Saturday, but the outlook for next week is uncertain, especially where Monday's low will track, because the European and GFS models disagree on its path.",
+  "hazards": [
+    "Winter Storm Warning until 4 AM Friday for the Cascades of Whatcom and Skagit Counties, with about 6 more inches of snow above 4,000 feet.",
+    "Coastal Flood Advisory from 5 to 11 AM Friday for much of the Seattle area, Puget Sound, and Hood Canal lowlands.",
+    "Coastal Flood Warning from 5 to 11 AM Friday for San Juan County.",
+    "Coastal Flood Advisory from 11 AM to 7 PM Friday for the Grays Harbor and northern Washington coasts.",
+    "Small Craft Advisories on the waters, with strong winds and rough seas in some areas through Friday."
+  ],
+  "glossary": [
+    {
+      "term": "Upper level ridge",
+      "definition": "A high-altitude area of higher pressure that usually brings drier, calmer weather to the surface below. It shifts east or west as the pattern changes."
+    },
+    {
+      "term": "Upper level trough",
+      "definition": "A high-altitude dip in the atmosphere that often comes with unsettled weather and storm systems at the surface. It is the opposite of a ridge."
+    },
+    {
+      "term": "Shortwave trough",
+      "definition": "A smaller, fast-moving trough embedded in the larger upper-level flow. It can bring a brief round of rain or snow."
+    },
+    {
+      "term": "Convergence zone",
+      "definition": "A narrow band where winds from different directions meet, often producing localized showers even when the surrounding area is dry. In the Seattle area these can form over Puget Sound."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The predictable rise and fall of the sea caused by the pull of the sun and moon. High astronomical tides, especially combined with storm surge, can cause coastal flooding."
+    }
+  ],
+  "calls": []
+}

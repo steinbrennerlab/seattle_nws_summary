@@ -1,0 +1,164 @@
+FXUS66 KSEW 270331
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+731 PM PST Thu Nov 26 2026
+
+.SYNOPSIS...
+Post-frontal showers will continue to subside this evening
+outside of convergence zone activity. Precipitation chances 
+will linger into Friday as a weaker system brings light rain to 
+the lowlands and light snow to the Cascades. A weak ridge 
+building over the Pacific Northwest will bring a brief break in 
+precipitation this weekend. An active weather pattern resumes 
+next week with a series of systems moving over the region.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH SATURDAY NIGHT/...
+The latest forecast remains on track this evening with no
+updates. Lingering light showers are possible into this evening
+across the lowlands and Cascades, particularly the North 
+Cascades, alongside convergence zone activity. A Winter Storm 
+Warning remains in effect for the Northern Cascades for an 
+additional 6 inches of snow above 4000 feet. Additionally, winds
+still remain breezy this evening with gusts to 20 mph.
+
+A shortwave trough will move through Washington on Friday,
+bringing another round of light lowland rain and mountain snow
+beginning in the morning. The Cascade Passes will see some light
+snow accumulations, generally 1 to 2 inches through Snoqualmie
+and Stevens Passes.
+
+Conditions will dry out Friday evening as an upper level ridge
+building offshore begins to shift inland. Saturday will be
+mostly dry, with the upper level ridge overhead. The ridge axis
+will shift east Saturday night, opening the door for additional
+precipitation as the next system approaches the Pacific
+Northwest.
+
+While astronomical tides peaked today, coastal flooding remains
+a threat for many areas heading into the weekend. Areas along
+the north interior coastline are favored to see the highest
+degree of coastal flooding over the weekend, with lesser impacts
+expected elsewhere.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+After a brief break, an active weather pattern resumes by the
+beginning of next week. Guidance suggests an upper level trough
+offshore on Sunday, which could potentially spread some
+precipitation across the region. Another low pressure system is
+on track to enter the region on Monday, though models are
+struggling with the trajectory of the upper level low. The
+European model has the low moving onshore over Washington, while
+the GFS brings the low northward over British Columbia. Another
+break in active weather is favored on Wednesday, with an upper
+level ridge building over the Pacific Northwest. However, the
+extended forecast remains fairly uncertain.
+
+While any incoming storm systems next week are not expected to
+be particularly strong, additional coastal flooding may occur
+into next week due to high astronomical tides.
+
+&&
+
+.AVIATION...
+Most terminals remain VFR with localized MVFR conditions in 
+post with isolated showers moving across the area. Few showers 
+will persist across the area overnight.A weak system will bring 
+rain again starting Friday morning, continuing into the 
+afternoon hours. Reduced visibility down to 4SM possible in the 
+heavier showers. Additionally, ceilings will gradually lower 
+throughout the day on Friday with MVFR conditions expected by 
+the afternoon and continuing into Friday night. S/SW winds 8 to 
+12 kt this evening will slowly decrease to to 4-6 kt Friday 
+morning, becoming light Friday evening and overnight.
+
+KSEA...VFR this afternoon will prevail into Friday morning. A weak 
+system will bring rain by the afternoon hours. Ceilings will lower 
+through the day on Friday, with MVFR likely by 18Z.
+Visibility may also be reduced to 4SM in the heavier rain.
+S/SW winds around 8-12 kt will slowly ease tonight into tomorrow.
+
+29/62
+
+&&
+
+.MARINE...
+Winds will continue to ease this evening across the area with
+Small Craft advisories ending for the interior waters by late 
+tonight. Seas will be slower to come down but should lower below
+10 ft by mid- day tomorrow.
+
+A weak system will approach the waters on Friday, though impacts 
+continue to remain negligible. High pressure is favored to develop 
+over the waters through the weekend, with seas and winds to ease, 
+the exception is the Strait of Juan De Fuca, where a westerly push 
+of winds is likely. 
+
+The next impactful low pressure system looks to move across the area 
+Monday into Tuesday for the next round of headlines for winds, and 
+seas look to rise, potentially into the 15-20 ft range by early 
+Tuesday. Calmer conditions look to be favored into the middle of 
+next week.
+
+62
+
+&&
+
+.HYDROLOGY...
+A strong frontal system brought roughly 3 to 6 inches of
+rainfall along the Pacific Coast, with up to 9 to 11 inches of
+liquid over the Olympic Mountains. While this caused rises to
+most area rivers, most remained below flood stage. The exception
+is the Skokomish River at Potlach, which peaked this afternoon
+just under Major flood stage. River levels should continue to 
+gradually fall tonight, with the Skokomish expected to recede 
+below flood stage by late Friday. Additional rises to the 
+Skokomish are possible next week with additional incoming 
+precipitation, but a large degree of uncertainty remains over 
+the extended forecast.
+
+15
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Coastal Flood Warning from 5 AM to 11 AM PST Friday for San 
+     Juan County.
+
+     Winter Storm Warning until 4 AM PST Friday for Cascades of 
+     Whatcom and Skagit Counties.
+
+     Coastal Flood Advisory from 5 AM to 11 AM PST Friday for City 
+     of Seattle-Downtown Everett / Marysville Area-Eastern 
+     Kitsap County-Island County-Lowlands of Pierce and 
+     Southern King Counties-Lowlands of Western Skagit and 
+     Northwestern Snohomish Counties-Lowlands of Western 
+     Whatcom County-Northern Hood Canal-Olympia and Southern 
+     Puget Sound-Shoreline / Lynnwood / South Everett Area-
+     Southern Hood Canal.
+
+     Coastal Flood Advisory from 11 AM to 7 PM PST Friday for Grays 
+     Harbor County Coast-Northern Washington Coast.
+
+PZ...Small Craft Advisory until 4 PM PST Friday for Coastal Waters 
+     From Cape Flattery To James Island 10 To 60 Nm-Coastal 
+     Waters From Cape Flattery To James Island Out 10 Nm-
+     Coastal Waters From James Island To Point Grenville 10 To 
+     60 Nm-Coastal Waters From James Island To Point Grenville 
+     Out 10 Nm-Coastal Waters From Point Grenville To Cape 
+     Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm-Grays Harbor Bar-
+     West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+     Small Craft Advisory until 10 PM PST this evening for Central 
+     U.S. Waters Strait Of Juan De Fuca-East Entrance U.S. 
+     Waters Strait Of Juan De Fuca-Puget Sound and Hood Canal.
+
+&&
+
+$$

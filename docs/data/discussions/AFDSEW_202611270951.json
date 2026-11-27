@@ -1,0 +1,88 @@
+{
+  "id": "AFDSEW_202611270951",
+  "issued": "2026-11-27T09:51:00+00:00",
+  "headline": "Light rain today, a brief weekend break, then a possibly windy and stormy Sunday night into Monday.",
+  "summary": "A weak system and a stalled front to the south are pushing light rain north into western Washington today. A weak ridge of high pressure, a zone of higher air pressure that tends to bring drier weather, slides across the region this weekend for a short break. The break won't last. A more active pattern returns early next week, and a low pressure system could bring strong winds to the coast and lowlands Sunday night into Monday. Later in the week, the storm track is expected to shift south toward California, which should bring somewhat quieter weather here.\n\nFor most people, today means light rain in the lowlands and light snow in the passes, though not enough to trigger snow warnings. Saturday should be mostly quiet. Rain returns Sunday and may turn windy by Sunday night. How strong the wind gets depends on the exact track of the low, and forecasters can't pin that down yet. Coastal flooding remains a concern this weekend, especially along the northern coast, and high tides could bring more flooding next week.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Light rain spreads into the lowlands and light snow falls in the passes, lighter than Thanksgiving morning and not expected to trigger headlines.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A short break from the recent wet weather as a ridge of high pressure moves across the region.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain spreads inland across western Washington, with wind picking up by Sunday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A low pressure system could bring significant wind, but its track is still uncertain and could make it much weaker or stronger.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of the coming week",
+      "what": "The storm track shifts south toward California, bringing a somewhat quieter period, though not entirely dry.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the light rain today and the short break on Saturday, but they are uncertain about the Sunday-into-Monday low because the models disagree on its track and strength, and they say the extended forecast carries a large degree of uncertainty.",
+  "hazards": [
+    "Coastal flood warning this morning for San Juan County.",
+    "Coastal flood advisory this morning for many Puget Sound lowlands and shorelines, including Seattle, Everett, Olympia, and Hood Canal areas.",
+    "Coastal flood advisory from late morning until 7 PM today for the Grays Harbor and northern Washington coasts.",
+    "Small craft advisory on coastal and Strait of Juan de Fuca waters until 4 PM today due to high seas."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge (of high pressure)",
+      "definition": "An elongated area of high air pressure, usually bringing drier and calmer weather while it stays overhead."
+    },
+    {
+      "term": "Surface low",
+      "definition": "A area of low air pressure at the ground level. Storms and wind usually develop around it, and its exact path largely decides how strong the weather is."
+    },
+    {
+      "term": "Stalled frontal boundary",
+      "definition": "The edge between two different air masses that has stopped moving, often producing rain for a long time along it."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The predictable high and low tides caused by the pull of the Moon and Sun. Unusually high astronomical tides can raise water levels enough to cause coastal flooding, especially during storms."
+    },
+    {
+      "term": "ECMWF",
+      "definition": "The European Centre for Medium-Range Weather Forecasts, a global computer forecast model that forecasters compare with other models."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The storm track is likely to shift south toward California in the middle of next week, bringing somewhat quieter weather to the Northwest.",
+      "about": "Middle of the coming week",
+      "stance": "expected",
+      "quote": "There is a trend toward a somewhat quieter period of weather as we move toward the middle of the coming week",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "The Sunday-into-Monday low could be much stronger than a typical system, but the models disagree on where it will go.",
+      "about": "Sunday night into Monday",
+      "stance": "possible",
+      "quote": "a concerning 00Z operational ECMWF showing a sub 985 millibar low making landfall over Grays Harbor county early Monday",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Coastal flooding may return next week because of high astronomical tides, even apart from the storm.",
+      "about": "Next week",
+      "stance": "possible",
+      "quote": "Additional coastal flooding may occur into next week due to high astronomical tides.",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

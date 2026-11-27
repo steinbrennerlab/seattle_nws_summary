@@ -1,12 +1,13 @@
 {
   "date": "2026-11-26",
-  "headline": "Showers fade tonight; light rain Friday, a drier weekend, then wetter weather next week.",
-  "summary": "A cold front from the Pacific has passed, bringing heavy rain to the coast and raising rivers. A ridge of high pressure aloft, settled air drifting in from the ocean, gives western Washington a short weekend break. Showers fade tonight. Friday brings light rain to the lowlands and light snow in the mountains, with a few inches possible over the passes. Saturday should be mostly dry. Next week a series of Pacific systems is expected to bring back wet weather. Those systems are not expected to be strong, but they could bring more rain, river rises, and coastal flooding at high tides. Forecasters are uncertain, since computer models disagree on the track of the Monday system. Wednesday looks like a brief break.",
-  "changes": "The latest discussion dropped the earlier possibility of a strong storm offshore Sunday night and now describes next week's systems as not strong. It also added light snow in the mountains for Friday, with a few inches possible over the passes.",
-  "signature": "029f568ddbb0721a",
+  "headline": "Light rain Friday, a dry weekend, then a wetter, active pattern next week.",
+  "summary": "The strong storm that brought wind and heavy rain earlier is winding down. A weaker system brings light rain to the lowlands Friday, with light snow in the mountains and possibly a few inches over the passes. A ridge of high pressure, which usually means drier weather, then builds in for Saturday, giving western Washington a mostly dry break. Forecasters expect the pattern to turn active again next week, as a series of Pacific weather systems moves in. Rain returns by Sunday and Monday, and the models disagree on where Monday's low will track, so the details are uncertain. Winds ease, but high tides will keep coastal flooding a concern through the weekend and into next week.",
+  "changes": "The early discussions flagged a possible strong offshore storm Sunday night that could affect holiday travel. The later discussions dropped that storm and now focus on a Monday system, with forecasters disagreeing on its path.",
+  "signature": "c37f0ab744fba5d9",
   "discussions": [
     "AFDSEW_202611260939",
     "AFDSEW_202611261648",
-    "AFDSEW_202611270018"
+    "AFDSEW_202611270018",
+    "AFDSEW_202611270331"
   ]
 }
