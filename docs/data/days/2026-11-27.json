@@ -1,10 +1,12 @@
 {
   "date": "2026-11-27",
-  "headline": "Light rain today, quiet Saturday, then possibly windy Sunday night into Monday.",
-  "summary": "A weak storm and a stalled front to the south are bringing light rain north into western Washington today, with light snow in the passes. A weak area of high pressure gives a mostly quiet Saturday, but the break won't last. A more active pattern returns early next week, and a low pressure system could bring strong winds to the coast and lowlands Sunday night into Monday. Forecasters can't yet say how strong the winds will be, since the models disagree on the storm's track. Rain returns Sunday. Later in the week, the storm track should shift south toward California, bringing somewhat quieter weather here. Coastal flooding remains a concern this weekend, especially on the northern coast, and high tides could bring more flooding next week.",
-  "changes": "",
-  "signature": "9b3dae670ce1b3e8",
+  "headline": "Dry Saturday, then a stormy stretch starting Sunday, with wind strength uncertain.",
+  "summary": "The big picture is a brief break between systems. A weak ridge of high pressure, a zone that brings drier weather, moves in for a mostly dry but overcast Saturday, with fog possible overnight in inland valleys. Rain returns to the lowlands Sunday, and winds may pick up Sunday night. The key question is a low pressure system forming offshore. The models disagree on its path: one sends it north toward British Columbia, while another brings it ashore near western Washington. That difference decides whether the strongest winds hit the coast or inland areas. Monday carries the most risk, with strong winds possible and high tides that could cause coastal flooding. Later in the week, the storm track shifts toward California, bringing quieter weather.",
+  "changes": "By afternoon, forecasters named Monday as the highest-risk day and added fog for Saturday night. The uncertainty over the low's track remained, though the afternoon discussion described the models' split more specifically.",
+  "signature": "cb5ab36d04f34bb8",
   "discussions": [
-    "AFDSEW_202611270951"
+    "AFDSEW_202611270951",
+    "AFDSEW_202611271810",
+    "AFDSEW_202611272346"
   ]
 }

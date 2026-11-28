@@ -1,0 +1,82 @@
+{
+  "id": "AFDSEW_202611272346",
+  "issued": "2026-11-27T23:46:00+00:00",
+  "headline": "Dry Saturday, then a stormy stretch starting Sunday, with wind strength uncertain.",
+  "summary": "A weak system is ending today's light rain as a ridge of high pressure builds over the Northwest for a brief break on Saturday. A low forming offshore will follow, and the computer models disagree on its path. One model takes it north into British Columbia, while another brings it ashore near Western Washington. Next week brings a series of systems, though forecasters suggest a quieter stretch midweek as the storm track shifts toward California.\n\nSaturday should be mostly dry but overcast, with fog likely in the southern interior and river valleys overnight. Rain returns to the lowlands Sunday, and wind may pick up Sunday night. Monday carries the most risk: strong winds, especially along the coast, and high tides that could cause coastal flooding.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain winds down and skies clear out, with fog possible in valleys and the southern interior overnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A brief dry break with fog burning off in the afternoon, though skies stay gray.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain returns to the lowlands, and wind may build by Sunday night depending on the low's path.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The strongest winds and coastal flooding are possible, especially along the coast.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about dry weather and fog on Saturday, but unsure about the low's exact track early next week, which decides whether the strongest winds hit the coast or the interior.",
+  "hazards": [
+    "Coastal flood advisory for parts of the Strait of Juan de Fuca and the northern and Grays Harbor coasts, ending this evening.",
+    "Small craft advisory for coastal waters, ending at 4 PM today.",
+    "Possible coastal flooding again on Monday because of high tides."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "An elongated area of high pressure high in the atmosphere. Ridges usually bring drier, calmer weather to the surface below."
+    },
+    {
+      "term": "Shortwave trough",
+      "definition": "A small, fast-moving dip in the upper-air flow. These often bring showers or light precipitation as they pass."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The typical path that storms follow across the ocean and land. When it shifts, the region under it gets more or less rain and wind."
+    },
+    {
+      "term": "Ensembles",
+      "definition": "Many runs of a computer forecast model, each started slightly differently. Their spread shows how much uncertainty there is."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The predictable high and low tides caused by the moon and sun. Coastal flooding is more likely when these are unusually high."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "Next week may bring a quieter stretch in the middle of the week as the storm track moves south.",
+      "about": "middle of the week",
+      "stance": "possible",
+      "quote": "Ensembles hint at quieter weather towards the middle of the week",
+      "source": "long_term",
+      "signer": "29"
+    },
+    {
+      "claim": "Forecasters do not yet know the exact path of the low, which determines where the strongest winds will land.",
+      "about": "Sunday night",
+      "stance": "uncertain",
+      "quote": "Models continue to struggle on the exact path of the low pressure system",
+      "source": "long_term",
+      "signer": "29"
+    },
+    {
+      "claim": "Coastal flooding is possible again on Monday because of high tides.",
+      "about": "Monday",
+      "stance": "possible",
+      "quote": "Additional coastal flooding may occur into next week due to high astronomical tides, with highest concern on Monday.",
+      "source": "long_term",
+      "signer": "29"
+    }
+  ]
+}

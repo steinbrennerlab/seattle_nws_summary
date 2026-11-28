@@ -1,0 +1,166 @@
+FXUS66 KSEW 271810
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+1010 AM PST Fri Nov 27 2026
+
+.SYNOPSIS...
+Precipitation chances will linger today as a weak system brings
+light rain to the lowlands and light snow to the Cascades. A 
+weak ridge building over the Pacific Northwest will bring a 
+brief break in precipitation this weekend. An active weather 
+pattern resumes early next week with a series of systems moving
+across the region.
+
+&&
+
+.SHORT TERM /TODAY THROUGH SUNDAY/...
+Precipitation associated with a stalled frontal boundary over 
+Oregon will spread northward into the area later today, but it 
+will be considerably lighter than what we saw on Thanksgiving 
+morning. With a cooler air mass in place, we'll see some light 
+snowfall in the passes. But it is expected to fall short of any 
+headlines. Shortwave ridging will slide across the region late 
+tonight into Saturday for a short reprieve from the recent 
+active weather. 
+
+Another developing system moves into the offshore waters on
+Sunday with some rain spreading inland across Western Washington
+through the course of the day. Models do not have a good handle
+on the track and strength of the surface low. Parts of Western 
+Washington will likely see windy conditions developing by Sunday
+night, but the path of the low will define a lot of the 
+details. And we'll discuss that in the long term discussion.
+
+Coastal flooding remains a threat for many areas heading into 
+the weekend. Areas along the north interior coastline are 
+favored to see the highest degree of coastal flooding over the 
+weekend, with lesser impacts expected elsewhere.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+As alluded to in the short term discussion, the path of a surface
+low Sunday night into Monday could have significant implications
+in terms of the wind forecast. Models solutions range from a
+weakening surface low tracking into northern Vancouver Island to
+a concerning 00Z operational ECMWF showing a sub 985 millibar
+low making landfall over Grays Harbor county early Monday AM 
+and tracking northeastward across the CWA. Stay tuned to the 
+forecast as models get a better handle as to how this is 
+expected to play out. 
+
+There is a trend toward a somewhat quieter period of weather as
+we move toward the middle of the coming week with the storm 
+track diving southward into California. This pattern favors 
+anomalous weak ridging just offshore. While this doesn't imply
+an entirely dry forecast, it does favor somewhat more benign 
+conditions as systems moving into British Columbia clip the 
+area.
+
+Additional coastal flooding may occur into next week due to 
+high astronomical tides.
+
+27
+
+&&
+
+.AVIATION...
+Westerly flow aloft this morning as a weak system will move through 
+western Washington late this morning and afternoon. Showers 
+near OLM this morning, with rain lifting north and becoming 
+widespread after 19Z. Rain activity will subside this evening. 
+Majority of terminals remain VFR this morning. However, a few 
+terminals are reporting MVFR to IFR. Ceilings will continue to 
+lower with widespread MVFR by this afternoon, continuing into 
+Saturday. S/SW winds 5-7 kt today, will become light to calm 
+tonight into Saturday morning. 
+
+With light/calm winds tonight and residual moisture, there is a 60-
+70% chance for visibility less than 1SM over the southern interior. 
+However, there is uncertainty with Puget Sound terminals as fog 
+development would be dependent on the amount of clearing behind 
+today's system. Latest guidance suggests there is a 35-45% chance 
+for visibility less than 1SM, especially in the valleys. 
+
+KSEA...MVFR this morning and will likely prevail into Saturday. Rain 
+will start impacting the terminal around 19Z, which could reduce 
+visibility to 4SM at times in heavier rain. Rain will subside 
+this evening. S/SW winds 5-7 kt will become light this 
+evening/tonight, introducing the potential for fog at terminal 
+Saturday morning. While there is uncertainty on fog development 
+due to sky cover, high-res guidance suggests there is a 35% 
+chance for visibility below 1SM around 16Z. Winds will shift NE 
+after 12Z Saturday at 3-5 kt. 
+
+29
+
+&&
+
+.MARINE...
+Winds will continue throughout the day with Small 
+Craft Advisories continuing for the coastal waters, mainly due 
+to elevated seas. A weak system will approach the area waters
+today, with minimal impacts to wind and seas. High pressure will
+then develop over the coastal waters through the weekend, with
+wind and seas further easing. The exception is the Strait of
+Juan De Fuca, where a westerly push of winds is likely.
+
+A low pressure looks to move into the area Monday into Tuesday,
+for increasing winds and seas. Latest guidance is a bit shaky on
+the exact tracking of the low pressure system, which could
+impact the strength of the winds. Will continue to monitor as
+more guidance becomes available.
+
+Coastal seas generally 10 to 15 this morning decreasing to below
+10 early this evening. Seas will decrease even further to 4 to 6
+over the weekend, before the aforementioned system moves in on
+Monday, increasing seas upwards to 15 to 18 feet.
+
+Mazurkiewicz
+
+&&
+
+.HYDROLOGY...
+River levels should continue to gradually fall with the 
+Skokomish expected to recede below flood stage tonight. 
+Additional rises to the Skokomish are possible next week with 
+additional incoming precipitation, but a large degree of 
+uncertainty remains over the extended forecast.
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Coastal Flood Warning until 11 AM PST this morning for San 
+     Juan County.
+
+     Coastal Flood Advisory until 11 AM PST this morning for City 
+     of Seattle-Downtown Everett / Marysville Area-Eastern 
+     Kitsap County-Island County-Lowlands of Pierce and 
+     Southern King Counties-Lowlands of Western Skagit and 
+     Northwestern Snohomish Counties-Lowlands of Western 
+     Whatcom County-Northern Hood Canal-Olympia and Southern 
+     Puget Sound-Shoreline / Lynnwood / South Everett Area-
+     Southern Hood Canal.
+
+     Coastal Flood Advisory until 5 PM PST this afternoon for 
+     Eastern Strait of Juan de Fuca-Western Strait of Juan de 
+     Fuca.
+
+     Coastal Flood Advisory until 7 PM PST this evening for Grays 
+     Harbor County Coast-Northern Washington Coast.
+
+PZ...Small Craft Advisory until 4 PM PST this afternoon for Coastal 
+     Waters From Cape Flattery To James Island 10 To 60 Nm-
+     Coastal Waters From Cape Flattery To James Island Out 10 
+     Nm-Coastal Waters From James Island To Point Grenville 10 
+     To 60 Nm-Coastal Waters From James Island To Point 
+     Grenville Out 10 Nm-Coastal Waters From Point Grenville 
+     To Cape Shoalwater 10 To 60 Nm-Coastal Waters From Point 
+     Grenville To Cape Shoalwater Out 10 Nm-Grays Harbor Bar-
+     West Entrance U.S. Waters Strait Of Juan De Fuca.
+
+&&
+
+$$

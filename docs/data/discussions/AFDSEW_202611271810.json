@@ -1,0 +1,92 @@
+{
+  "id": "AFDSEW_202611271810",
+  "issued": "2026-11-27T18:10:00+00:00",
+  "headline": "Light rain today, a brief weekend break, then a possibly windy system early next week.",
+  "summary": "Forecasters are watching a stalled front off Oregon that is pushing light rain north today. Behind it, a weak ridge of high pressure builds over the Pacific Northwest for a short break this weekend. The pattern turns busy again early next week, with a series of systems lining up off the coast. Later in the week, the storm track is expected to dip south toward California, which should bring somewhat calmer weather with high pressure just offshore.\n\nFor most people, that means light rain in the lowlands today and light snow in the passes, probably not enough to make headlines. Saturday should be mostly quiet. Rain spreads inland Sunday, and gusty winds could develop Sunday night. The main uncertainty is how strong the low pressure system arriving early next week will be and where it tracks. Some models show a weak storm, and one shows a very strong one, so the details could change. Coastal flooding is also a concern through the weekend, especially along northern inland shorelines, and possibly again next week during high tides.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Light rain spreads into the lowlands and light snow falls in the passes, with no major impacts expected.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A short break from the wet weather as a weak ridge of high pressure moves through.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Rain spreads inland across western Washington, and windy conditions begin to develop by evening.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday night into Monday",
+      "what": "A low pressure system could bring significant wind, depending on its exact track, which is still uncertain.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of next week",
+      "what": "A quieter stretch is favored, though it is not expected to be completely dry.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about today's light rain and the weekend break, but they are uncertain about the track and strength of the low pressure system arriving early next week, because the models do not agree yet.",
+  "hazards": [
+    "Coastal flood advisories for much of the Puget Sound area and the Strait of Juan de Fuca, ending today or this evening, and a coastal flood warning for San Juan County ending this morning.",
+    "Coastal flood advisory for the Grays Harbor and northern Washington coasts through this evening.",
+    "Small craft advisories for coastal waters, mainly because of high seas, through this afternoon.",
+    "Possible additional coastal flooding next week due to high astronomical tides."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge of high pressure",
+      "definition": "An elongated area of higher air pressure that usually brings drier, calmer weather while it stays over the region."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The typical path that storms follow across the ocean and toward land. When it shifts south, the Pacific Northwest tends to see fewer storms."
+    },
+    {
+      "term": "Surface low",
+      "definition": "An area of low air pressure at ground level, which is the center of a storm and its winds and rain."
+    },
+    {
+      "term": "Millibar",
+      "definition": "A unit of air pressure. Lower numbers mean a stronger storm, so a low below 985 millibars would be very intense."
+    },
+    {
+      "term": "ECMWF",
+      "definition": "The European Centre for Medium-Range Weather Forecasts, a global computer forecast model that forecasters compare with others."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The regular high and low tides caused by the moon and sun, which can push seawater onto shore when combined with storm surge."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The track and strength of the low pressure system arriving Sunday night and Monday are highly uncertain.",
+      "about": "Sunday night into Monday",
+      "stance": "uncertain",
+      "quote": "Models do not have a good handle on the track and strength of the surface low.",
+      "source": "short_term",
+      "signer": "27"
+    },
+    {
+      "claim": "One model run shows a very strong low coming ashore early Monday, which forecasters find concerning but have not yet confirmed.",
+      "about": "early Monday",
+      "stance": "possible",
+      "quote": "a concerning 00Z operational ECMWF showing a sub 985 millibar low making landfall over Grays Harbor county early Monday AM",
+      "source": "long_term",
+      "signer": "27"
+    },
+    {
+      "claim": "Midweek should be somewhat quieter, as the storm track shifts south, though not entirely dry.",
+      "about": "middle of the coming week",
+      "stance": "possible",
+      "quote": "There is a trend toward a somewhat quieter period of weather as we move toward the middle of the coming week",
+      "source": "long_term",
+      "signer": "27"
+    }
+  ]
+}

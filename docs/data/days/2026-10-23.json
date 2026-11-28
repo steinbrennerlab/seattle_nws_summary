@@ -1,12 +1,10 @@
 {
   "date": "2026-10-23",
-  "headline": "Light rain Saturday night into Sunday, then cool, mostly dry weather through next week.",
-  "summary": "A weak low-pressure system from British Columbia is sliding south, bringing a short round of light rain. Rain reaches the coast Saturday afternoon and spreads inland Saturday night into Sunday morning, mostly on the Olympic Peninsula and west of the Cascades. The coast and Olympics could get the most. Showers ease late Sunday morning, leaving cloudy skies and highs in the mid to upper 50s. Next week looks cool and cloudy, with the low staying offshore through midweek. A weak disturbance brings a slight chance of light rain Tuesday, then drier weather Wednesday through Friday, with highs in the 50s. Around Halloween into early November, forecasters see a possibly more active pattern with heavier rain, stronger winds, and possibly mountain snow, but that is far off and uncertain.",
-  "changes": "Models agreed more by the evening, which raised confidence in a cool, cloudy week ahead with the low staying offshore. The 1:16 PM update first flagged a possibly more active pattern around Halloween, and the evening discussion kept that outlook uncertain.",
-  "signature": "9c869e9ed873a73e",
+  "headline": "Light rain Saturday night into Sunday, then a cool, mostly dry stretch next week.",
+  "summary": "A weak low-pressure system is approaching from British Columbia, bringing a short spell of light rain to western Washington. Rain arrives on the coast Saturday afternoon and spreads inland Saturday night into Sunday morning, mostly affecting the Olympic Peninsula and areas west of the Cascades. Totals will vary: the coast and the west-facing Olympic slopes could see the most, while Puget Sound gets very little. Showers end Sunday morning, leaving cloudy skies and highs in the 50s. Next week stays cool and cloudy, with the system staying offshore through midweek. A weak disturbance brings a slight chance of light rain Tuesday, and drier weather follows Wednesday through Friday. Forecasters are watching a possibly more active pattern around October 31 to November 6, but that is far off and uncertain.",
+  "changes": "",
+  "signature": "04117e5f592cf610",
   "discussions": [
-    "AFDSEW_202610231548",
-    "AFDSEW_202610232016",
     "AFDSEW_202610240330"
   ]
 }
