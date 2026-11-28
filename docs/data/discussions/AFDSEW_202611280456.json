@@ -1,0 +1,91 @@
+{
+  "id": "AFDSEW_202611280456",
+  "issued": "2026-11-28T04:56:00+00:00",
+  "headline": "Showers today, a dry break Saturday, then a windy, wet storm around Monday.",
+  "summary": "Several weak systems are moving across Western Washington, with a brief dry break Saturday between them. The bigger question is a low pressure system forming offshore for Sunday and Monday. Models disagree on its track: one takes it weakening into British Columbia, while another brings a deep storm toward Western Washington. That difference decides whether the strongest winds stay on the coast or reach inland.\n\nExpect light rain and mountain snow tonight, then fog in valleys Saturday morning and gray but dry skies. Rain returns Sunday, with wind possible Sunday night. Monday is the main concern, with strong winds and coastal flooding from high tides. Midweek should be calmer as a ridge builds, though the pattern stays active.",
+  "timeline": [
+    {
+      "when": "Tonight",
+      "what": "Rain ends, and fog is likely in the southern interior and river valleys overnight.",
+      "source": "short_term"
+    },
+    {
+      "when": "Saturday",
+      "what": "A dry break with fog clearing by afternoon, leaving overcast skies.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday and Sunday night",
+      "what": "Rain returns from an offshore low, and windy conditions could develop Sunday night.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The main concern for strong winds and coastal flooding, though the storm's track is still uncertain.",
+      "source": "long_term"
+    },
+    {
+      "when": "Middle of the week",
+      "what": "Ensembles hint at quieter weather as a ridge builds and the storm track shifts toward California.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the dry break Saturday and rain returning Sunday, but they are uncertain about the offshore low's track, which models disagree on and which controls how strong the winds get inland.",
+  "hazards": [
+    "Coastal flood advisory Saturday morning, from 6 to 11 AM, for Seattle, Everett, Puget Sound shorelines, and nearby lowlands.",
+    "Coastal flood watch Sunday morning for San Juan County.",
+    "Small craft advisory on coastal waters until 10 PM tonight."
+  ],
+  "glossary": [
+    {
+      "term": "Upper-level ridge",
+      "definition": "A stretch of high pressure in the upper atmosphere that usually brings drier, calmer weather to the area beneath it."
+    },
+    {
+      "term": "Shortwave trough",
+      "definition": "A small, fast-moving dip in the upper-level winds that can bring showers or light precipitation as it passes."
+    },
+    {
+      "term": "Storm track",
+      "definition": "The typical path that storms follow across the ocean and toward land, which can shift north or south over time."
+    },
+    {
+      "term": "Ensemble forecasts",
+      "definition": "A group of model runs with slightly different starting conditions, used to show how likely different outcomes are."
+    },
+    {
+      "term": "GFS and ECMWF",
+      "definition": "Two widely used computer weather models, often run by different centers, that sometimes disagree on storm details."
+    },
+    {
+      "term": "Astronomical tides",
+      "definition": "The predictable rise and fall of sea level caused by the moon and sun, which can add to flooding when storms push water higher."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The storm's track is hard to pin down, which makes the strength of the winds uncertain.",
+      "about": "Monday",
+      "stance": "uncertain",
+      "quote": "Models continue to struggle on the exact path of the low pressure system",
+      "source": "long_term",
+      "signer": "29"
+    },
+    {
+      "claim": "Calmer weather is possible in the middle of the week as a ridge builds.",
+      "about": "Middle of the week",
+      "stance": "possible",
+      "quote": "Ensembles hint at quieter weather towards the middle of the week",
+      "source": "long_term",
+      "signer": "29"
+    },
+    {
+      "claim": "Coastal flooding is a concern on Monday because of high tides.",
+      "about": "Monday",
+      "stance": "possible",
+      "quote": "Additional coastal flooding may occur into next week due to high astronomical tides, with highest concern on Monday.",
+      "source": "long_term",
+      "signer": "29"
+    }
+  ]
+}

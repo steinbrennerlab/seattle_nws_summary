@@ -1,0 +1,75 @@
+{
+  "id": "AFDSEW_202611281102",
+  "issued": "2026-11-28T11:02:00+00:00",
+  "headline": "Dry break today, then a wet, windy system arrives Monday.",
+  "summary": "A weak ridge of high pressure, a zone of stable, sinking air, is giving western Washington a brief pause from rain today. Behind it, the pattern turns active again. A series of weather systems is coming off the Pacific. The first is forecast to track northeast offshore Sunday, then move inland Monday, where it weakens and drifts north into British Columbia Monday night. Later in the week, the pattern is expected to quiet down, with a weak system bringing a chance of rain midweek.\n\nToday will be dry but gray, with fog and low clouds in the morning, mostly cloudy skies, and highs near 50. Sunday brings light rain. Monday is the main event, with steadier rain and gusty winds that could reach the 50s along the coast and northwest interior. Strong winds, low pressure, and high tides raise the risk of minor coastal flooding in some inland lowlands. The Skokomish River, which is already under a flood warning, could rise and flood again. Snow levels stay high, so the Cascades see snow mainly at higher elevations and the Olympics mostly get rain.",
+  "timeline": [
+    {
+      "when": "Today",
+      "what": "Dry break with fog and low clouds in the morning, then mostly cloudy skies and highs near 50.",
+      "source": "short_term"
+    },
+    {
+      "when": "Sunday",
+      "what": "Light rain as the approaching low pressure system tracks offshore, with a coastal flood watch for the San Juans at high tide.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday",
+      "what": "The low moves inland, bringing steadier rain, gusty winds, a risk of coastal flooding at high tide, and possible renewed flooding on the Skokomish River.",
+      "source": "short_term"
+    },
+    {
+      "when": "Monday night",
+      "what": "The system weakens and moves north into B.C., and rain and wind ease over western Washington.",
+      "source": "short_term"
+    },
+    {
+      "when": "Tuesday through late week",
+      "what": "A brief break Tuesday, a weak system bringing a chance of rain Wednesday and Thursday, then mostly dry late in the week with near-average temperatures.",
+      "source": "long_term"
+    }
+  ],
+  "confidence": "Forecasters are fairly confident about the dry break today and the rain and wind arriving Monday, but they are unsure of the exact track and strength of Monday's low, which could change how wet and windy it gets.",
+  "hazards": [
+    "Coastal Flood Advisory in effect this morning for much of the Puget Sound lowlands, including Seattle, Everett, Kitsap, and parts of Pierce, King, Skagit, Snohomish, and Whatcom counties, and the San Juans.",
+    "Coastal Flood Watch for San Juan County for Sunday morning's high tide.",
+    "Flood Warning for the Skokomish River, which is falling today but expected to rise again Sunday night and Monday."
+  ],
+  "glossary": [
+    {
+      "term": "Ridge of high pressure",
+      "definition": "An elongated area of higher air pressure that usually brings calmer, drier weather because the air sinks and clouds tend to break up."
+    },
+    {
+      "term": "Stratus",
+      "definition": "Low, flat, gray cloud that often forms as a blanket over lowlands, especially on calm nights and mornings."
+    },
+    {
+      "term": "Snow level",
+      "definition": "The lowest elevation at which precipitation falls as snow rather than rain. A high snow level means most of the precipitation falls as rain, even in the hills."
+    },
+    {
+      "term": "Astronomical high tides",
+      "definition": "The highest tides, which occur mainly because of the alignment of the sun and moon, and which can be high enough to cause coastal flooding when storms add to them."
+    }
+  ],
+  "calls": [
+    {
+      "claim": "The exact track and strength of Monday's low are still uncertain, so the wind and rain could shift.",
+      "about": "Monday",
+      "stance": "uncertain",
+      "quote": "Uncertainty continues in regards to the exact track and strength of this weather system.",
+      "source": "marine",
+      "signer": "JD"
+    },
+    {
+      "claim": "Lower pressure, stronger winds, and rain could bring another round of coastal flooding in inland areas at Monday's high tide.",
+      "about": "Monday",
+      "stance": "possible",
+      "quote": "there's another threat of coastal flooding in the interior around Monday's high tide",
+      "source": "short_term",
+      "signer": "33"
+    }
+  ]
+}

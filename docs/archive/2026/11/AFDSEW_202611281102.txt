@@ -1,0 +1,145 @@
+FXUS66 KSEW 281102
+AFDSEW
+
+Area Forecast Discussion
+National Weather Service Seattle WA
+302 AM PST Sat Nov 28 2026
+
+.SYNOPSIS...A weak ridge building over the Pacific Northwest 
+will bring a brief break in precipitation today. An active 
+weather pattern resumes early next week with a series of 
+systems moving across Western Washington. 
+
+&&
+
+.SHORT TERM /TODAY THROUGH MONDAY/...High pressure will lead to
+dry and stable conditions across western WA today. The low level
+air mass remains moist with fog and stratus covering much of the
+lowlands this morning. Mid and high level clouds will increase
+this afternoon and overall we'll see mostly cloudy skies. Expect
+highs near 50. 
+
+Despite the higher pressure, high tides are still high enough
+for minor coastal flooding in the interior this morning - a
+Coastal Flood Advisory remains in effect. A Coastal Flood Watch
+is also in effect for Sunday's high tide (San Juans) with 
+potential for minor to moderate flooding impacts. 
+
+Low pressure near 140W will track NE and off the coast on
+Sunday, then shift inland on Monday bringing more rain and wind
+to the region. Rain will be mostly light on Sunday, with wetter
+conditions as the low moves inland on Monday. Snow levels 
+remain fairly high for rain in the Olympics and high-elevation 
+snow in the Cascades (over 4000 ft). Additional rainfall will
+keep the Skokomish River running high with the potential for
+renewed flooding. Elsewhere, we're looking at another 1-2" of
+rain over the coast and up to 1" in the interior through both
+days. This system will bring more wind too, especially on Monday
+as the 980-ish low moves in. NBM mean gusts are in the 30s and
+40s MPH with high-end gusts reaching the 50s along the coast and
+NW Interior. And with lower pressure, stronger winds, and rain,
+there's another threat of coastal flooding in the interior
+around Monday's high tide. This system weakens and shifts north
+into B.C. Monday night with rain and wind easing over western
+WA. 33
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...Weak high pressure
+nudges inland on Tuesday for a break in the weather. However,
+coastal flooding in the interior still remains a threat due to
+high astronomical tides. A weak, splitting, system slowly breaks
+up over the region Wednesday and Thursday for a chance of rain.
+Low pressure dives to our south late in the week, keeping
+western WA mainly dry. Temperatures look close to average
+throughout. 33
+
+&&
+
+.AVIATION...Northwesterly flow aloft shifting southwesterly by 
+this afternoon as an upper level ridge axis traverses the area 
+today. Most terminals reporting light and variable winds this 
+early morning at the surface and these will persist until 
+between 15-18Z before speeds increase to 4-8 kts with a more 
+north to northeasterly direction this afternoon and evening. 
+Light and variable winds returning to most terminals late 
+tonight.
+
+Largely MVFR to IFR conditions across W WA to start the day today as 
+the combination of few clouds aloft and light winds at the surface 
+have allowed for the formation of stratus and fog. Cigs within these 
+categories are fairly consistent across most terminals this morning 
+with the largest variations occuring within visibilities, running 
+the gamut between 1/4SM with FG to P6SM over the past several 
+hours. TAFs leaning pessimistic and given the variability, will 
+likely remain in that vein for the 12Z issuance...the only glimmer 
+of optimism may be to introduce TEMPO groups to where conditions 
+have improved somewhat. Still on track for low level moisture to 
+burn off at most locations by 20Z this afternoon, with widespread 
+VFR conditions returning thereafter. Incoming high clouds in advance 
+of the next weather system entering the area late Sunday may 
+reintroduce cigs to the area tonight, however conditions looking to 
+stay VFR overnight.
+
+KSEA....Conditions bouncing between MVFR and IFR this early morning 
+thanks to low clouds and varying visibilities and conditions likely 
+to remain this way for much of the morning. Conditions becoming more 
+solidly MVFR by 18Z with a return to VFR conditions around the 20-
+22Z time frame...remaining that way for the rest of the TAF period. 
+Light and variable winds for much of the morning before becoming 
+predominantly north to northeast with speeds increasing to 4-8 kts.
+
+18
+
+&&
+
+.MARINE...Winds will remain lighter this morning before east 
+winds develop this afternoon and continue through Sunday. Winds 
+then shift southeast Sunday night ahead of the next storm 
+system. Localized Small Craft Advisory wind gusts may occur 
+Sunday along the western entrance of the Strait of Juan de Fuca 
+and southern coastal waters, however will wait to put forward 
+any headlines to see if these speeds become a little more 
+widespread throughout their respective zones.
+
+A strengthening weather system moves northwards across the Northeast 
+Pacific Sunday and into the Coastal Waters on Monday. Uncertainty 
+continues in regards to the exact track and strength of this weather 
+system. At this time, south winds are expected to peak on Monday. 
+Probabilities show 75 to 95% chance for gale force wind gusts over 
+the Coastal Waters on Monday, with probabilities of 40 to 70% for 
+the interior waters. Winds are expected to be strongest along the 
+coastal waters, and there is a 20 to 40% probability for Storm 
+force wind gusts during this period. Winds begin to ease on Tuesday, 
+but remain elevated at times through the week 
+as additional weather systems are possible. 
+
+Seas generally 5 to 8 feet today and Sunday, then increasing with 
+the next system on Monday, ranging 15 to 18 feet. JD/18
+
+&&
+
+.HYDROLOGY...The Skokomish River fell below flood stage early
+this morning and will continue to fall today. The flood warning
+remains in effect as the flood wave moves down the lower
+reaches this morning. The river will rise again Sunday night 
+and Monday with the potential for renewed flooding. River 
+flooding is not expected elsewhere over the next 7 days. 
+
+&&
+
+.SEW WATCHES/WARNINGS/ADVISORIES...
+WA...Coastal Flood Advisory from 6 AM to 11 AM PST this morning for 
+     City of Seattle-Downtown Everett / Marysville Area-
+     Eastern Kitsap County-Lowlands of Pierce and Southern 
+     King Counties-Lowlands of Western Skagit and Northwestern 
+     Snohomish Counties-Lowlands of Western Whatcom County-San 
+     Juan County-Shoreline / Lynnwood / South Everett Area.
+
+     Coastal Flood Watch Sunday morning for San Juan County.
+
+PZ...None.
+
+&&
+
+$$

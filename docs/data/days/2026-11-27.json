@@ -1,12 +1,13 @@
 {
   "date": "2026-11-27",
-  "headline": "Dry Saturday, then a stormy stretch starting Sunday, with wind strength uncertain.",
-  "summary": "The big picture is a brief break between systems. A weak ridge of high pressure, a zone that brings drier weather, moves in for a mostly dry but overcast Saturday, with fog possible overnight in inland valleys. Rain returns to the lowlands Sunday, and winds may pick up Sunday night. The key question is a low pressure system forming offshore. The models disagree on its path: one sends it north toward British Columbia, while another brings it ashore near western Washington. That difference decides whether the strongest winds hit the coast or inland areas. Monday carries the most risk, with strong winds possible and high tides that could cause coastal flooding. Later in the week, the storm track shifts toward California, bringing quieter weather.",
-  "changes": "By afternoon, forecasters named Monday as the highest-risk day and added fog for Saturday night. The uncertainty over the low's track remained, though the afternoon discussion described the models' split more specifically.",
-  "signature": "cb5ab36d04f34bb8",
+  "headline": "Showers tonight, a dry Saturday, then a windy, wet storm around Monday.",
+  "summary": "Several weak systems are crossing western Washington, with a brief dry break Saturday between them. The bigger question is a low forming offshore for Sunday and Monday. Models disagree on its track: one weakens it into British Columbia, while another brings a deep storm toward western Washington. That difference decides whether the strongest winds stay on the coast or reach inland. Tonight brings light rain and mountain snow, then gray but dry skies Saturday with morning valley fog. Rain returns Sunday, and wind may pick up Sunday night. Monday carries the most risk for strong winds and coastal flooding at high tide. Midweek looks calmer, though the pattern stays active.",
+  "changes": "The evening update added light rain and mountain snow tonight, a Saturday morning coastal flood advisory for the Seattle and Puget Sound area, and a description of one model's storm as deep. Otherwise the overall picture stayed the same: a dry Saturday, rain Sunday, and the main risk Monday.",
+  "signature": "bf8d553bec700562",
   "discussions": [
     "AFDSEW_202611270951",
     "AFDSEW_202611271810",
-    "AFDSEW_202611272346"
+    "AFDSEW_202611272346",
+    "AFDSEW_202611280456"
   ]
 }
